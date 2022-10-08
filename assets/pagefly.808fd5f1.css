@@ -63,149 +63,167 @@
 						/* PageFly Styles */
 						
 @media all {
-	.__pf .pf-e0a11ff3 {
+	.__pf .pf-9576c8cc {
 		width: 1400px;
 		 height: auto;
 	}
-	.__pf .pf-1ff3905b {
+	.__pf .pf-c8ccfa07 {
 		min-height: 1px;
 	}
-	.__pf .pf-905b0214 {
+	.__pf .pf-fa07c93d {
 		text-align: center;
 	}
-	.__pf .pf-4141e7bc {
+	.__pf .pf-f568fb62 {
 		margin-left: -15px;
 		 margin-right: -15px;
 	}
-	.__pf .pf-e7bc06c6 {
+	.__pf .pf-fb62aae3 {
 		width: 100%;
 		 max-width: 100%;
 	}
-	.__pf .pf-22eaed62 {
+	.__pf .pf-a4793186 {
 		text-align: left;
 		 font-size: 28px;
 		 padding-bottom: 5px;
 		 font-weight: 700;
 		 font-family: Whitney, Helvetica, Arial, sans-serif;
 	}
-	.__pf .pf-ed6225fb {
+	.__pf .pf-861fe630 {
+		margin-left: -15px;
+		 margin-right: -15px;
+	}
+	.__pf .pf-e630aa55 {
 		padding: 10px;
 	}
-	.__pf .pf-fb239f63 {
+	.__pf .pf-55e0fca9 {
 		margin-left: -15px;
 		 margin-right: -15px;
 	}
-	.__pf .pf-ddbbae31 {
+	.__pf .pf-2662c15d {
 		text-align: left;
 		 font-size: 28px;
 		 padding-bottom: 5px;
 		 font-weight: 700;
 		 font-family: Whitney, Helvetica, Arial, sans-serif;
 	}
-	.__pf .pf-3b41c6af {
+	.__pf .pf-01bda0a4 {
 		margin-left: -15px;
 		 margin-right: -15px;
 	}
-	.__pf .pf-a5051053 {
+	.__pf .pf-d3c44d78 {
 		text-align: left;
 		 font-size: 28px;
 		 padding-bottom: 5px;
 		 font-weight: 700;
 		 font-family: Whitney, Helvetica, Arial, sans-serif;
 	}
-	.__pf .pf-6e0134b1 {
+	.__pf .pf-371b8cd3 {
 		text-align: center;
 		 font-size: 28px;
 		 padding-bottom: 15px;
 		 font-weight: 700;
 		 font-family: Whitney, Helvetica, Arial, sans-serif;
 	}
-	.__pf .pf-b55408b9 {
+	.__pf .pf-25ff2dab {
 		text-align: center;
 	}
-	.__pf .pf-08b9ba80 {
+	.__pf .pf-2dab4b03 {
 		padding-bottom: 60px;
 		 padding-top: 5px;
 	}
+	.__pf .pf-0f01b9cd {
+		text-align: left;
+		 font-size: 28px;
+		 padding-bottom: 5px;
+		 font-weight: 700;
+		 font-family: Whitney, Helvetica, Arial, sans-serif;
+	}
+	.__pf .pf-d79d4db3 {
+		text-align: left;
+		 font-size: 28px;
+		 padding-bottom: 5px;
+		 font-weight: 700;
+		 font-family: Whitney, Helvetica, Arial, sans-serif;
+	}
 }
 @media only screen and (max-width: 767px) {
-	.__pf .pf-e7bc06c6 {
+	.__pf .pf-fb62aae3 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-fb239f63 {
+	.__pf .pf-861fe630 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-3b41c6af {
+	.__pf .pf-01bda0a4 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-534d5596 {
+	.__pf .pf-7895e155 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-c588d4a6 {
+	.__pf .pf-4b28913e {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-b1482a84 {
+	.__pf .pf-d34f54fe {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-08b9ba80 {
+	.__pf .pf-2dab4b03 {
 		padding-top: 0px;
 		 padding-bottom: 25px;
 	}
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-	.__pf .pf-e7bc06c6 {
+	.__pf .pf-fb62aae3 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-fb239f63 {
+	.__pf .pf-861fe630 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-3b41c6af {
+	.__pf .pf-01bda0a4 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-534d5596 {
+	.__pf .pf-7895e155 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-c588d4a6 {
+	.__pf .pf-4b28913e {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-	.__pf .pf-e7bc06c6 {
+	.__pf .pf-fb62aae3 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-fb239f63 {
+	.__pf .pf-861fe630 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-3b41c6af {
+	.__pf .pf-01bda0a4 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-534d5596 {
+	.__pf .pf-7895e155 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-c588d4a6 {
+	.__pf .pf-4b28913e {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-b1482a84 {
+	.__pf .pf-d34f54fe {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-b55408b9 {
+	.__pf .pf-25ff2dab {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
