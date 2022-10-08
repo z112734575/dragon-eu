@@ -529,7 +529,6 @@
           },
           "top-bar-0": {
             "type": "html",
-            "disabled": true,
             "settings": {
               "html": "<div class=\"ug-product-copy\">\n    <span>10% Off Your First Order.  code: <b>UG10<\/b><\/span>\n    <div class=\"ug-product-copy-btn ug-product-copy-btn-new\">Copy<\/div>\n<\/div>\n<script>\n    $(function() {\n        $('.ug-product-copy-btn-new').click(function () {\n            var copyText = $(this).prev().find('b').text();\n            var input = document.createElement('input');\n            input.setAttribute('value', copyText);\n            document.body.appendChild(input);\n            input.select();\n            if (document.execCommand('copy')) {\n                document.execCommand('copy');\n                $('.ug-product-copy-btn-new'). text('Copied');\n            }\n            document.body.removeChild(input);\n        });\n    })\n<\/script>",
               "hide": false,
