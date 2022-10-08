@@ -1,0 +1,162 @@
+@media (min-width: 768px) {
+  .ug-product-discount-box {
+    width: 100%;
+    height: 80px;
+    background-image: url("https://cdn.shopify.com/s/files/1/0257/5246/9566/files/Group_276.webp?v=1658835772");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    padding: 12px 20px; }
+    .ug-product-discount-box span.percent {
+      font-size: 32px;
+      font-weight: normal;
+      color: #E9631D;
+      line-height: 40px;
+      font-size: 32px; }
+    .ug-product-discount-box span.off {
+      font-size: 18px;
+      font-weight: 400;
+      color: #E9631D;
+      line-height: 21px; }
+    .ug-product-discount-box div.desc {
+      font-size: 12px;
+      font-weight: 400;
+      color: #E98A59;
+      line-height: 14px; }
+  .ug-product-discount-sum {
+    width: 235px;
+    padding-right: 12px;
+    border-right: 1px dotted #E9631D;
+    margin-right: 12px; }
+  .ug-product-discount-code {
+    font-size: 13px;
+    font-weight: 400;
+    color: #E9631D;
+    line-height: 15px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    width: 237px; }
+  .ug-product-discount-btn {
+    background: #E9631D !important;
+    border-radius: 22px;
+    font-size: 20px;
+    font-weight: normal;
+    color: #FFFFFF;
+    height: 40px;
+    width: 120px;
+    text-align: center;
+    line-height: 40px;
+    padding: 0; }
+  .ug-product-discount-btned {
+    background: #ffffff !important;
+    border-radius: 22px;
+    font-size: 20px;
+    font-weight: normal;
+    color: #E9631D;
+    height: 40px;
+    width: 120px;
+    text-align: center;
+    line-height: 40px;
+    display: none;
+    border: 1px solid #E9631D;
+    padding: 0; }
+  .ug-product-discount-btned:hover {
+    color: #E9631D;
+    border-color: #E9631D; } }
+@media (max-width: 767px) {
+  .ug-product-discount-box {
+    margin: 0 auto;
+    width: 100%;
+    height: 24vw;
+    background-image: url("https://cdn.shopify.com/s/files/1/0257/5246/9566/files/Group_278_1.png?v=1658912577");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    padding-left: 18px;
+    padding-right: 18px; }
+  .ug-product-discount-sum {
+    float: left;
+    border-right: 1px dotted #E9631D;
+    height: 72px;
+    width: 120px; }
+    .ug-product-discount-sum .percent {
+      font-size: 30px;
+      font-weight: normal;
+      color: #E9631D;
+      line-height: 40px; }
+    .ug-product-discount-sum .off {
+      font-size: 16px;
+      font-weight: 400;
+      color: #E9631D;
+      line-height: 19px; }
+    .ug-product-discount-sum .desc {
+      font-size: 12px;
+      font-weight: 400;
+      color: #E98A59;
+      line-height: 14px;
+      height: 30px; }
+  .ug-product-discount-code {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+        -ms-flex-direction: column-reverse;
+            flex-direction: column-reverse;
+    margin-left: 22px; }
+    .ug-product-discount-code span {
+      font-size: 12px;
+      font-weight: 400;
+      color: #E9631D;
+      line-height: 14px;
+      margin-top: 14px; }
+  .ug-product-discount-btn {
+    width: 102px;
+    height: 32px;
+    background: #E9631D !important;
+    border-radius: 22px;
+    font-size: 18px;
+    font-weight: normal;
+    color: #FFFFFF;
+    text-align: center;
+    line-height: 32px;
+    padding: 0; }
+  .ug-product-discount-btned {
+    display: none;
+    width: 104px;
+    height: 32px;
+    line-height: 32px;
+    background: #FFFFFF !important;
+    border-radius: 22px 22px 22px 22px;
+    opacity: 1;
+    border: 1px solid #E9631D;
+    font-size: 18px;
+    font-weight: normal;
+    color: #E9631D;
+    padding: 0; } }
