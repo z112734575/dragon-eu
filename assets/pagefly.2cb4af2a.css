@@ -63,149 +63,168 @@
 						/* PageFly Styles */
 						
 @media all {
-	.__pf .pf-7cf19b51 {
+	.__pf .pf-b9ae35b8 {
 		width: 1400px;
 		 height: auto;
 	}
-	.__pf .pf-9b510999 {
+	.__pf .pf-35b8be58 {
 		min-height: 1px;
 	}
-	.__pf .pf-09997985 {
+	.__pf .pf-be58c226 {
 		text-align: center;
 	}
-	.__pf .pf-b020746d {
+	.__pf .pf-7d7a1aad {
 		margin-left: -15px;
 		 margin-right: -15px;
 	}
-	.__pf .pf-746dd038 {
+	.__pf .pf-1aadfc11 {
 		width: 100%;
 		 max-width: 100%;
 	}
-	.__pf .pf-d6fc4bd0 {
+	.__pf .pf-2caaf850 {
 		text-align: left;
 		 font-size: 28px;
 		 padding-bottom: 5px;
 		 font-weight: 700;
 		 font-family: Whitney, Helvetica, Arial, sans-serif;
 	}
-	.__pf .pf-4bd09e69 {
+	.__pf .pf-50f98d6b {
 		padding: 10px;
 	}
-	.__pf .pf-69229871 {
+	.__pf .pf-6b8416dc {
 		margin-left: -15px;
 		 margin-right: -15px;
 	}
-	.__pf .pf-2d7f9a98 {
+	.__pf .pf-e5fb26a2 {
 		text-align: left;
 		 font-size: 28px;
 		 padding-bottom: 5px;
 		 font-weight: 700;
 		 font-family: Whitney, Helvetica, Arial, sans-serif;
 	}
-	.__pf .pf-869f0c65 {
-		margin-left: -15px;
-		 margin-right: -15px;
-	}
-	.__pf .pf-7ac786d9 {
+	.__pf .pf-a1dfce1a {
 		text-align: left;
 		 font-size: 28px;
 		 padding-bottom: 5px;
 		 font-weight: 700;
 		 font-family: Whitney, Helvetica, Arial, sans-serif;
 	}
-	.__pf .pf-df3fd751 {
+	.__pf .pf-1a14ed72 {
+		margin-left: -15px;
+		 margin-right: -15px;
+	}
+	.__pf .pf-81df5c6d {
+		text-align: left;
+		 font-size: 28px;
+		 padding-bottom: 5px;
+		 font-weight: 700;
+		 font-family: Whitney, Helvetica, Arial, sans-serif;
+	}
+	.__pf .pf-545b3cbe {
 		text-align: center;
 		 font-size: 28px;
 		 padding-bottom: 15px;
 		 font-weight: 700;
 		 font-family: Whitney, Helvetica, Arial, sans-serif;
 	}
-	.__pf .pf-ba0bf37b {
+	.__pf .pf-69ee22f8 {
 		text-align: center;
 	}
-	.__pf .pf-f37ba659 {
+	.__pf .pf-22f84815 {
 		padding-bottom: 60px;
 		 padding-top: 5px;
 	}
 }
 @media only screen and (max-width: 767px) {
-	.__pf .pf-746dd038 {
+	.__pf .pf-1aadfc11 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-69229871 {
+	.__pf .pf-6b8416dc {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-869f0c65 {
+	.__pf .pf-1a14ed72 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-d9d9eb02 {
+	.__pf .pf-72f92b14 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-ddb39409 {
+	.__pf .pf-6dfde4fd {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-51d27da8 {
+	.__pf .pf-8b005790 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-f37ba659 {
+	.__pf .pf-6a25bbfa {
+		margin-left: 0px;
+		 margin-right: 0px;
+	}
+	.__pf .pf-22f84815 {
 		padding-top: 0px;
 		 padding-bottom: 25px;
 	}
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-	.__pf .pf-746dd038 {
+	.__pf .pf-1aadfc11 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-69229871 {
+	.__pf .pf-6b8416dc {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-869f0c65 {
+	.__pf .pf-1a14ed72 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-d9d9eb02 {
+	.__pf .pf-72f92b14 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-ddb39409 {
+	.__pf .pf-6dfde4fd {
+		margin-left: 0px;
+		 margin-right: 0px;
+	}
+	.__pf .pf-8b005790 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-	.__pf .pf-746dd038 {
+	.__pf .pf-1aadfc11 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-69229871 {
+	.__pf .pf-6b8416dc {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-869f0c65 {
+	.__pf .pf-1a14ed72 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-d9d9eb02 {
+	.__pf .pf-72f92b14 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-ddb39409 {
+	.__pf .pf-6dfde4fd {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-51d27da8 {
+	.__pf .pf-8b005790 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-ba0bf37b {
+	.__pf .pf-6a25bbfa {
+		margin-left: 0px;
+		 margin-right: 0px;
+	}
+	.__pf .pf-69ee22f8 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
