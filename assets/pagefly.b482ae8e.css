@@ -61,182 +61,165 @@
 						/* PageFly Styles */
 						
 @media all {
-	.__pf .pf-db469dc3 {
+	.__pf .pf-e2a5cf00 {
 		min-height: 1px;
 	}
-	.__pf .pf-9dc3effa {
+	.__pf .pf-cf008dc2 {
 		text-align: center;
 	}
-	.__pf .pf-d118365a {
+	.__pf .pf-b01972f5 {
 		margin-left: -15px;
 		 margin-right: -15px;
 	}
-	.__pf .pf-365a0a59 {
+	.__pf .pf-72f5f872 {
 		width: 100%;
 		 max-width: 100%;
 	}
-	.__pf .pf-97ff315f {
+	.__pf .pf-67fdc99a {
 		text-align: left;
 		 font-size: 28px;
 		 padding-bottom: 5px;
 		 font-weight: 700;
 		 font-family: Whitney, Helvetica, Arial, sans-serif;
 	}
-	.__pf .pf-5f7adc2e {
+	.__pf .pf-9a0ecf70 {
 		margin-left: -15px;
 		 margin-right: -15px;
 	}
-	.__pf .pf-dc2e7b9d {
+	.__pf .pf-cf703d04 {
 		padding: 0px;
 	}
-	.__pf .pf-9d79b28f {
+	.__pf .pf-04fb3cd6 {
 		margin-left: -15px;
 		 margin-right: -15px;
 	}
-	.__pf .pf-b5786d1b {
+	.__pf .pf-dab5b90d {
+		margin-left: -15px;
+		 margin-right: -15px;
+	}
+	.__pf .pf-05432fef {
 		text-align: left;
 		 font-size: 28px;
 		 padding-bottom: 5px;
 		 font-weight: 700;
 		 font-family: Whitney, Helvetica, Arial, sans-serif;
 	}
-	.__pf .pf-1baea64b {
+	.__pf .pf-ef1747f6 {
 		margin-left: -15px;
 		 margin-right: -15px;
 	}
-	.__pf .pf-4b1a4722 {
-		margin-bottom: 15px;
-	}
-	.__pf .pf-472214c1 {
-		margin-left: -15px;
-		 margin-right: -15px;
-	}
-	.__pf .pf-db0022a3 {
+	.__pf .pf-7cf8e2d0 {
 		text-align: left;
 		 font-size: 28px;
 		 padding-bottom: 5px;
 		 font-weight: 700;
 		 font-family: Whitney, Helvetica, Arial, sans-serif;
 	}
-	.__pf .pf-a3584d3b {
-		margin-left: -15px;
-		 margin-right: -15px;
-	}
-	.__pf .pf-95c77662 {
-		text-align: left;
-		 font-size: 28px;
-		 padding-bottom: 5px;
-		 font-weight: 700;
-		 font-family: Whitney, Helvetica, Arial, sans-serif;
-	}
-	.__pf .pf-bc7731a0 {
+	.__pf .pf-d6f235de {
 		text-align: center;
 		 font-size: 28px;
 		 padding-bottom: 15px;
 		 font-weight: 700;
 		 font-family: Whitney, Helvetica, Arial, sans-serif;
 	}
-	.__pf .pf-a1b77c44 {
+	.__pf .pf-d1f2e117 {
 		text-align: center;
 	}
-	.__pf .pf-7c442c31 {
+	.__pf .pf-e11741ff {
 		padding-bottom: 60px;
 		 padding-top: 5px;
 	}
-	.__pf .pf-c57fdc39 {
-		text-align: center;
-	}
 }
 @media only screen and (max-width: 767px) {
-	.__pf .pf-365a0a59 {
+	.__pf .pf-72f5f872 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-5f7adc2e {
+	.__pf .pf-9a0ecf70 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-472214c1 {
+	.__pf .pf-dab5b90d {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-a3584d3b {
+	.__pf .pf-ef1747f6 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-62b4be9f {
+	.__pf .pf-d0ee1d78 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-9f83e471 {
+	.__pf .pf-2d17bd10 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-a0e1a31b {
+	.__pf .pf-de70ce98 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-7c442c31 {
+	.__pf .pf-e11741ff {
 		padding-top: 0px;
 		 padding-bottom: 25px;
 	}
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-	.__pf .pf-365a0a59 {
+	.__pf .pf-72f5f872 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-5f7adc2e {
+	.__pf .pf-9a0ecf70 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-472214c1 {
+	.__pf .pf-dab5b90d {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-a3584d3b {
+	.__pf .pf-ef1747f6 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-62b4be9f {
+	.__pf .pf-d0ee1d78 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-9f83e471 {
+	.__pf .pf-2d17bd10 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-	.__pf .pf-365a0a59 {
+	.__pf .pf-72f5f872 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-5f7adc2e {
+	.__pf .pf-9a0ecf70 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-472214c1 {
+	.__pf .pf-dab5b90d {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-a3584d3b {
+	.__pf .pf-ef1747f6 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-62b4be9f {
+	.__pf .pf-d0ee1d78 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-9f83e471 {
+	.__pf .pf-2d17bd10 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-a0e1a31b {
+	.__pf .pf-de70ce98 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-a1b77c44 {
+	.__pf .pf-d1f2e117 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
