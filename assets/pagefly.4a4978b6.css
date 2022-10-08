@@ -3,6 +3,8 @@
 .lcHmGL span { font-weight: inherit; text-decoration: inherit; }
 .lcHmGL i { margin-right: 0.3em; }
 .kKVZfa { min-height: 30px; }
+.fLDHlO { position: relative; overflow: hidden; display: inline-flex; justify-content: flex-start; align-items: flex-start; max-width: 100%; vertical-align: middle; }
+.fLDHlO img { display: inline-block; object-fit: cover; height: auto; width: 100%; }
 .jklmHY { padding: var(--pf-s-lg); }
 @media (max-width: 1199px) and (min-width: 992px) {
   .jklmHY { padding: var(--pf-s-md); }
@@ -61,145 +63,153 @@
 						/* PageFly Styles */
 						
 @media all {
-	.__pf .pf-dddd2e17 {
+	.__pf .pf-2e3bf3f0 {
+		width: 1400px;
+		 height: auto;
+	}
+	.__pf .pf-f3f06e4b {
 		min-height: 1px;
 	}
-	.__pf .pf-2e1744a4 {
+	.__pf .pf-6e4be092 {
 		text-align: center;
 	}
-	.__pf .pf-3b4d3ccc {
+	.__pf .pf-280dca13 {
 		margin-left: -15px;
 		 margin-right: -15px;
 	}
-	.__pf .pf-3ccc572d {
+	.__pf .pf-ca13f75c {
 		width: 100%;
 		 max-width: 100%;
 	}
-	.__pf .pf-87347e60 {
+	.__pf .pf-0b475ea3 {
 		text-align: left;
 		 font-size: 28px;
 		 padding-bottom: 5px;
 		 font-weight: 700;
 		 font-family: Whitney, Helvetica, Arial, sans-serif;
 	}
-	.__pf .pf-7e606b24 {
+	.__pf .pf-a3ae0764 {
+		margin-left: -15px;
+		 margin-right: -15px;
+	}
+	.__pf .pf-076425d4 {
 		padding: 10px;
 	}
-	.__pf .pf-246b2f36 {
+	.__pf .pf-d4f91619 {
 		margin-left: -15px;
 		 margin-right: -15px;
 	}
-	.__pf .pf-9222b7ec {
+	.__pf .pf-b00ed997 {
 		text-align: left;
 		 font-size: 28px;
 		 padding-bottom: 5px;
 		 font-weight: 700;
 		 font-family: Whitney, Helvetica, Arial, sans-serif;
 	}
-	.__pf .pf-4f7af31e {
+	.__pf .pf-1ee3ee3b {
 		margin-left: -15px;
 		 margin-right: -15px;
 	}
-	.__pf .pf-43b368b4 {
+	.__pf .pf-eb868fac {
 		text-align: left;
 		 font-size: 28px;
 		 padding-bottom: 5px;
 		 font-weight: 700;
 		 font-family: Whitney, Helvetica, Arial, sans-serif;
 	}
-	.__pf .pf-92502f7d {
+	.__pf .pf-ef969ce9 {
 		text-align: center;
 		 font-size: 28px;
 		 padding-bottom: 15px;
 		 font-weight: 700;
 		 font-family: Whitney, Helvetica, Arial, sans-serif;
 	}
-	.__pf .pf-943fd170 {
+	.__pf .pf-aedda485 {
 		text-align: center;
 	}
-	.__pf .pf-d170027f {
+	.__pf .pf-a4857de3 {
 		padding-bottom: 60px;
 		 padding-top: 5px;
 	}
 }
 @media only screen and (max-width: 767px) {
-	.__pf .pf-3ccc572d {
+	.__pf .pf-ca13f75c {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-246b2f36 {
+	.__pf .pf-a3ae0764 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-4f7af31e {
+	.__pf .pf-1ee3ee3b {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-b45c2006 {
+	.__pf .pf-ac9abaf7 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-fe90049d {
+	.__pf .pf-5c2586bc {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-7de84760 {
+	.__pf .pf-e90d845e {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-d170027f {
+	.__pf .pf-a4857de3 {
 		padding-top: 0px;
 		 padding-bottom: 25px;
 	}
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-	.__pf .pf-3ccc572d {
+	.__pf .pf-ca13f75c {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-246b2f36 {
+	.__pf .pf-a3ae0764 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-4f7af31e {
+	.__pf .pf-1ee3ee3b {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-b45c2006 {
+	.__pf .pf-ac9abaf7 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-fe90049d {
+	.__pf .pf-5c2586bc {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-	.__pf .pf-3ccc572d {
+	.__pf .pf-ca13f75c {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-246b2f36 {
+	.__pf .pf-a3ae0764 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-4f7af31e {
+	.__pf .pf-1ee3ee3b {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-b45c2006 {
+	.__pf .pf-ac9abaf7 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-fe90049d {
+	.__pf .pf-5c2586bc {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-7de84760 {
+	.__pf .pf-e90d845e {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
-	.__pf .pf-943fd170 {
+	.__pf .pf-aedda485 {
 		margin-left: 0px;
 		 margin-right: 0px;
 	}
