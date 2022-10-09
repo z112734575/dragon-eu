@@ -974,7 +974,9 @@ endif -%}
 
 <script type="text/javascript">
   (function(){
-      showAndHideShortDesc();
+              setTimeout(() => {
+                showAndHideShortDesc();
+              })
               if(isMobile()) {
                 makeTabsToTop();
               } else {
