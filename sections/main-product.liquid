@@ -974,16 +974,13 @@ endif -%}
 
 <script type="text/javascript">
   (function(){
-              setTimeout(() => {
-                showAndHideShortDesc();
-              })
+              showAndHideShortDesc();
               if(isMobile()) {
                 makeTabsToTop();
               } else {
                 // jquery on scroll 无法移除监听，所以使用原生的方式
                 const listenScrollToShowTopTips = function ()  {
                   const  offset = $(window).scrollTop();
-                  console.log(offset)
                   if(offset >= 200) {
                     window.removeEventListener('scroll', listenScrollToShowTopTips)
                   }
@@ -994,6 +991,7 @@ endif -%}
             var foldEl = document.querySelector('.foldBtn-wrap')
             var descWrapEl = document.querySelector('.ug-product-short-desc');
             var descHeight = descWrapEl?.offsetHeight;
+              if(!descHeight) return;
             if (descHeight >= 120) {
               descWrapEl.style.height = '120px'
               descWrapEl.classList.add('fold-product-short-desc')
