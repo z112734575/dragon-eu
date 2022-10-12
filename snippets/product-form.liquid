@@ -183,7 +183,10 @@ endif -%}
                     <svg width="16" height="16" hidden class="t4s-svg-spinner" focusable="false" role="presentation" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg"><circle class="t4s-path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle></svg>
                   </span>
                 </button>
-<!-- Beginning of Buy With Prime Widget -->
+            
+            {%- endif -%}
+          </div>
+          <!-- Beginning of Buy With Prime Widget -->
 <script async fetchpriority='high' src='https://code.buywithprime.amazon.com/bwp.js'></script>
 {% if product.sku %}
     <div
@@ -201,9 +204,6 @@ endif -%}
     ></div>
 {% endif %}
 <!-- End of Buy With Prime Widget -->
-            
-            {%- endif -%}
-          </div>
           {%- if PR_buy_pr and type != 'main_sticky' %}{{- form | payment_button -}}{% endif -%}
           {%- if settings.use_notify_me -%}<button data-class="t4s-mfp-btn-close-inline" data-id="t4s-pr-popup__notify-stock" data-storageid="notify-stock{{current_variant.id}}" data-mfp-src data-open-mfp-ajax class="t4s-pr__notify-stock{% if current_variant_available or current_variant == blank %} t4s-d-none{% endif %}" type="button" data-notify-stock-btn data-variant-id="{{ current_variant.id }}" data-base-url="{{ shop.url }}{{ routes.root_url }}">{{ 'products.notify_stock.trigger' | t }}</button>{%- endif -%}
         </div>
