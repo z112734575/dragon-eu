@@ -197,9 +197,7 @@ endif -%}
     {%- endunless -%}
 
     {%- if bk_stts.ani != 'none '-%}<link href="{{ 'ani-atc.min.css' | asset_url }}" rel="stylesheet" media="print" onload="this.media='all'">{%- endif -%}
-    
-  </div>
-<!-- Beginning of Buy With Prime Widget -->
+    <!-- Beginning of Buy With Prime Widget -->
 <script async fetchpriority='high' src='https://code.buywithprime.amazon.com/bwp.js'></script>
 {% if product.sku %}
     <div
@@ -217,6 +215,8 @@ endif -%}
     ></div>
 {% endif %}
 <!-- End of Buy With Prime Widget -->
+  </div>
+
   
  </div>
 {%- if PR_buy_pr and current_variant_available != true and type != 'main_sticky' -%}<style> #t4s-callBackVariant{{product_form_id}} .shopify-payment-button { display: none;} </style>{% endif -%}
