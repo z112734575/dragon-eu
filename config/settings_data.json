@@ -700,8 +700,8 @@
           "00add30b-e435-436e-be83-c631fd494b0e": {
             "type": "base",
             "settings": {
-              "title": "SNAPDEAL",
-              "url": "shopify:\/\/collections\/special-offers",
+              "title": "Autumn Deals",
+              "url": "shopify:\/\/collections\/autumn-deals",
               "open_link": "_self",
               "icon": "",
               "cus_cl": false,
