@@ -2,7 +2,6 @@
   "sections": {
     "top": {
       "type": "top-collections",
-      "disabled": true,
       "blocks": {
         "69bbe0dd-0a50-42e8-986b-0d5e6c5cfa67": {
           "type": "cat",
@@ -116,7 +115,6 @@
     },
     "heading_template": {
       "type": "heading-template",
-      "disabled": true,
       "blocks": {
         "3b0cc506-49ea-4851-b5a6-ff7c2153b0e6": {
           "type": "1",
@@ -189,7 +187,6 @@
     },
     "main": {
       "type": "main-collection",
-      "disabled": true,
       "blocks": {
         "filter_id": {
           "type": "filter",
