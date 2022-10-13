@@ -171,11 +171,6 @@ endif -%}
                 {%- else -%}
                 <input type="hidden" name="quantity" value="1"> 
                 {%- endif -%}
-
-                {%- if bk_stts.enable_wishlist or bk_stts.enable_compare -%}
-                <!-- render t4s_wis_cp.liquid -->
-                {%- render 't4s_wis_cp', product:product, bk_stts:bk_stts -%}
-                {%- endif -%}
 <!-- Beginning of Buy With Prime Widget -->
 <script async fetchpriority='high' src='https://code.buywithprime.amazon.com/bwp.js'></script>
 {% if product.sku %}
@@ -194,6 +189,11 @@ endif -%}
     ></div>
 {% endif %}
 <!-- End of Buy With Prime Widget -->
+                {%- if bk_stts.enable_wishlist or bk_stts.enable_compare -%}
+                <!-- render t4s_wis_cp.liquid -->
+                {%- render 't4s_wis_cp', product:product, bk_stts:bk_stts -%}
+                {%- endif -%}
+
                 <button data-animation-atc='{ "ani":"{{bk_stts.ani}}","time":{{bk_stts.time}}000 }' type="submit" name="add" data-atc-form class="t4s-product-form__submit t4s-btn t4s-btn-base t4s-btn-style-{{bk_stts.button_style}} t4s-btn-color-{{bk_stts.button_color}} t4s-w-100 t4s-justify-content-center {% if bk_stts.button_style == 'default' or bk_stts.button_style == 'outline'%} t4s-btn-effect-{{bk_stts.button_effect}}{% endif %} t4s-btn-loading__svg"{% unless current_variant_available %} aria-disabled="true"{% endunless %}{% unless isProductAvailable %} disabled="disabled"{% endunless %}>           
                   <span class="t4s-btn-atc_text">{% if current_variant_available == false or isProductAvailable == false %}{{ 'products.product.sold_out' | t }}{% elsif isPreoder %}{{ 'products.product.pre_order' | t }}{%- else -%}{{ 'products.product.add_to_cart' | t }}{%- endif -%}</span>
                   <span class="t4s-loading__spinner" hidden>
