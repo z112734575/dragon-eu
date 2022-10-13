@@ -324,5 +324,6 @@
     "main",
     "sidebar",
     "pf-cc4cec7d"
-  ]
+  ],
+  "layout": "theme.pagefly"
 }
