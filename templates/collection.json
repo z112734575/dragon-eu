@@ -2,6 +2,7 @@
   "sections": {
     "top": {
       "type": "top-collections",
+      "disabled": true,
       "blocks": {
         "69bbe0dd-0a50-42e8-986b-0d5e6c5cfa67": {
           "type": "cat",
