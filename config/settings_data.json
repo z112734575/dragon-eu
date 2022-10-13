@@ -1689,8 +1689,8 @@
           "a6508826-0ecb-4412-a5d8-a7547aa8d015": {
             "type": "menu",
             "settings": {
-              "title": "SNAPDEAL",
-              "url": "shopify:\/\/collections\/special-offers",
+              "title": "Autumn Deals",
+              "url": "shopify:\/\/collections\/autumn-deals",
               "open_link": "_self",
               "menu": "",
               "icon": "",
