@@ -149,7 +149,24 @@ endif -%}
         <link href="{{ 'custom-effect.css' | asset_url }}" rel="stylesheet" media="print" onload="this.media='all'">
         
         {{- html_price -}}
-    
+    <!-- Beginning of Buy With Prime Widget -->
+<script async fetchpriority='high' src='https://code.buywithprime.amazon.com/bwp.js'></script>
+{% if product.sku %}
+    <div
+        id="amzn-buy-now"
+        data-site-id="bcr8m2pw3h"
+        data-widget-id="w-rMCAtWRH2T7XmHtGk1iON9"
+        data-sku="{{product.sku}}"
+    ></div>
+{% else %}
+    <div
+        id="amzn-buy-now"
+        data-site-id="bcr8m2pw3h"
+        data-widget-id="w-rMCAtWRH2T7XmHtGk1iON9"
+        data-sku="{{product.selected_or_first_available_variant.sku}}"
+    ></div>
+{% endif %}
+<!-- End of Buy With Prime Widget -->
         <div class="t4s-product-form__buttons" style="--pr-btn-round:{{bk_stts.pr_btn_round}}px;"> 
           <div class="t4s-d-flex t4s-flex-wrap">
              {%- if isExternal -%}
@@ -171,24 +188,7 @@ endif -%}
                 {%- else -%}
                 <input type="hidden" name="quantity" value="1"> 
                 {%- endif -%}
-<!-- Beginning of Buy With Prime Widget -->
-<script async fetchpriority='high' src='https://code.buywithprime.amazon.com/bwp.js'></script>
-{% if product.sku %}
-    <div
-        id="amzn-buy-now"
-        data-site-id="bcr8m2pw3h"
-        data-widget-id="w-rMCAtWRH2T7XmHtGk1iON9"
-        data-sku="{{product.sku}}"
-    ></div>
-{% else %}
-    <div
-        id="amzn-buy-now"
-        data-site-id="bcr8m2pw3h"
-        data-widget-id="w-rMCAtWRH2T7XmHtGk1iON9"
-        data-sku="{{product.selected_or_first_available_variant.sku}}"
-    ></div>
-{% endif %}
-<!-- End of Buy With Prime Widget -->
+
                 {%- if bk_stts.enable_wishlist or bk_stts.enable_compare -%}
                 <!-- render t4s_wis_cp.liquid -->
                 {%- render 't4s_wis_cp', product:product, bk_stts:bk_stts -%}
