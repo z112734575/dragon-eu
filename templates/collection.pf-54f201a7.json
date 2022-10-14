@@ -188,6 +188,7 @@
     },
     "main": {
       "type": "main-collection",
+      "disabled": true,
       "blocks": {
         "filter_id": {
           "type": "filter",
