@@ -727,7 +727,7 @@
           "d516cbdb-698e-4b29-b113-ebdb7627acb7": {
             "type": "drop",
             "settings": {
-              "title": "#For iPhone",
+              "title": "Pre-Halloween",
               "url": "shopify:\/\/pages\/new-iphones-need-ugreen",
               "open_link": "_self",
               "menu": "best-seller",
@@ -1701,8 +1701,8 @@
           "b03e5afc-f3b2-4cb5-90fa-7f964e20c6cd": {
             "type": "menu",
             "settings": {
-              "title": "#For iPhone",
-              "url": "shopify:\/\/pages\/new-iphones-need-ugreen",
+              "title": "Pre-Halloween",
+              "url": "\/collections\/halloween-event",
               "open_link": "_self",
               "menu": "best-seller",
               "icon": "",
@@ -2737,20 +2737,6 @@
     },
     "content_for_index": [
 
-    ],
-    "blocks": {
-      "15134163510845626300": {
-        "type": "shopify:\/\/apps\/geoip-country-redirect\/blocks\/speeedup_link\/a3fa1a12-9aad-4707-ab56-45ccf9191aa7",
-        "disabled": true,
-        "settings": {
-        }
-      },
-      "12429728106950981667": {
-        "type": "shopify:\/\/apps\/blocky-fraud-country-blocker\/blocks\/app-embed\/aa25b3bf-c2c5-4359-aa61-7836c225c5a9",
-        "disabled": true,
-        "settings": {
-        }
-      }
-    }
+    ]
   }
 }
