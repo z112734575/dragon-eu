@@ -61,7 +61,7 @@
     "cfd107b5-5548-4041-9940-adb93b3f9c86": {
       "type": "custom-html",
       "settings": {
-        "code": "<style>\n\t@media (max-width: 768px){\n\t.nexode_text{display: none;}\n.t4s-content-position.t4s-container{padding: 0 35px;}\n}\n<\/style>",
+        "code": "<style>\n\t@media (max-width: 768px){\n\t.nexode_text{display: none;}\n\t.t4s-content-position.t4s-container{padding: 0 35px!important;}\n}\n<\/style>",
         "layout": "t4s-container-wrap",
         "cl_bg": "",
         "cl_bg_gradient": "",
