@@ -299,7 +299,7 @@
             "text_fs_mb": 32,
             "text_lh_mb": 40,
             "text_ls_mb": 0,
-            "text_mgb_mobile": 5,
+            "text_mgb_mobile": 10,
             "animation": "none"
           }
         },
