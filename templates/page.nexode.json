@@ -587,7 +587,7 @@
         "mg_mb": "120px,,50px,",
         "pd_mb": "",
         "use_cus_css": true,
-        "code_cus_css": ".t4s-banner-content.t4s-container{padding:0 10}"
+        "code_cus_css": ".t4s-banner-content.t4s-container{padding:0 50px}"
       }
     },
     "23ba64f8-7acc-4509-8185-42f80660f848": {
