@@ -114,25 +114,25 @@
         "template--14472078393406__867d840b-8b98-4e54-8f6c-cf49c0ae958b-1666662539e143751c-0": {
           "type": "image_parent",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1920-700-2.png",
+            "image": "shopify:\/\/shop_images\/Thermal_Guard.png",
             "image_position": "8",
             "cl_img": "",
             "link_img1": "",
             "open_link": "_blank",
             "animate_slide": "none",
             "text_align": "start",
-            "text_align_mb": "center",
+            "text_align_mb": "start",
             "content_width": "auto",
             "cv_pos": 50,
-            "ch_pos": 50,
+            "ch_pos": 25,
             "cv_pos_mb": 50,
-            "ch_pos_mb": 50,
+            "ch_pos_mb": 54,
             "bg_overlay": "#000000",
             "bg_opacity": 0,
             "bg_content_cl": "#000000",
             "bg_content_op": 0,
             "content_pd_tb": 15,
-            "content_pd_lr": 15,
+            "content_pd_lr": 150,
             "content_pd_tb_mb": 10,
             "content_pd_lr_mb": 10,
             "border_bl": false,
@@ -146,10 +146,76 @@
             "animation_delay": 40
           }
         },
+        "657b0022-9cda-44d2-85c4-1399996fec6b": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Thermal Guard™",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#fff",
+            "text_fs": 64,
+            "text_lh": 75,
+            "text_fw": 900,
+            "text_ls": 0,
+            "text_mgb": 15,
+            "font_italic": false,
+            "text_shadow": false,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10,
+            "animation": "none"
+          }
+        },
+        "18e16f69-7c00-42c3-9782-2371fc39e78a": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Protection Technology",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#fff",
+            "text_fs": 40,
+            "text_lh": 40,
+            "text_fw": 600,
+            "text_ls": 0,
+            "text_mgb": 30,
+            "font_italic": false,
+            "text_shadow": false,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10,
+            "animation": "none"
+          }
+        },
+        "47e8b3f2-663a-49a1-996d-b6b0b96e86a2": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Dedicated to increasing safety significantly compared to previous technology, protect you devices with our temperature-monitoring proprietary Thermal GuardTM technology.",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#fff",
+            "text_fs": 20,
+            "text_lh": 30,
+            "text_fw": 400,
+            "text_ls": 0,
+            "text_mgb": 15,
+            "font_italic": false,
+            "text_shadow": false,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10,
+            "animation": "none"
+          }
+        },
         "template--14472078393406__867d840b-8b98-4e54-8f6c-cf49c0ae958b-1666662539e143751c-4": {
           "type": "image_parent",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1920-700-2.png",
+            "image": "shopify:\/\/shop_images\/GaN_Chips.png",
             "image_position": "8",
             "cl_img": "",
             "link_img1": "",
@@ -184,6 +250,9 @@
       },
       "block_order": [
         "template--14472078393406__867d840b-8b98-4e54-8f6c-cf49c0ae958b-1666662539e143751c-0",
+        "657b0022-9cda-44d2-85c4-1399996fec6b",
+        "18e16f69-7c00-42c3-9782-2371fc39e78a",
+        "47e8b3f2-663a-49a1-996d-b6b0b96e86a2",
         "template--14472078393406__867d840b-8b98-4e54-8f6c-cf49c0ae958b-1666662539e143751c-4"
       ],
       "settings": {
