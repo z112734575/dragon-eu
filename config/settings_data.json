@@ -901,11 +901,11 @@
           "title_config-0": {
             "type": "title",
             "settings": {
-              "color": "#222222",
-              "family": "2",
-              "size": 24,
-              "weight": 600,
-              "lh": 34,
+              "color": "#000000",
+              "family": "1",
+              "size": 60,
+              "weight": 800,
+              "lh": 80,
               "ls": 0,
               "space": 0,
               "size_mb": 18,
