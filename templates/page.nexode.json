@@ -61,7 +61,7 @@
     "cfd107b5-5548-4041-9940-adb93b3f9c86": {
       "type": "custom-html",
       "settings": {
-        "code": "<style>\n\t@media (max-width: 768px){\n\t.nexode_text{display: none;}\n\t.t4s-content-position.t4s-container{padding: 0 35px!important;}\n}\n<\/style>",
+        "code": "<style>\n\t\t\t.nexode_slider_text{display: none;}\n\t\t\t@media (max-width: 768px) {\n\t\t\t\t.nexode_text {\n\t\t\t\t\tdisplay: none;\n\t\t\t\t}\n\t\t\t\t.t4s-content-position.t4s-container {\n\t\t\t\t\tpadding: 0 35px!important;\n\t\t\t\t}\n\t\t\t\t.nexode_slider_text{display: block;}\n\t\t\t}\n\t\t<\/style>",
         "layout": "t4s-container-wrap",
         "cl_bg": "",
         "cl_bg_gradient": "",
@@ -229,69 +229,11 @@
             "animation_delay": 40
           }
         },
-        "657b0022-9cda-44d2-85c4-1399996fec6b": {
-          "type": "custom_text",
+        "232db270-b06c-49b2-a655-e9a5cf2be49a": {
+          "type": "html",
           "settings": {
-            "text": "Thermal Guard™",
-            "remove_br_tag": false,
-            "fontf": "inherit",
-            "text_cl": "#ffffff",
-            "text_fs": 64,
-            "text_lh": 75,
-            "text_fw": 900,
-            "text_ls": 0,
-            "text_mgb": 15,
-            "font_italic": false,
-            "text_shadow": false,
+            "html_content": "<div class=\"t4s-content-wrap t4s-pe-none t4s-full-width-link t4s-z-100 nexode_slider_text\">\n\t<div class=\"t4s-content-position t4s-container t4s-pa t4s-text-md-start t4s-text-start t4s-bg-content-true t4s-br-content-false t4s-br-style-solid\" style=\"--time-animation:1s;--p-left:0%;--p-hx:0%;--p-top:50%;--p-vy:-50%; --p-right-mb:calc(100% - 54%);--p-hx-mb:calc(100% - 54%);--p-top-mb:10%;--p-vy-mb:-10%;--bg-content:rgba(0, 0, 0, 0.0);--content-pd:15px 150px;--content-pd-mb:10px 10px;;\">\n\t\t<p class=\"t4s-bl-item t4s-animation-none t4s-text-bl t4s-fnt-fm-inherit t4s-font-italic-false t4s-hidden-mobile-false t4s-br-mb-false t4s-text-shadow-false\" id=\"b_657b0022-9cda-44d2-85c4-1399996fec6b\" style=\"--animation:none ;--delay-animation:0s;--text-cl:#ffffff;--text-fs:64px;--text-fw:900;--text-lh:75px;--text-ls:0px;--text-mgb:15px;--text-fs-mb:32px;--text-lh-mb:40px;--text-ls-mb:0px;--text-mgb-mb:10px;\">Thermal Guard™<\/p>\n\t\t<p class=\"t4s-bl-item t4s-animation-none t4s-text-bl t4s-fnt-fm-inherit t4s-font-italic-false t4s-hidden-mobile-false t4s-br-mb-false t4s-text-shadow-false\" id=\"b_18e16f69-7c00-42c3-9782-2371fc39e78a\" style=\"--animation:none ;--delay-animation:0s;--text-cl:#ffffff;--text-fs:40px;--text-fw:600;--text-lh:40px;--text-ls:0px;--text-mgb:30px;--text-fs-mb:20px;--text-lh-mb:25px;--text-ls-mb:0px;--text-mgb-mb:10px;\">Protection Technology<\/p>\n\t\t<p class=\"t4s-bl-item t4s-animation-none t4s-text-bl t4s-fnt-fm-inherit t4s-font-italic-false t4s-hidden-mobile-false t4s-br-mb-false t4s-text-shadow-false\" id=\"b_47e8b3f2-663a-49a1-996d-b6b0b96e86a2\" style=\"--animation:none ;--delay-animation:0s;--text-cl:#ffffff;--text-fs:20px;--text-fw:400;--text-lh:30px;--text-ls:0px;--text-mgb:15px;--text-fs-mb:13px;--text-lh-mb:18px;--text-ls-mb:0px;--text-mgb-mb:10px;\">Dedicated to increasing safety significantly compared to previous technology, protect you devices with our temperature-monitoring proprietary Thermal GuardTM technology.<\/p>\n\t<\/div>\n<\/div>",
             "hidden_mobile": false,
-            "text_fs_mb": 32,
-            "text_lh_mb": 40,
-            "text_ls_mb": 0,
-            "text_mgb_mobile": 10,
-            "animation": "none"
-          }
-        },
-        "18e16f69-7c00-42c3-9782-2371fc39e78a": {
-          "type": "custom_text",
-          "settings": {
-            "text": "Protection Technology",
-            "remove_br_tag": false,
-            "fontf": "inherit",
-            "text_cl": "#ffffff",
-            "text_fs": 40,
-            "text_lh": 40,
-            "text_fw": 600,
-            "text_ls": 0,
-            "text_mgb": 30,
-            "font_italic": false,
-            "text_shadow": false,
-            "hidden_mobile": false,
-            "text_fs_mb": 20,
-            "text_lh_mb": 25,
-            "text_ls_mb": 0,
-            "text_mgb_mobile": 10,
-            "animation": "none"
-          }
-        },
-        "47e8b3f2-663a-49a1-996d-b6b0b96e86a2": {
-          "type": "custom_text",
-          "settings": {
-            "text": "Dedicated to increasing safety significantly compared to previous technology, protect you devices with our temperature-monitoring proprietary Thermal GuardTM technology.",
-            "remove_br_tag": false,
-            "fontf": "inherit",
-            "text_cl": "#ffffff",
-            "text_fs": 20,
-            "text_lh": 30,
-            "text_fw": 400,
-            "text_ls": 0,
-            "text_mgb": 15,
-            "font_italic": false,
-            "text_shadow": false,
-            "hidden_mobile": false,
-            "text_fs_mb": 13,
-            "text_lh_mb": 18,
-            "text_ls_mb": 0,
-            "text_mgb_mobile": 10,
             "animation": "none"
           }
         },
@@ -331,10 +273,10 @@
             "animation_delay": 40
           }
         },
-        "232db270-b06c-49b2-a655-e9a5cf2be49a": {
+        "408c6724-b2b4-41ba-9ec5-5eca9aa36775": {
           "type": "html",
           "settings": {
-            "html_content": "",
+            "html_content": "<div class=\"t4s-content-wrap t4s-pe-none t4s-full-width-link t4s-z-100 nexode_slider_text\">\n\t<div class=\"t4s-content-position t4s-container t4s-pa t4s-text-md-start t4s-text-start t4s-bg-content-true t4s-br-content-false t4s-br-style-solid\" style=\"--time-animation:1s;--p-left:0%;--p-hx:0%;--p-top:50%;--p-vy:-50%; --p-right-mb:calc(100% - 54%);--p-hx-mb:calc(100% - 54%);--p-top-mb:10%;--p-vy-mb:-10%;--bg-content:rgba(0, 0, 0, 0.0);--content-pd:15px 150px;--content-pd-mb:10px 10px;;\">\n\t\t<p class=\"t4s-bl-item t4s-animation-none t4s-text-bl t4s-fnt-fm-inherit t4s-font-italic-false t4s-hidden-mobile-false t4s-br-mb-false t4s-text-shadow-false\" id=\"b_657b0022-9cda-44d2-85c4-1399996fec6b\" style=\"--animation:none ;--delay-animation:0s;--text-cl:#ffffff;--text-fs:64px;--text-fw:900;--text-lh:75px;--text-ls:0px;--text-mgb:15px;--text-fs-mb:32px;--text-lh-mb:40px;--text-ls-mb:0px;--text-mgb-mb:10px;\">Nexode Banner-mo<\/p>\n\t\t<p class=\"t4s-bl-item t4s-animation-none t4s-text-bl t4s-fnt-fm-inherit t4s-font-italic-false t4s-hidden-mobile-false t4s-br-mb-false t4s-text-shadow-false\" id=\"b_18e16f69-7c00-42c3-9782-2371fc39e78a\" style=\"--animation:none ;--delay-animation:0s;--text-cl:#ffffff;--text-fs:40px;--text-fw:600;--text-lh:40px;--text-ls:0px;--text-mgb:30px;--text-fs-mb:20px;--text-lh-mb:25px;--text-ls-mb:0px;--text-mgb-mb:10px;\">A More Efficient, Smaller Way Forward<\/p>\n\t\t<p class=\"t4s-bl-item t4s-animation-none t4s-text-bl t4s-fnt-fm-inherit t4s-font-italic-false t4s-hidden-mobile-false t4s-br-mb-false t4s-text-shadow-false\" id=\"b_47e8b3f2-663a-49a1-996d-b6b0b96e86a2\" style=\"--animation:none ;--delay-animation:0s;--text-cl:#ffffff;--text-fs:20px;--text-fw:400;--text-lh:30px;--text-ls:0px;--text-mgb:15px;--text-fs-mb:13px;--text-lh-mb:18px;--text-ls-mb:0px;--text-mgb-mb:10px;\">Utilizing the latest in GaN Chips, Nexode Chargers ensure a more efficient charge, less heat from your plugs, and smaller size.<\/p>\n\t<\/div>\n<\/div>",
             "hidden_mobile": false,
             "animation": "none"
           }
@@ -342,11 +284,9 @@
       },
       "block_order": [
         "template--14472078393406__867d840b-8b98-4e54-8f6c-cf49c0ae958b-1666662539e143751c-0",
-        "657b0022-9cda-44d2-85c4-1399996fec6b",
-        "18e16f69-7c00-42c3-9782-2371fc39e78a",
-        "47e8b3f2-663a-49a1-996d-b6b0b96e86a2",
+        "232db270-b06c-49b2-a655-e9a5cf2be49a",
         "template--14472078393406__867d840b-8b98-4e54-8f6c-cf49c0ae958b-1666662539e143751c-4",
-        "232db270-b06c-49b2-a655-e9a5cf2be49a"
+        "408c6724-b2b4-41ba-9ec5-5eca9aa36775"
       ],
       "settings": {
         "se_height": "t4s_ratioadapt",
