@@ -71,7 +71,7 @@
             "link_img1": "",
             "open_link": "_blank",
             "animate_slide": "none",
-            "text_align": "start",
+            "text_align": "center",
             "text_align_mb": "center",
             "content_width": "container",
             "cv_pos": 15,
@@ -156,14 +156,14 @@
         "pd": "",
         "mg_mb": "",
         "pd_mb": "",
-        "use_cus_css": false,
-        "code_cus_css": ""
+        "use_cus_css": true,
+        "code_cus_css": ".t4s-content-position.t4s-container{padding:0 100px}"
       }
     },
     "e774548d-2b53-4ab9-9142-a4620dd1d857": {
       "type": "custom-html",
       "settings": {
-        "code": "<div class=\"t4s-text-center\" style=\"padding: 15px 0;color: #fff;margin-top:0px;z-index:9;position: relative;\">This is an advanced section. Knowledge of web design languages such as HTML, CSS is required.<\/div>",
+        "code": "<div class=\"t4s-text-center\" style=\"padding: 15px 0;color: #fff;margin-top:-54px;z-index:9;position: relative;\">This is an advanced section. Knowledge of web design languages such as HTML, CSS is required.<\/div>",
         "layout": "t4s-container-wrap",
         "cl_bg": "",
         "cl_bg_gradient": "",
