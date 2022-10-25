@@ -102,7 +102,7 @@
         "cl_bg_gradient": "",
         "mg": "",
         "pd": "",
-        "mg_mb": ",,30px,",
+        "mg_mb": "",
         "pd_mb": "",
         "use_cus_css": false,
         "code_cus_css": ""
@@ -317,7 +317,7 @@
         "cl_bg_gradient": "",
         "mg": "90px,,50px,",
         "pd": "",
-        "mg_mb": ",,30px,",
+        "mg_mb": "50px,,20px,",
         "pd_mb": "",
         "use_cus_css": false,
         "code_cus_css": ""
@@ -586,7 +586,7 @@
         "cl_bg_gradient": "",
         "mg": "90px,,50px,",
         "pd": "",
-        "mg_mb": "120px,,50px,",
+        "mg_mb": "30px,,50px,",
         "pd_mb": "",
         "use_cus_css": true,
         "code_cus_css": ".t4s-banner-content.t4s-container{padding:0 50px}"
@@ -796,7 +796,7 @@
         "cl_bg_gradient": "",
         "mg": "90px,,40px,",
         "pd": "",
-        "mg_mb": ",,30px,",
+        "mg_mb": "50px,,20px,",
         "pd_mb": "",
         "use_cus_css": false,
         "code_cus_css": ""
@@ -866,7 +866,7 @@
         "cl_bg_gradient": "",
         "mg": "",
         "pd": "",
-        "mg_mb": ",,30px,",
+        "mg_mb": "",
         "pd_mb": "",
         "use_cus_css": false,
         "code_cus_css": ""
@@ -917,7 +917,7 @@
         "cl_bg_gradient": "",
         "mg": "90px,,,",
         "pd": "",
-        "mg_mb": ",,30px,",
+        "mg_mb": "50px,,,",
         "pd_mb": "",
         "use_cus_css": false,
         "code_cus_css": ""
