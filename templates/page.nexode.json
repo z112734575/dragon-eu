@@ -61,7 +61,7 @@
     "cfd107b5-5548-4041-9940-adb93b3f9c86": {
       "type": "custom-html",
       "settings": {
-        "code": "<style>\n\t\t\t.nexode_slider_text{display: none;}\n\t\t\t@media (max-width: 768px) {\n\t\t\t\t.nexode_text {\n\t\t\t\t\tdisplay: none;\n\t\t\t\t}\n\t\t\t\t.t4s-content-position.t4s-container {\n\t\t\t\t\tpadding: 0 35px!important;\n\t\t\t\t}\n\t\t\t\t.nexode_slider_text{display: block;}\n\t\t\t}\n\t\t<\/style>",
+        "code": "<style>\n\t\t\t.nexode_slider_text,.bl-e57d7ab7-ddda-49dd-b209-6cdf0260844e{display: none;}\n\t\t\t@media (max-width: 768px) {\n\t\t\t\t.nexode_text {\n\t\t\t\t\tdisplay: none;\n\t\t\t\t}\n\t\t\t\t.t4s-content-position.t4s-container {\n\t\t\t\t\tpadding: 0 35px!important;\n\t\t\t\t}\n\t\t\t\t.nexode_slider_text{display: block;}\n\t\t\t\t.bl-template--14472078393406__23ba64f8-7acc-4509-8185-42f80660f848-166668438684f99cf9-3{display: none;}\n\t\t\t\t.bl-e57d7ab7-ddda-49dd-b209-6cdf0260844e{display: block;}\n\t\t\t}\n\t\t<\/style>",
         "layout": "t4s-container-wrap",
         "cl_bg": "",
         "cl_bg_gradient": "",
