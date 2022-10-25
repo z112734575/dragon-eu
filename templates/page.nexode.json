@@ -61,7 +61,7 @@
     "cfd107b5-5548-4041-9940-adb93b3f9c86": {
       "type": "custom-html",
       "settings": {
-        "code": "<style>\n\t\t\t.nexode_slider_text,.bl-e57d7ab7-ddda-49dd-b209-6cdf0260844e,#testDiv{display: none;}\n\t\t\t@media (max-width: 768px) {\n\t\t\t\t.nexode_text {\n\t\t\t\t\tdisplay: none;\n\t\t\t\t}\n\t\t\t\t.t4s-content-position.t4s-container {\n\t\t\t\t\tpadding: 0 35px!important;\n\t\t\t\t}\n\t\t\t\t.nexode_slider_text{display: block;}\n\t\t\t\t.bl-template--14472078393406__23ba64f8-7acc-4509-8185-42f80660f848-166668438684f99cf9-3{display: none;}\n\t\t\t\t.bl-e57d7ab7-ddda-49dd-b209-6cdf0260844e,#testDiv{display: block;}\n\t\t\t\t.t4s_nt_se_template--14472078393406__7dc3496e-7bba-41d8-bbc7-a17f799e6866{display: none;}\n\t\t\t}\n\t\t<\/style>",
+        "code": "<style>\n\t\t\t.nexode_slider_text,.bl-e57d7ab7-ddda-49dd-b209-6cdf0260844e{display: none;}\n\t\t\t\n\t\t\t@media (max-width: 768px) {\n\t\t\t\t.nexode_text {\n\t\t\t\t\tdisplay: none;\n\t\t\t\t}\n\t\t\t\t.t4s-content-position.t4s-container {\n\t\t\t\t\tpadding: 0 35px!important;\n\t\t\t\t}\n\t\t\t\t.nexode_slider_text{display: block;}\n\t\t\t\t.bl-template--14472078393406__23ba64f8-7acc-4509-8185-42f80660f848-166668438684f99cf9-3{display: none;}\n\t\t\t\t.bl-e57d7ab7-ddda-49dd-b209-6cdf0260844e,#testDiv{display: block;}\n\t\t\t\t.t4s_nt_se_template--14472078393406__7dc3496e-7bba-41d8-bbc7-a17f799e6866{display: none;}\n\t\t\t}\n\t\t<\/style>",
         "layout": "t4s-container-wrap",
         "cl_bg": "",
         "cl_bg_gradient": "",
@@ -997,7 +997,7 @@
     "0827d6c9-7f84-4897-8b76-62d4056e7eb2": {
       "type": "custom-html",
       "settings": {
-        "code": "<style>\n#testDiv{\ndisplay: flex;\nwidth: auto;\noverflow: auto;\nmax-height: 700px;\npadding: 0 .5rem;\n}\n#testDiv img{\nheight: 100%;\nwidth: 848px;\nmax-width: 848px;\nmax-height: 700px;\ndisplay: inline-block;\nfloat: none;\n}\n<\/style>\n\n<div id=\"testDiv\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Group_419.png?v=1666699965&amp;width=700\" alt=\"\">\n<\/div>",
+        "code": "<style>\n\t#testDiv{display: none;}\n\t@media (max-width: 768px) {\n\t\t#testDiv{\ndisplay: flex;\nwidth: auto;\noverflow: auto;\nmax-height: 700px;\npadding: 0 .5rem;\n}\n#testDiv img{\nheight: 100%;\nwidth: 848px;\nmax-width: 848px;\nmax-height: 700px;\ndisplay: inline-block;\nfloat: none;\n}\n\t}\n\n<\/style>\n\n<div id=\"testDiv\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Group_419.png?v=1666699965&amp;width=700\" alt=\"\">\n<\/div>",
         "layout": "t4s-container-wrap",
         "cl_bg": "",
         "cl_bg_gradient": "",
