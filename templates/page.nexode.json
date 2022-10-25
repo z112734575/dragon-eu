@@ -290,8 +290,8 @@
         "pd": "",
         "mg_mb": ",,30px,",
         "pd_mb": "",
-        "use_cus_css": false,
-        "code_cus_css": ""
+        "use_cus_css": true,
+        "code_cus_css": ".t4s-flicky-slider.t4s-slider-btn-vi-hover:hover .flickityt4s-button, .t4s-flicky-slider.t4s-slider-btn-vi-always .flickityt4s-button{background-color: rgb(255 255 255 \/ 30%)!important;}\n.t4s-flicky-slider .flickityt4s-prev-next-button.previous{\nleft:100px}\n.t4s-flicky-slider .flickityt4s-prev-next-button.next{\nright:100px}"
       }
     },
     "268866b9-0b11-48fc-9fe8-f33dfb3f31db": {
