@@ -122,7 +122,7 @@
             "animate_slide": "none",
             "text_align": "start",
             "text_align_mb": "start",
-            "content_width": "auto",
+            "content_width": "container",
             "cv_pos": 50,
             "ch_pos": 25,
             "cv_pos_mb": 50,
