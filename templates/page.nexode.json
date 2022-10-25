@@ -1075,7 +1075,7 @@
     "0827d6c9-7f84-4897-8b76-62d4056e7eb2": {
       "type": "custom-html",
       "settings": {
-        "code": "<div class=\"products_diff_wrap\">\n                          <img class=\"is-pc\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/100w_diff_pc.png?v=1664437796\">\n                          <img class=\"is-pe\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/100w_diff_pe.png?v=1664437796\">\n                        <\/div>",
+        "code": "<style>\n#testDiv{\ndisplay: flex;\nwidth: auto;\noverflow: auto;\nmax-height: 99px;\npadding: 0 .5rem;\n}\n#testDiv img{\nheight: 100%;\nwidth: 848px;\nmax-width: 848px;\nmax-height: 750px;\ndisplay: inline-block;\nfloat: none;\n}\n<\/style>\n\n<div id=\"testDiv\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/45.png?v=1666684992&amp;width=700\" alt=\"\">\n<\/div>",
         "layout": "t4s-container-wrap",
         "cl_bg": "",
         "cl_bg_gradient": "",
