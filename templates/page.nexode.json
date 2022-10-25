@@ -208,7 +208,7 @@
             "content_width": "container",
             "cv_pos": 50,
             "ch_pos": 0,
-            "cv_pos_mb": 50,
+            "cv_pos_mb": 10,
             "ch_pos_mb": 54,
             "bg_overlay": "#000000",
             "bg_opacity": 0,
@@ -231,7 +231,6 @@
         },
         "657b0022-9cda-44d2-85c4-1399996fec6b": {
           "type": "custom_text",
-          "disabled": true,
           "settings": {
             "text": "Thermal Guard™",
             "remove_br_tag": false,
@@ -245,8 +244,8 @@
             "font_italic": false,
             "text_shadow": false,
             "hidden_mobile": false,
-            "text_fs_mb": 16,
-            "text_lh_mb": 0,
+            "text_fs_mb": 32,
+            "text_lh_mb": 40,
             "text_ls_mb": 0,
             "text_mgb_mobile": 10,
             "animation": "none"
@@ -254,7 +253,6 @@
         },
         "18e16f69-7c00-42c3-9782-2371fc39e78a": {
           "type": "custom_text",
-          "disabled": true,
           "settings": {
             "text": "Protection Technology",
             "remove_br_tag": false,
@@ -268,8 +266,8 @@
             "font_italic": false,
             "text_shadow": false,
             "hidden_mobile": false,
-            "text_fs_mb": 16,
-            "text_lh_mb": 0,
+            "text_fs_mb": 20,
+            "text_lh_mb": 25,
             "text_ls_mb": 0,
             "text_mgb_mobile": 10,
             "animation": "none"
@@ -277,7 +275,6 @@
         },
         "47e8b3f2-663a-49a1-996d-b6b0b96e86a2": {
           "type": "custom_text",
-          "disabled": true,
           "settings": {
             "text": "Dedicated to increasing safety significantly compared to previous technology, protect you devices with our temperature-monitoring proprietary Thermal GuardTM technology.",
             "remove_br_tag": false,
@@ -291,8 +288,8 @@
             "font_italic": false,
             "text_shadow": false,
             "hidden_mobile": false,
-            "text_fs_mb": 16,
-            "text_lh_mb": 0,
+            "text_fs_mb": 13,
+            "text_lh_mb": 18,
             "text_ls_mb": 0,
             "text_mgb_mobile": 10,
             "animation": "none"
@@ -333,6 +330,14 @@
             "time_animation": 1,
             "animation_delay": 40
           }
+        },
+        "232db270-b06c-49b2-a655-e9a5cf2be49a": {
+          "type": "html",
+          "settings": {
+            "html_content": "",
+            "hidden_mobile": false,
+            "animation": "none"
+          }
         }
       },
       "block_order": [
@@ -340,7 +345,8 @@
         "657b0022-9cda-44d2-85c4-1399996fec6b",
         "18e16f69-7c00-42c3-9782-2371fc39e78a",
         "47e8b3f2-663a-49a1-996d-b6b0b96e86a2",
-        "template--14472078393406__867d840b-8b98-4e54-8f6c-cf49c0ae958b-1666662539e143751c-4"
+        "template--14472078393406__867d840b-8b98-4e54-8f6c-cf49c0ae958b-1666662539e143751c-4",
+        "232db270-b06c-49b2-a655-e9a5cf2be49a"
       ],
       "settings": {
         "se_height": "t4s_ratioadapt",
