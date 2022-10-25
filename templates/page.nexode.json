@@ -58,6 +58,21 @@
         "sidebar_pd": 10
       }
     },
+    "cfd107b5-5548-4041-9940-adb93b3f9c86": {
+      "type": "custom-html",
+      "settings": {
+        "code": "<style>\n\t@media (max-width: 768px){\n\t.nexode_text{display: none;}\n\t.t4s-content-position.t4s-container{padding: 0 35px;}\n}\n<\/style>",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": "",
+        "pd": "",
+        "mg_mb": "",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
+    },
     "298ca70c-6687-439b-9eec-bdd0d0c22c72": {
       "type": "slideshow",
       "blocks": {
@@ -163,7 +178,7 @@
     "e774548d-2b53-4ab9-9142-a4620dd1d857": {
       "type": "custom-html",
       "settings": {
-        "code": "<div class=\"t4s-text-center nexode_text\" style=\"padding: 15px 0;color: #fff;margin-top:-54px;z-index:9;position: relative;\">*Each Nexode charger contains reputable GaN chips powered by Navitas and certified by CarbonNeutral.<\/div>\n<style>@media (max-width: 768px){\n\t.nexode_text{display: none;}\n}<\/style>",
+        "code": "<div class=\"t4s-text-center nexode_text\" style=\"padding: 15px 0;color: #fff;margin-top:-54px;z-index:9;position: relative;\">*Each Nexode charger contains reputable GaN chips powered by Navitas and certified by CarbonNeutral.<\/div>",
         "layout": "t4s-container-wrap",
         "cl_bg": "",
         "cl_bg_gradient": "",
@@ -1048,6 +1063,7 @@
     "heading",
     "main",
     "sidebar-page",
+    "cfd107b5-5548-4041-9940-adb93b3f9c86",
     "298ca70c-6687-439b-9eec-bdd0d0c22c72",
     "e774548d-2b53-4ab9-9142-a4620dd1d857",
     "867d840b-8b98-4e54-8f6c-cf49c0ae958b",
