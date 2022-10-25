@@ -261,7 +261,7 @@
             "content_pd_tb": 15,
             "content_pd_lr": 15,
             "content_pd_tb_mb": 10,
-            "content_pd_lr_mb": 10,
+            "content_pd_lr_mb": 0,
             "border_bl": false,
             "br_color": "#222222",
             "br_bg": "#ffffff",
