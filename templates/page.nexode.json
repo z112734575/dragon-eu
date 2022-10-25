@@ -273,77 +273,11 @@
             "animation_delay": 40
           }
         },
-        "408c6724-b2b4-41ba-9ec5-5eca9aa36775": {
+        "29356704-e882-41bc-9c8e-4ffbf12be2d7": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"t4s-content-wrap t4s-pe-none t4s-full-width-link t4s-z-100 nexode_slider_text\">\n\t<div class=\"t4s-content-position t4s-container t4s-pa t4s-text-md-start t4s-text-start t4s-bg-content-true t4s-br-content-false t4s-br-style-solid\" style=\"--time-animation:1s;--p-left:0%;--p-hx:0%;--p-top:50%;--p-vy:-50%; --p-right-mb:calc(100% - 54%);--p-hx-mb:calc(100% - 54%);--p-top-mb:10%;--p-vy-mb:-10%;--bg-content:rgba(0, 0, 0, 0.0);--content-pd:15px 150px;--content-pd-mb:10px 10px;;\">\n\t\t<p class=\"t4s-bl-item t4s-animation-none t4s-text-bl t4s-fnt-fm-inherit t4s-font-italic-false t4s-hidden-mobile-false t4s-br-mb-false t4s-text-shadow-false\" id=\"b_657b0022-9cda-44d2-85c4-1399996fec6b\" style=\"--animation:none ;--delay-animation:0s;--text-cl:#ffffff;--text-fs:64px;--text-fw:900;--text-lh:75px;--text-ls:0px;--text-mgb:15px;--text-fs-mb:32px;--text-lh-mb:40px;--text-ls-mb:0px;--text-mgb-mb:10px;\">Nexode Banner-mo<\/p>\n\t\t<p class=\"t4s-bl-item t4s-animation-none t4s-text-bl t4s-fnt-fm-inherit t4s-font-italic-false t4s-hidden-mobile-false t4s-br-mb-false t4s-text-shadow-false\" id=\"b_18e16f69-7c00-42c3-9782-2371fc39e78a\" style=\"--animation:none ;--delay-animation:0s;--text-cl:#ffffff;--text-fs:40px;--text-fw:600;--text-lh:40px;--text-ls:0px;--text-mgb:30px;--text-fs-mb:20px;--text-lh-mb:25px;--text-ls-mb:0px;--text-mgb-mb:10px;\">A More Efficient, Smaller Way Forward<\/p>\n\t\t<p class=\"t4s-bl-item t4s-animation-none t4s-text-bl t4s-fnt-fm-inherit t4s-font-italic-false t4s-hidden-mobile-false t4s-br-mb-false t4s-text-shadow-false\" id=\"b_47e8b3f2-663a-49a1-996d-b6b0b96e86a2\" style=\"--animation:none ;--delay-animation:0s;--text-cl:#ffffff;--text-fs:20px;--text-fw:400;--text-lh:30px;--text-ls:0px;--text-mgb:15px;--text-fs-mb:13px;--text-lh-mb:18px;--text-ls-mb:0px;--text-mgb-mb:10px;\">Utilizing the latest in GaN Chips, Nexode Chargers ensure a more efficient charge, less heat from your plugs, and smaller size.<\/p>\n\t<\/div>\n<\/div>",
+            "html_content": "<div class=\"t4s-content-wrap t4s-pe-none t4s-full-width-link t4s-z-100 nexode_slider_text\">\n                            <div class=\"t4s-content-position t4s-container t4s-pa t4s-text-md-start t4s-text-start t4s-bg-content-true t4s-br-content-false t4s-br-style-solid\" style=\"--time-animation:1s;--p-left:50%;--p-hx:-50%;--p-top:50%;--p-vy:-50%; --p-left-mb:50%;--p-hx-mb:-50%;--p-top-mb:10%;--p-vy-mb:-10%;--bg-content:rgba(255, 255, 255, 0.0);--content-pd:15px 15px;--content-pd-mb:10px 0px;;\">\n<div class=\"t4s-bl-item t4s-animation-none t4s-raw-html t4s-hidden-mobile-false\" id=\"b_408c6724-b2b4-41ba-9ec5-5eca9aa36775\" style=\"--animation:none ;--delay-animation:0s;\"><div class=\"t4s-content-wrap t4s-pe-none t4s-full-width-link t4s-z-100 nexode_slider_text\">\n\t<div class=\"t4s-content-position t4s-container t4s-pa t4s-text-md-start t4s-text-start t4s-bg-content-true t4s-br-content-false t4s-br-style-solid\" style=\"--time-animation:1s;--p-left:0%;--p-hx:0%;--p-top:50%;--p-vy:-50%; --p-right-mb:calc(100% - 54%);--p-hx-mb:calc(100% - 54%);--p-top-mb:10%;--p-vy-mb:-10%;--bg-content:rgba(0, 0, 0, 0.0);--content-pd:15px 150px;--content-pd-mb:10px 10px;;\">\n\t\t<p class=\"t4s-bl-item t4s-animation-none t4s-text-bl t4s-fnt-fm-inherit t4s-font-italic-false t4s-hidden-mobile-false t4s-br-mb-false t4s-text-shadow-false\" id=\"b_657b0022-9cda-44d2-85c4-1399996fec6b\" style=\"--animation:none ;--delay-animation:0s;--text-cl:#ffffff;--text-fs:64px;--text-fw:900;--text-lh:75px;--text-ls:0px;--text-mgb:15px;--text-fs-mb:32px;--text-lh-mb:40px;--text-ls-mb:0px;--text-mgb-mb:10px;\">Nexode Banner-mo<\/p>\n\t\t<p class=\"t4s-bl-item t4s-animation-none t4s-text-bl t4s-fnt-fm-inherit t4s-font-italic-false t4s-hidden-mobile-false t4s-br-mb-false t4s-text-shadow-false\" id=\"b_18e16f69-7c00-42c3-9782-2371fc39e78a\" style=\"--animation:none ;--delay-animation:0s;--text-cl:#ffffff;--text-fs:40px;--text-fw:600;--text-lh:40px;--text-ls:0px;--text-mgb:30px;--text-fs-mb:20px;--text-lh-mb:25px;--text-ls-mb:0px;--text-mgb-mb:10px;\">A More Efficient, Smaller Way Forward<\/p>\n\t\t<p class=\"t4s-bl-item t4s-animation-none t4s-text-bl t4s-fnt-fm-inherit t4s-font-italic-false t4s-hidden-mobile-false t4s-br-mb-false t4s-text-shadow-false\" id=\"b_47e8b3f2-663a-49a1-996d-b6b0b96e86a2\" style=\"--animation:none ;--delay-animation:0s;--text-cl:#ffffff;--text-fs:20px;--text-fw:400;--text-lh:30px;--text-ls:0px;--text-mgb:15px;--text-fs-mb:13px;--text-lh-mb:18px;--text-ls-mb:0px;--text-mgb-mb:10px;\">Utilizing the latest in GaN Chips, Nexode Chargers ensure a more efficient charge, less heat from your plugs, and smaller size.<\/p>\n\t<\/div>\n<\/div><\/div>\n<p class=\"t4s-bl-item t4s-animation-none t4s-text-bl t4s-fnt-fm-inherit t4s-font-italic-false t4s-hidden-mobile-false t4s-br-mb-false t4s-text-shadow-false\" id=\"b_bd1a0bee-e646-45c4-aa01-da12b3cb0d0e\" style=\"--animation:none ;--delay-animation:0s;--text-cl:#fff;--text-fs:16px;--text-fw:900;--text-lh:0px;--text-ls:0px;--text-mgb:15px;--text-fs-mb:32px;--text-lh-mb:40px;--text-ls-mb:0px;--text-mgb-mb:10px;\">GaN Chips<\/p>\n<p class=\"t4s-bl-item t4s-animation-none t4s-text-bl t4s-fnt-fm-inherit t4s-font-italic-false t4s-hidden-mobile-false t4s-br-mb-false t4s-text-shadow-false\" id=\"b_4e2845c0-cfd9-4404-8fa7-ba356ccc031d\" style=\"--animation:none ;--delay-animation:0s;--text-cl:#fff;--text-fs:16px;--text-fw:600;--text-lh:0px;--text-ls:0px;--text-mgb:15px;--text-fs-mb:20px;--text-lh-mb:25px;--text-ls-mb:0px;--text-mgb-mb:10px;\">A More Efficient, Smaller Way Forward<\/p>\n<p class=\"t4s-bl-item t4s-animation-none t4s-text-bl t4s-fnt-fm-inherit t4s-font-italic-false t4s-hidden-mobile-false t4s-br-mb-false t4s-text-shadow-false\" id=\"b_bab80ff6-2b0c-4c40-b45c-6609d52041e2\" style=\"--animation:none ;--delay-animation:0s;--text-cl:#fff;--text-fs:16px;--text-fw:400;--text-lh:0px;--text-ls:0px;--text-mgb:15px;--text-fs-mb:13px;--text-lh-mb:18px;--text-ls-mb:0px;--text-mgb-mb:10px;\">Utilizing the latest in GaN Chips, Nexode Chargers ensure a more efficient charge, less heat from your plugs, and smaller size.<\/p>\n<\/div>\n                        <\/div>",
             "hidden_mobile": false,
-            "animation": "none"
-          }
-        },
-        "bd1a0bee-e646-45c4-aa01-da12b3cb0d0e": {
-          "type": "custom_text",
-          "settings": {
-            "text": "GaN Chips",
-            "remove_br_tag": false,
-            "fontf": "inherit",
-            "text_cl": "#fff",
-            "text_fs": 16,
-            "text_lh": 0,
-            "text_fw": 900,
-            "text_ls": 0,
-            "text_mgb": 15,
-            "font_italic": false,
-            "text_shadow": false,
-            "hidden_mobile": false,
-            "text_fs_mb": 32,
-            "text_lh_mb": 40,
-            "text_ls_mb": 0,
-            "text_mgb_mobile": 10,
-            "animation": "none"
-          }
-        },
-        "4e2845c0-cfd9-4404-8fa7-ba356ccc031d": {
-          "type": "custom_text",
-          "settings": {
-            "text": "A More Efficient, Smaller Way Forward",
-            "remove_br_tag": false,
-            "fontf": "inherit",
-            "text_cl": "#fff",
-            "text_fs": 16,
-            "text_lh": 0,
-            "text_fw": 600,
-            "text_ls": 0,
-            "text_mgb": 15,
-            "font_italic": false,
-            "text_shadow": false,
-            "hidden_mobile": false,
-            "text_fs_mb": 20,
-            "text_lh_mb": 25,
-            "text_ls_mb": 0,
-            "text_mgb_mobile": 10,
-            "animation": "none"
-          }
-        },
-        "bab80ff6-2b0c-4c40-b45c-6609d52041e2": {
-          "type": "custom_text",
-          "settings": {
-            "text": "Utilizing the latest in GaN Chips, Nexode Chargers ensure a more efficient charge, less heat from your plugs, and smaller size.",
-            "remove_br_tag": false,
-            "fontf": "inherit",
-            "text_cl": "#fff",
-            "text_fs": 16,
-            "text_lh": 0,
-            "text_fw": 400,
-            "text_ls": 0,
-            "text_mgb": 15,
-            "font_italic": false,
-            "text_shadow": false,
-            "hidden_mobile": false,
-            "text_fs_mb": 13,
-            "text_lh_mb": 18,
-            "text_ls_mb": 0,
-            "text_mgb_mobile": 10,
             "animation": "none"
           }
         }
@@ -352,10 +286,7 @@
         "template--14472078393406__867d840b-8b98-4e54-8f6c-cf49c0ae958b-1666662539e143751c-0",
         "232db270-b06c-49b2-a655-e9a5cf2be49a",
         "template--14472078393406__867d840b-8b98-4e54-8f6c-cf49c0ae958b-1666662539e143751c-4",
-        "408c6724-b2b4-41ba-9ec5-5eca9aa36775",
-        "bd1a0bee-e646-45c4-aa01-da12b3cb0d0e",
-        "4e2845c0-cfd9-4404-8fa7-ba356ccc031d",
-        "bab80ff6-2b0c-4c40-b45c-6609d52041e2"
+        "29356704-e882-41bc-9c8e-4ffbf12be2d7"
       ],
       "settings": {
         "se_height": "t4s_ratioadapt",
@@ -556,7 +487,7 @@
             "content_width": "container",
             "cv_pos": 30,
             "ch_pos": 50,
-            "cv_pos_mb": 50,
+            "cv_pos_mb": 25,
             "ch_pos_mb": 50,
             "bg_overlay": "#000000",
             "bg_opacity": 0,
@@ -593,8 +524,8 @@
             "text_shadow": false,
             "text_mgb": -1,
             "hidden_mobile": false,
-            "text_fs_mb": 16,
-            "text_lh_mb": 0,
+            "text_fs_mb": 24,
+            "text_lh_mb": 30,
             "text_ls_mb": 0,
             "text_mgb_mobile": 10,
             "animation": "none"
@@ -717,6 +648,72 @@
     "23ba64f8-7acc-4509-8185-42f80660f848": {
       "type": "banner",
       "blocks": {
+        "e57d7ab7-ddda-49dd-b209-6cdf0260844e": {
+          "type": "b_item",
+          "settings": {
+            "custom_dk": true,
+            "height_dk": 600,
+            "custom_tb": true,
+            "height_tb": 400,
+            "custom_mb": true,
+            "height_mb": 300,
+            "image": "shopify:\/\/shop_images\/One_Charger_for_All_Your_Devices.png",
+            "b_link": "",
+            "open_link": "_self",
+            "img_effect": "none",
+            "b_effect": "none",
+            "col_dk": "6",
+            "col_tb": "6",
+            "col_mb": "12",
+            "content_align": "center",
+            "content_align_mobile": "center",
+            "content_width": "container",
+            "cv_pos": 50,
+            "ch_pos": 50,
+            "cv_pos_mb": 25,
+            "ch_pos_mb": 50,
+            "bg_overlay": "#000",
+            "bg_opacity": 0,
+            "bg_content_bl": false,
+            "bg_content_cl": "#fff",
+            "bg_content_op": 50,
+            "content_pd_tb": 20,
+            "content_pd_lr": 20,
+            "content_pd_tb_mb": 10,
+            "content_pd_lr_mb": 10,
+            "border_bl": false,
+            "br_color": "#222",
+            "br_bg": "#fff",
+            "br_opacity": 50,
+            "br_style": "solid",
+            "br_pd": 20,
+            "br_pd_mb": 10,
+            "time_animation": 1,
+            "animation_delay": 40
+          }
+        },
+        "7238685e-6860-4270-a1fb-863c2eeabca5": {
+          "type": "custom_text",
+          "settings": {
+            "text": "One Charger for All Your Devices",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#fff",
+            "text_fs": 16,
+            "text_lh": 30,
+            "text_fw": 900,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 15,
+            "hidden_mobile": false,
+            "text_fs_mb": 25,
+            "text_lh_mb": 30,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10,
+            "animation": "none"
+          }
+        },
         "template--14472078393406__23ba64f8-7acc-4509-8185-42f80660f848-166668438684f99cf9-0": {
           "type": "b_item",
           "settings": {
@@ -873,6 +870,8 @@
         }
       },
       "block_order": [
+        "e57d7ab7-ddda-49dd-b209-6cdf0260844e",
+        "7238685e-6860-4270-a1fb-863c2eeabca5",
         "template--14472078393406__23ba64f8-7acc-4509-8185-42f80660f848-166668438684f99cf9-0",
         "template--14472078393406__23ba64f8-7acc-4509-8185-42f80660f848-166668438684f99cf9-3",
         "template--14472078393406__23ba64f8-7acc-4509-8185-42f80660f848-166668438684f99cf9-4",
