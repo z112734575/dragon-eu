@@ -64,7 +64,7 @@
         "template--14472078393406__298ca70c-6687-439b-9eec-bdd0d0c22c72-16666887388d63ec6d-4": {
           "type": "image_parent",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Superior_GaN_Tech_Bolder_Faster_Chargers.png",
+            "image": "shopify:\/\/shop_images\/Superior_GaN_Tech_Bolder_Faster_Chargers_1.png",
             "image_mb": "shopify:\/\/shop_images\/Nexode_Banner-mo.png",
             "image_position": "8",
             "cl_img": "",
@@ -73,8 +73,8 @@
             "animate_slide": "none",
             "text_align": "start",
             "text_align_mb": "center",
-            "content_width": "auto",
-            "cv_pos": 50,
+            "content_width": "container",
+            "cv_pos": 15,
             "ch_pos": 50,
             "cv_pos_mb": 50,
             "ch_pos_mb": 50,
@@ -96,10 +96,33 @@
             "time_animation": 1,
             "animation_delay": 40
           }
+        },
+        "ea483f77-4f07-4f54-ba00-d71e7b3fe9b4": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Superior GaN* Tech Bolder, Faster Chargers",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#fff",
+            "text_fs": 48,
+            "text_lh": 60,
+            "text_fw": 900,
+            "text_ls": 0,
+            "text_mgb": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10,
+            "animation": "none"
+          }
         }
       },
       "block_order": [
-        "template--14472078393406__298ca70c-6687-439b-9eec-bdd0d0c22c72-16666887388d63ec6d-4"
+        "template--14472078393406__298ca70c-6687-439b-9eec-bdd0d0c22c72-16666887388d63ec6d-4",
+        "ea483f77-4f07-4f54-ba00-d71e7b3fe9b4"
       ],
       "settings": {
         "se_height": "t4s_ratioadapt",
@@ -127,6 +150,21 @@
         "dots_space": 10,
         "dots_hidden_mobile": false,
         "layout": "t4s-container-fluid",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": "",
+        "pd": "",
+        "mg_mb": "",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
+    },
+    "e774548d-2b53-4ab9-9142-a4620dd1d857": {
+      "type": "custom-html",
+      "settings": {
+        "code": "<div class=\"t4s-text-center\" style=\"padding: 15px 0;color: #fff;margin-top:0px;z-index:9;position: relative;\">This is an advanced section. Knowledge of web design languages such as HTML, CSS is required.<\/div>",
+        "layout": "t4s-container-wrap",
         "cl_bg": "",
         "cl_bg_gradient": "",
         "mg": "",
@@ -1011,6 +1049,7 @@
     "main",
     "sidebar-page",
     "298ca70c-6687-439b-9eec-bdd0d0c22c72",
+    "e774548d-2b53-4ab9-9142-a4620dd1d857",
     "867d840b-8b98-4e54-8f6c-cf49c0ae958b",
     "268866b9-0b11-48fc-9fe8-f33dfb3f31db",
     "b99e443c-c59f-47df-a32b-d193fbb25afa",
