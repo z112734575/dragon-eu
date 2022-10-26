@@ -809,11 +809,12 @@
           },
           "16e48cac-0fd2-4f57-b570-7d74c3092cdc": {
             "type": "drop",
+            "disabled": true,
             "settings": {
               "title": "SUPPORTS",
               "url": "#",
               "open_link": "_self",
-              "menu": "to-our-clients",
+              "menu": "m-supports",
               "icon": "",
               "cus_cl": false,
               "cl": "#ec0101",
@@ -826,7 +827,6 @@
           },
           "498888dd-d297-4762-adcd-478cdb134666": {
             "type": "base",
-            "disabled": true,
             "settings": {
               "title": "COMMUNITY",
               "url": "https:\/\/community.ugreen.com\/",
@@ -1712,7 +1712,6 @@
           },
           "6f549481-942e-4bc2-82b1-22f3208c3997": {
             "type": "menu",
-            "disabled": true,
             "settings": {
               "title": "COMMUNITY",
               "url": "https:\/\/community.ugreen.com\/",
@@ -1765,7 +1764,7 @@
               "title": "SUPPORTS",
               "url": "",
               "open_link": "_self",
-              "menu": "to-our-clients",
+              "menu": "m-supports",
               "icon": "",
               "lb": "",
               "lb_cl": ""
@@ -1808,7 +1807,6 @@
           },
           "c1b65fc4-c869-4add-b952-80ebd13da769": {
             "type": "menu",
-            "disabled": true,
             "settings": {
               "title": "Heading",
               "url": "",
