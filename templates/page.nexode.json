@@ -619,7 +619,7 @@
             "button_icon_w": 0,
             "button_style": "outline",
             "button_effect": "fade",
-            "pri_cl": "#222222",
+            "pri_cl": "#272e3b",
             "second_cl": "",
             "pri_cl_hover": "#131414",
             "second_cl_hover": "#fff",
@@ -627,7 +627,7 @@
             "fwbutton": 500,
             "button_ls": 0,
             "button_mh": 40,
-            "button_bdr": 40,
+            "button_bdr": 21,
             "button_pd_lr": 15,
             "button_mgb": 0,
             "hidden_mobile": false,
@@ -649,7 +649,7 @@
             "height_tb": 400,
             "custom_mb": true,
             "height_mb": 300,
-            "image": "shopify:\/\/shop_images\/Nexode_65W_Charger.png",
+            "image": "shopify:\/\/shop_images\/Rectangle_7.png",
             "b_link": "https:\/\/www.ugreen.com\/pages\/nexode",
             "open_link": "_self",
             "img_effect": "none",
@@ -657,9 +657,9 @@
             "col_dk": "6",
             "col_tb": "6",
             "col_mb": "12",
-            "content_align": "center",
+            "content_align": "start",
             "content_align_mobile": "center",
-            "content_width": "auto",
+            "content_width": "container",
             "cv_pos": 50,
             "ch_pos": 50,
             "cv_pos_mb": 50,
@@ -683,6 +683,71 @@
             "time_animation": 1,
             "animation_delay": 40
           }
+        },
+        "83fb889e-2c6f-428c-8b2b-0d5a749f2505": {
+          "type": "image",
+          "settings": {
+            "image_child": "shopify:\/\/shop_images\/Group_421.png",
+            "img_width": 0,
+            "img_width_mb": 0,
+            "hidden_mobile": false,
+            "mgb": 20,
+            "mgb_mb": 20,
+            "animation": "none"
+          }
+        },
+        "a700388a-a59e-4a96-b687-ee0aabd48c08": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Nexode 200W Desktop Charger",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#272e3b",
+            "text_fs": 30,
+            "text_lh": 40,
+            "text_fw": 900,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 15,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10,
+            "animation": "none"
+          }
+        },
+        "34c00b65-4a62-422e-b38c-ef7212f20397": {
+          "type": "custom_button",
+          "settings": {
+            "button_text": "Button label",
+            "button_link": "https:\/\/www.ugreen.com\/pages\/nexode",
+            "target_link": "_self",
+            "fontf": "inherit",
+            "button_icon_w": 0,
+            "button_style": "outline",
+            "button_effect": "fade",
+            "pri_cl": "#222",
+            "second_cl": "",
+            "pri_cl_hover": "#272e3b",
+            "second_cl_hover": "#fff",
+            "fsbutton": 16,
+            "fwbutton": 500,
+            "button_ls": 0,
+            "button_mh": 40,
+            "button_bdr": 25,
+            "button_pd_lr": 20,
+            "button_mgb": 0,
+            "hidden_mobile": false,
+            "button_icon_w_mb": 0,
+            "fsbutton_mb": 12,
+            "button_mh_mb": 36,
+            "button_pd_lr_mb": 15,
+            "button_ls_mb": 0,
+            "button_mgb_mb": 0,
+            "animation": "none"
+          }
         }
       },
       "block_order": [
@@ -692,7 +757,10 @@
         "17b367f3-4221-487c-a6f8-05b0c8f65c0c",
         "d63d9c61-89f9-4260-8b60-2991465e34e5",
         "21d1ab14-78b7-4fe8-9296-3b98dcd888b1",
-        "091fee45-4f01-49b4-9e11-9dbbb866575e"
+        "091fee45-4f01-49b4-9e11-9dbbb866575e",
+        "83fb889e-2c6f-428c-8b2b-0d5a749f2505",
+        "a700388a-a59e-4a96-b687-ee0aabd48c08",
+        "34c00b65-4a62-422e-b38c-ef7212f20397"
       ],
       "settings": {
         "image_ratio": "ratioadapt",
