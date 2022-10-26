@@ -1712,6 +1712,7 @@
           },
           "6f549481-942e-4bc2-82b1-22f3208c3997": {
             "type": "menu",
+            "disabled": true,
             "settings": {
               "title": "COMMUNITY",
               "url": "https:\/\/community.ugreen.com\/",
@@ -1764,7 +1765,7 @@
               "title": "SUPPORTS",
               "url": "",
               "open_link": "_self",
-              "menu": "m-supports",
+              "menu": "to-our-clients",
               "icon": "",
               "lb": "",
               "lb_cl": ""
