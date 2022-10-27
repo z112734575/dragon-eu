@@ -189,7 +189,7 @@
             "content_align_tablet": "start",
             "content_align_mobile": "center",
             "padding_inner": "30px,30px,30px,30px",
-            "padding_inner_tb": "",
+            "padding_inner_tb": "30px,30px,30px,30px",
             "padding_inner_mb": "",
             "bg_cl": "rgba(0,0,0,0)"
           }
@@ -226,7 +226,7 @@
             "content_align_tablet": "start",
             "content_align_mobile": "center",
             "padding_inner": "30px,30px,30px,30px",
-            "padding_inner_tb": "",
+            "padding_inner_tb": "30px,30px,30px,30px",
             "padding_inner_mb": "",
             "bg_cl": "rgba(0,0,0,0)"
           }
@@ -263,7 +263,7 @@
             "content_align_tablet": "start",
             "content_align_mobile": "center",
             "padding_inner": "30px,30px,30px,30px",
-            "padding_inner_tb": "",
+            "padding_inner_tb": "30px,30px,30px,30px",
             "padding_inner_mb": "",
             "bg_cl": "rgba(0,0,0,0)"
           }
@@ -300,7 +300,7 @@
             "content_align_tablet": "start",
             "content_align_mobile": "center",
             "padding_inner": "30px,,30px,",
-            "padding_inner_tb": "",
+            "padding_inner_tb": "30px,30px,30px,30px",
             "padding_inner_mb": "",
             "bg_cl": "rgba(0,0,0,0)"
           }
@@ -337,7 +337,7 @@
             "content_align_tablet": "start",
             "content_align_mobile": "center",
             "padding_inner": "30px,30px,30px,30px",
-            "padding_inner_tb": "",
+            "padding_inner_tb": "30px,30px,30px,30px",
             "padding_inner_mb": "",
             "bg_cl": "rgba(0,0,0,0)"
           }
