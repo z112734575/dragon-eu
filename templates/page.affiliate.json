@@ -188,7 +188,7 @@
             "content_align": "start",
             "content_align_tablet": "start",
             "content_align_mobile": "center",
-            "padding_inner": "30px,50px,30px,50px",
+            "padding_inner": "30px,30px,30px",
             "padding_inner_tb": "",
             "padding_inner_mb": "",
             "bg_cl": "rgba(0,0,0,0)"
@@ -262,7 +262,7 @@
             "content_align": "start",
             "content_align_tablet": "start",
             "content_align_mobile": "center",
-            "padding_inner": "30px,50px,30px,50px",
+            "padding_inner": "30px,30px,30px",
             "padding_inner_tb": "",
             "padding_inner_mb": "",
             "bg_cl": "rgba(0,0,0,0)"
@@ -299,7 +299,7 @@
             "content_align": "start",
             "content_align_tablet": "start",
             "content_align_mobile": "center",
-            "padding_inner": "30px,50px,30px,50px",
+            "padding_inner": "30px,30px,30px",
             "padding_inner_tb": "",
             "padding_inner_mb": "",
             "bg_cl": "rgba(0,0,0,0)"
@@ -336,7 +336,7 @@
             "content_align": "start",
             "content_align_tablet": "start",
             "content_align_mobile": "center",
-            "padding_inner": "30px,50px,30px,50px",
+            "padding_inner": "30px,30px,30px",
             "padding_inner_tb": "",
             "padding_inner_mb": "",
             "bg_cl": "rgba(0,0,0,0)"
@@ -377,7 +377,7 @@
         "632f1bf1-5b8f-402a-8472-5a7e94463787"
       ],
       "settings": {
-        "space_h_item": "2",
+        "space_h_item": "30",
         "space_v_item": "2",
         "space_h_item_mb": "10",
         "space_v_item_mb": "10",
