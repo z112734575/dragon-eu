@@ -747,7 +747,7 @@
             "padding_inner": "",
             "padding_inner_tb": "",
             "padding_inner_mb": "",
-            "bg_cl": "#fff"
+            "bg_cl": "#ffffff"
           }
         },
         "template--14473888792638__f665116c-ee7c-4295-b7b4-d08e2c573baf-1666856045a80728e5-1": {
@@ -784,7 +784,7 @@
             "padding_inner": "",
             "padding_inner_tb": "",
             "padding_inner_mb": "",
-            "bg_cl": "#fff"
+            "bg_cl": "#ffffff"
           }
         },
         "587715e5-8d07-4088-a266-1c6f5c3d95e9": {
@@ -920,6 +920,151 @@
         "use_cus_css": false,
         "code_cus_css": ""
       }
+    },
+    "b7697561-aee5-416d-a1ee-25dd54ab4d65": {
+      "type": "custom-section",
+      "blocks": {
+        "template--14473888792638__b7697561-aee5-416d-a1ee-25dd54ab4d65-16668576938e6945af-0": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "12",
+            "col_tb": "6",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "30px,,30px",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "rgba(0,0,0,0)"
+          }
+        },
+        "template--14473888792638__b7697561-aee5-416d-a1ee-25dd54ab4d65-16668576938e6945af-1": {
+          "type": "custom_text",
+          "settings": {
+            "text": "How Do I Earn Commission?",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#000000",
+            "text_fs": 40,
+            "text_lh": 47,
+            "text_fw": 900,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 5,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        }
+      },
+      "block_order": [
+        "template--14473888792638__b7697561-aee5-416d-a1ee-25dd54ab4d65-16668576938e6945af-0",
+        "template--14473888792638__b7697561-aee5-416d-a1ee-25dd54ab4d65-16668576938e6945af-1"
+      ],
+      "settings": {
+        "space_h_item": "30",
+        "space_v_item": "30",
+        "space_h_item_mb": "10",
+        "space_v_item_mb": "10",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "#f9f9f9",
+        "cl_bg_gradient": "",
+        "mg": "",
+        "pd": "",
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": "",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
+    },
+    "96cd7fa3-fd1c-49b7-af25-a549e7df62ce": {
+      "type": "custom-section",
+      "blocks": {
+        "template--14473888792638__96cd7fa3-fd1c-49b7-af25-a549e7df62ce-16668576938e6945af-0": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "3",
+            "col_tb": "3",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": ",40px,0,40px",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_image": "shopify:\/\/shop_images\/Group_910.png",
+            "bg_cl": "rgba(0,0,0,0)"
+          }
+        },
+        "ad126b34-6f0c-425f-854a-23160c5ac632": {
+          "type": "image",
+          "settings": {
+            "image_child": "shopify:\/\/shop_images\/Group_903.png",
+            "img_link": "",
+            "open_link": "_self",
+            "img_width": 0,
+            "img_width_mb": 0,
+            "img_align": "center",
+            "img_align_tb": "center",
+            "img_align_mobile": "center",
+            "b_effect": "none",
+            "hidden_mobile": false,
+            "mgb": 25,
+            "mgb_mb": 20
+          }
+        },
+        "template--14473888792638__96cd7fa3-fd1c-49b7-af25-a549e7df62ce-16668576938e6945af-1": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Visit ugreen.com to apply for the affiliate program",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#6b6b6b",
+            "text_fs": 14,
+            "text_lh": 16,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 0,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        }
+      },
+      "block_order": [
+        "template--14473888792638__96cd7fa3-fd1c-49b7-af25-a549e7df62ce-16668576938e6945af-0",
+        "ad126b34-6f0c-425f-854a-23160c5ac632",
+        "template--14473888792638__96cd7fa3-fd1c-49b7-af25-a549e7df62ce-16668576938e6945af-1"
+      ],
+      "settings": {
+        "space_h_item": "30",
+        "space_v_item": "30",
+        "space_h_item_mb": "10",
+        "space_v_item_mb": "10",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "#f9f9f9",
+        "cl_bg_gradient": "",
+        "mg": "",
+        "pd": "",
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": "",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
     }
   },
   "order": [
@@ -930,6 +1075,8 @@
     "99edf05a-ff88-418e-a085-d70b1944a189",
     "99c0c86b-7e0e-4607-ad2f-ace458b6f8b3",
     "992c9002-c0d6-4f4d-b344-b6cc74fedd8b",
-    "f665116c-ee7c-4295-b7b4-d08e2c573baf"
+    "f665116c-ee7c-4295-b7b4-d08e2c573baf",
+    "b7697561-aee5-416d-a1ee-25dd54ab4d65",
+    "96cd7fa3-fd1c-49b7-af25-a549e7df62ce"
   ]
 }
