@@ -175,60 +175,221 @@
         "code_cus_css": ""
       }
     },
-    "a1e16635-b714-48df-b33c-5986597426c1": {
-      "type": "promo_text",
+    "99c0c86b-7e0e-4607-ad2f-ace458b6f8b3": {
+      "type": "custom-section",
       "blocks": {
-        "template--14473888792638__a1e16635-b714-48df-b33c-5986597426c1-16668390373b44e5ec-0": {
-          "type": "1",
+        "template--14473888792638__99c0c86b-7e0e-4607-ad2f-ace458b6f8b3-166684002473575360-0": {
+          "type": "bl_col",
           "settings": {
-            "content": "<p>TODAY DEAL SALE OFF 70%. END IN [countdown]. HURRY UP!!!<\/p>",
-            "countdown": "2022\/12\/20",
-            "cus_cd": "%-D day%!D %H:%M:%S",
-            "dayx": 0,
-            "cl_text": "#fff",
-            "cl_link": "#56cfe1",
-            "fw_text": 600,
-            "fs_text": 12,
-            "lh_text": 0,
-            "ls_text": 0,
-            "fs_mb_text": 10,
-            "lh_text_mb": 0,
-            "ls_mb_text": 0
+            "col_dk": "3",
+            "col_tb": "3",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "30px,,30px",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "#d2a2a2"
           }
         },
-        "e0e9de05-7217-4af9-83d1-6669e1224626": {
-          "type": "1",
+        "template--14473888792638__99c0c86b-7e0e-4607-ad2f-ace458b6f8b3-166684002473575360-1": {
+          "type": "custom_text",
           "settings": {
-            "content": "<p>TODAY DEAL SALE OFF 70%. END IN [countdown]. HURRY UP!!!<\/p>",
-            "countdown": "2022\/12\/20",
-            "cus_cd": "%-D day%!D %H:%M:%S",
-            "dayx": 0,
-            "cl_text": "#fff",
-            "cl_link": "#56cfe1",
-            "fw_text": 600,
-            "fs_text": 12,
-            "lh_text": 0,
-            "ls_text": 0,
-            "fs_mb_text": 10,
-            "lh_text_mb": 0,
-            "ls_mb_text": 0
+            "text": "LOOKBOOK 2022",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#000000",
+            "text_fs": 24,
+            "text_lh": 0,
+            "text_fw": 500,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 5,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "template--14473888792638__99c0c86b-7e0e-4607-ad2f-ace458b6f8b3-166684002473575360-3": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "3",
+            "col_tb": "3",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "30px,,30px",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "#d2a2a2"
+          }
+        },
+        "a2ed4161-a839-4d11-9bce-d2e23416588e": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Text",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#fff",
+            "text_fs": 16,
+            "text_lh": 0,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 15,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "60f27ab0-7b1a-48c1-a8d7-39edd12647e7": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "3",
+            "col_tb": "3",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "#ec0101"
+          }
+        },
+        "1f0a9842-ce8c-4740-9c95-a4cbf18499a8": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Text",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#fff",
+            "text_fs": 16,
+            "text_lh": 0,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 15,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "5fa87b57-568a-4936-bd35-d46ca2a55385": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "3",
+            "col_tb": "3",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "#ec0101"
+          }
+        },
+        "b488f9f4-366c-4aec-8864-e79aa579d3c7": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Text",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#fff",
+            "text_fs": 16,
+            "text_lh": 0,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 15,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "56a44c72-1521-4ce1-83bb-cd099266c0ac": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "3",
+            "col_tb": "3",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "#ec0101"
+          }
+        },
+        "632f1bf1-5b8f-402a-8472-5a7e94463787": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Text",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#fff",
+            "text_fs": 16,
+            "text_lh": 0,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 15,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
           }
         }
       },
       "block_order": [
-        "template--14473888792638__a1e16635-b714-48df-b33c-5986597426c1-16668390373b44e5ec-0",
-        "e0e9de05-7217-4af9-83d1-6669e1224626"
+        "template--14473888792638__99c0c86b-7e0e-4607-ad2f-ace458b6f8b3-166684002473575360-0",
+        "template--14473888792638__99c0c86b-7e0e-4607-ad2f-ace458b6f8b3-166684002473575360-1",
+        "template--14473888792638__99c0c86b-7e0e-4607-ad2f-ace458b6f8b3-166684002473575360-3",
+        "a2ed4161-a839-4d11-9bce-d2e23416588e",
+        "60f27ab0-7b1a-48c1-a8d7-39edd12647e7",
+        "1f0a9842-ce8c-4740-9c95-a4cbf18499a8",
+        "5fa87b57-568a-4936-bd35-d46ca2a55385",
+        "b488f9f4-366c-4aec-8864-e79aa579d3c7",
+        "56a44c72-1521-4ce1-83bb-cd099266c0ac",
+        "632f1bf1-5b8f-402a-8472-5a7e94463787"
       ],
       "settings": {
-        "effect": "slider",
-        "au_time": 3,
+        "space_h_item": "2",
+        "space_v_item": "2",
+        "space_h_item_mb": "10",
+        "space_v_item_mb": "10",
         "layout": "t4s-container-wrap",
-        "cl_bg": "#000",
+        "cl_bg": "#222222",
         "cl_bg_gradient": "",
-        "mg": ",,50px,",
-        "pd": "12px,,12px,",
-        "mg_mb": ",,30px,",
-        "pd_mb": "10px,,10px,",
+        "mg": "",
+        "pd": "",
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": "",
+        "pd_mb": "",
         "use_cus_css": false,
         "code_cus_css": ""
       }
@@ -240,6 +401,6 @@
     "sidebar-page",
     "9acc16e0-5c73-4f1b-bd7d-2e66e00a799c",
     "99edf05a-ff88-418e-a085-d70b1944a189",
-    "a1e16635-b714-48df-b33c-5986597426c1"
+    "99c0c86b-7e0e-4607-ad2f-ace458b6f8b3"
   ]
 }
