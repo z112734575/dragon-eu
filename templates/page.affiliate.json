@@ -1072,7 +1072,7 @@
             "img_align_mobile": "center",
             "b_effect": "none",
             "hidden_mobile": false,
-            "mgb": 20,
+            "mgb": 25,
             "mgb_mb": 20
           }
         },
@@ -1089,7 +1089,7 @@
             "text_ls": 0,
             "font_italic": false,
             "text_shadow": false,
-            "text_mgb": 15,
+            "text_mgb": 0,
             "hidden_mobile": false,
             "text_fs_mb": 16,
             "text_lh_mb": 0,
@@ -1127,7 +1127,7 @@
             "img_align_mobile": "center",
             "b_effect": "none",
             "hidden_mobile": false,
-            "mgb": 20,
+            "mgb": 25,
             "mgb_mb": 20
           }
         },
@@ -1137,14 +1137,122 @@
             "text": "Get customers to click your link and make a purchase",
             "remove_br_tag": false,
             "fontf": "inherit",
-            "text_cl": "#fff",
-            "text_fs": 16,
-            "text_lh": 0,
+            "text_cl": "#6b6b6b",
+            "text_fs": 14,
+            "text_lh": 16,
             "text_fw": 400,
             "text_ls": 0,
             "font_italic": false,
             "text_shadow": false,
-            "text_mgb": 15,
+            "text_mgb": 0,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "e6b1e467-f572-4fb4-8909-b06bd01637aa": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "3",
+            "col_tb": "3",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "rgba(0,0,0,0)"
+          }
+        },
+        "e7a30fe4-50d3-4e8e-bdcf-6687b8c40a43": {
+          "type": "image",
+          "settings": {
+            "image_child": "shopify:\/\/shop_images\/Group_905.png",
+            "img_link": "",
+            "open_link": "_self",
+            "img_width": 0,
+            "img_width_mb": 0,
+            "img_align": "center",
+            "img_align_tb": "center",
+            "img_align_mobile": "center",
+            "b_effect": "none",
+            "hidden_mobile": false,
+            "mgb": 25,
+            "mgb_mb": 20
+          }
+        },
+        "31e8647a-e0aa-4758-98ac-3c5a49dda8b1": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Wait for your order to be confirmed",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#6b6b6b",
+            "text_fs": 14,
+            "text_lh": 16,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 0,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "f008a861-b5ab-440c-ac1d-d24bf7e18a4a": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "3",
+            "col_tb": "3",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "rgba(0,0,0,0)"
+          }
+        },
+        "c08db4ed-0f2d-46e6-886f-eb971f06afec": {
+          "type": "image",
+          "settings": {
+            "image_child": "shopify:\/\/shop_images\/Group_904.png",
+            "img_link": "",
+            "open_link": "_self",
+            "img_width": 0,
+            "img_width_mb": 0,
+            "img_align": "center",
+            "img_align_tb": "center",
+            "img_align_mobile": "center",
+            "b_effect": "none",
+            "hidden_mobile": false,
+            "mgb": 25,
+            "mgb_mb": 20
+          }
+        },
+        "19d140db-de2d-44d5-a743-182305879225": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Get your commission!",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#6b6b6b",
+            "text_fs": 14,
+            "text_lh": 16,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 0,
             "hidden_mobile": false,
             "text_fs_mb": 16,
             "text_lh_mb": 0,
@@ -1162,7 +1270,13 @@
         "ea335f47-d7a9-4d96-91d2-07753ace32cd",
         "6fd92e86-c685-4d05-94ee-f8885374ed6c",
         "6db45bb1-705d-4707-9416-5f3dc1e630a3",
-        "6fc797e1-a2f4-4d77-a7aa-015f52775abd"
+        "6fc797e1-a2f4-4d77-a7aa-015f52775abd",
+        "e6b1e467-f572-4fb4-8909-b06bd01637aa",
+        "e7a30fe4-50d3-4e8e-bdcf-6687b8c40a43",
+        "31e8647a-e0aa-4758-98ac-3c5a49dda8b1",
+        "f008a861-b5ab-440c-ac1d-d24bf7e18a4a",
+        "c08db4ed-0f2d-46e6-886f-eb971f06afec",
+        "19d140db-de2d-44d5-a743-182305879225"
       ],
       "settings": {
         "space_h_item": "30",
