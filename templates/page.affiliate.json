@@ -61,7 +61,7 @@
     "9acc16e0-5c73-4f1b-bd7d-2e66e00a799c": {
       "type": "custom-html",
       "settings": {
-        "code": "<style>\n\t.t4s-content-position.t4s-container{\n\t\tpadding: 0 150px;\n\t}\n\t@media (max-width: 768px) {\n\t\t.t4s-content-position.t4s-container{\n\t\tpadding: 0 10px!important;\n\t}\n\t}\n<\/style>",
+        "code": "<style>\n\t.t4s-content-position.t4s-container{\n\t\tpadding: 0 150px;\n\t}\n\t#shopify-section-template--14473888792638__99c0c86b-7e0e-4607-ad2f-ace458b6f8b3 ..t4s-col-lg-3{\n\t\twidth: 20%!important;\n\t}\n\t@media (max-width: 768px) {\n\t\t.t4s-content-position.t4s-container{\n\t\tpadding: 0 10px!important;\n\t}\n\t}\n<\/style>",
         "layout": "t4s-container-wrap",
         "cl_bg": "",
         "cl_bg_gradient": "",
