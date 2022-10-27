@@ -174,6 +174,64 @@
         "use_cus_css": false,
         "code_cus_css": ""
       }
+    },
+    "a1e16635-b714-48df-b33c-5986597426c1": {
+      "type": "promo_text",
+      "blocks": {
+        "template--14473888792638__a1e16635-b714-48df-b33c-5986597426c1-16668390373b44e5ec-0": {
+          "type": "1",
+          "settings": {
+            "content": "<p>TODAY DEAL SALE OFF 70%. END IN [countdown]. HURRY UP!!!<\/p>",
+            "countdown": "2022\/12\/20",
+            "cus_cd": "%-D day%!D %H:%M:%S",
+            "dayx": 0,
+            "cl_text": "#fff",
+            "cl_link": "#56cfe1",
+            "fw_text": 600,
+            "fs_text": 12,
+            "lh_text": 0,
+            "ls_text": 0,
+            "fs_mb_text": 10,
+            "lh_text_mb": 0,
+            "ls_mb_text": 0
+          }
+        },
+        "e0e9de05-7217-4af9-83d1-6669e1224626": {
+          "type": "1",
+          "settings": {
+            "content": "<p>TODAY DEAL SALE OFF 70%. END IN [countdown]. HURRY UP!!!<\/p>",
+            "countdown": "2022\/12\/20",
+            "cus_cd": "%-D day%!D %H:%M:%S",
+            "dayx": 0,
+            "cl_text": "#fff",
+            "cl_link": "#56cfe1",
+            "fw_text": 600,
+            "fs_text": 12,
+            "lh_text": 0,
+            "ls_text": 0,
+            "fs_mb_text": 10,
+            "lh_text_mb": 0,
+            "ls_mb_text": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--14473888792638__a1e16635-b714-48df-b33c-5986597426c1-16668390373b44e5ec-0",
+        "e0e9de05-7217-4af9-83d1-6669e1224626"
+      ],
+      "settings": {
+        "effect": "slider",
+        "au_time": 3,
+        "layout": "t4s-container-wrap",
+        "cl_bg": "#000",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "12px,,12px,",
+        "mg_mb": ",,30px,",
+        "pd_mb": "10px,,10px,",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
     }
   },
   "order": [
@@ -181,6 +239,7 @@
     "main",
     "sidebar-page",
     "9acc16e0-5c73-4f1b-bd7d-2e66e00a799c",
-    "99edf05a-ff88-418e-a085-d70b1944a189"
+    "99edf05a-ff88-418e-a085-d70b1944a189",
+    "a1e16635-b714-48df-b33c-5986597426c1"
   ]
 }
