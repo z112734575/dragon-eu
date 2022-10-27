@@ -730,6 +730,33 @@
         "use_cus_css": false,
         "code_cus_css": ""
       }
+    },
+    "63ec3ccc-3f0b-4bfe-96c0-5e9cfbaf5e8d": {
+      "type": "top_heading",
+      "blocks": {
+        "template--14473888792638__63ec3ccc-3f0b-4bfe-96c0-5e9cfbaf5e8d-1666855762c6b46539-0": {
+          "type": "bl_heading",
+          "settings": {
+            "top_heading": "WHY JOIN US?"
+          }
+        }
+      },
+      "block_order": [
+        "template--14473888792638__63ec3ccc-3f0b-4bfe-96c0-5e9cfbaf5e8d-1666855762c6b46539-0"
+      ],
+      "settings": {
+        "design_heading": "1",
+        "heading_align": "t4s-text-center",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": "110px,,,",
+        "pd": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
     }
   },
   "order": [
@@ -739,6 +766,7 @@
     "9acc16e0-5c73-4f1b-bd7d-2e66e00a799c",
     "99edf05a-ff88-418e-a085-d70b1944a189",
     "99c0c86b-7e0e-4607-ad2f-ace458b6f8b3",
-    "992c9002-c0d6-4f4d-b344-b6cc74fedd8b"
+    "992c9002-c0d6-4f4d-b344-b6cc74fedd8b",
+    "63ec3ccc-3f0b-4bfe-96c0-5e9cfbaf5e8d"
   ]
 }
