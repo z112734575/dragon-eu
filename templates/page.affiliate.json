@@ -731,27 +731,190 @@
         "code_cus_css": ""
       }
     },
-    "63ec3ccc-3f0b-4bfe-96c0-5e9cfbaf5e8d": {
-      "type": "top_heading",
+    "f665116c-ee7c-4295-b7b4-d08e2c573baf": {
+      "type": "custom-section",
       "blocks": {
-        "template--14473888792638__63ec3ccc-3f0b-4bfe-96c0-5e9cfbaf5e8d-1666855762c6b46539-0": {
-          "type": "bl_heading",
+        "1b60311a-b979-4377-890b-8363bc997128": {
+          "type": "bl_col",
           "settings": {
-            "top_heading": "WHY JOIN US?"
+            "col_dk": "12",
+            "col_tb": "12",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "#fff"
+          }
+        },
+        "template--14473888792638__f665116c-ee7c-4295-b7b4-d08e2c573baf-1666856045a80728e5-1": {
+          "type": "custom_text",
+          "settings": {
+            "text": "WHY JOIN US?",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#000000",
+            "text_fs": 40,
+            "text_lh": 47,
+            "text_fw": 900,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 0,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "5663b665-409c-449a-9c1f-0f8b4bda69bb": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "12",
+            "col_tb": "12",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "start",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "#fff"
+          }
+        },
+        "587715e5-8d07-4088-a266-1c6f5c3d95e9": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Our Affiliate Program enables every possible partner to join and promote Ugreen, gain commissions from every sale through your affiliate link. Share your affiliate link and win reward, everyone could be a marketer on here.",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#6b6b6b",
+            "text_fs": 16,
+            "text_lh": 19,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 30,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "54b636f3-d401-4d81-a304-8d332cc84ee8": {
+          "type": "custom_text",
+          "settings": {
+            "text": "1. We have warehouses in the USA, Germany and UK.",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#000000",
+            "text_fs": 18,
+            "text_lh": 21,
+            "text_fw": 600,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 10,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "74665961-93b1-4997-b416-ae7499f399b1": {
+          "type": "custom_text",
+          "settings": {
+            "text": "2. We have affordable prices",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#000000",
+            "text_fs": 18,
+            "text_lh": 21,
+            "text_fw": 600,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 10,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "7453687d-e23a-438c-a42b-daf4686a5b64": {
+          "type": "custom_text",
+          "settings": {
+            "text": "3. We offer free shipping over $39 and 3-7 days delivery. 4. We offer no hassle 30-days returns",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#000000",
+            "text_fs": 18,
+            "text_lh": 21,
+            "text_fw": 600,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 10,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "8a64a6d7-a396-48fd-a606-7ac53f211fbf": {
+          "type": "custom_text",
+          "settings": {
+            "text": "4. We offer no hassle 30-days returns",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#000000",
+            "text_fs": 18,
+            "text_lh": 21,
+            "text_fw": 600,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 0,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
           }
         }
       },
       "block_order": [
-        "template--14473888792638__63ec3ccc-3f0b-4bfe-96c0-5e9cfbaf5e8d-1666855762c6b46539-0"
+        "1b60311a-b979-4377-890b-8363bc997128",
+        "template--14473888792638__f665116c-ee7c-4295-b7b4-d08e2c573baf-1666856045a80728e5-1",
+        "5663b665-409c-449a-9c1f-0f8b4bda69bb",
+        "587715e5-8d07-4088-a266-1c6f5c3d95e9",
+        "54b636f3-d401-4d81-a304-8d332cc84ee8",
+        "74665961-93b1-4997-b416-ae7499f399b1",
+        "7453687d-e23a-438c-a42b-daf4686a5b64",
+        "8a64a6d7-a396-48fd-a606-7ac53f211fbf"
       ],
       "settings": {
-        "design_heading": "1",
-        "heading_align": "t4s-text-center",
+        "space_h_item": "30",
+        "space_v_item": "30",
+        "space_h_item_mb": "10",
+        "space_v_item_mb": "10",
         "layout": "t4s-container-wrap",
         "cl_bg": "",
         "cl_bg_gradient": "",
-        "mg": "110px,,,",
+        "mg": "110px,,110px,",
         "pd": "",
+        "mg_tb": ",,50px,",
+        "pd_tb": "",
         "mg_mb": ",,30px,",
         "pd_mb": "",
         "use_cus_css": false,
@@ -767,6 +930,6 @@
     "99edf05a-ff88-418e-a085-d70b1944a189",
     "99c0c86b-7e0e-4607-ad2f-ace458b6f8b3",
     "992c9002-c0d6-4f4d-b344-b6cc74fedd8b",
-    "63ec3ccc-3f0b-4bfe-96c0-5e9cfbaf5e8d"
+    "f665116c-ee7c-4295-b7b4-d08e2c573baf"
   ]
 }
