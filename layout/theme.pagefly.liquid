@@ -148,7 +148,10 @@ f=false,d=document,code={use_existing_jquery:function(){return use_existing_jque
   
 	{{ shop.metafields.loox["global_html_head"] }}
 {% include 'upsellio' %}{% capture boostersnippet %}{% include "booster-apps-common" %}{% endcapture %}{% unless boostersnippet contains "Liquid error" %}{{ boostersnippet }}{% endunless %}
-</head>
+
+                  {% include 'bss-product-labels-configs' %}
+                    </head>
+             
 
   <body class="template-{{ request.page_type | handle }} {{class_lazy}}"{% if body_img != blank %} data-bgset="{{ body_img | image_url: width: 1 }}" data-optimumx="1.5" data-sizes="auto"{% endif -%}><div class="pagefly-container">{{ content_for_layout }}</div></body>
 </html>
