@@ -202,7 +202,7 @@
             "fontf": "inherit",
             "text_cl": "#ffffff",
             "text_fs": 14,
-            "text_lh": 16,
+            "text_lh": 18,
             "text_fw": 500,
             "text_ls": 0,
             "font_italic": false,
@@ -239,7 +239,7 @@
             "fontf": "inherit",
             "text_cl": "#ffffff",
             "text_fs": 14,
-            "text_lh": 16,
+            "text_lh": 18,
             "text_fw": 500,
             "text_ls": 0,
             "font_italic": false,
@@ -276,7 +276,7 @@
             "fontf": "inherit",
             "text_cl": "#ffffff",
             "text_fs": 14,
-            "text_lh": 16,
+            "text_lh": 18,
             "text_fw": 500,
             "text_ls": 0,
             "font_italic": false,
@@ -313,7 +313,7 @@
             "fontf": "inherit",
             "text_cl": "#ffffff",
             "text_fs": 14,
-            "text_lh": 16,
+            "text_lh": 18,
             "text_fw": 500,
             "text_ls": 0,
             "font_italic": false,
@@ -350,7 +350,7 @@
             "fontf": "inherit",
             "text_cl": "#ffffff",
             "text_fs": 14,
-            "text_lh": 16,
+            "text_lh": 18,
             "text_fw": 500,
             "text_ls": 0,
             "font_italic": false,
@@ -795,7 +795,7 @@
             "fontf": "inherit",
             "text_cl": "#6b6b6b",
             "text_fs": 16,
-            "text_lh": 19,
+            "text_lh": 22,
             "text_fw": 400,
             "text_ls": 0,
             "font_italic": false,
@@ -1950,7 +1950,7 @@
             "text_mgb": 10,
             "hidden_mobile": false,
             "text_fs_mb": 16,
-            "text_lh_mb": 19,
+            "text_lh_mb": 21,
             "text_ls_mb": 0,
             "text_mgb_mobile": 10
           }
@@ -1963,7 +1963,7 @@
             "fontf": "inherit",
             "text_cl": "#6b6b6b",
             "text_fs": 16,
-            "text_lh": 26,
+            "text_lh": 27,
             "text_fw": 400,
             "text_ls": 0,
             "font_italic": false,
@@ -1971,7 +1971,7 @@
             "text_mgb": 0,
             "hidden_mobile": false,
             "text_fs_mb": 14,
-            "text_lh_mb": 16,
+            "text_lh_mb": 19,
             "text_ls_mb": 0,
             "text_mgb_mobile": 10
           }
@@ -2008,7 +2008,7 @@
             "text_mgb": 10,
             "hidden_mobile": false,
             "text_fs_mb": 16,
-            "text_lh_mb": 19,
+            "text_lh_mb": 22,
             "text_ls_mb": 0,
             "text_mgb_mobile": 10
           }
@@ -2029,7 +2029,7 @@
             "text_mgb": 5,
             "hidden_mobile": false,
             "text_fs_mb": 14,
-            "text_lh_mb": 16,
+            "text_lh_mb": 18,
             "text_ls_mb": 0,
             "text_mgb_mobile": 10
           }
@@ -2050,7 +2050,7 @@
             "text_mgb": 50,
             "hidden_mobile": false,
             "text_fs_mb": 14,
-            "text_lh_mb": 16,
+            "text_lh_mb": 18,
             "text_ls_mb": 0,
             "text_mgb_mobile": 10
           }
@@ -2071,7 +2071,7 @@
             "text_mgb": 5,
             "hidden_mobile": false,
             "text_fs_mb": 14,
-            "text_lh_mb": 16,
+            "text_lh_mb": 18,
             "text_ls_mb": 0,
             "text_mgb_mobile": 10
           }
@@ -2115,7 +2115,7 @@
             "text_mgb": 10,
             "hidden_mobile": false,
             "text_fs_mb": 16,
-            "text_lh_mb": 19,
+            "text_lh_mb": 22,
             "text_ls_mb": 0,
             "text_mgb_mobile": 10
           }
@@ -2136,7 +2136,7 @@
             "text_mgb": 5,
             "hidden_mobile": false,
             "text_fs_mb": 14,
-            "text_lh_mb": 16,
+            "text_lh_mb": 18,
             "text_ls_mb": 0,
             "text_mgb_mobile": 10
           }
