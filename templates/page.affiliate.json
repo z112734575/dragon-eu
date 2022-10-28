@@ -1893,7 +1893,7 @@
             "content_align_mobile": "center",
             "padding_inner": "",
             "padding_inner_tb": "",
-            "padding_inner_mb": "",
+            "padding_inner_mb": "0,0,10px,0",
             "bg_cl": "rgba(0,0,0,0)"
           }
         },
@@ -1930,7 +1930,7 @@
             "content_align_mobile": "start",
             "padding_inner": "",
             "padding_inner_tb": "",
-            "padding_inner_mb": "",
+            "padding_inner_mb": "0,0,10px,0",
             "bg_cl": "#ffffff"
           }
         },
@@ -1988,7 +1988,7 @@
             "content_align_mobile": "start",
             "padding_inner": "",
             "padding_inner_tb": "",
-            "padding_inner_mb": "",
+            "padding_inner_mb": "0,0,10px,0",
             "bg_cl": "#ffffff"
           }
         },
