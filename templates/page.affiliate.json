@@ -1079,8 +1079,8 @@
         "ea335f47-d7a9-4d96-91d2-07753ace32cd": {
           "type": "custom_text",
           "settings": {
-            "text": "Share an affiliate link",
-            "remove_br_tag": false,
+            "text": "Share an \naffiliate link",
+            "remove_br_tag": true,
             "fontf": "inherit",
             "text_cl": "#6b6b6b",
             "text_fs": 14,
