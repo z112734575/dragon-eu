@@ -759,7 +759,7 @@
             "type": "drop",
             "settings": {
               "title": "CHARGERS",
-              "url": "https:\/\/www.ugreen.com\/collections\/charger",
+              "url": "#",
               "open_link": "_self",
               "menu": "chargers",
               "icon": "",
@@ -776,7 +776,7 @@
             "type": "drop",
             "settings": {
               "title": "HUB & ADAPTER",
-              "url": "shopify:\/\/collections\/hubs-and-adapters",
+              "url": "#",
               "open_link": "_self",
               "menu": "hub-adapter",
               "icon": "",
@@ -1712,6 +1712,7 @@
           },
           "6f549481-942e-4bc2-82b1-22f3208c3997": {
             "type": "menu",
+            "disabled": true,
             "settings": {
               "title": "COMMUNITY",
               "url": "https:\/\/community.ugreen.com\/",
@@ -1761,8 +1762,8 @@
           "06092e7b-58cd-4790-9721-e86ddd55d4a0": {
             "type": "menu",
             "settings": {
-              "title": "SUPPORTS",
-              "url": "",
+              "title": "TO OUR CLIENTS",
+              "url": "#",
               "open_link": "_self",
               "menu": "m-supports",
               "icon": "",
