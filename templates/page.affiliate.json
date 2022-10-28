@@ -936,7 +936,7 @@
             "content_align_mobile": "center",
             "padding_inner": "30px,,30px",
             "padding_inner_tb": "50px,,50px",
-            "padding_inner_mb": "50px,,50px",
+            "padding_inner_mb": "50px,,30px",
             "bg_cl": "rgba(0,0,0,0)"
           }
         },
@@ -1863,7 +1863,7 @@
       "settings": {
         "space_h_item": "30",
         "space_v_item": "30",
-        "space_h_item_mb": "20",
+        "space_h_item_mb": "0",
         "space_v_item_mb": "20",
         "layout": "t4s-container-wrap",
         "cl_bg": "#f9f9f9",
@@ -1873,7 +1873,7 @@
         "mg_tb": "",
         "pd_tb": "20px,20px,50px,20px",
         "mg_mb": "",
-        "pd_mb": "50px,,50px,",
+        "pd_mb": "20px,0,50px,0",
         "use_cus_css": false,
         "code_cus_css": ""
       }
