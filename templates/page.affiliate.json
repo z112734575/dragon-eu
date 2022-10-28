@@ -1079,7 +1079,7 @@
         "ea335f47-d7a9-4d96-91d2-07753ace32cd": {
           "type": "custom_text",
           "settings": {
-            "text": "Share an \naffiliate link",
+            "text": "Share an",
             "remove_br_tag": true,
             "fontf": "inherit",
             "text_cl": "#6b6b6b",
@@ -1090,6 +1090,27 @@
             "font_italic": false,
             "text_shadow": false,
             "text_mgb": 0,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "ad55b26b-8828-4e3b-81cd-45b9706a3567": {
+          "type": "custom_text",
+          "settings": {
+            "text": "affiliate link",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#6b6b6b",
+            "text_fs": 14,
+            "text_lh": 16,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 15,
             "hidden_mobile": false,
             "text_fs_mb": 16,
             "text_lh_mb": 0,
@@ -1243,7 +1264,7 @@
         "19d140db-de2d-44d5-a743-182305879225": {
           "type": "custom_text",
           "settings": {
-            "text": "Get your commission!",
+            "text": "Get your",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#6b6b6b",
@@ -1260,6 +1281,27 @@
             "text_ls_mb": 0,
             "text_mgb_mobile": 10
           }
+        },
+        "0af39082-377a-402e-83b2-d934a64f8925": {
+          "type": "custom_text",
+          "settings": {
+            "text": "commission!",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#6b6b6b",
+            "text_fs": 14,
+            "text_lh": 16,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 15,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
         }
       },
       "block_order": [
@@ -1269,6 +1311,7 @@
         "510f2257-334a-4bf9-8c33-c424665ddfcb",
         "4a506b7f-98a8-419b-a9ec-1e684820ebcd",
         "ea335f47-d7a9-4d96-91d2-07753ace32cd",
+        "ad55b26b-8828-4e3b-81cd-45b9706a3567",
         "6fd92e86-c685-4d05-94ee-f8885374ed6c",
         "6db45bb1-705d-4707-9416-5f3dc1e630a3",
         "6fc797e1-a2f4-4d77-a7aa-015f52775abd",
@@ -1277,7 +1320,8 @@
         "31e8647a-e0aa-4758-98ac-3c5a49dda8b1",
         "f008a861-b5ab-440c-ac1d-d24bf7e18a4a",
         "c08db4ed-0f2d-46e6-886f-eb971f06afec",
-        "19d140db-de2d-44d5-a743-182305879225"
+        "19d140db-de2d-44d5-a743-182305879225",
+        "0af39082-377a-402e-83b2-d934a64f8925"
       ],
       "settings": {
         "space_h_item": "30",
