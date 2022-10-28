@@ -699,9 +699,23 @@
           },
           "00add30b-e435-436e-be83-c631fd494b0e": {
             "type": "base",
+            "disabled": true,
             "settings": {
               "title": "Autumn Deals",
               "url": "shopify:\/\/collections\/autumn-deals",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "da9e8c0d-07c0-4f3e-a40e-2b68940ba167": {
+            "type": "base",
+            "settings": {
+              "title": "Nexode Series",
+              "url": "shopify:\/\/pages\/nexode-series",
               "open_link": "_self",
               "icon": "",
               "cus_cl": false,
@@ -789,24 +803,6 @@
               "pos": "left"
             }
           },
-          "33c856af-2f1e-47fa-a6af-858bd647321c": {
-            "type": "drop",
-            "disabled": true,
-            "settings": {
-              "title": "STANDS & PROTECTORS",
-              "url": "",
-              "open_link": "_self",
-              "menu": "stands-protectors",
-              "icon": "",
-              "cus_cl": false,
-              "cl": "#ec0101",
-              "lb": "",
-              "lb_cl": "",
-              "lazy_mn": true,
-              "pos_sub": "bottom",
-              "pos": "left"
-            }
-          },
           "16e48cac-0fd2-4f57-b570-7d74c3092cdc": {
             "type": "drop",
             "settings": {
@@ -848,12 +844,12 @@
           "7b6b268c-25a0-4c97-960d-7e81c56a2676",
           "3944a4f5-3618-4f4b-9d13-238ddb1b72f2",
           "00add30b-e435-436e-be83-c631fd494b0e",
+          "da9e8c0d-07c0-4f3e-a40e-2b68940ba167",
           "90140798-89e3-4cdf-98ac-6b1d30579962",
           "d516cbdb-698e-4b29-b113-ebdb7627acb7",
           "0ba2084a-39e0-4b8a-8fed-3447abf7523b",
           "16e2ef48-b04b-46f0-bf5f-d12823645624",
           "6141bf58-9316-4ce8-bd6d-16b03ed3fc8c",
-          "33c856af-2f1e-47fa-a6af-858bd647321c",
           "16e48cac-0fd2-4f57-b570-7d74c3092cdc",
           "498888dd-d297-4762-adcd-478cdb134666"
         ],
@@ -1552,7 +1548,7 @@
           "224acbf9-e273-470e-aeb8-ce1cab7498c4": {
             "type": "html",
             "settings": {
-              "html": "<div class=\"ug-mega\">\n  <div class=\"ug-mega-item\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/40737_16348ac7-42b4-4471-9e0b-7996fe48b370.png?v=1658728430\">\n    <div class=\"ug-mega-menu\">\n      <a href=\"https:\/\/www.ugreen.com\/collections\/charger\" class=\"ug-mega-main\">CHARGERS<\/a>\n      <a href=\"https:\/\/www.ugreen.com\/collections\/gan-charger\" class=\"ug-mega-sub\">GaN Chargers<\/a>\n      <a href=\"https:\/\/www.ugreen.com\/collections\/fast-chargers\" class=\"ug-mega-sub\">PD Fast Charger<\/a>\n<!--      <a href=\"https:\/\/www.ugreen.com\/collections\/usb-c-chargers\" class=\"ug-mega-sub\">USB C Chargers<\/a>-->\n      <a href=\"https:\/\/www.ugreen.com\/collections\/car-charger\" class=\"ug-mega-sub\">Car Chargers<\/a>\n      <a href=\"https:\/\/www.ugreen.com\/collections\/wireless-charger\" class=\"ug-mega-sub\">Wireless Chargers<\/a>\n<!--      <a href=\"https:\/\/www.ugreen.com\/collections\/power-bank\" class=\"ug-mega-sub\">Power Bank<\/a>-->\n    <\/div>\n  <\/div>\n  <div class=\"ug-mega-item\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/60761_913b1274-b20b-49a7-a54d-19e7c3031329.png?v=1658728431\">\n    <div class=\"ug-mega-menu\">\n      <a href=\"https:\/\/www.ugreen.com\/collections\/cable\" class=\"ug-mega-main\">CABLES<\/a>\n      <a href=\"https:\/\/www.ugreen.com\/collections\/usb-c-cable\" class=\"ug-mega-sub\">USB-C Cables<\/a>\n      <a href=\"https:\/\/www.ugreen.com\/collections\/lightning-cable\" class=\"ug-mega-sub\">iPhone Cables<\/a>\n      <a href=\"https:\/\/www.ugreen.com\/collections\/usb-cable\" class=\"ug-mega-sub\">Other<\/a>\n<!--      <a href=\"https:\/\/www.ugreen.com\/collections\/audio-cables\" class=\"ug-mega-sub\">Audio Cables<\/a>-->\n<!--      <a href=\"https:\/\/www.ugreen.com\/collections\/audio-video-converter\" class=\"ug-mega-sub\">Video Cables<\/a>-->\n    <\/div>\n  <\/div>\n  <div class=\"ug-mega-item\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/60600_ac1fc0d2-8707-4ec6-bb81-dae8ce9f468e.png?v=1658728430\">\n    <div class=\"ug-mega-menu\">\n      <a href=\"https:\/\/www.ugreen.com\/collections\/hubs-and-adapters\" class=\"ug-mega-main\">HUB &amp;\n        ADAPTER<\/a>\n      <a href=\"https:\/\/www.ugreen.com\/collections\/usb-hub\" class=\"ug-mega-sub\">Hubs<\/a>\n      <a href=\"https:\/\/www.ugreen.com\/collections\/adapter\" class=\"ug-mega-sub\">Adapters<\/a>\n      <a href=\"https:\/\/www.ugreen.com\/collections\/docking-station\" class=\"ug-mega-sub\">Docking Station<\/a>\n    <\/div>\n  <\/div>\n  <div class=\"ug-mega-item ug-mega-item-with-img\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/40393_8fd026c1-bcbb-487c-b86c-e06ba61cbf88.png?v=1658728431\">\n    <div class=\"ug-mega-menu\">\n      <a href=\"https:\/\/www.ugreen.com\/collections\/holder-protectors\" class=\"ug-mega-main\">STANDS &amp;\n        PROTECTORS\n      <\/a>\n      <a href=\"https:\/\/www.ugreen.com\/collections\/phone-stand\" class=\"ug-mega-sub\">Phone Stands<\/a>\n      <a href=\"https:\/\/www.ugreen.com\/collections\/tablet-stands\" class=\"ug-mega-sub\">Tablet Stands<\/a>\n      <a href=\"https:\/\/www.ugreen.com\/collections\/car-phone-stand\" class=\"ug-mega-sub\">Car Phone Holders\n      <\/a>\n    <\/div>\n    <!--    <a href=\"https:\/\/www.ugreen.com\/pages\/back-to-school-sale\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/300-100.png?v=1660810865\"><\/a>-->\n  <\/div>\n  <div class=\"ug-mega-item\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/90504.png?v=1658728430\">\n    <div class=\"ug-mega-menu\">\n      <a href=\"https:\/\/www.ugreen.com\/products\/ugreen-100w-usb-c-diginest-pro-power-strip?variant=39815555481662\" class=\"ug-mega-main\">POWER STRIP\n      <\/a>\n    <\/div>\n  <\/div>\n  <div class=\"ug-mega-item\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/90242_26750508-bb5b-4663-a00f-cbbf38625c8d.png?v=1658728430\">\n    <div class=\"ug-mega-menu\">\n      <a href=\"https:\/\/www.ugreen.com\/collections\/earphones\" class=\"ug-mega-main\">EARBUDS\n      <\/a>\n    <\/div>\n  <\/div>\n  <!--<div class=\"ug-mega-item\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/90505.png?v=1658728430\">\n    <div class=\"ug-mega-menu\">\n      <a href=\"https:\/\/www.ugreen.com\/collections\/mouse-keyboard\" class=\"ug-mega-main\">MOUSE &amp;<br>\n        KEYBOARD<\/a>\n    <\/div>\n  <\/div>-->\n    <!--<div class=\"ug-mega-item ug-mega-item-ads\" style=\"width: 100%;max-width: 620px;\">\n      <a href=\"https:\/\/eu.ugreen.com\/pages\/weekly-sale\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/1026_620_132.jpg?v=1666859400\" style=\"width: 100%;height: auto;\"><\/a>\n    <\/div>-->\n<\/div>",
+              "html": "<div class=\"ug-mega\">\n  <div class=\"ug-mega-item\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/40737_16348ac7-42b4-4471-9e0b-7996fe48b370.png?v=1658728430\">\n    <div class=\"ug-mega-menu\">\n      <a href=\"https:\/\/www.ugreen.com\/collections\/charger\" class=\"ug-mega-main\">CHARGERS<\/a>\n      <a href=\"https:\/\/www.ugreen.com\/collections\/gan-charger\" class=\"ug-mega-sub\">GaN Chargers<\/a>\n      <a href=\"https:\/\/www.ugreen.com\/collections\/fast-chargers\" class=\"ug-mega-sub\">PD Fast Charger<\/a>\n<!--      <a href=\"https:\/\/www.ugreen.com\/collections\/usb-c-chargers\" class=\"ug-mega-sub\">USB C Chargers<\/a>-->\n      <a href=\"https:\/\/www.ugreen.com\/collections\/car-charger\" class=\"ug-mega-sub\">Car Chargers<\/a>\n      <a href=\"https:\/\/www.ugreen.com\/collections\/wireless-charger\" class=\"ug-mega-sub\">Wireless Chargers<\/a>\n<!--      <a href=\"https:\/\/www.ugreen.com\/collections\/power-bank\" class=\"ug-mega-sub\">Power Bank<\/a>-->\n    <\/div>\n  <\/div>\n  <div class=\"ug-mega-item\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/60761_913b1274-b20b-49a7-a54d-19e7c3031329.png?v=1658728431\">\n    <div class=\"ug-mega-menu\">\n      <a href=\"https:\/\/www.ugreen.com\/collections\/cable\" class=\"ug-mega-main\">CABLES<\/a>\n      <a href=\"https:\/\/www.ugreen.com\/collections\/usb-c-cable\" class=\"ug-mega-sub\">USB-C Cables<\/a>\n      <a href=\"https:\/\/www.ugreen.com\/collections\/lightning-cable\" class=\"ug-mega-sub\">iPhone Cables<\/a>\n      <a href=\"https:\/\/www.ugreen.com\/collections\/usb-cable\" class=\"ug-mega-sub\">Other<\/a>\n<!--      <a href=\"https:\/\/www.ugreen.com\/collections\/audio-cables\" class=\"ug-mega-sub\">Audio Cables<\/a>-->\n<!--      <a href=\"https:\/\/www.ugreen.com\/collections\/audio-video-converter\" class=\"ug-mega-sub\">Video Cables<\/a>-->\n    <\/div>\n  <\/div>\n  <div class=\"ug-mega-item\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/60600_ac1fc0d2-8707-4ec6-bb81-dae8ce9f468e.png?v=1658728430\">\n    <div class=\"ug-mega-menu\">\n      <a href=\"https:\/\/www.ugreen.com\/collections\/hubs-and-adapters\" class=\"ug-mega-main\">HUB &amp;\n        ADAPTER<\/a>\n      <a href=\"https:\/\/www.ugreen.com\/collections\/usb-hub\" class=\"ug-mega-sub\">Hubs<\/a>\n      <a href=\"https:\/\/www.ugreen.com\/collections\/adapter\" class=\"ug-mega-sub\">Adapters<\/a>\n      <a href=\"https:\/\/www.ugreen.com\/collections\/docking-station\" class=\"ug-mega-sub\">Docking Station<\/a>\n    <\/div>\n  <\/div>\n  <div class=\"ug-mega-item ug-mega-item-with-img\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/40393_8fd026c1-bcbb-487c-b86c-e06ba61cbf88.png?v=1658728431\">\n    <div class=\"ug-mega-menu\">\n      <a href=\"https:\/\/www.ugreen.com\/collections\/holder-protectors\" class=\"ug-mega-main\">STANDS &amp;\n        PROTECTORS\n      <\/a>\n      <a href=\"https:\/\/www.ugreen.com\/collections\/phone-stand\" class=\"ug-mega-sub\">Phone Stands<\/a>\n      <a href=\"https:\/\/www.ugreen.com\/collections\/tablet-stands\" class=\"ug-mega-sub\">Tablet Stands<\/a>\n      <a href=\"https:\/\/www.ugreen.com\/collections\/car-phone-stand\" class=\"ug-mega-sub\">Car Phone Holders\n      <\/a>\n    <\/div>\n    <!--    <a href=\"https:\/\/www.ugreen.com\/pages\/back-to-school-sale\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/300-100.png?v=1660810865\"><\/a>-->\n  <\/div>\n  <div class=\"ug-mega-item\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/90504.png?v=1658728430\">\n    <div class=\"ug-mega-menu\">\n      <a href=\"https:\/\/www.ugreen.com\/products\/ugreen-100w-usb-c-diginest-pro-power-strip?variant=39815555481662\" class=\"ug-mega-main\">POWER STRIP\n      <\/a>\n    <\/div>\n  <\/div>\n  <div class=\"ug-mega-item\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/90242_26750508-bb5b-4663-a00f-cbbf38625c8d.png?v=1658728430\">\n    <div class=\"ug-mega-menu\">\n      <a href=\"https:\/\/www.ugreen.com\/collections\/earphones\" class=\"ug-mega-main\">EARBUDS\n      <\/a>\n    <\/div>\n  <\/div>\n  <!--<div class=\"ug-mega-item\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/90505.png?v=1658728430\">\n    <div class=\"ug-mega-menu\">\n      <a href=\"https:\/\/www.ugreen.com\/collections\/mouse-keyboard\" class=\"ug-mega-main\">MOUSE &amp;<br>\n        KEYBOARD<\/a>\n    <\/div>\n  <\/div>-->\n    <div class=\"ug-mega-item ug-mega-item-ads\" style=\"width: 100%;max-width: 620px;\">\n      <a href=\"https:\/\/www.ugreen.com\/pages\/nexode-series\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/1026_620_132.jpg?v=1666859400\" style=\"width: 100%;height: auto;\"><\/a>\n    <\/div>\n<\/div>",
               "page": "",
               "col": "12"
             }
