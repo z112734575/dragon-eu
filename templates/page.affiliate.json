@@ -131,7 +131,7 @@
             "text_lh_mb": 40,
             "text_ls_mb": 0,
             "text_mgb_mobile": 0,
-            "animation": "none"
+            "animation": "fadeInUp"
           }
         }
       },
