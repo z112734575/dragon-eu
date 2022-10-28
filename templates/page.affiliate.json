@@ -928,7 +928,7 @@
           "type": "bl_col",
           "settings": {
             "col_dk": "12",
-            "col_tb": "6",
+            "col_tb": "12",
             "col_mb": "12",
             "align_vertical": false,
             "content_align": "center",
