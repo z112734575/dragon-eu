@@ -1736,8 +1736,8 @@
             "content_align_tablet": "center",
             "content_align_mobile": "center",
             "padding_inner": "30px,,30px,",
-            "padding_inner_tb": "30px,30px,30px,30px",
-            "padding_inner_mb": "30px,30px,30px,30px",
+            "padding_inner_tb": "20px,30px,30px,30px",
+            "padding_inner_mb": "20px,30px,30px,30px",
             "bg_cl": "#ffffff"
           }
         },
@@ -1799,8 +1799,8 @@
             "content_align_tablet": "center",
             "content_align_mobile": "center",
             "padding_inner": "30px,,30px,",
-            "padding_inner_tb": "30px,30px,30px,30px",
-            "padding_inner_mb": "30px,30px,30px,30px",
+            "padding_inner_tb": "20px,30px,30px,30px",
+            "padding_inner_mb": "20px,30px,30px,30px",
             "bg_cl": "#ffffff"
           }
         },

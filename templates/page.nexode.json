@@ -196,7 +196,7 @@
         "template--14472078393406__867d840b-8b98-4e54-8f6c-cf49c0ae958b-1666662539e143751c-0": {
           "type": "image_parent",
           "settings": {
-            "image": "shopify:\/\/shop_images\/pc_145b7d83-0e1f-40d0-a362-925538d7769c.jpg",
+            "image": "shopify:\/\/shop_images\/pc_0a51bf52-8948-457f-8671-af3a6a0f19f6.png",
             "image_mb": "shopify:\/\/shop_images\/Nexode_Banner-mo_81246af0-ef91-4902-80c1-9e23a435c722.jpg",
             "image_position": "8",
             "cl_img": "",
@@ -357,7 +357,7 @@
         "template--14472078393406__b99e443c-c59f-47df-a32b-d193fbb25afa-16666887388d63ec6d-4": {
           "type": "image_parent",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Mask_group-1.jpg",
+            "image": "shopify:\/\/shop_images\/Mask_group_c0abec0c-2939-49ce-b7fd-fd0526531461.jpg",
             "image_mb": "shopify:\/\/shop_images\/Group_396.jpg",
             "image_position": "8",
             "cl_img": "",
@@ -367,7 +367,7 @@
             "text_align": "start",
             "text_align_mb": "center",
             "content_width": "auto",
-            "cv_pos": 70,
+            "cv_pos": 75,
             "ch_pos": 14,
             "cv_pos_mb": 30,
             "ch_pos_mb": 17,
@@ -699,7 +699,7 @@
         "a700388a-a59e-4a96-b687-ee0aabd48c08": {
           "type": "custom_text",
           "settings": {
-            "text": "Nexode 45W Desktop Charger",
+            "text": "Nexode mini 45W Charger",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#272e3b",
