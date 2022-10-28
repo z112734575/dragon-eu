@@ -83,7 +83,7 @@
             "image_mb": "shopify:\/\/shop_images\/Group_153.jpg",
             "image_position": "8",
             "cl_img": "",
-            "link_img1": "",
+            "link_img1": "#",
             "open_link": "_blank",
             "animate_slide": "none",
             "text_align": "center",
@@ -394,7 +394,7 @@
           "type": "custom_button",
           "settings": {
             "button_text": "BUY NOW",
-            "button_link": "https:\/\/www.ugreen.com\/pages\/nexode",
+            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-nexode-45w-dual-c-port-wall-charger?variant=39915631083582",
             "target_link": "_blank",
             "fontf": "inherit",
             "button_icon_w": 16,
@@ -578,7 +578,7 @@
         "17b367f3-4221-487c-a6f8-05b0c8f65c0c": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/Group_420.png",
+            "image_child": "shopify:\/\/shop_images\/40913-313924.webp",
             "img_width": 0,
             "img_width_mb": 0,
             "hidden_mobile": false,
@@ -613,7 +613,7 @@
           "type": "custom_button",
           "settings": {
             "button_text": "Learn More",
-            "button_link": "https:\/\/www.ugreen.com\/pages\/nexode",
+            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-nexode-200w-usb-c-desktop-charger?variant=39915630952510",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -687,7 +687,7 @@
         "83fb889e-2c6f-428c-8b2b-0d5a749f2505": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/Group_421.png",
+            "image_child": "shopify:\/\/shop_images\/90572_67dd85a0-367b-4542-b4a0-797650d690a1-749048.webp",
             "img_width": 0,
             "img_width_mb": 0,
             "hidden_mobile": false,
@@ -699,7 +699,7 @@
         "a700388a-a59e-4a96-b687-ee0aabd48c08": {
           "type": "custom_text",
           "settings": {
-            "text": "Nexode 200W Desktop Charger",
+            "text": "Nexode 45W Desktop Charger",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#272e3b",
@@ -722,7 +722,7 @@
           "type": "custom_button",
           "settings": {
             "button_text": "Learn More",
-            "button_link": "https:\/\/www.ugreen.com\/pages\/nexode",
+            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-nexode-45w-dual-c-port-wall-charger?variant=39915631083582",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -897,7 +897,7 @@
         "77f1b719-e2bf-419c-8214-3a131915a81e": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/Group_422.png",
+            "image_child": "shopify:\/\/shop_images\/90548-802874.webp",
             "img_width": 0,
             "img_width_mb": 0,
             "hidden_mobile": false,
@@ -909,7 +909,7 @@
         "004da535-71b3-442d-b6a5-76dd3a2dc565": {
           "type": "custom_text",
           "settings": {
-            "text": "Nexode 65W Charger",
+            "text": "Nexode 140W Charger",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#272e3b",
@@ -932,7 +932,7 @@
           "type": "custom_button",
           "settings": {
             "button_text": "Learn More",
-            "button_link": "https:\/\/www.ugreen.com\/pages\/nexode",
+            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-nexode-140w-usb-c-wall-charger?variant=39915630854206",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -1072,7 +1072,7 @@
         "98cf8b57-6a5e-45fe-b1cd-27b55c079650": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/Group_423.png",
+            "image_child": "shopify:\/\/shop_images\/nexode100w-298351.webp",
             "img_width": 0,
             "img_width_mb": 0,
             "hidden_mobile": false,
@@ -1107,7 +1107,7 @@
           "type": "custom_button",
           "settings": {
             "button_text": "Learn More",
-            "button_link": "https:\/\/www.ugreen.com\/pages\/nexode",
+            "button_link": "https:\/\/www.ugreen.com\/products\/100w-3c1a-gan-fast-charger?variant=39915656675390",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
