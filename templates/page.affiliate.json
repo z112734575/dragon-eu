@@ -1496,6 +1496,312 @@
         "use_cus_css": false,
         "code_cus_css": ""
       }
+    },
+    "823b826e-3022-4f74-97f3-59d0cb229576": {
+      "type": "custom-section",
+      "blocks": {
+        "template--14473888792638__823b826e-3022-4f74-97f3-59d0cb229576-166693669805a6346a-0": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "12",
+            "col_tb": "12",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "rgba(0,0,0,0)"
+          }
+        },
+        "template--14473888792638__823b826e-3022-4f74-97f3-59d0cb229576-166693669805a6346a-1": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Common Questions and Answers",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#000000",
+            "text_fs": 40,
+            "text_lh": 47,
+            "text_fw": 900,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 0,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "2ddda490-d5fb-4f6b-9191-4f1a719f2c0a": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "12",
+            "col_tb": "12",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "start",
+            "content_align_tablet": "start",
+            "content_align_mobile": "start",
+            "padding_inner": "",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "#fff"
+          }
+        },
+        "7f7de41d-7315-476c-b158-c43d79e2f582": {
+          "type": "custom_text",
+          "settings": {
+            "text": "1. Who is allowed to join the program?",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#000000",
+            "text_fs": 20,
+            "text_lh": 23,
+            "text_fw": 600,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 10,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "9cc421e4-465f-42c7-9eb4-6506bf865e11": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Whether you are a large network, content site, social media influencer or blogger, we have simple linking tools to meet your advertising needs and help you monetize",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#6b6b6b",
+            "text_fs": 16,
+            "text_lh": 26,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 0,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "b8f3ad72-29ea-4812-980e-3d7e18f0a42f": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "12",
+            "col_tb": "12",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "start",
+            "content_align_tablet": "start",
+            "content_align_mobile": "start",
+            "padding_inner": "",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "#fff"
+          }
+        },
+        "3d68d1e6-6030-4221-8c57-fa04e8fa4026": {
+          "type": "custom_text",
+          "settings": {
+            "text": "2. How do I join the program? Is there need for a fee?",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#000000",
+            "text_fs": 20,
+            "text_lh": 23,
+            "text_fw": 600,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 10,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "ede32101-4e67-4d52-ad8e-47417065da89": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Step 1: Apply for the affiliate program and sign up as an affiliate or a publisher.",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#6b6b6b",
+            "text_fs": 16,
+            "text_lh": 19,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 5,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "5cf07bbe-35ca-4660-9300-81a1141219d1": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Step 2: Receive our links, promote them, and watch your commission roll in.",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#6b6b6b",
+            "text_fs": 16,
+            "text_lh": 19,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 50,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "5017366b-4fa2-4982-bc2c-cd81e4e8cdec": {
+          "type": "custom_text",
+          "settings": {
+            "text": "If you have any questions about our program, please let us know and we'll be with you as soon as we can!",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#6b6b6b",
+            "text_fs": 16,
+            "text_lh": 19,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 5,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "89801ed8-f0f9-42cc-ab9d-697fe4158a32": {
+          "type": "html",
+          "settings": {
+            "html_content": "<a href=\"email:%20support@ugreen.com\" style=\"font-size: 16px;\nfont-weight: 600;\ncolor: #07C385;\nline-height: 19px;\">Email: support@ugreen.com.<\/a>",
+            "hidden_mobile": false
+          }
+        },
+        "7397e290-82fd-48dc-aa7d-527ce03af582": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "12",
+            "col_tb": "12",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "start",
+            "content_align_tablet": "start",
+            "content_align_mobile": "start",
+            "padding_inner": "",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "#fff"
+          }
+        },
+        "3005ca38-1079-43fd-8dfb-afaaacfac005": {
+          "type": "custom_text",
+          "settings": {
+            "text": "3. CONTACT US",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#000000",
+            "text_fs": 20,
+            "text_lh": 23,
+            "text_fw": 600,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 10,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "cbd19f7a-4224-4c72-873f-1764fec38980": {
+          "type": "custom_text",
+          "settings": {
+            "text": "For more information or question about our Affiliate Program, please feel free to contact",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#6b6b6b",
+            "text_fs": 16,
+            "text_lh": 19,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 5,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "221778c8-5c1d-4609-8b7d-e75211d2a292": {
+          "type": "html",
+          "settings": {
+            "html_content": "<a href=\"email:%20support@ugreen.com\" style=\"font-size: 16px;\nfont-weight: 600;\ncolor: #07C385;\nline-height: 19px;\">support@ugreen.com.<\/a>",
+            "hidden_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14473888792638__823b826e-3022-4f74-97f3-59d0cb229576-166693669805a6346a-0",
+        "template--14473888792638__823b826e-3022-4f74-97f3-59d0cb229576-166693669805a6346a-1",
+        "2ddda490-d5fb-4f6b-9191-4f1a719f2c0a",
+        "7f7de41d-7315-476c-b158-c43d79e2f582",
+        "9cc421e4-465f-42c7-9eb4-6506bf865e11",
+        "b8f3ad72-29ea-4812-980e-3d7e18f0a42f",
+        "3d68d1e6-6030-4221-8c57-fa04e8fa4026",
+        "ede32101-4e67-4d52-ad8e-47417065da89",
+        "5cf07bbe-35ca-4660-9300-81a1141219d1",
+        "5017366b-4fa2-4982-bc2c-cd81e4e8cdec",
+        "89801ed8-f0f9-42cc-ab9d-697fe4158a32",
+        "7397e290-82fd-48dc-aa7d-527ce03af582",
+        "3005ca38-1079-43fd-8dfb-afaaacfac005",
+        "cbd19f7a-4224-4c72-873f-1764fec38980",
+        "221778c8-5c1d-4609-8b7d-e75211d2a292"
+      ],
+      "settings": {
+        "space_h_item": "30",
+        "space_v_item": "30",
+        "space_h_item_mb": "10",
+        "space_v_item_mb": "10",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": "70px,,50px,",
+        "pd": "",
+        "mg_tb": ",,50px,",
+        "pd_tb": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
     }
   },
   "order": [
@@ -1509,6 +1815,7 @@
     "f665116c-ee7c-4295-b7b4-d08e2c573baf",
     "b7697561-aee5-416d-a1ee-25dd54ab4d65",
     "96cd7fa3-fd1c-49b7-af25-a549e7df62ce",
-    "1aaf83d1-eaaf-449b-9913-24d8e7e43fd5"
+    "1aaf83d1-eaaf-449b-9913-24d8e7e43fd5",
+    "823b826e-3022-4f74-97f3-59d0cb229576"
   ]
 }
