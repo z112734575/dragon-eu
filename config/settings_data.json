@@ -60,7 +60,6 @@
     "round_currency": false,
     "notify_currency": true,
     "hover_currency": false,
-    "custom_css": true,
     "global_css": ".t4s-mini_cart__actions .t4s-mini_cart__edit, .t4s-mini_cart__actions .t4s-mini_cart__remove{\ndisplay:none;}",
     "desktop_css": "",
     "share_tumblr": true,
@@ -1685,8 +1684,8 @@
           "a6508826-0ecb-4412-a5d8-a7547aa8d015": {
             "type": "menu",
             "settings": {
-              "title": "Autumn Deals",
-              "url": "shopify:\/\/collections\/autumn-deals",
+              "title": "Nexode Series",
+              "url": "shopify:\/\/pages\/nexode-series",
               "open_link": "_self",
               "menu": "",
               "icon": "",
@@ -1804,6 +1803,7 @@
           },
           "c1b65fc4-c869-4add-b952-80ebd13da769": {
             "type": "menu",
+            "disabled": true,
             "settings": {
               "title": "Heading",
               "url": "",
