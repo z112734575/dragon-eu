@@ -79,8 +79,8 @@
         "template--14473888792638__99edf05a-ff88-418e-a085-d70b1944a189-1666835455dd318b1e-0": {
           "type": "image_parent",
           "settings": {
-            "image": "shopify:\/\/shop_images\/pcbanner.png",
-            "image_mb": "shopify:\/\/shop_images\/banner-mol.png",
+            "image": "shopify:\/\/shop_images\/affiliate_banner.png",
+            "image_mb": "shopify:\/\/shop_images\/affiliate_banner_mol.png",
             "image_position": "8",
             "cl_img": "",
             "link_img1": "",
