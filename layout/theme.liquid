@@ -179,5 +179,5 @@ f=false,d=document,code={use_existing_jquery:function(){return use_existing_jque
 <!-- CRITEO END -->
 
 {% render 'preorder-now' %}
-  {% if content_for_header contains 'product_label' %}{% include 'bss-product-label-js' %}{% include 'bss-label-style-css' %}{% endif %}</body>
+  {% if content_for_header contains 'product_label' %}{% include 'bss-product-label-js' %}{% include 'bss-label-style-css' %}{% endif %}{% if content_for_header contains 'product_label' %}{% include 'bss-product-label-js' %}{% include 'bss-label-style-css' %}{% include 'bss-product-label-fonts' %}{% endif %}</body>
 </html>
