@@ -543,7 +543,6 @@
     },
     "74a28ab7-73d4-4661-a531-a9a1fcf4dde0": {
       "type": "hero_image",
-      "disabled": true,
       "blocks": {
         "template--14475737169982__74a28ab7-73d4-4661-a531-a9a1fcf4dde0-16672843157d164579-0": {
           "type": "custom_text",
@@ -634,7 +633,7 @@
         "height_tb": 400,
         "custom_mb": true,
         "height_mb": 250,
-        "image": "shopify:\/\/shop_images\/Black_Friday_Union.png",
+        "image": "shopify:\/\/shop_images\/Black_Friday_bgm_hover.png",
         "parallax": false,
         "image_position": "0",
         "link_img1": "",
