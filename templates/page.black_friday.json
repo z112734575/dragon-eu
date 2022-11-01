@@ -133,9 +133,9 @@
           "settings": {
             "image_child": "shopify:\/\/shop_images\/Black_Friday_banner_text.png",
             "hidden_mobile": false,
-            "mgb": 20,
-            "mgb_mb": 20,
-            "animation": "none"
+            "mgb": 0,
+            "mgb_mb": 0,
+            "animation": "fadeInUp"
           }
         }
       },
