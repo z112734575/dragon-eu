@@ -170,6 +170,103 @@
         "code_cus_css": ""
       }
     },
+    "51ff89be-52b3-4bda-8376-5d99897c4eec": {
+      "type": "hero_image",
+      "blocks": {
+        "template--14475737169982__51ff89be-52b3-4bda-8376-5d99897c4eec-1667304630268e5b92-2": {
+          "type": "custom_button",
+          "settings": {
+            "button_text": "balck Friday",
+            "button_link": "#",
+            "target_link": "_self",
+            "fontf": "inherit",
+            "button_icon_w": 0,
+            "button_style": "default",
+            "button_effect": "default",
+            "pri_cl": "#000000",
+            "second_cl": "#000000",
+            "pri_cl_hover": "#000000",
+            "second_cl_hover": "#fff",
+            "fsbutton": 14,
+            "fwbutton": 500,
+            "button_ls": 0,
+            "button_mh": 42,
+            "button_bdr": 0,
+            "button_pd_lr": 20,
+            "button_mgb": 20,
+            "hidden_mobile": false,
+            "button_icon_w_mb": 0,
+            "fsbutton_mb": 20,
+            "button_mh_mb": 40,
+            "button_pd_lr_mb": 12,
+            "button_ls_mb": 0,
+            "button_mgb_mb": 20,
+            "animation": "fadeInUp"
+          }
+        },
+        "9041784b-5825-48ca-b7ee-72cb1fa26d01": {
+          "type": "image",
+          "settings": {
+            "image_child": "shopify:\/\/shop_images\/Black_Friday_banner_text_mol.png",
+            "hidden_mobile": false,
+            "mgb": 0,
+            "mgb_mb": 0,
+            "animation": "fadeInUp"
+          }
+        }
+      },
+      "block_order": [
+        "template--14475737169982__51ff89be-52b3-4bda-8376-5d99897c4eec-1667304630268e5b92-2",
+        "9041784b-5825-48ca-b7ee-72cb1fa26d01"
+      ],
+      "settings": {
+        "se_height": "t4s_ratioadapt",
+        "custom_dk": true,
+        "height_dk": 600,
+        "custom_tb": true,
+        "height_tb": 400,
+        "custom_mb": true,
+        "height_mb": 250,
+        "image": "shopify:\/\/shop_images\/Black_Friday_banner_mol.png",
+        "parallax": true,
+        "image_position": "0",
+        "link_img1": "",
+        "open_link": "_blank",
+        "text_align": "center",
+        "text_align_mb": "center",
+        "content_width": "container",
+        "cv_pos": 50,
+        "ch_pos": 50,
+        "cv_pos_mb": 30,
+        "ch_pos_mb": 50,
+        "bg_overlay": "#000",
+        "bg_opacity": 0,
+        "bg_content_cl": "#fff",
+        "bg_content_op": 0,
+        "content_pd_tb": 15,
+        "content_pd_lr": 40,
+        "content_pd_tb_mb": 10,
+        "content_pd_lr_mb": 39,
+        "border_bl": false,
+        "br_color": "#222",
+        "br_bg": "#fff",
+        "br_opacity": 50,
+        "br_style": "solid",
+        "br_pd": 20,
+        "br_pd_mb": 10,
+        "time_animation": 1,
+        "animation_delay": 40,
+        "layout": "t4s-container-fluid",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": "",
+        "pd": "",
+        "mg_mb": "",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
+    },
     "30c69fe5-628b-4c0a-af3b-63cb5c94cf4c": {
       "type": "custom-section",
       "blocks": {
@@ -2145,6 +2242,7 @@
     "sidebar-page",
     "5c11bb33-e90a-4725-8a83-eb8f9a5bc513",
     "d9173877-0d74-49ef-ae60-75c5eed6188e",
+    "51ff89be-52b3-4bda-8376-5d99897c4eec",
     "30c69fe5-628b-4c0a-af3b-63cb5c94cf4c",
     "74a28ab7-73d4-4661-a531-a9a1fcf4dde0",
     "8d8d1913-8aec-4a66-bc6e-0d7c3e188253",
