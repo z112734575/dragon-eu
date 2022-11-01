@@ -181,5 +181,9 @@ f=false,d=document,code={use_existing_jquery:function(){return use_existing_jque
 {% render 'preorder-now' %}
   {% if content_for_header contains 'product_label' %}{% include 'bss-product-label-js' %}{% include 'bss-label-style-css' %}{% endif %}{% if content_for_header contains 'product_label' %}{% include 'bss-product-label-js' %}{% include 'bss-label-style-css' %}{% include 'bss-product-label-fonts' %}{% endif %} {% include 'smile-initializer' %}
 
+
+<!-- **BEGIN** Hextom CTB Integration // Main Include - DO NOT MODIFY -->
+    {% render 'hextom_ctb_main', product: product, customer: customer %}
+    <!-- **END** Hextom CTB Integration // Main Include - DO NOT MODIFY -->
 </body>
 </html>
