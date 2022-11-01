@@ -848,6 +848,98 @@
             "button_ls_mb": 0,
             "button_mgb_mb": 0
           }
+        },
+        "b1a17e09-3b6f-4d82-9d48-5c0a8f7ee17e": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "6",
+            "col_tb": "6",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "start",
+            "content_align_tablet": "start",
+            "content_align_mobile": "start",
+            "padding_inner": "",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_image": "shopify:\/\/shop_images\/Black_Friday_product_bgm1.jpg",
+            "bg_cl": "rgba(0,0,0,0)"
+          }
+        },
+        "6d7ae9ea-6d9e-44b2-8870-c5821853a41c": {
+          "type": "image",
+          "settings": {
+            "image_child": "shopify:\/\/shop_images\/70774.png",
+            "img_link": "",
+            "open_link": "_self",
+            "img_width": 0,
+            "img_width_mb": 0,
+            "img_align": "center",
+            "img_align_tb": "center",
+            "img_align_mobile": "center",
+            "b_effect": "none",
+            "hidden_mobile": false,
+            "mgb": 0,
+            "mgb_mb": 0
+          }
+        },
+        "98b3ce47-f06f-489d-a8a7-04c2a95a8394": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Ugreen Nexode 140W USB C Wall Charger",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#fff",
+            "text_fs": 20,
+            "text_lh": 25,
+            "text_fw": 600,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 15,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "84bd3915-c484-48d3-9a57-339d9ca2812f": {
+          "type": "html",
+          "settings": {
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$149.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$149.99<\/p>\n\t\t<\/div>",
+            "hidden_mobile": false
+          }
+        },
+        "3280ed18-060e-4a67-8911-25b67e11f243": {
+          "type": "custom_button",
+          "settings": {
+            "button_text": "buy with 40% off",
+            "button_link": "#",
+            "target_link": "_self",
+            "fontf": "inherit",
+            "button_icon_w": 0,
+            "button_style": "default",
+            "button_effect": "default",
+            "pri_cl": "rgba(0,0,0,0)",
+            "second_cl": "#fff",
+            "pri_cl_hover": "rgba(0,0,0,0)",
+            "second_cl_hover": "#000000",
+            "fsbutton": 14,
+            "fwbutton": 500,
+            "button_ls": 0,
+            "button_mh": 44,
+            "button_bdr": 40,
+            "button_pd_lr": 30,
+            "button_mgb": 0,
+            "hidden_mobile": false,
+            "button_icon_w_mb": 0,
+            "fsbutton_mb": 12,
+            "button_mh_mb": 36,
+            "button_pd_lr_mb": 15,
+            "button_ls_mb": 0,
+            "button_mgb_mb": 0
+          }
         }
       },
       "block_order": [
@@ -855,7 +947,12 @@
         "b37452be-36c1-49b2-a6eb-112a36d37340",
         "template--14475737169982__6d866af2-78c3-4043-aa7a-736bcbb5f93c-1667292855516194e2-1",
         "33337fbc-22e0-4cf8-9982-f62912235d3b",
-        "dc5de825-c393-4a18-9aa1-891c22daef50"
+        "dc5de825-c393-4a18-9aa1-891c22daef50",
+        "b1a17e09-3b6f-4d82-9d48-5c0a8f7ee17e",
+        "6d7ae9ea-6d9e-44b2-8870-c5821853a41c",
+        "98b3ce47-f06f-489d-a8a7-04c2a95a8394",
+        "84bd3915-c484-48d3-9a57-339d9ca2812f",
+        "3280ed18-060e-4a67-8911-25b67e11f243"
       ],
       "settings": {
         "space_h_item": "20",
