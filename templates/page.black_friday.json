@@ -420,6 +420,85 @@
             "html_content": "<div class=\"balck_friday_product_box\">\n\t\t\t<!--原价-->\n\t\t\t<p class=\"balck_friday_product_pirce\">$149.99<\/p>\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p class=\"balck_friday_product_discount\">$149.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
+        },
+        "5b74d3e7-6e8b-43cb-9436-5a37dd3a84c7": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "12",
+            "col_tb": "12",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "start",
+            "content_align_tablet": "start",
+            "content_align_mobile": "start",
+            "padding_inner": "50px,0,0,0",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "rgba(0,0,0,0)"
+          }
+        },
+        "f6444336-b46d-4351-988d-6e0f70432a66": {
+          "type": "custom_text",
+          "settings": {
+            "text": "11.25 officially launched",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#9f9e9a",
+            "text_fs": 14,
+            "text_lh": 16,
+            "text_fw": 500,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 5,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "ffdb02b3-fe4d-44e9-9f58-2f222af62586": {
+          "type": "custom_text",
+          "settings": {
+            "text": "After the price reduction is successful, we will notify you by email",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#9f9e9a",
+            "text_fs": 14,
+            "text_lh": 16,
+            "text_fw": 500,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 5,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "9b7d24d9-16ca-42ea-bf69-586aa6caba65": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Commodities are sold in limited quantities, please purchase as soon as possible after successful participation",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#9f9e9a",
+            "text_fs": 14,
+            "text_lh": 16,
+            "text_fw": 500,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 0,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
         }
       },
       "block_order": [
@@ -438,7 +517,11 @@
         "5b4f7b64-f3ea-432e-b1a5-5a3b16349573",
         "f83b1602-c898-43d4-b78c-ab5778ba630a",
         "778c643e-515f-42a5-9961-15f130703d22",
-        "f03bd7f3-fe62-4283-a559-884490c25d1f"
+        "f03bd7f3-fe62-4283-a559-884490c25d1f",
+        "5b74d3e7-6e8b-43cb-9436-5a37dd3a84c7",
+        "f6444336-b46d-4351-988d-6e0f70432a66",
+        "ffdb02b3-fe4d-44e9-9f58-2f222af62586",
+        "9b7d24d9-16ca-42ea-bf69-586aa6caba65"
       ],
       "settings": {
         "space_h_item": "20",
