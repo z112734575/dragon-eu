@@ -124,7 +124,7 @@
             "button_effect": "default",
             "pri_cl": "#222222",
             "second_cl": "#0c0b0b",
-            "pri_cl_hover": "#000000",
+            "pri_cl_hover": "rgba(0,0,0,0)",
             "second_cl_hover": "#ffffff",
             "fsbutton": 24,
             "fwbutton": 500,
