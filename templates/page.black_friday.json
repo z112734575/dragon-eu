@@ -252,7 +252,7 @@
         "8752788e-8a09-40bc-a12e-01f6aada5909": {
           "type": "custom_text",
           "settings": {
-            "text": "Text",
+            "text": "$149.99",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#f6ddb0",
@@ -269,6 +269,13 @@
             "text_ls_mb": 0,
             "text_mgb_mobile": 10
           }
+        },
+        "af50c3b7-099f-4287-b059-5bf59c02c3dc": {
+          "type": "html",
+          "settings": {
+            "html_content": "<div class=\"balck_friday_product_box\">\n\t\t\t<p class=\"balck_friday_product_pirce\">$149.9<\/p>\n\t\t\t<p class=\"balck_friday_product_discount\">$149.9<\/p>\n\t\t<\/div>",
+            "hidden_mobile": false
+          }
         }
       },
       "block_order": [
@@ -276,7 +283,8 @@
         "b6d887f4-8f35-460f-a524-e5587876a41e",
         "template--14475737169982__30c69fe5-628b-4c0a-af3b-63cb5c94cf4c-1667287703f85be3b2-1",
         "template--14475737169982__30c69fe5-628b-4c0a-af3b-63cb5c94cf4c-1667287703f85be3b2-2",
-        "8752788e-8a09-40bc-a12e-01f6aada5909"
+        "8752788e-8a09-40bc-a12e-01f6aada5909",
+        "af50c3b7-099f-4287-b059-5bf59c02c3dc"
       ],
       "settings": {
         "space_h_item": "20",
