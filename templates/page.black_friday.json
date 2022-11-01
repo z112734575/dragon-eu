@@ -257,15 +257,15 @@
         "template--14475737169982__30c69fe5-628b-4c0a-af3b-63cb5c94cf4c-1667287703f85be3b2-2"
       ],
       "settings": {
-        "space_h_item": "30",
-        "space_v_item": "30",
+        "space_h_item": "20",
+        "space_v_item": "0",
         "space_h_item_mb": "10",
         "space_v_item_mb": "10",
         "layout": "t4s-container-wrap",
         "cl_bg": "#000000",
         "cl_bg_gradient": "",
         "mg": "",
-        "pd": "",
+        "pd": "100px,0,100px,0",
         "mg_tb": "",
         "pd_tb": "",
         "mg_mb": "",
