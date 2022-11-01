@@ -61,7 +61,7 @@
     "5c11bb33-e90a-4725-8a83-eb8f9a5bc513": {
       "type": "custom-html",
       "settings": {
-        "code": "<style>\n\t#shopify-section-template--14475737169982__35bb8824-16ba-4202-9660-b95d1935ed76 #b_template--14475737169982__35bb8824-16ba-4202-9660-b95d1935ed76-1667268331186187f5-3{\n\t\tbackground: linear-gradient(344deg, #F6D898 2%, #F6DDB2 100%)!important;\n\t}\n\t<\/style>",
+        "code": "<style>\n\t#shopify-section-template--14475737169982__35bb8824-16ba-4202-9660-b95d1935ed76 #b_template--14475737169982__35bb8824-16ba-4202-9660-b95d1935ed76-1667268331186187f5-3{\n\t\t    background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_button_bgm.jpg\")center center no-repeat !important;\n\t\t    background-size: 100%;\n\t}\n\t<\/style>",
         "layout": "t4s-container-wrap",
         "cl_bg": "",
         "cl_bg_gradient": "",
