@@ -58,37 +58,6 @@
         "sidebar_pd": 10
       }
     },
-    "bc0c2fe5-836e-4883-a48f-a6067b5d759d": {
-      "type": "countdown",
-      "settings": {
-        "design_heading": "1",
-        "heading_align": "t4s-text-center",
-        "top_heading": "Countdown timer",
-        "icon_heading": "las la-gem",
-        "top_subheading": "",
-        "tophead_mb": 30,
-        "date": "2022\/12\/26",
-        "cdt_des": "1",
-        "cdt_size": "medium",
-        "box_bdr": 0,
-        "bd_width": 0,
-        "space_item": 10,
-        "number_cl": "#ffffff",
-        "text_cl": "#000000",
-        "border_cl": "#000000",
-        "bg_cl": "#000000",
-        "content_align": "t4s-text-center",
-        "layout": "t4s-container-wrap",
-        "cl_bg": "",
-        "cl_bg_gradient": "",
-        "mg": ",,50px,",
-        "pd": "",
-        "mg_mb": ",,30px,",
-        "pd_mb": "",
-        "use_cus_css": false,
-        "code_cus_css": ""
-      }
-    },
     "35bb8824-16ba-4202-9660-b95d1935ed76": {
       "type": "slideshow",
       "blocks": {
@@ -210,13 +179,44 @@
         "use_cus_css": false,
         "code_cus_css": ""
       }
+    },
+    "bc0c2fe5-836e-4883-a48f-a6067b5d759d": {
+      "type": "countdown",
+      "settings": {
+        "design_heading": "1",
+        "heading_align": "t4s-text-center",
+        "top_heading": "Countdown timer",
+        "icon_heading": "las la-gem",
+        "top_subheading": "",
+        "tophead_mb": 30,
+        "date": "2022\/12\/26",
+        "cdt_des": "1",
+        "cdt_size": "medium",
+        "box_bdr": 0,
+        "bd_width": 0,
+        "space_item": 10,
+        "number_cl": "#ffffff",
+        "text_cl": "#000000",
+        "border_cl": "#000000",
+        "bg_cl": "#000000",
+        "content_align": "t4s-text-center",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
     }
   },
   "order": [
     "heading",
     "main",
     "sidebar-page",
-    "bc0c2fe5-836e-4883-a48f-a6067b5d759d",
-    "35bb8824-16ba-4202-9660-b95d1935ed76"
+    "35bb8824-16ba-4202-9660-b95d1935ed76",
+    "bc0c2fe5-836e-4883-a48f-a6067b5d759d"
   ]
 }
