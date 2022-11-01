@@ -543,6 +543,7 @@
     },
     "74a28ab7-73d4-4661-a531-a9a1fcf4dde0": {
       "type": "hero_image",
+      "disabled": true,
       "blocks": {
         "template--14475737169982__74a28ab7-73d4-4661-a531-a9a1fcf4dde0-16672843157d164579-0": {
           "type": "custom_text",
@@ -814,7 +815,7 @@
         "33337fbc-22e0-4cf8-9982-f62912235d3b": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$149.99<\/p>\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_product_bgm1.jpg?v=1667292997&amp;width=900\">\n\t\t\t<p>$149.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$149.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$149.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
