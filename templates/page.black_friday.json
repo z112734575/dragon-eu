@@ -61,7 +61,7 @@
     "5c11bb33-e90a-4725-8a83-eb8f9a5bc513": {
       "type": "custom-html",
       "settings": {
-        "code": "<style>\n\t#shopify-section-template--14475737169982__d9173877-0d74-49ef-ae60-75c5eed6188e .t4s-btn-effect-sweep-to-bottom{\n\t\t    background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_button_bgm.jpg\")center center no-repeat !important;\n\t\t    background-size: 100%;\n\t}\n\t.balck_friday_product_box{\n\t\tdisplay: flex;\n    flex-direction: row;\n    align-content: flex-end;\n    justify-content: center;\n\t}\n\t.balck_friday_product_box .balck_friday_product_pirce{\n\t\tcolor: #f6ddb0;\n\t\tfont-size: 28px;\n\t\tfont-weight: 500;\n\t\tline-height: 35px;\n\t}\n\t.balck_friday_product_box\t.balck_friday_product_discount{\n\t\tcolor: #f6ddb0;\n\t\tfont-size: 16px;\n\t\tfont-weight: 500;\n\t\tline-height: 19px;\n\t\ttext-decoration:line-through\n\t}\n\t<\/style>",
+        "code": "<style>\n\t#shopify-section-template--14475737169982__d9173877-0d74-49ef-ae60-75c5eed6188e .t4s-btn-effect-sweep-to-bottom{\n\t\t    background: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_button_bgm.jpg\")center center no-repeat !important;\n\t\t    background-size: 100%;\n\t}\n\t.balck_friday_product_box{\n\t\t    display: flex;\n    flex-direction: row;\n    align-content: flex-end;\n    justify-content: center;\n    align-items: flex-end;\n\t}\n\t.balck_friday_product_box .balck_friday_product_pirce{\n\t\tcolor: #f6ddb0;\n\t\tfont-size: 28px;\n\t\tfont-weight: 500;\n\t\tline-height: 28px;\n\t}\n\t.balck_friday_product_box\t.balck_friday_product_discount{\n\t\tcolor: #f6ddb0;\n\t\tfont-size: 16px;\n\t\tfont-weight: 500;\n\t\tline-height: 19px;\n\t\ttext-decoration:line-through\n\t}\n\t<\/style>",
         "layout": "t4s-container-wrap",
         "cl_bg": "",
         "cl_bg_gradient": "",
@@ -228,52 +228,10 @@
             "text_mgb_mobile": 10
           }
         },
-        "template--14475737169982__30c69fe5-628b-4c0a-af3b-63cb5c94cf4c-1667287703f85be3b2-2": {
-          "type": "custom_text",
-          "settings": {
-            "text": "$149.99",
-            "remove_br_tag": false,
-            "fontf": "inherit",
-            "text_cl": "#f6ddb0",
-            "text_fs": 28,
-            "text_lh": 35,
-            "text_fw": 500,
-            "text_ls": 0,
-            "font_italic": false,
-            "text_shadow": false,
-            "text_mgb": 0,
-            "hidden_mobile": false,
-            "text_fs_mb": 16,
-            "text_lh_mb": 0,
-            "text_ls_mb": 0,
-            "text_mgb_mobile": 10
-          }
-        },
-        "8752788e-8a09-40bc-a12e-01f6aada5909": {
-          "type": "custom_text",
-          "settings": {
-            "text": "$149.99",
-            "remove_br_tag": false,
-            "fontf": "inherit",
-            "text_cl": "#f6ddb0",
-            "text_fs": 16,
-            "text_lh": 19,
-            "text_fw": 500,
-            "text_ls": 0,
-            "font_italic": false,
-            "text_shadow": false,
-            "text_mgb": 0,
-            "hidden_mobile": false,
-            "text_fs_mb": 16,
-            "text_lh_mb": 0,
-            "text_ls_mb": 0,
-            "text_mgb_mobile": 10
-          }
-        },
         "af50c3b7-099f-4287-b059-5bf59c02c3dc": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_box\">\n\t\t\t<p class=\"balck_friday_product_pirce\">$149.9<\/p>\n\t\t\t<p class=\"balck_friday_product_discount\">$149.9<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_box\">\n\t\t\t<!--原价-->\n\t\t\t<p class=\"balck_friday_product_pirce\">$149.99<\/p>\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p class=\"balck_friday_product_discount\">$149.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         }
@@ -282,8 +240,6 @@
         "template--14475737169982__30c69fe5-628b-4c0a-af3b-63cb5c94cf4c-1667287703f85be3b2-0",
         "b6d887f4-8f35-460f-a524-e5587876a41e",
         "template--14475737169982__30c69fe5-628b-4c0a-af3b-63cb5c94cf4c-1667287703f85be3b2-1",
-        "template--14475737169982__30c69fe5-628b-4c0a-af3b-63cb5c94cf4c-1667287703f85be3b2-2",
-        "8752788e-8a09-40bc-a12e-01f6aada5909",
         "af50c3b7-099f-4287-b059-5bf59c02c3dc"
       ],
       "settings": {
