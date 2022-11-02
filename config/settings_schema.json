@@ -1087,13 +1087,6 @@
         "info": "Max products compare: 6",
         "default": false
       },
-      /*{
-        "type": "checkbox",
-        "id": "enable_compe_popup",
-        "label": "Enable compare popup",
-        "info": "Will shown popup when after click to add compare or click button added compare",
-        "default": false
-      },*/
       {
         "type": "header",
         "content": "+ Reviews"
@@ -1124,7 +1117,7 @@
           },
           {
             "value": "8",
-            "label": "LAI product aliExpress reviews [install here](https://apps.shopify.com/lai-reviews?utm_source=the4&utm_medium=theme&utm_campaign=partnership&utm_content=dashboard-page)"
+            "label": "LAI product aliExpress reviews [install here](https:\/\/apps.shopify.com\/lai-reviews?utm_source=the4&utm_medium=theme&utm_campaign=partnership&utm_content=dashboard-page)"
           },
           {
             "value": "7",
@@ -1757,7 +1750,7 @@
         "info": "Not working on cart page",
         "options": [
           {
-            "value": "disable", 
+            "value": "disable",
             "label": "Disable"
           },
           {
@@ -1770,26 +1763,15 @@
         "type": "header",
         "content": "+ Free shipping minimum amount"
       },
-      /*{      
-        "type": "paragraph", 
-        "content": "Free shipping minimum amount needs to be set up as a product."
-      },
       {
-        "type": "number",
-        "id": "shipping_amount",
-        "default": 10000,
-        "label": "Shipping amount",
-        "info":"Make sure that you have properly configured your [shipping rates](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/setting-up-shipping-rates)."
-      },*/
-      {      
-        "type": "paragraph", 
+        "type": "paragraph",
         "content": "Free shipping minimum amount needs to be set up as a product."
       },
       {
         "type": "product",
         "id": "free_ship_pr",
         "label": "Product shipping amount",
-        "info":"Make sure that you have properly configured your [shipping rates](https://help.shopify.com/en/manual/shipping/setting-up-and-managing-your-shipping/setting-up-shipping-rates)."
+        "info": "Make sure that you have properly configured your [shipping rates](https:\/\/help.shopify.com\/en\/manual\/shipping\/setting-up-and-managing-your-shipping\/setting-up-shipping-rates)."
       },
       {
         "type": "checkbox",
@@ -1938,13 +1920,6 @@
         "type": "header",
         "content": "+ My Account Page"
       },
-      /*{
-        "type": "checkbox",
-        "id": "lr_enable",
-        "label": "Login and register",
-        "info": "Enable for login and register in one page",
-        "default": true
-      },*/
       {
         "type": "checkbox",
         "id": "use_privacy_policy",
