@@ -554,7 +554,7 @@
       ],
       "settings": {
         "space_h_item": "20",
-        "space_v_item": "0",
+        "space_v_item": "20",
         "space_h_item_mb": "20",
         "space_v_item_mb": "20",
         "layout": "t4s-container-wrap",
