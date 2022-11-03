@@ -716,11 +716,36 @@
             "text_ls_mb": 0,
             "text_mgb_mobile": 0
           }
+        },
+        "b276bb8a-a1d9-4aeb-979a-6553ba4ee509": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "6",
+            "col_tb": "6",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "#fff"
+          }
+        },
+        "6db896d1-d5fb-4304-87cc-79101a878287": {
+          "type": "html",
+          "settings": {
+            "html_content": "<div class=\"ug-product-discount\">\n\t\t                <div class=\"ug-product-discount-box\">\n\t\t                  <div class=\"ug-product-discount-sum\">\n\t\t                    <span class=\"percent\">20%<\/span>\n\t\t                    <span class=\"off\">OFF<\/span>\n\t\t                    <div class=\"desc\">Autumn Deal<\/div>\n\t\t                  <\/div>\n\t\t                  <div class=\"ug-product-discount-code\">\n\t\t                    <span>Code: UGINSITE  <\/span>\n\t\t                    <button data-clipboard-text=\"UGINSITE\" class=\"ug-product-discount-btn\">COPY<\/button>\n\t\t                    <button data-clipboard-text=\"UGINSITE\" class=\"ug-product-discount-btned\">COPIED<\/button>\n\t\t                  <\/div>\n\t\t                <\/div>\n\t\t              <\/div>",
+            "hidden_mobile": false
+          }
         }
       },
       "block_order": [
         "template--14475737169982__8d8d1913-8aec-4a66-bc6e-0d7c3e188253-16672916308e9b14c0-0",
-        "template--14475737169982__8d8d1913-8aec-4a66-bc6e-0d7c3e188253-16672916308e9b14c0-1"
+        "template--14475737169982__8d8d1913-8aec-4a66-bc6e-0d7c3e188253-16672916308e9b14c0-1",
+        "b276bb8a-a1d9-4aeb-979a-6553ba4ee509",
+        "6db896d1-d5fb-4304-87cc-79101a878287"
       ],
       "settings": {
         "space_h_item": "30",
