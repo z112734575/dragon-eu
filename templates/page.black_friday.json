@@ -61,7 +61,7 @@
     "5c11bb33-e90a-4725-8a83-eb8f9a5bc513": {
       "type": "custom-html",
       "settings": {
-        "code": "<style>\n#shopify-section-template--14475737169982__d9173877-0d74-49ef-ae60-75c5eed6188e .t4s-content-position a,#shopify-section-template--14475737169982__51ff89be-52b3-4bda-8376-5d99897c4eec .t4s-content-position a {\n\tbackground:url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_button_bgm.jpg\")center center no-repeat !important;\n\tbackground-size:100%;\n}\n#shopify-section-template--14475737169982__d9173877-0d74-49ef-ae60-75c5eed6188e .t4s-content-position div img {\n\tmax-width:930px;\n}\n#shopify-section-template--14475737169982__51ff89be-52b3-4bda-8376-5d99897c4eec .t4s-content-position div {\n\tpadding:0 10px;\n}\n#shopify-section-template--14475737169982__51ff89be-52b3-4bda-8376-5d99897c4eec {\n\tdisplay:none;\n}\n.balck_friday_product_box {\n\tdisplay:flex;\n\tflex-direction:row;\n\talign-content:flex-end;\n\tjustify-content:center;\n\talign-items:flex-end;\n}\n.balck_friday_product_box .balck_friday_product_pirce {\n\tcolor:#f6ddb0;\n\tfont-size:28px;\n\tfont-weight:500;\n\tline-height:28px;\n\tmargin:0;\n}\n.balck_friday_product_box .balck_friday_product_discount {\n\tcolor:#f6ddb0;\n\tfont-size:16px;\n\tfont-weight:500;\n\tline-height:19px;\n\ttext-decoration:line-through;\n\tmargin:0;\n\tpadding-left:5px;\n}\n#shopify-section-template--14475737169982__6d866af2-78c3-4043-aa7a-736bcbb5f93c .t4s-row>div:nth-child(1) {\n\tmargin-bottom:60px;\n}\n#shopify-section-template--14475737169982__6d866af2-78c3-4043-aa7a-736bcbb5f93c .t4s-row>div:nth-child(2) {\n\tmargin-bottom:60px;\n}\n#shopify-section-template--14475737169982__6d866af2-78c3-4043-aa7a-736bcbb5f93c .t4s-w-100 .t4s-img-child {\n\tposition:absolute;\n\tleft:45px;\n\ttop:-15px;\n\twidth:100%;\n\tmax-width:200px;\n\tmargin:0;\n}\n#shopify-section-template--14475737169982__6d866af2-78c3-4043-aa7a-736bcbb5f93c .t4s-w-100 {\n\tpadding-left:45%!important;\n\tposition:relative;\n}\n#shopify-section-template--14475737169982__6d866af2-78c3-4043-aa7a-736bcbb5f93c .t4s-w-100 a {\n\tborder:1px solid #FFFFFF;\n}\n#shopify-section-template--14475737169982__6d866af2-78c3-4043-aa7a-736bcbb5f93c .t4s-w-100 a:hover {\n\tbackground:url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_bgm_hover.png\")center center no-repeat;\n\tbackground-size:100%;\n\tborder:none;\n}\n#shopify-section-template--14475737169982__b0b70919-1ff1-4f25-a208-56cafd95f57a .t4s-row>div:nth-child(1) {\n\tmargin-bottom:60px;\n}\n#shopify-section-template--14475737169982__b0b70919-1ff1-4f25-a208-56cafd95f57a .t4s-row>div:nth-child(2) {\n\tmargin-bottom:60px;\n}\n#shopify-section-template--14475737169982__b0b70919-1ff1-4f25-a208-56cafd95f57a .t4s-w-100 .t4s-img-child {\n\tposition:absolute;\n\tleft:45px;\n\ttop:-15px;\n\twidth:100%;\n\tmax-width:200px;\n\tmargin:0;\n}\n#shopify-section-template--14475737169982__b0b70919-1ff1-4f25-a208-56cafd95f57a .t4s-w-100 {\n\tpadding-left:45%!important;\n\tposition:relative;\n}\n#shopify-section-template--14475737169982__b0b70919-1ff1-4f25-a208-56cafd95f57a .t4s-w-100 a {\n\tborder:1px solid #FFFFFF;\n}\n#shopify-section-template--14475737169982__b0b70919-1ff1-4f25-a208-56cafd95f57a .t4s-w-100 a:hover {\n\tbackground:url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_bgm_hover.png\")center center no-repeat;\n\tbackground-size:100%;\n\tborder:none;\n}\n#shopify-section-template--14475737169982__6a026f6b-fcc5-4cc8-b046-7ef337b5e092 .t4s-row>div:nth-child(1) {\n\tmargin-bottom:60px;\n}\n#shopify-section-template--14475737169982__6a026f6b-fcc5-4cc8-b046-7ef337b5e092 .t4s-row>div:nth-child(2) {\n\tmargin-bottom:60px;\n}\n#shopify-section-template--14475737169982__6a026f6b-fcc5-4cc8-b046-7ef337b5e092 .t4s-w-100 .t4s-img-child {\n\tposition:absolute;\n\tleft:45px;\n\ttop:-15px;\n\twidth:100%;\n\tmax-width:200px;\n\tmargin:0;\n}\n#shopify-section-template--14475737169982__6a026f6b-fcc5-4cc8-b046-7ef337b5e092 .t4s-w-100 {\n\tpadding-left:45%!important;\n\tposition:relative;\n}\n#shopify-section-template--14475737169982__6a026f6b-fcc5-4cc8-b046-7ef337b5e092 .t4s-w-100 a {\n\tborder:1px solid #FFFFFF;\n}\n#shopify-section-template--14475737169982__6a026f6b-fcc5-4cc8-b046-7ef337b5e092 .t4s-w-100 a:hover {\n\tbackground:url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_bgm_hover.png\")center center no-repeat;\n\tbackground-size:100%;\n\tborder:none;\n}\n.balck_friday_product_codebox {\n\tdisplay:flex;\n\tflex-direction:row;\n\talign-content:flex-end;\n\tjustify-content:flex-start;\n\talign-items:center;\n\tmargin-bottom:30px;\n}\n.balck_friday_product_codebox p {\n\tcolor:#f6ddb0;\n\tfont-size:28px;\n\tfont-weight:500;\n\tline-height:35px;\n\tmargin:0;\n}\n.balck_friday_product_codebox img {\n\twidth:100%;\n\tmax-width:40px;\n\tmargin:0 15px;\n}\n\/*倒计时*\/\n#shopify-section-template--14475737169982__166735473386a52bc2 {\n\tposition:absolute;\n\tmargin-top:-162px;\n\tz-index:1;\n\twidth:100%;\n}\n#shopify-section-template--14475737169982__166735473386a52bc2 #epb-flip-clock {\n\tpadding:40px 15px 10px 15px!important;\n\tmargin:0!important;\n\tbackground-color:#312C22;\n}\n#shopify-section-template--14475737169982__166735473386a52bc2 #epb-flip-clock .flip-clock-dividerht .flip-clock-label {\n\tfont-size:14px;\n\tcolor:#FFFFFF;\n\tline-height:16px;\n\ttext-transform:capitalize;\n\ttop:-24px!important;\n}\n#shopify-section-template--14475737169982__166735473386a52bc2 .flip-clock-wrapperht ul li a div.up:after {\n\tbackground:url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_time_text_bgm_256x256.png\")center center no-repeat!important;\n\ttop:37px!important;\n\theight:16px!important;\n}\n#shopify-section-template--14475737169982__166735473386a52bc2 .flip-clock-wrapperht ul li a div.down:after {\n\tcontent:\"\";\n\tposition:absolute;\n\ttop:-10px;\n\tleft:0;\n\tz-index:5;\n\twidth:100%;\n\theight:16px;\n\tbackground:url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_time_text_bgm_256x256.png\")center center no-repeat!important;\n}\n#shopify-section-template--14475737169982__166735473386a52bc2 #epb_bar {\n\tpadding:0!important;\n}\n#shopify-section-template--14475737169982__166735473386a52bc2 #epb_message_one {\n\tbackground:url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_time_icon_1_256x256.png\")center center no-repeat!important;\n\twidth:60px;\n\theight:60px;\n\tmargin:0 20px 0 o!important;\n}\n#shopify-section-template--14475737169982__166735473386a52bc2  #epb_content {\n\tdisplay:flex!important;\n\tflex-direction:row;\n\talign-content:center;\n\tjustify-content:center;\n\talign-items:center;\n}\n@media (max-width:768px) {\n\t#shopify-section-template--14475737169982__d9173877-0d74-49ef-ae60-75c5eed6188e {\n\tdisplay:none;\n}\n#shopify-section-template--14475737169982__51ff89be-52b3-4bda-8376-5d99897c4eec {\n\tdisplay:block;\n}\n#shopify-section-template--14475737169982__166735473386a52bc2 #epb_message_one,#shopify-section-template--14475737169982__166735473386a52bc2 #epb_message_two {\n\tdisplay:none!important;\n}\n}@media (max-width:767px) {\n\t#shopify-section-template--14475737169982__166735473386a52bc2 #epb-flip-clock {\n\tborder-radius:5px;\n}\n.flip-clock-wrapperht ul li a div div.inn {\n\tfont-size:40.2px!important;\n}\n.flip-clock-wrapperht ul {\n\twidth:34px!important;\n\theight:40.4px!important;\n\tline-height:40.4px!important;\n\tmargin:1.8px!important;\n}\n.flip-clock-wrapperht ul li {\n\tline-height:40.4px!important;\n}\n.flip-clock-dividerht {\n\twidth:7.2px!important;\n\theight:32px!important;\n}\n.flip-clock-dotht.top {\n\ttop:20.6px!important;\n}\n.flip-clock-dotht {\n\twidth:3.6px!important;\n\theight:3.6px!important;\n}\n.flip-clock-dotht.bottom {\n\tbottom:18.6px!important;\n}\n#shopify-section-template--14475737169982__166735473386a52bc2 #epb_content {\n\tbackground:url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_time_icon_1_256x256.png\")center top no-repeat!important;\n\tpadding-top:66px;\n}\n#shopify-section-template--14475737169982__166735473386a52bc2 #epb-flip-clock .flip-clock-dividerht .flip-clock-label {\n\tfont-size:13px!important;\n}\n.flip-clock-dividerht:first-child .flip-clock-label {\n\twidth:90.4px!important;\n}\n.flip-clock-dividerht.hours .flip-clock-label {\n\twidth:90.8px!important;\n}\n.flip-clock-dividerht.minutes .flip-clock-label {\n\twidth:90.8px!important;\n}\n.flip-clock-dividerht.seconds .flip-clock-label {\n\twidth:90.8px!important;\n}\n#shopify-section-template--14475737169982__30c69fe5-628b-4c0a-af3b-63cb5c94cf4c .t4s-col-inner{\n\tbackground-image:url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Group_444_1_256x256.png\")!important;\n\tbackground-size: 100% 100%;\n}\n#shopify-section-template--14475737169982__30c69fe5-628b-4c0a-af3b-63cb5c94cf4c .t4s-w-100 .t4s-img-child {\n\tposition:absolute;\n\tleft:0;\n\ttop:0;\n\twidth:100%;\n\tmax-width:130px;\n\tmargin:0;\n}\n#shopify-section-template--14475737169982__30c69fe5-628b-4c0a-af3b-63cb5c94cf4c .t4s-w-100 {\n\tpadding-left:40%!important;\n\tposition:relative;\n}\n.balck_friday_product_box{\n\tjustify-content: flex-start;\n}\n.balck_friday_product_box .balck_friday_product_pirce{\n\tfont-size: 20px;\n\tline-height: 25px;\n}\n.balck_friday_product_box .balck_friday_product_discount{font-size: 14px;}\n#shopify-section-template--14475737169982__6d866af2-78c3-4043-aa7a-736bcbb5f93c .t4s-w-100 .t4s-img-child{max-width: 130px;}\n#shopify-section-template--14475737169982__6d866af2-78c3-4043-aa7a-736bcbb5f93c .t4s-col-inner{\nbackground-image:url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Group_444_1_256x256.png\")!important;\n\tbackground-size: 100% 100%;\n\tleft:0;\n\ttop:0;\n}\n}<\/style>",
+        "code": "<style>\n#shopify-section-template--14475737169982__d9173877-0d74-49ef-ae60-75c5eed6188e .t4s-content-position a,#shopify-section-template--14475737169982__51ff89be-52b3-4bda-8376-5d99897c4eec .t4s-content-position a {\n\tbackground:url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_button_bgm.jpg\")center center no-repeat !important;\n\tbackground-size:100%;\n}\n#shopify-section-template--14475737169982__d9173877-0d74-49ef-ae60-75c5eed6188e .t4s-content-position div img {\n\tmax-width:930px;\n}\n#shopify-section-template--14475737169982__51ff89be-52b3-4bda-8376-5d99897c4eec .t4s-content-position div {\n\tpadding:0 10px;\n}\n#shopify-section-template--14475737169982__51ff89be-52b3-4bda-8376-5d99897c4eec {\n\tdisplay:none;\n}\n.balck_friday_product_box {\n\tdisplay:flex;\n\tflex-direction:row;\n\talign-content:flex-end;\n\tjustify-content:center;\n\talign-items:flex-end;\n}\n.balck_friday_product_box .balck_friday_product_pirce {\n\tcolor:#f6ddb0;\n\tfont-size:28px;\n\tfont-weight:500;\n\tline-height:28px;\n\tmargin:0;\n}\n.balck_friday_product_box .balck_friday_product_discount {\n\tcolor:#f6ddb0;\n\tfont-size:16px;\n\tfont-weight:500;\n\tline-height:19px;\n\ttext-decoration:line-through;\n\tmargin:0;\n\tpadding-left:5px;\n}\n#shopify-section-template--14475737169982__6d866af2-78c3-4043-aa7a-736bcbb5f93c .t4s-row>div:nth-child(1) {\n\tmargin-bottom:60px;\n}\n#shopify-section-template--14475737169982__6d866af2-78c3-4043-aa7a-736bcbb5f93c .t4s-row>div:nth-child(2) {\n\tmargin-bottom:60px;\n}\n#shopify-section-template--14475737169982__6d866af2-78c3-4043-aa7a-736bcbb5f93c .t4s-w-100 .t4s-img-child {\n\tposition:absolute;\n\tleft:45px;\n\ttop:-15px;\n\twidth:100%;\n\tmax-width:200px;\n\tmargin:0;\n}\n#shopify-section-template--14475737169982__6d866af2-78c3-4043-aa7a-736bcbb5f93c .t4s-w-100 {\n\tpadding-left:45%!important;\n\tposition:relative;\n}\n#shopify-section-template--14475737169982__6d866af2-78c3-4043-aa7a-736bcbb5f93c .t4s-w-100 a {\n\tborder:1px solid #FFFFFF;\n}\n#shopify-section-template--14475737169982__6d866af2-78c3-4043-aa7a-736bcbb5f93c .t4s-w-100 a:hover {\n\tbackground:url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_bgm_hover.png\")center center no-repeat;\n\tbackground-size:100%;\n\tborder:none;\n}\n#shopify-section-template--14475737169982__b0b70919-1ff1-4f25-a208-56cafd95f57a .t4s-row>div:nth-child(1) {\n\tmargin-bottom:60px;\n}\n#shopify-section-template--14475737169982__b0b70919-1ff1-4f25-a208-56cafd95f57a .t4s-row>div:nth-child(2) {\n\tmargin-bottom:60px;\n}\n#shopify-section-template--14475737169982__b0b70919-1ff1-4f25-a208-56cafd95f57a .t4s-w-100 .t4s-img-child {\n\tposition:absolute;\n\tleft:45px;\n\ttop:-15px;\n\twidth:100%;\n\tmax-width:200px;\n\tmargin:0;\n}\n#shopify-section-template--14475737169982__b0b70919-1ff1-4f25-a208-56cafd95f57a .t4s-w-100 {\n\tpadding-left:45%!important;\n\tposition:relative;\n}\n#shopify-section-template--14475737169982__b0b70919-1ff1-4f25-a208-56cafd95f57a .t4s-w-100 a {\n\tborder:1px solid #FFFFFF;\n}\n#shopify-section-template--14475737169982__b0b70919-1ff1-4f25-a208-56cafd95f57a .t4s-w-100 a:hover {\n\tbackground:url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_bgm_hover.png\")center center no-repeat;\n\tbackground-size:100%;\n\tborder:none;\n}\n#shopify-section-template--14475737169982__6a026f6b-fcc5-4cc8-b046-7ef337b5e092 .t4s-row>div:nth-child(1) {\n\tmargin-bottom:60px;\n}\n#shopify-section-template--14475737169982__6a026f6b-fcc5-4cc8-b046-7ef337b5e092 .t4s-row>div:nth-child(2) {\n\tmargin-bottom:60px;\n}\n#shopify-section-template--14475737169982__6a026f6b-fcc5-4cc8-b046-7ef337b5e092 .t4s-w-100 .t4s-img-child {\n\tposition:absolute;\n\tleft:45px;\n\ttop:-15px;\n\twidth:100%;\n\tmax-width:200px;\n\tmargin:0;\n}\n#shopify-section-template--14475737169982__6a026f6b-fcc5-4cc8-b046-7ef337b5e092 .t4s-w-100 {\n\tpadding-left:45%!important;\n\tposition:relative;\n}\n#shopify-section-template--14475737169982__6a026f6b-fcc5-4cc8-b046-7ef337b5e092 .t4s-w-100 a {\n\tborder:1px solid #FFFFFF;\n}\n#shopify-section-template--14475737169982__6a026f6b-fcc5-4cc8-b046-7ef337b5e092 .t4s-w-100 a:hover {\n\tbackground:url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_bgm_hover.png\")center center no-repeat;\n\tbackground-size:100%;\n\tborder:none;\n}\n.balck_friday_product_codebox {\n\tdisplay:flex;\n\tflex-direction:row;\n\talign-content:flex-end;\n\tjustify-content:flex-start;\n\talign-items:center;\n\tmargin-bottom:30px;\n}\n.balck_friday_product_codebox p {\n\tcolor:#f6ddb0;\n\tfont-size:28px;\n\tfont-weight:500;\n\tline-height:35px;\n\tmargin:0;\n}\n.balck_friday_product_codebox img {\n\twidth:100%;\n\tmax-width:40px;\n\tmargin:0 15px;\n}\n\/*倒计时*\/\n#shopify-section-template--14475737169982__166735473386a52bc2 {\n\tposition:absolute;\n\tmargin-top:-162px;\n\tz-index:1;\n\twidth:100%;\n}\n#shopify-section-template--14475737169982__166735473386a52bc2 #epb-flip-clock {\n\tpadding:40px 15px 10px 15px!important;\n\tmargin:0!important;\n\tbackground-color:#312C22;\n}\n#shopify-section-template--14475737169982__166735473386a52bc2 #epb-flip-clock .flip-clock-dividerht .flip-clock-label {\n\tfont-size:14px;\n\tcolor:#FFFFFF;\n\tline-height:16px;\n\ttext-transform:capitalize;\n\ttop:-24px!important;\n}\n#shopify-section-template--14475737169982__166735473386a52bc2 .flip-clock-wrapperht ul li a div.up:after {\n\tbackground:url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_time_text_bgm_256x256.png\")center center no-repeat!important;\n\ttop:37px!important;\n\theight:16px!important;\n}\n#shopify-section-template--14475737169982__166735473386a52bc2 .flip-clock-wrapperht ul li a div.down:after {\n\tcontent:\"\";\n\tposition:absolute;\n\ttop:-10px;\n\tleft:0;\n\tz-index:5;\n\twidth:100%;\n\theight:16px;\n\tbackground:url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_time_text_bgm_256x256.png\")center center no-repeat!important;\n}\n#shopify-section-template--14475737169982__166735473386a52bc2 #epb_bar {\n\tpadding:0!important;\n}\n#shopify-section-template--14475737169982__166735473386a52bc2 #epb_message_one {\n\tbackground:url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_time_icon_1_256x256.png\")center center no-repeat!important;\n\twidth:60px;\n\theight:60px;\n\tmargin:0 20px 0 o!important;\n}\n#shopify-section-template--14475737169982__166735473386a52bc2  #epb_content {\n\tdisplay:flex!important;\n\tflex-direction:row;\n\talign-content:center;\n\tjustify-content:center;\n\talign-items:center;\n}\n@media (max-width:768px) {\n\t#shopify-section-template--14475737169982__d9173877-0d74-49ef-ae60-75c5eed6188e {\n\tdisplay:none;\n}\n#shopify-section-template--14475737169982__51ff89be-52b3-4bda-8376-5d99897c4eec {\n\tdisplay:block;\n}\n#shopify-section-template--14475737169982__166735473386a52bc2 #epb_message_one,#shopify-section-template--14475737169982__166735473386a52bc2 #epb_message_two {\n\tdisplay:none!important;\n}\n}@media (max-width:767px) {\n\t#shopify-section-template--14475737169982__166735473386a52bc2 #epb-flip-clock {\n\tborder-radius:5px;\n}\n.flip-clock-wrapperht ul li a div div.inn {\n\tfont-size:40.2px!important;\n}\n.flip-clock-wrapperht ul {\n\twidth:34px!important;\n\theight:40.4px!important;\n\tline-height:40.4px!important;\n\tmargin:1.8px!important;\n}\n.flip-clock-wrapperht ul li {\n\tline-height:40.4px!important;\n}\n.flip-clock-dividerht {\n\twidth:7.2px!important;\n\theight:32px!important;\n}\n.flip-clock-dotht.top {\n\ttop:20.6px!important;\n}\n.flip-clock-dotht {\n\twidth:3.6px!important;\n\theight:3.6px!important;\n}\n.flip-clock-dotht.bottom {\n\tbottom:18.6px!important;\n}\n#shopify-section-template--14475737169982__166735473386a52bc2 #epb_content {\n\tbackground:url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_time_icon_1_256x256.png\")center top no-repeat!important;\n\tpadding-top:66px;\n}\n#shopify-section-template--14475737169982__166735473386a52bc2 #epb-flip-clock .flip-clock-dividerht .flip-clock-label {\n\tfont-size:13px!important;\n}\n.flip-clock-dividerht:first-child .flip-clock-label {\n\twidth:90.4px!important;\n}\n.flip-clock-dividerht.hours .flip-clock-label {\n\twidth:90.8px!important;\n}\n.flip-clock-dividerht.minutes .flip-clock-label {\n\twidth:90.8px!important;\n}\n.flip-clock-dividerht.seconds .flip-clock-label {\n\twidth:90.8px!important;\n}\n#shopify-section-template--14475737169982__30c69fe5-628b-4c0a-af3b-63cb5c94cf4c .t4s-col-inner{\n\tbackground-image:url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Group_444_1_256x256.png\")!important;\n\tbackground-size: 100% 100%;\n}\n#shopify-section-template--14475737169982__30c69fe5-628b-4c0a-af3b-63cb5c94cf4c .t4s-w-100 .t4s-img-child {\n\tposition:absolute;\n\tleft:0;\n\ttop:0;\n\twidth:100%;\n\tmax-width:130px;\n\tmargin:0;\n}\n#shopify-section-template--14475737169982__30c69fe5-628b-4c0a-af3b-63cb5c94cf4c .t4s-w-100 {\n\tpadding-left:40%!important;\n\tposition:relative;\n}\n.balck_friday_product_box{\n\tjustify-content: flex-start;\n}\n.balck_friday_product_box .balck_friday_product_pirce{\n\tfont-size: 20px;\n\tline-height: 25px;\n}\n.balck_friday_product_box .balck_friday_product_discount{font-size: 14px;}\n#shopify-section-template--14475737169982__6d866af2-78c3-4043-aa7a-736bcbb5f93c .t4s-w-100{\n\tpadding-left: 40%!important;\n}\n#shopify-section-template--14475737169982__6d866af2-78c3-4043-aa7a-736bcbb5f93c .t4s-w-100 .t4s-img-child{max-width: 130px;left: 0;top: 0;}\n#shopify-section-template--14475737169982__6d866af2-78c3-4043-aa7a-736bcbb5f93c .t4s-col-inner,\n#shopify-section-template--14475737169982__b0b70919-1ff1-4f25-a208-56cafd95f57a .t4s-col-inner,\n#shopify-section-template--14475737169982__6a026f6b-fcc5-4cc8-b046-7ef337b5e092 .t4s-col-inner{\nbackground-image:url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Group_444_1_256x256.png\")!important;\n\tbackground-size: 100% 100%;\n\tleft:0;\n\ttop:0;\n}\n.balck_friday_product_codebox{\n\tmargin-bottom: 20px;\n}\n.balck_friday_product_codebox p{\n\tfont-size: 18px;\n\tline-height: 25px;\n}\n.balck_friday_product_codebox img {\n    max-width: 16px;\n    margin: 0 10px;\n}\n#shopify-section-template--14475737169982__6d866af2-78c3-4043-aa7a-736bcbb5f93c .t4s-row>div:nth-child(1) {\n\tmargin-bottom:0;\n}\n#shopify-section-template--14475737169982__6d866af2-78c3-4043-aa7a-736bcbb5f93c .t4s-row>div:nth-child(2) {\n\tmargin-bottom:0;\n}\n#shopify-section-template--14475737169982__b0b70919-1ff1-4f25-a208-56cafd95f57a .t4s-row>div:nth-child(1) {\n\tmargin-bottom:0;\n}\n#shopify-section-template--14475737169982__b0b70919-1ff1-4f25-a208-56cafd95f57a .t4s-row>div:nth-child(2) {\n\tmargin-bottom:0;\n}\n#shopify-section-template--14475737169982__b0b70919-1ff1-4f25-a208-56cafd95f57a .t4s-w-100 .t4s-img-child {\n\tleft:0;\n\ttop:0;\n\twidth:100%;\n\tmax-width:130px;\n}\n#shopify-section-template--14475737169982__b0b70919-1ff1-4f25-a208-56cafd95f57a .t4s-w-100 {\n\tpadding-left:40%!important;\n}\n#shopify-section-template--14475737169982__6a026f6b-fcc5-4cc8-b046-7ef337b5e092 .t4s-row>div:nth-child(1) {\n\tmargin-bottom:0;\n}\n#shopify-section-template--14475737169982__6a026f6b-fcc5-4cc8-b046-7ef337b5e092 .t4s-row>div:nth-child(2) {\n\tmargin-bottom:0;\n}\n#shopify-section-template--14475737169982__6a026f6b-fcc5-4cc8-b046-7ef337b5e092 .t4s-w-100 .t4s-img-child {\n\tleft:0;\n\ttop:0;\n\tmax-width:130px;\n}\n#shopify-section-template--14475737169982__6a026f6b-fcc5-4cc8-b046-7ef337b5e092 .t4s-w-100 {\n\tpadding-left:40%!important;\n}\n}<\/style>",
         "layout": "t4s-container-wrap",
         "cl_bg": "",
         "cl_bg_gradient": "",
@@ -335,7 +335,7 @@
             "text_mgb": 20,
             "hidden_mobile": false,
             "text_fs_mb": 16,
-            "text_lh_mb": 20,
+            "text_lh_mb": 22,
             "text_ls_mb": 0,
             "text_mgb_mobile": 10
           }
@@ -397,7 +397,7 @@
             "text_mgb": 20,
             "hidden_mobile": false,
             "text_fs_mb": 16,
-            "text_lh_mb": 20,
+            "text_lh_mb": 22,
             "text_ls_mb": 0,
             "text_mgb_mobile": 10
           }
@@ -459,7 +459,7 @@
             "text_mgb": 20,
             "hidden_mobile": false,
             "text_fs_mb": 16,
-            "text_lh_mb": 20,
+            "text_lh_mb": 22,
             "text_ls_mb": 0,
             "text_mgb_mobile": 10
           }
@@ -521,7 +521,7 @@
             "text_mgb": 20,
             "hidden_mobile": false,
             "text_fs_mb": 16,
-            "text_lh_mb": 20,
+            "text_lh_mb": 22,
             "text_ls_mb": 0,
             "text_mgb_mobile": 10
           }
@@ -605,7 +605,7 @@
             "text_mgb": 5,
             "hidden_mobile": false,
             "text_fs_mb": 16,
-            "text_lh_mb": 0,
+            "text_lh_mb": 18,
             "text_ls_mb": 0,
             "text_mgb_mobile": 10
           }
@@ -626,7 +626,7 @@
             "text_mgb": 5,
             "hidden_mobile": false,
             "text_fs_mb": 16,
-            "text_lh_mb": 0,
+            "text_lh_mb": 18,
             "text_ls_mb": 0,
             "text_mgb_mobile": 10
           }
@@ -647,7 +647,7 @@
             "text_mgb": 0,
             "hidden_mobile": false,
             "text_fs_mb": 16,
-            "text_lh_mb": 0,
+            "text_lh_mb": 18,
             "text_ls_mb": 0,
             "text_mgb_mobile": 10
           }
@@ -793,9 +793,9 @@
             "text_mgb": 15,
             "hidden_mobile": false,
             "text_fs_mb": 16,
-            "text_lh_mb": 0,
+            "text_lh_mb": 22,
             "text_ls_mb": 0,
-            "text_mgb_mobile": 10
+            "text_mgb_mobile": 20
           }
         },
         "33337fbc-22e0-4cf8-9982-f62912235d3b": {
@@ -846,8 +846,8 @@
             "content_align_tablet": "start",
             "content_align_mobile": "start",
             "padding_inner": "35px,,35px,",
-            "padding_inner_tb": "",
-            "padding_inner_mb": "",
+            "padding_inner_tb": "20px,10px,20px,10px",
+            "padding_inner_mb": "20px,10px,20px,10px",
             "bg_image": "shopify:\/\/shop_images\/Black_Friday_product_bgm1.jpg",
             "bg_cl": "rgba(0,0,0,0)"
           }
@@ -885,9 +885,9 @@
             "text_mgb": 15,
             "hidden_mobile": false,
             "text_fs_mb": 16,
-            "text_lh_mb": 0,
+            "text_lh_mb": 22,
             "text_ls_mb": 0,
-            "text_mgb_mobile": 10
+            "text_mgb_mobile": 20
           }
         },
         "84bd3915-c484-48d3-9a57-339d9ca2812f": {
@@ -938,8 +938,8 @@
             "content_align_tablet": "start",
             "content_align_mobile": "start",
             "padding_inner": "35px,,35px,",
-            "padding_inner_tb": "",
-            "padding_inner_mb": "",
+            "padding_inner_tb": "20px,10px,20px,10px",
+            "padding_inner_mb": "20px,10px,20px,10px",
             "bg_image": "shopify:\/\/shop_images\/Black_Friday_product_bgm1.jpg",
             "bg_cl": "rgba(0,0,0,0)"
           }
@@ -977,9 +977,9 @@
             "text_mgb": 15,
             "hidden_mobile": false,
             "text_fs_mb": 16,
-            "text_lh_mb": 0,
+            "text_lh_mb": 22,
             "text_ls_mb": 0,
-            "text_mgb_mobile": 10
+            "text_mgb_mobile": 20
           }
         },
         "e1d6eb89-fb6b-4dff-9e30-3f4bc4db052c": {
@@ -1030,8 +1030,8 @@
             "content_align_tablet": "start",
             "content_align_mobile": "start",
             "padding_inner": "35px,,35px,",
-            "padding_inner_tb": "",
-            "padding_inner_mb": "",
+            "padding_inner_tb": "20px,10px,20px,10px",
+            "padding_inner_mb": "20px,10px,20px,10px",
             "bg_image": "shopify:\/\/shop_images\/Black_Friday_product_bgm1.jpg",
             "bg_cl": "rgba(0,0,0,0)"
           }
@@ -1069,9 +1069,9 @@
             "text_mgb": 15,
             "hidden_mobile": false,
             "text_fs_mb": 16,
-            "text_lh_mb": 0,
+            "text_lh_mb": 22,
             "text_ls_mb": 0,
-            "text_mgb_mobile": 10
+            "text_mgb_mobile": 20
           }
         },
         "17c63381-dc41-45cd-b938-c55cea43a7ae": {
@@ -1137,8 +1137,8 @@
       "settings": {
         "space_h_item": "20",
         "space_v_item": "0",
-        "space_h_item_mb": "10",
-        "space_v_item_mb": "10",
+        "space_h_item_mb": "20",
+        "space_v_item_mb": "20",
         "layout": "t4s-container-wrap",
         "cl_bg": "#000000",
         "cl_bg_gradient": "",
@@ -1229,8 +1229,8 @@
             "content_align_tablet": "start",
             "content_align_mobile": "start",
             "padding_inner": "35px,,35px,",
-            "padding_inner_tb": "",
-            "padding_inner_mb": "",
+            "padding_inner_tb": "20px,10px,20px,10px",
+            "padding_inner_mb": "20px,10px,20px,10px",
             "bg_image": "shopify:\/\/shop_images\/Black_Friday_product_bgm1.jpg",
             "bg_cl": "rgba(0,0,0,0)"
           }
@@ -1268,9 +1268,9 @@
             "text_mgb": 15,
             "hidden_mobile": false,
             "text_fs_mb": 16,
-            "text_lh_mb": 0,
+            "text_lh_mb": 22,
             "text_ls_mb": 0,
-            "text_mgb_mobile": 10
+            "text_mgb_mobile": 20
           }
         },
         "24d5d4c3-72be-4424-b5fa-e5322f58b437": {
@@ -1321,8 +1321,8 @@
             "content_align_tablet": "start",
             "content_align_mobile": "start",
             "padding_inner": "35px,,35px,",
-            "padding_inner_tb": "",
-            "padding_inner_mb": "",
+            "padding_inner_tb": "20px,10px,20px,10px",
+            "padding_inner_mb": "20px,10px,20px,10px",
             "bg_image": "shopify:\/\/shop_images\/Black_Friday_product_bgm1.jpg",
             "bg_cl": "rgba(0,0,0,0)"
           }
@@ -1360,9 +1360,9 @@
             "text_mgb": 15,
             "hidden_mobile": false,
             "text_fs_mb": 16,
-            "text_lh_mb": 0,
+            "text_lh_mb": 22,
             "text_ls_mb": 0,
-            "text_mgb_mobile": 10
+            "text_mgb_mobile": 20
           }
         },
         "7c2ae97c-e453-46f4-94bf-ddef49514f98": {
@@ -1413,8 +1413,8 @@
             "content_align_tablet": "start",
             "content_align_mobile": "start",
             "padding_inner": "35px,,35px,",
-            "padding_inner_tb": "",
-            "padding_inner_mb": "",
+            "padding_inner_tb": "20px,10px,20px,10px",
+            "padding_inner_mb": "20px,10px,20px,10px",
             "bg_image": "shopify:\/\/shop_images\/Black_Friday_product_bgm1.jpg",
             "bg_cl": "rgba(0,0,0,0)"
           }
@@ -1452,9 +1452,9 @@
             "text_mgb": 15,
             "hidden_mobile": false,
             "text_fs_mb": 16,
-            "text_lh_mb": 0,
+            "text_lh_mb": 22,
             "text_ls_mb": 0,
-            "text_mgb_mobile": 10
+            "text_mgb_mobile": 20
           }
         },
         "842be7f3-8559-4c16-b38c-83ba154ec794": {
@@ -1505,8 +1505,8 @@
             "content_align_tablet": "start",
             "content_align_mobile": "start",
             "padding_inner": "35px,,35px,",
-            "padding_inner_tb": "",
-            "padding_inner_mb": "",
+            "padding_inner_tb": "20px,10px,20px,10px",
+            "padding_inner_mb": "20px,10px,20px,10px",
             "bg_image": "shopify:\/\/shop_images\/Black_Friday_product_bgm1.jpg",
             "bg_cl": "rgba(0,0,0,0)"
           }
@@ -1544,9 +1544,9 @@
             "text_mgb": 15,
             "hidden_mobile": false,
             "text_fs_mb": 16,
-            "text_lh_mb": 0,
+            "text_lh_mb": 22,
             "text_ls_mb": 0,
-            "text_mgb_mobile": 10
+            "text_mgb_mobile": 20
           }
         },
         "608d9cdb-7f6c-463a-af82-5298e57d4266": {
@@ -1612,8 +1612,8 @@
       "settings": {
         "space_h_item": "20",
         "space_v_item": "0",
-        "space_h_item_mb": "10",
-        "space_v_item_mb": "10",
+        "space_h_item_mb": "20",
+        "space_v_item_mb": "20",
         "layout": "t4s-container-wrap",
         "cl_bg": "#000000",
         "cl_bg_gradient": "",
@@ -1743,8 +1743,8 @@
             "content_align_tablet": "start",
             "content_align_mobile": "start",
             "padding_inner": "35px,,35px,",
-            "padding_inner_tb": "",
-            "padding_inner_mb": "",
+            "padding_inner_tb": "20px,10px,20px,10px",
+            "padding_inner_mb": "20px,10px,20px,10px",
             "bg_image": "shopify:\/\/shop_images\/Black_Friday_product_bgm1.jpg",
             "bg_cl": "rgba(0,0,0,0)"
           }
@@ -1782,9 +1782,9 @@
             "text_mgb": 15,
             "hidden_mobile": false,
             "text_fs_mb": 16,
-            "text_lh_mb": 0,
+            "text_lh_mb": 22,
             "text_ls_mb": 0,
-            "text_mgb_mobile": 10
+            "text_mgb_mobile": 20
           }
         },
         "55d56443-89bd-409f-86a9-4a3c7e8b7644": {
@@ -1835,8 +1835,8 @@
             "content_align_tablet": "start",
             "content_align_mobile": "start",
             "padding_inner": "35px,,35px,",
-            "padding_inner_tb": "",
-            "padding_inner_mb": "",
+            "padding_inner_tb": "20px,10px,20px,10px",
+            "padding_inner_mb": "20px,10px,20px,10px",
             "bg_image": "shopify:\/\/shop_images\/Black_Friday_product_bgm1.jpg",
             "bg_cl": "rgba(0,0,0,0)"
           }
@@ -1874,9 +1874,9 @@
             "text_mgb": 15,
             "hidden_mobile": false,
             "text_fs_mb": 16,
-            "text_lh_mb": 0,
+            "text_lh_mb": 22,
             "text_ls_mb": 0,
-            "text_mgb_mobile": 10
+            "text_mgb_mobile": 20
           }
         },
         "3bf775ac-0ef1-4c95-9d91-c7717952b488": {
@@ -1927,8 +1927,8 @@
             "content_align_tablet": "start",
             "content_align_mobile": "start",
             "padding_inner": "35px,,35px,",
-            "padding_inner_tb": "",
-            "padding_inner_mb": "",
+            "padding_inner_tb": "20px,10px,20px,10px",
+            "padding_inner_mb": "20px,10px,20px,10px",
             "bg_image": "shopify:\/\/shop_images\/Black_Friday_product_bgm1.jpg",
             "bg_cl": "rgba(0,0,0,0)"
           }
@@ -1966,9 +1966,9 @@
             "text_mgb": 15,
             "hidden_mobile": false,
             "text_fs_mb": 16,
-            "text_lh_mb": 0,
+            "text_lh_mb": 22,
             "text_ls_mb": 0,
-            "text_mgb_mobile": 10
+            "text_mgb_mobile": 20
           }
         },
         "081e1cfa-1489-48c1-a12a-70156286b789": {
@@ -2019,8 +2019,8 @@
             "content_align_tablet": "start",
             "content_align_mobile": "start",
             "padding_inner": "35px,,35px,",
-            "padding_inner_tb": "",
-            "padding_inner_mb": "",
+            "padding_inner_tb": "20px,10px,20px,10px",
+            "padding_inner_mb": "20px,10px,20px,10px",
             "bg_image": "shopify:\/\/shop_images\/Black_Friday_product_bgm1.jpg",
             "bg_cl": "rgba(0,0,0,0)"
           }
@@ -2058,9 +2058,9 @@
             "text_mgb": 15,
             "hidden_mobile": false,
             "text_fs_mb": 16,
-            "text_lh_mb": 0,
+            "text_lh_mb": 22,
             "text_ls_mb": 0,
-            "text_mgb_mobile": 10
+            "text_mgb_mobile": 20
           }
         },
         "d0ade983-2e50-45cd-8a7b-3d86d523d660": {
@@ -2126,8 +2126,8 @@
       "settings": {
         "space_h_item": "20",
         "space_v_item": "0",
-        "space_h_item_mb": "10",
-        "space_v_item_mb": "10",
+        "space_h_item_mb": "20",
+        "space_v_item_mb": "20",
         "layout": "t4s-container-wrap",
         "cl_bg": "#000000",
         "cl_bg_gradient": "",
