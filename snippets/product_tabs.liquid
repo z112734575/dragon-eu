@@ -163,10 +163,11 @@ assign listTyCurent2 = ''  -%}
                   {%- assign diff_image_pc = diff_images[0] -%}
                   {%- assign diff_image_pe = diff_images[1] -%}
                   {%- assign diff_image_title = diff_images[2] | default: 'Find the best charger for you' -%}
+                   {%- assign custom_height_pe = diff_images[3] | default:  '62' -%}
                         <div class="products_diff_title">{{ diff_image_title }}</div>
                         <div class="products_diff_wrap">
                           <img  class="is-pc" src="{{ diff_image_pc }}" />
-                          <img  class="is-pe" src="{{ diff_image_pe }}" />
+                          <img  class="is-pe" src="{{ diff_image_pe }}" style="height: {{ custom_height_pe }}vh" />
                         </div>
                   {%- endif -%}
              </div>

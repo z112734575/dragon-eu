@@ -684,7 +684,7 @@
           "type": "bl_col",
           "settings": {
             "col_dk": "5",
-            "col_tb": "6",
+            "col_tb": "8",
             "col_mb": "6",
             "align_vertical": false,
             "content_align": "start",
@@ -721,7 +721,7 @@
           "type": "bl_col",
           "settings": {
             "col_dk": "7",
-            "col_tb": "6",
+            "col_tb": "4",
             "col_mb": "6",
             "align_vertical": false,
             "content_align": "start",
