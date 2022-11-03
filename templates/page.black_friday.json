@@ -683,9 +683,9 @@
         "template--14475737169982__8d8d1913-8aec-4a66-bc6e-0d7c3e188253-16672916308e9b14c0-0": {
           "type": "bl_col",
           "settings": {
-            "col_dk": "6",
-            "col_tb": "6",
-            "col_mb": "12",
+            "col_dk": "5",
+            "col_tb": "7",
+            "col_mb": "8",
             "align_vertical": false,
             "content_align": "start",
             "content_align_tablet": "start",
@@ -720,9 +720,9 @@
         "b276bb8a-a1d9-4aeb-979a-6553ba4ee509": {
           "type": "bl_col",
           "settings": {
-            "col_dk": "6",
-            "col_tb": "6",
-            "col_mb": "12",
+            "col_dk": "7",
+            "col_tb": "5",
+            "col_mb": "4",
             "align_vertical": false,
             "content_align": "start",
             "content_align_tablet": "start",
@@ -736,7 +736,7 @@
         "6db896d1-d5fb-4304-87cc-79101a878287": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"ug-product-discount-code black-friday-50\">\n\t\t\t<span>cope-tests<\/span>\n\t\t\t<button data-clipboard-text=\"cope-tests\" class=\"ug-product-discount-btn\">copy code<\/button>\n\t\t\t<button data-clipboard-text=\"cope-tests\" class=\"ug-product-discount-btned\" style=\"display: none;color: #fff;\">copied<\/button>\n\t\t<\/div>",
+            "html_content": "<div class=\"ug-product-discount-code black-friday-50\">\n\t\t\t<span>UGINSITE<\/span>\n\t\t\t<button data-clipboard-text=\"cope-tests\" class=\"ug-product-discount-btn\">copy code<\/button>\n\t\t\t<button data-clipboard-text=\"cope-tests\" class=\"ug-product-discount-btned\" style=\"display: none;color: #fff;\">copied<\/button>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         }
@@ -1183,9 +1183,9 @@
         "template--14475737169982__528ecd5a-e357-412c-81df-eb1247818c04-1667292855516194e2-0": {
           "type": "bl_col",
           "settings": {
-            "col_dk": "4",
+            "col_dk": "3",
             "col_tb": "4",
-            "col_mb": "12",
+            "col_mb": "4",
             "align_vertical": false,
             "content_align": "start",
             "content_align_tablet": "start",
@@ -1216,11 +1216,36 @@
             "text_ls_mb": 0,
             "text_mgb_mobile": 0
           }
+        },
+        "73dc22da-3aa8-46b8-b442-a2acb416072e": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "9",
+            "col_tb": "8",
+            "col_mb": "8",
+            "align_vertical": false,
+            "content_align": "start",
+            "content_align_tablet": "start",
+            "content_align_mobile": "start",
+            "padding_inner": "",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "rgba(0,0,0,0)"
+          }
+        },
+        "12cbdeee-679e-431a-b039-f190ee9db84f": {
+          "type": "html",
+          "settings": {
+            "html_content": "<div class=\"ug-product-discount-code black-friday-50\">\n\t\t\t<span>UGINSITE<\/span>\n\t\t\t<button data-clipboard-text=\"cope-tests\" class=\"ug-product-discount-btn\">copy code<\/button>\n\t\t\t<button data-clipboard-text=\"cope-tests\" class=\"ug-product-discount-btned\" style=\"display: none;color: #fff;\">copied<\/button>\n\t\t<\/div>",
+            "hidden_mobile": false
+          }
         }
       },
       "block_order": [
         "template--14475737169982__528ecd5a-e357-412c-81df-eb1247818c04-1667292855516194e2-0",
-        "template--14475737169982__528ecd5a-e357-412c-81df-eb1247818c04-1667292855516194e2-1"
+        "template--14475737169982__528ecd5a-e357-412c-81df-eb1247818c04-1667292855516194e2-1",
+        "73dc22da-3aa8-46b8-b442-a2acb416072e",
+        "12cbdeee-679e-431a-b039-f190ee9db84f"
       ],
       "settings": {
         "space_h_item": "0",
