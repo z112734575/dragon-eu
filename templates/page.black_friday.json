@@ -296,8 +296,8 @@
             "content_align_tablet": "center",
             "content_align_mobile": "center",
             "padding_inner": "20px,20px,150px,20px",
-            "padding_inner_tb": "",
-            "padding_inner_mb": "",
+            "padding_inner_tb": "20px,20px,150px,20px",
+            "padding_inner_mb": "10px,20px,10px 20px",
             "bg_image": "shopify:\/\/shop_images\/Black_Friday_product_bgm.jpg",
             "bg_cl": "rgba(0,0,0,0)"
           }
