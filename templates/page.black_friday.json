@@ -724,19 +724,19 @@
             "col_tb": "6",
             "col_mb": "12",
             "align_vertical": false,
-            "content_align": "center",
-            "content_align_tablet": "center",
-            "content_align_mobile": "center",
+            "content_align": "start",
+            "content_align_tablet": "start",
+            "content_align_mobile": "start",
             "padding_inner": "",
             "padding_inner_tb": "",
             "padding_inner_mb": "",
-            "bg_cl": "#fff"
+            "bg_cl": "rgba(0,0,0,0)"
           }
         },
         "6db896d1-d5fb-4304-87cc-79101a878287": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"ug-product-discount\">\n\t\t                <div class=\"ug-product-discount-box\">\n\t\t                  <div class=\"ug-product-discount-sum\">\n\t\t                    <span class=\"percent\">20%<\/span>\n\t\t                    <span class=\"off\">OFF<\/span>\n\t\t                    <div class=\"desc\">Autumn Deal<\/div>\n\t\t                  <\/div>\n\t\t                  <div class=\"ug-product-discount-code\">\n\t\t                    <span>Code: UGINSITE  <\/span>\n\t\t                    <button data-clipboard-text=\"UGINSITE\" class=\"ug-product-discount-btn\">COPY<\/button>\n\t\t                    <button data-clipboard-text=\"UGINSITE\" class=\"ug-product-discount-btned\">COPIED<\/button>\n\t\t                  <\/div>\n\t\t                <\/div>\n\t\t              <\/div>",
+            "html_content": "<div class=\"ug-product-discount-code\">\n\t\t                    <span>cope-test<\/span>\n\t\t                    <button data-clipboard-text=\"cope-test\" class=\"ug-product-discount-btn\">copy code<\/button>\n\t\t                    <button data-clipboard-text=\"cope-test\" class=\"ug-product-discount-btned\">copied<\/button>\n\t\t                  <\/div>",
             "hidden_mobile": false
           }
         }
