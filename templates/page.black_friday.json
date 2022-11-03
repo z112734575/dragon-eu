@@ -736,7 +736,7 @@
         "6db896d1-d5fb-4304-87cc-79101a878287": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"ug-product-discount-code\">\n\t\t                    <span>cope-test<\/span>\n\t\t                    <button data-clipboard-text=\"cope-test\" class=\"ug-product-discount-btn\">copy code<\/button>\n\t\t                    <button data-clipboard-text=\"cope-test\" class=\"ug-product-discount-btned\">copied<\/button>\n\t\t                  <\/div>",
+            "html_content": "<div class=\"ug-product-discount\">\n\t\t                <div class=\"ug-product-discount-box\">\n\t\t                  <div class=\"ug-product-discount-code\">\n\t\t                    <span>cope-test<\/span>\n\t\t                    <button data-clipboard-text=\"cope-test\" class=\"ug-product-discount-btn\">copy code<\/button>\n\t\t                    <button data-clipboard-text=\"cope-test\" class=\"ug-product-discount-btned\">copied<\/button>\n\t\t                  <\/div>\n\t\t                <\/div>\n\t\t              <\/div>",
             "hidden_mobile": false
           }
         }
