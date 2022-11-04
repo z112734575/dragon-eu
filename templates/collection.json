@@ -120,7 +120,7 @@
         "3b0cc506-49ea-4851-b5a6-ff7c2153b0e6": {
           "type": "1",
           "settings": {
-            "heading": "",
+            "heading": "{{ collection.title }}",
             "fontf": "inherit",
             "text_cl": "#000000",
             "text_fs": 40,
@@ -137,42 +137,15 @@
             "text_ls_mb": 0,
             "text_mgb_mobile": 5
           }
-        },
-        "68582c09-d394-43f0-b988-c2b38412941b": {
-          "type": "4",
-          "disabled": true,
-          "settings": {
-            "design_des": "excerpt",
-            "length": 35,
-            "view_more": true,
-            "viewm_txt": "View more",
-            "fontf": "inherit",
-            "text_cl": "#ededed",
-            "text_fs": 14,
-            "text_lh": 24,
-            "text_fw": 400,
-            "text_ls": 0,
-            "font_italic": false,
-            "font_uppercase": false,
-            "text_shadow": false,
-            "text_mgb": 0,
-            "hidden_mobile": false,
-            "text_fs_mb": 14,
-            "text_lh_mb": 20,
-            "text_ls_mb": 0,
-            "text_mgb_mobile": 0
-          }
         }
       },
       "block_order": [
-        "3b0cc506-49ea-4851-b5a6-ff7c2153b0e6",
-        "68582c09-d394-43f0-b988-c2b38412941b"
+        "3b0cc506-49ea-4851-b5a6-ff7c2153b0e6"
       ],
       "settings": {
-        "image": "{{ collection.image }}",
         "use_specify_image": false,
         "parallax": false,
-        "color": "rgba(0,0,0,0)",
+        "color": "#fff",
         "overlay": 0,
         "padding": 100,
         "paddingmb": 50,
@@ -183,7 +156,7 @@
         "bg_repeat": "no-repeat",
         "bg_size": "cover",
         "use_cus_css": false,
-        "code_cus_css": ".SectionID {\nbackground-color:red\n}"
+        "code_cus_css": ""
       }
     },
     "main": {
