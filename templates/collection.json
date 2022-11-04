@@ -147,7 +147,7 @@
         "parallax": false,
         "color": "#fff",
         "overlay": 0,
-        "padding": 0,
+        "padding": 65,
         "paddingmb": 0,
         "mg_b": 0,
         "mg_bmb": 0,
