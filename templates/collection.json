@@ -211,7 +211,7 @@
         "btns_size": "large",
         "btns_cl": "dark",
         "button_effect": "rectangle-out",
-        "btn_pos": "t4s-text-start",
+        "btn_pos": "t4s-text-center",
         "type_filters": "facets",
         "layout": "t4s-container-wrap",
         "cl_bg": "",
