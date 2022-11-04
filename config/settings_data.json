@@ -32,7 +32,7 @@
     "label_sale_style": "2",
     "use_new_badge": false,
     "within_cat": false,
-    "enable_quickview": false,
+    "enable_quickview": true,
     "enable_rating": true,
     "enable_atc": true,
     "show_qty": false,
