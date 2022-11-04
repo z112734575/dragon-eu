@@ -313,7 +313,7 @@
     "c15983df-3101-4338-994c-97cd120e489e": {
       "type": "custom-html",
       "settings": {
-        "code": "<div class=\"t4s-text-center\" style=\"color: #fff;\">test<\/div>",
+        "code": "<div class=\"t4s-text-center\" style=\"color: #fff;\">TEST<\/div>",
         "layout": "t4s-container-wrap",
         "cl_bg": "",
         "cl_bg_gradient": "",
