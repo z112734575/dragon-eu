@@ -230,7 +230,7 @@
         "space_v_item": "30",
         "space_h_item_mb": "10",
         "space_v_item_mb": "10",
-        "layout_des": "1",
+        "layout_des": "2",
         "use_pagination": "default",
         "enable_bar_lm": true,
         "btn_icon": false,
