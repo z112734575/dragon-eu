@@ -1104,7 +1104,7 @@
           "ls_pr": 0,
           "size_price_pr": 18,
           "fw_price_pr": 500,
-          "space_img_content": 50,
+          "space_img_content": 0,
           "space_elements": 0,
           "swatch_color_size": 18,
           "swatch_color_size_mb": 20,
