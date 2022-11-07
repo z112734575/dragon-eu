@@ -132,10 +132,10 @@
             "text_shadow": false,
             "text_mgb": 0,
             "hidden_mobile": false,
-            "text_fs_mb": 20,
-            "text_lh_mb": 20,
+            "text_fs_mb": 32,
+            "text_lh_mb": 50,
             "text_ls_mb": 0,
-            "text_mgb_mobile": 5
+            "text_mgb_mobile": 0
           }
         }
       },
@@ -148,7 +148,7 @@
         "color": "#ffffff",
         "overlay": 0,
         "padding": 65,
-        "paddingmb": 0,
+        "paddingmb": 32,
         "mg_b": 0,
         "mg_bmb": 0,
         "content_align": "t4s-text-center",
@@ -201,8 +201,8 @@
         "col_mb": "2",
         "space_h_item": "30",
         "space_v_item": "30",
-        "space_h_item_mb": "10",
-        "space_v_item_mb": "10",
+        "space_h_item_mb": "15",
+        "space_v_item_mb": "20",
         "layout_des": "1",
         "use_pagination": "default",
         "enable_bar_lm": true,
