@@ -35,7 +35,7 @@
     "enable_quickview": false,
     "enable_quickshop": true,
     "enable_rating": true,
-    "enable_atc": false,
+    "enable_atc": true,
     "show_qty": false,
     "pr_border_style": "1",
     "enable_pr_color": true,
