@@ -684,8 +684,7 @@
   .t4s-collection-page .t4s-product .t4s-product-inner {
     padding: 15%;
     background: #f8f8f8; }
-  .t4s-collection-page .t4s-container .t4s-collection-header {
-    display: none !important; }
+  
   .t4s-collection-page #usf_container .usf-sr-container .usf-results {
     -webkit-box-pack: start !important;
         -ms-flex-pack: start !important;
