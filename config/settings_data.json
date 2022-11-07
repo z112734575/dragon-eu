@@ -39,7 +39,7 @@
     "enable_pr_color": true,
     "swatch_item_style": "1",
     "show_color_type": "1",
-    "enable_pr_size": true,
+    "enable_pr_size": false,
     "pr_size_pos": "1",
     "show_img": "1",
     "pr_img_effect": "2",
