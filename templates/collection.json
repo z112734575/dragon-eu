@@ -282,12 +282,28 @@
         "sidebar_bdr": 0,
         "sidebar_pd": 15
       }
+    },
+    "3fcbc43b-4bf9-41ba-9768-629615709922": {
+      "type": "custom-html",
+      "settings": {
+        "code": "<style>\n\/*customize collections CSS*\/\n#shopify-section-template--14478756347966__main .t4s-product-wrapper{\n\tposition: relative;\n}\n#shopify-section-template--14478756347966__main .t4s-product .t4s-product-inner{\n\tposition: initial!important;\n}\n\n<\/style>",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
     }
   },
   "order": [
     "top",
     "heading_template",
     "main",
-    "sidebar"
+    "sidebar",
+    "3fcbc43b-4bf9-41ba-9768-629615709922"
   ]
 }
