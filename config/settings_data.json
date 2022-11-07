@@ -1001,7 +1001,7 @@
             "type": "4",
             "settings": {
               "heading": "Product design 04",
-              "addtocart_color": "#ffffff",
+              "addtocart_color": "#222222",
               "addtocart_color_hover": "#222222",
               "quickview_color": "#ffffff",
               "quickview_color_hover": "#222222",
@@ -1110,7 +1110,7 @@
           "swatch_color_size_mb": 20,
           "pr_btn_round": 0,
           "pr_title_color": "#666666",
-          "pr_title_color_hover": "rgba(0,0,0,0)",
+          "pr_title_color_hover": "#878787",
           "price_color": "#001107",
           "price_sale_color": "#ec0101",
           "vendors_color": "#878787",
