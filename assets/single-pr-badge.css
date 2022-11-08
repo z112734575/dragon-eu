@@ -1,5 +1,5 @@
 .t4s-single-product-badge {
-    opacity: 1 !important;
+    opacity: 0 !important;
     top: 15px;
     right: 15px;
     z-index: 450;
