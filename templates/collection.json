@@ -164,6 +164,7 @@
       "blocks": {
         "684f988d-abe7-4692-8b3a-dbb3706bc26f": {
           "type": "filter",
+          "disabled": true,
           "settings": {
           }
         },
