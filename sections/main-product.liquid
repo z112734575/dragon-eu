@@ -375,12 +375,7 @@ endif -%}
         <div data-t4s-zoom-info class="t4s-{{class_info}} t4s-col-12 t4s-col-item t4s-product__info-wrapper t4s-pr">
           <div id="product-zoom-{{ section.id }}" class="t4s-product__zoom-wrapper"></div>
           <div id="ProductInfo-template--{{se_id}}__main" class="t4s-product__info-container{% if se_stts.enable_sticky_info %} t4s-product__info-container--sticky{% endif %}">
-          {%- if product.compare_at_price -%}
-              <p style="font-size: 12px;
-font-weight: 400;
-color: #00CC88;
-line-height: 14px;display: inline-block;padding: 2px 8px;border: 1px solid #00CC88;border-radius: 3px">Special Offer</p>
-              {%- endif -%}
+          
             {%- for block in seBlocks  %}{% assign bk_stts = block.settings %}{% assign bk_id = block.id -%}
             {%- case block.type -%}
 
@@ -468,65 +463,7 @@ line-height: 14px;display: inline-block;padding: 2px 8px;border: 1px solid #00CC
 
             {%- when 'price_review' -%}
             <div class="t4s-product__price-review" style="--price-size:{{bk_stts.size_price_pr}}px;--price-weight:{{bk_stts.fw_price_pr}};--price-color:{{bk_stts.price_color}};--price-sale-color:{{bk_stts.price_sale_color}};">
-             {%- if product.compare_at_price -%}
-               <label class="coupon_checkbox"><input type="checkbox"  checked > Apply 25% coupon Terms</label>
-               <style>
-        .coupon_checkbox input{
-            width: 16px;
-            height: 16px;
-            background-color: #353535;
-             font-size: 0.8rem;
-            margin: 0 5px 0 0;
-            padding: 0;
-            position: relative;
-            display: inline-block;
-            vertical-align: top;
-            cursor: default;
-            -webkit-appearance: none;
-        }
-        .coupon_checkbox input:checked:before{
-            content: '';
-    width: 10px;
-    height: 5px;
-    border: 2px solid #ffffff;
-    border-top: none;
-    border-right: none;
-    position: absolute;
-    top: 3px;
-    left: 2px;
-    -webkit-transform: rotate(-45deg);
-    transform: rotate(-45deg);
-        }
-        .coupon_checkbox{
-        	font-size: 14px;
-font-weight: 400;
-color: #757575;
-line-height: 21px;
-display: flex;
-    align-items: center;
-        }
-        .coupon_checkbox:hover{
-        	cursor:pointer
-        }
-        .t4s-section-main-product .t4s-product__info-container .t4s-product-price del,.t4s-section-main-product .t4s-product__info-container .t4s-product-price span{
-display: none;
-}
-.t4s-section-main-product .t4s-product__info-container .t4s-product-price ins{
-	margin: 0;
-	color: #001107;
-}
-@media (max-width:768px) {
-	.t4s-product__price-review{
-    align-items: flex-start!important;
-        flex-direction: column-reverse!important;	
-	}
-	.t4s-section-main-product .t4s-product__price-review .t4s-product-price{
-		margin: 10px 0;
-	}
-}
-
-       </style>
-              {%- endif -%}
+             
               {%- render 'product-price-single', variant: current_variant, product:product, PR_no_pick:PR_no_pick, type_sale:bk_stts.type_sale, price_varies_style:bk_stts.price -%}
               {%- if bk_stts.rating -%}
               {%- assign pid = product.id -%}
