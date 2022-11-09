@@ -1,20 +1,5 @@
 {
   "sections": {
-    "af0383be-6107-4dbe-8132-c1a0db4ffceb": {
-      "type": "custom-html",
-      "settings": {
-        "code": "<style>\n        .coupon_checkbox input{\n            width: 16px;\n            height: 16px;\n            background-color: #353535;\n             font-size: 0.8rem;\n            margin: 0 5px 0 0;\n            padding: 0;\n            position: relative;\n            display: inline-block;\n            vertical-align: top;\n            cursor: default;\n            -webkit-appearance: none;\n        }\n        .coupon_checkbox input:checked:before{\n            content: '';\n    width: 10px;\n    height: 5px;\n    border: 2px solid #ffffff;\n    border-top: none;\n    border-right: none;\n    position: absolute;\n    top: 3px;\n    left: 2px;\n    -webkit-transform: rotate(-45deg);\n    transform: rotate(-45deg);\n        }\n        .coupon_checkbox{\n        \tfont-size: 14px;\nfont-weight: 400;\ncolor: #757575;\nline-height: 21px;\ndisplay: flex;\n    align-items: center;\n        }\n        .coupon_checkbox:hover{\n        \tcursor:pointer\n        }\n        .t4s-section-main-product .t4s-product__info-container .t4s-product-price del,.t4s-section-main-product .t4s-product__info-container .t4s-product-price span{\ndisplay: none;\n}\n.t4s-section-main-product .t4s-product__info-container .t4s-product-price ins{\n\tmargin: 0;\n\tcolor: #001107;\n}\n@media (max-width:768px) {\n\t.t4s-product__price-review{\n    align-items: flex-start!important;\n        flex-direction: column-reverse!important;\t\n\t}\n\t.t4s-section-main-product .t4s-product__price-review .t4s-product-price{\n\t\tmargin: 10px 0;\n\t}\n}\n\n       <\/style>",
-        "layout": "t4s-container-wrap",
-        "cl_bg": "",
-        "cl_bg_gradient": "",
-        "mg": "",
-        "pd": "",
-        "mg_mb": "",
-        "pd_mb": "",
-        "use_cus_css": false,
-        "code_cus_css": ""
-      }
-    },
     "166424923084310cbd": {
       "type": "custom-html",
       "settings": {
@@ -571,7 +556,6 @@
     }
   },
   "order": [
-    "af0383be-6107-4dbe-8132-c1a0db4ffceb",
     "166424923084310cbd",
     "breadcrumb",
     "main",
