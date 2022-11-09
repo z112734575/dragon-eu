@@ -375,7 +375,12 @@ endif -%}
         <div data-t4s-zoom-info class="t4s-{{class_info}} t4s-col-12 t4s-col-item t4s-product__info-wrapper t4s-pr">
           <div id="product-zoom-{{ section.id }}" class="t4s-product__zoom-wrapper"></div>
           <div id="ProductInfo-template--{{se_id}}__main" class="t4s-product__info-container{% if se_stts.enable_sticky_info %} t4s-product__info-container--sticky{% endif %}">
-
+          {%- if product.compare_at_price -%}
+              <p style="font-size: 12px;
+font-weight: 400;
+color: #00CC88;
+line-height: 14px;display: inline-block;padding: 2px 8px;border: 1px solid #00CC88;border-radius: 3px">Special Offer</p>
+              {%- endif -%}
             {%- for block in seBlocks  %}{% assign bk_stts = block.settings %}{% assign bk_id = block.id -%}
             {%- case block.type -%}
 
@@ -463,6 +468,9 @@ endif -%}
 
             {%- when 'price_review' -%}
             <div class="t4s-product__price-review" style="--price-size:{{bk_stts.size_price_pr}}px;--price-weight:{{bk_stts.fw_price_pr}};--price-color:{{bk_stts.price_color}};--price-sale-color:{{bk_stts.price_sale_color}};">
+             {%- if product.compare_at_price -%}
+               <label class="coupon_checkbox"><input type="checkbox"  checked > Apply 25% coupon Terms</label>
+              {%- endif -%}
               {%- render 'product-price-single', variant: current_variant, product:product, PR_no_pick:PR_no_pick, type_sale:bk_stts.type_sale, price_varies_style:bk_stts.price -%}
               {%- if bk_stts.rating -%}
               {%- assign pid = product.id -%}
