@@ -82,7 +82,7 @@ endif -%}
 
           {%- elsif on_sale -%}
 
-          <del>{{money_compare_at_price}}</del><ins>{{ 'products.product.from_price_html' | t: price_min: money_price, class: 't4s-price-from' }}</ins>
+          <ins>{{ 'products.product.from_price_html' | t: price_min: money_price, class: 't4s-price-from' }}</ins><del>{{money_compare_at_price}}</del>
 
           {%- else -%}
           {{ 'products.product.from_price_html' | t: price_min: money_price, class: 't4s-price-from' }}
@@ -90,7 +90,7 @@ endif -%}
 
   {%- elsif variant_unit_price_measurement -%}
       <span {% unless isRangePrices %} data-pr-price data-product-price data-saletype="{{type_sale}}"{% endunless %}>
-      {%- if on_sale -%}<del>{{money_compare_at_price}}</del> <ins>{{money_price}}</ins>{{sale_badge_html}}{%- else -%}{{ money_price }}{%- endif -%}
+      {%- if on_sale -%} <ins>{{money_price}}</ins><del>{{money_compare_at_price}}</del>{{sale_badge_html}}{%- else -%}{{ money_price }}{%- endif -%}
       </span>
       
       {%- assign price_unit = variant.unit_price | money -%}
@@ -106,7 +106,7 @@ endif -%}
       {%- endcapture -%}
       <div class="t4s-price__unit"><span data-unit-price class="t4s-unit_price">{{ price_unit }}</span><span>/</span>{{- unit_price_base_unit -}}</div>
 
-  {%- elsif on_sale -%}<del>{{money_compare_at_price}}</del> <ins>{{money_price}}</ins>{{sale_badge_html}}
+  {%- elsif on_sale -%} <ins>{{money_price}}</ins><del>{{money_compare_at_price}}</del>{{sale_badge_html}}
   {%- else -%}{{money_price}}
   {%- endif -%}
 </div>
