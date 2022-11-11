@@ -85,7 +85,8 @@ endif -%}
   <div class="t4s-product-wrapper">
     <div data-cacl-slide class="t4s-product-inner t4s-pr t4s-oh">
       {%- if image != blank %}{% render 'product-img',image:image %}{% endif -%}
-      <div data-product-badge data-sort="sale,new,soldout,preOrder,custom" class="t4s-product-badge"></div>
+      <!--       <div data-product-badge data-sort="sale,new,soldout,preOrder,custom" class="t4s-product-badge"></div> -->
+      <div data-sort="sale,new,soldout,preOrder,custom" class="t4s-product-badge"><span class="t4s-badge-item t4s-badge-sale">HOT</span></div>
       <div class="t4s-product-btns2">
          {%- if isGrowaveWishlist -%}
             {%- capture the_snippet_fave_icon %}{% render 'ssw-widget-faveicon' with pid %}{% endcapture -%}
