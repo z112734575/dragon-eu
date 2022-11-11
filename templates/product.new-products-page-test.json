@@ -3,7 +3,7 @@
     "166424923084310cbd": {
       "type": "custom-html",
       "settings": {
-        "code": "<div id=\"ugreen-product-top-placeholder\"><\/div>\n<style>\n\/*new products page style*\/\n.t4s-badge-price{\n\tborder: border-radius: 3px 3px 3px 3px;\nborder: 1px solid #00CC88;\nbackground: rgba(0, 0, 0, 0);\nfont-size: 12px;\nfont-weight: 400;\ncolor: #00CC88;\nline-height: 14px;\n}\n<\/style>",
+        "code": "<div id=\"ugreen-product-top-placeholder\"><\/div>\n<style>\n\/*new products page style*\/\n.t4s-badge-price{\n\tborder: border-radius: 3px 3px 3px 3px!important;\nborder: 1px solid #00CC88;\nbackground: rgba(0, 0, 0, 0)!important;\nfont-size: 12px;\nfont-weight: 400;\ncolor: #00CC88!important;\nline-height: 14px!important;\n}\n<\/style>",
         "layout": "t4s-container-fluid",
         "cl_bg": "",
         "cl_bg_gradient": "",
