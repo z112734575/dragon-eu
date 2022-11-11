@@ -297,7 +297,7 @@
             "content_align_mobile": "start",
             "padding_inner": "20px,20px,20px,20px",
             "padding_inner_tb": "20px,20px,20px,20px",
-            "padding_inner_mb": "20px,20px,100px,10px",
+            "padding_inner_mb": "20px,20px,20px,10px",
             "bg_image": "shopify:\/\/shop_images\/Black_Friday_product_bgm.jpg",
             "bg_cl": "rgba(0,0,0,0)"
           }
@@ -366,7 +366,7 @@
             "content_align_mobile": "start",
             "padding_inner": "20px,20px,20px,20px",
             "padding_inner_tb": "20px,20px,20px,20px",
-            "padding_inner_mb": "20px,20px,100px,10px",
+            "padding_inner_mb": "20px,20px,20px,10px",
             "bg_image": "shopify:\/\/shop_images\/Black_Friday_product_bgm.jpg",
             "bg_cl": "rgba(0,0,0,0)"
           }
@@ -435,7 +435,7 @@
             "content_align_mobile": "start",
             "padding_inner": "20px,20px,20px,20px",
             "padding_inner_tb": "20px,20px,20px,20px",
-            "padding_inner_mb": "20px,20px,100px,10px",
+            "padding_inner_mb": "20px,20px,20px,10px",
             "bg_image": "shopify:\/\/shop_images\/Black_Friday_product_bgm.jpg",
             "bg_cl": "rgba(0,0,0,0)"
           }
@@ -503,8 +503,8 @@
             "content_align_tablet": "center",
             "content_align_mobile": "start",
             "padding_inner": "20px,20px,20px,20px",
-            "padding_inner_tb": "20px,20px,150px,20px20px,20px,20px,20px20px,20px,20px,20px",
-            "padding_inner_mb": "20px,20px,100px,10px",
+            "padding_inner_tb": "20px,20px,20px,20px",
+            "padding_inner_mb": "20px,20px,20px,10px",
             "bg_image": "shopify:\/\/shop_images\/Black_Friday_product_bgm.jpg",
             "bg_cl": "rgba(0,0,0,0)"
           }
