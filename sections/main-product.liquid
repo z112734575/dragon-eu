@@ -460,10 +460,10 @@ endif -%}
                 </style>
               {%endif%}
               {% comment %}ugreen{% endcomment %}
-
+<script>Debugger;console.log('render') </script>
             {%- when 'price_review' -%}
             <div class="t4s-product__price-review" style="--price-size:{{bk_stts.size_price_pr}}px;--price-weight:{{bk_stts.fw_price_pr}};--price-color:{{bk_stts.price_color}};--price-sale-color:{{bk_stts.price_sale_color}};">
-<script>Debugger </script>
+
               {%- render 'product-price-single', variant: current_variant, product:product, PR_no_pick:PR_no_pick, type_sale:bk_stts.type_sale, price_varies_style:bk_stts.price -%}
               {%- if bk_stts.rating -%}
               {%- assign pid = product.id -%}
