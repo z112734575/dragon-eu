@@ -234,7 +234,6 @@ endif -%}
   style="--price-size:{{block_price_stts.size_price_pr}}px;--price-weight:{{block_price_stts.fw_price_pr}};--price-color:{{block_price_stts.price_color}};--price-sale-color:{{block_price_stts.price_sale_color}};"
   {%- endcapture -%}
   {%- capture html_price -%}
-    <script>Debugger;console.log('render') </script>
     {%- render 'product-price-single', variant: current_variant, product:product, PR_no_pick:false, type_sale:block_price_stts.type_sale, price_varies_style:'0', style_inline:style_price -%}
   {%- endcapture -%}
 {%- endif -%}
