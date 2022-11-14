@@ -303,7 +303,7 @@
 .t4s-product .t4s-product-price ins {
     color: var(--product-price-sale-color);
     text-decoration: none;
-    margin-left: 6px;
+    margin-right: 6px;
     display: inline-block;
 }
 .t4s-product .t4s-price-from {
