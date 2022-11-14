@@ -1382,7 +1382,7 @@
         "deff8d7b-b29e-466b-b196-93d5a83a584d": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/70774.png",
+            "image_child": "shopify:\/\/shop_images\/90572-749048_a6fd3c25-cd45-40a0-b398-4b837ad4f233.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1399,7 +1399,7 @@
         "dc97b2bc-2d77-47f0-8b87-e2c659c59522": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen Nexode 140W USB C Wall Charger",
+            "text": "Ugreen Nexode Mini 45W Dual USB C Charger",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -1420,7 +1420,7 @@
         "24d5d4c3-72be-4424-b5fa-e5322f58b437": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$149.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$149.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$39.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$27.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
@@ -1428,7 +1428,7 @@
           "type": "custom_button",
           "settings": {
             "button_text": "buy with 40% off",
-            "button_link": "#",
+            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-nexode-45w-dual-c-port-wall-charger",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -1474,7 +1474,7 @@
         "c202e15e-991f-4ac2-92a8-ce19f580be09": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/70774.png",
+            "image_child": "shopify:\/\/shop_images\/70410.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1491,7 +1491,7 @@
         "1662b12f-cdb4-4180-bee4-8fdc66c07653": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen Nexode 140W USB C Wall Charger",
+            "text": "Ugreen 6-in-1 USB C to USB Hubs",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -1512,7 +1512,7 @@
         "7c2ae97c-e453-46f4-94bf-ddef49514f98": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$149.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$149.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$24.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$16.24<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
@@ -1520,7 +1520,7 @@
           "type": "custom_button",
           "settings": {
             "button_text": "buy with 40% off",
-            "button_link": "#",
+            "button_link": "https:\/\/www.ugreen.com\/products\/6-in-1-usb-c-adapter-with-4k-hdmi",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -1566,7 +1566,7 @@
         "eb2e9606-2587-4550-b75b-f316c188f13f": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/70774.png",
+            "image_child": "shopify:\/\/shop_images\/90548-802874_c8da2686-f2b0-47d9-b5cb-50ecc08f8fca.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1604,7 +1604,7 @@
         "842be7f3-8559-4c16-b38c-83ba154ec794": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$149.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$149.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$119.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$80.39<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
@@ -1612,7 +1612,7 @@
           "type": "custom_button",
           "settings": {
             "button_text": "buy with 40% off",
-            "button_link": "#",
+            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-nexode-140w-usb-c-wall-charger",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -1658,7 +1658,7 @@
         "c87586b1-5a8f-4649-a6fd-25e4d779eb9f": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/70774.png",
+            "image_child": "shopify:\/\/shop_images\/615SRlF7OhL._AC_SL1500.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1675,7 +1675,7 @@
         "6ee18f78-8809-41cf-984a-590315d69a8a": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen Nexode 140W USB C Wall Charger",
+            "text": "UGREEN USB C to USB 3.1 Adapter",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -1696,7 +1696,7 @@
         "608d9cdb-7f6c-463a-af82-5298e57d4266": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$149.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$149.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$8.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$6.29<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
@@ -1704,7 +1704,7 @@
           "type": "custom_button",
           "settings": {
             "button_text": "buy with 40% off",
-            "button_link": "#",
+            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-usb-c-to-usb-3-1-adapter",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
