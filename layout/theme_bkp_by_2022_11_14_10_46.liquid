@@ -146,7 +146,7 @@ f=false,d=document,code={use_existing_jquery:function(){return use_existing_jque
 {% include 'upsellio' %}{% capture boostersnippet %}{% include "booster-apps-common" %}{% endcapture %}{% unless boostersnippet contains "Liquid error" %}{{ boostersnippet }}{% endunless %}
 
                   {% include 'bss-product-labels-configs' %}
-                    <script src="//staticxx.s3.amazonaws.com/aio_stats_lib_v1.min.js?v=1.0"></script></head>
+                    </head>
              
 
   <body class="template-{{ request.page_type | handle }} {{class_lazy}}"{% if body_img != blank %} data-bgset="{{ body_img | image_url: width: 1 }}" data-optimumx="1.5" data-sizes="auto"{% endif -%}>
@@ -185,5 +185,5 @@ f=false,d=document,code={use_existing_jquery:function(){return use_existing_jque
 <!-- **BEGIN** Hextom CTB Integration // Main Include - DO NOT MODIFY -->
     {% render 'hextom_ctb_main', product: product, customer: customer %}
     <!-- **END** Hextom CTB Integration // Main Include - DO NOT MODIFY -->
-<input type="hidden" id="656565115116111114101" data-customer-id="{{ customer.id }}" data-customer-email="{{ customer.email }}" data-customer-name="{{ customer.first_name }} {{ customer.last_name }}"/></body>
+</body>
 </html>
