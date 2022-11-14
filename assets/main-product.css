@@ -623,7 +623,7 @@ button.t4s-product-form__submit[disabled="disabled"]{
 }
 .t4s-product__info-container .t4s-product-price ins{
   color: var(--price-sale-color);
-  margin-left: 6px;
+  margin-right: 6px;
   display: inline-block;
 }
 .t4s-product__info-container .t4s-product-price .t4s-labrl-sale span {
