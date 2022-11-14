@@ -110,7 +110,7 @@
         "371e91bb-927c-4138-aad4-3a3596cf60f5": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/Black_Friday_banner_text.png",
+            "image_child": "shopify:\/\/shop_images\/Block_Friday_text.png",
             "hidden_mobile": false,
             "mgb": 20,
             "mgb_mb": 20,
