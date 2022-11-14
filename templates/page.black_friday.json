@@ -2060,7 +2060,7 @@
         "aea2ae20-ee0c-4a79-aaba-bc2ee90d9b0f": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/70774.png",
+            "image_child": "shopify:\/\/shop_images\/50853-683888.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -2077,7 +2077,7 @@
         "86857180-d0fe-4c30-b198-d854e2359870": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen Nexode 140W USB C Wall Charger",
+            "text": "Ugreen Gravity Drive Car Mount",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -2098,7 +2098,7 @@
         "3bf775ac-0ef1-4c95-9d91-c7717952b488": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$8.49<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$6.37<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$12.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$9.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
@@ -2106,7 +2106,7 @@
           "type": "custom_button",
           "settings": {
             "button_text": "buy with 40% off",
-            "button_link": "#",
+            "button_link": "https:\/\/www.ugreen.com\/products\/gravity-drive-car-mount",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
