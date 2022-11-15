@@ -353,75 +353,6 @@
             "bg_cl": "rgba(0,0,0,0)"
           }
         },
-        "b365a091-a7ae-48e8-97f1-924a77433898": {
-          "type": "image",
-          "settings": {
-            "image_child": "shopify:\/\/shop_images\/40913-313924_3534f344-a392-4887-9721-cf215c579599.webp",
-            "img_link": "",
-            "open_link": "_self",
-            "img_width": 0,
-            "img_width_mb": 0,
-            "img_align": "center",
-            "img_align_tb": "center",
-            "img_align_mobile": "center",
-            "b_effect": "none",
-            "hidden_mobile": false,
-            "mgb": 0,
-            "mgb_mb": 0
-          }
-        },
-        "ba3dc298-0ebe-4666-8c8c-d6b34d8058c6": {
-          "type": "custom_text",
-          "settings": {
-            "text": "Ugreen Nexode 200W USB C Desktop Charger",
-            "remove_br_tag": false,
-            "fontf": "inherit",
-            "text_cl": "#ffffff",
-            "text_fs": 20,
-            "text_lh": 25,
-            "text_fw": 600,
-            "text_ls": 0,
-            "font_italic": false,
-            "text_shadow": false,
-            "text_mgb": 20,
-            "hidden_mobile": false,
-            "text_fs_mb": 16,
-            "text_lh_mb": 22,
-            "text_ls_mb": 0,
-            "text_mgb_mobile": 10
-          }
-        },
-        "618dbb43-996b-45f5-afac-81edca56b3df": {
-          "type": "html",
-          "settings": {
-            "html_content": "<div class=\"balck_friday_product_box\">\n\t\t\t<!--原价-->\n\t\t\t<p class=\"balck_friday_product_pirce\">$199.99<\/p>\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p class=\"balck_friday_product_discount\"><\/p>\n\t\t<\/div>",
-            "hidden_mobile": false
-          }
-        },
-        "9eddee60-ceca-4ce6-bd45-7c0bce0e175c": {
-          "type": "html",
-          "settings": {
-            "html_content": "<div class=\"product-main\">\n        <div class=\"progress\">\n            <div class=\"line\"><\/div>\n        <\/div>\n        <div class=\"hit-text\">\n<span class=\"num\">--<\/span> Hitter left<\/div>\n        <div class=\"hit-button\">Hit the PRICE<\/div>\n        <div class=\"center-col cs-custom-form s991055840\">\n            <div class=\"form-col-wrap\">\n                <form method=\"post\" action=\"https:\/\/ecf.cirkleinc.com\/api\/form-submit\" class=\"cs-form-wrap\" id=\"4256bb4d-b8aa-4220-b990-9bf66a513721\">\n                    <div class=\"email-main\">\n                        <div class=\"Polaris-FormLayout\">\n                            <div class=\"Polaris-FormLayout__Item\">\n                                <div class=\"sc-jJEKmz\">\n                                    <div class=\"sc-citxvW sc-iUuxjF gYTLuO iidRym drop-area-warp\">\n                                        <div class=\"element-group abcdOuterCS cs-width-100\"><input type=\"email\" id=\"email\" name=\"email\" placeholder=\"we will notify you by email\"><\/div>\n                                    <\/div>\n                                <\/div>\n                            <\/div>\n                        <\/div>\n                        <div class=\"element-group\">\n                            <div class=\"form-submit-btn-wrap\" style=\"justify-content: left; display: flex;\">\n                                <button type=\"submit\" class=\"submit-btn\">\n                                    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/email.png?v=1668073166\" alt=\"send\" width=\"18\">\n                                <\/button>\n                            <\/div>\n                        <\/div>\n                    <\/div>\n                <\/form>\n            <\/div>\n        <\/div>\n    <\/div>",
-            "hidden_mobile": false
-          }
-        },
-        "f8f5cee8-2658-41ba-bf9b-f5b321d8a4be": {
-          "type": "bl_col",
-          "settings": {
-            "col_dk": "3",
-            "col_tb": "6",
-            "col_mb": "12",
-            "align_vertical": false,
-            "content_align": "center",
-            "content_align_tablet": "center",
-            "content_align_mobile": "start",
-            "padding_inner": "20px,20px,20px,20px",
-            "padding_inner_tb": "20px,20px,20px,20px",
-            "padding_inner_mb": "20px,20px,20px,10px",
-            "bg_image": "shopify:\/\/shop_images\/Black_Friday_product_bgm.jpg",
-            "bg_cl": "rgba(0,0,0,0)"
-          }
-        },
         "de2c7dd6-912a-4004-8602-6e817bd280cf": {
           "type": "image",
           "settings": {
@@ -467,14 +398,14 @@
             "hidden_mobile": false
           }
         },
-        "34cdade1-8299-47c4-ad66-eb6e889607fa": {
+        "9eddee60-ceca-4ce6-bd45-7c0bce0e175c": {
           "type": "html",
           "settings": {
             "html_content": "<div class=\"product-main\">\n        <div class=\"progress\">\n            <div class=\"line\"><\/div>\n        <\/div>\n        <div class=\"hit-text\">\n<span class=\"num\">--<\/span> Hitter left<\/div>\n        <div class=\"hit-button\">Hit the PRICE<\/div>\n        <div class=\"center-col cs-custom-form s991055840\">\n            <div class=\"form-col-wrap\">\n                <form method=\"post\" action=\"https:\/\/ecf.cirkleinc.com\/api\/form-submit\" class=\"cs-form-wrap\" id=\"4256bb4d-b8aa-4220-b990-9bf66a513721\">\n                    <div class=\"email-main\">\n                        <div class=\"Polaris-FormLayout\">\n                            <div class=\"Polaris-FormLayout__Item\">\n                                <div class=\"sc-jJEKmz\">\n                                    <div class=\"sc-citxvW sc-iUuxjF gYTLuO iidRym drop-area-warp\">\n                                        <div class=\"element-group abcdOuterCS cs-width-100\"><input type=\"email\" id=\"email\" name=\"email\" placeholder=\"we will notify you by email\"><\/div>\n                                    <\/div>\n                                <\/div>\n                            <\/div>\n                        <\/div>\n                        <div class=\"element-group\">\n                            <div class=\"form-submit-btn-wrap\" style=\"justify-content: left; display: flex;\">\n                                <button type=\"submit\" class=\"submit-btn\">\n                                    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/email.png?v=1668073166\" alt=\"send\" width=\"18\">\n                                <\/button>\n                            <\/div>\n                        <\/div>\n                    <\/div>\n                <\/form>\n            <\/div>\n        <\/div>\n    <\/div>",
             "hidden_mobile": false
           }
         },
-        "5b4f7b64-f3ea-432e-b1a5-5a3b16349573": {
+        "f8f5cee8-2658-41ba-bf9b-f5b321d8a4be": {
           "type": "bl_col",
           "settings": {
             "col_dk": "3",
@@ -543,6 +474,75 @@
             "hidden_mobile": false
           }
         },
+        "5b4f7b64-f3ea-432e-b1a5-5a3b16349573": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "3",
+            "col_tb": "6",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "start",
+            "padding_inner": "20px,20px,20px,20px",
+            "padding_inner_tb": "20px,20px,20px,20px",
+            "padding_inner_mb": "20px,20px,20px,10px",
+            "bg_image": "shopify:\/\/shop_images\/Black_Friday_product_bgm.jpg",
+            "bg_cl": "rgba(0,0,0,0)"
+          }
+        },
+        "b365a091-a7ae-48e8-97f1-924a77433898": {
+          "type": "image",
+          "settings": {
+            "image_child": "shopify:\/\/shop_images\/40913-313924_3534f344-a392-4887-9721-cf215c579599.webp",
+            "img_link": "",
+            "open_link": "_self",
+            "img_width": 0,
+            "img_width_mb": 0,
+            "img_align": "center",
+            "img_align_tb": "center",
+            "img_align_mobile": "center",
+            "b_effect": "none",
+            "hidden_mobile": false,
+            "mgb": 0,
+            "mgb_mb": 0
+          }
+        },
+        "ba3dc298-0ebe-4666-8c8c-d6b34d8058c6": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Ugreen Nexode 200W USB C Desktop Charger",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#ffffff",
+            "text_fs": 20,
+            "text_lh": 25,
+            "text_fw": 600,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 20,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 22,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "618dbb43-996b-45f5-afac-81edca56b3df": {
+          "type": "html",
+          "settings": {
+            "html_content": "<div class=\"balck_friday_product_box\">\n\t\t\t<!--原价-->\n\t\t\t<p class=\"balck_friday_product_pirce\">$199.99<\/p>\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p class=\"balck_friday_product_discount\"><\/p>\n\t\t<\/div>",
+            "hidden_mobile": false
+          }
+        },
+        "34cdade1-8299-47c4-ad66-eb6e889607fa": {
+          "type": "html",
+          "settings": {
+            "html_content": "<div class=\"product-main\">\n        <div class=\"progress\">\n            <div class=\"line\"><\/div>\n        <\/div>\n        <div class=\"hit-text\">\n<span class=\"num\">--<\/span> Hitter left<\/div>\n        <div class=\"hit-button\">Hit the PRICE<\/div>\n        <div class=\"center-col cs-custom-form s991055840\">\n            <div class=\"form-col-wrap\">\n                <form method=\"post\" action=\"https:\/\/ecf.cirkleinc.com\/api\/form-submit\" class=\"cs-form-wrap\" id=\"4256bb4d-b8aa-4220-b990-9bf66a513721\">\n                    <div class=\"email-main\">\n                        <div class=\"Polaris-FormLayout\">\n                            <div class=\"Polaris-FormLayout__Item\">\n                                <div class=\"sc-jJEKmz\">\n                                    <div class=\"sc-citxvW sc-iUuxjF gYTLuO iidRym drop-area-warp\">\n                                        <div class=\"element-group abcdOuterCS cs-width-100\"><input type=\"email\" id=\"email\" name=\"email\" placeholder=\"we will notify you by email\"><\/div>\n                                    <\/div>\n                                <\/div>\n                            <\/div>\n                        <\/div>\n                        <div class=\"element-group\">\n                            <div class=\"form-submit-btn-wrap\" style=\"justify-content: left; display: flex;\">\n                                <button type=\"submit\" class=\"submit-btn\">\n                                    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/email.png?v=1668073166\" alt=\"send\" width=\"18\">\n                                <\/button>\n                            <\/div>\n                        <\/div>\n                    <\/div>\n                <\/form>\n            <\/div>\n        <\/div>\n    <\/div>",
+            "hidden_mobile": false
+          }
+        },
         "8f943873-0090-485f-bc04-2816fc28e673": {
           "type": "html",
           "settings": {
@@ -558,20 +558,20 @@
         "af50c3b7-099f-4287-b059-5bf59c02c3dc",
         "954464b3-efa3-4dcc-9342-2b876d8ed293",
         "0a1bb829-6589-41d0-a5fa-151fb78b203c",
-        "b365a091-a7ae-48e8-97f1-924a77433898",
-        "ba3dc298-0ebe-4666-8c8c-d6b34d8058c6",
-        "618dbb43-996b-45f5-afac-81edca56b3df",
-        "9eddee60-ceca-4ce6-bd45-7c0bce0e175c",
-        "f8f5cee8-2658-41ba-bf9b-f5b321d8a4be",
         "de2c7dd6-912a-4004-8602-6e817bd280cf",
         "b786a592-9d8f-4ef0-b3db-3b3204073b87",
         "e2992e53-ed52-4ea9-b6b8-9baf2621dcd4",
-        "34cdade1-8299-47c4-ad66-eb6e889607fa",
-        "5b4f7b64-f3ea-432e-b1a5-5a3b16349573",
+        "9eddee60-ceca-4ce6-bd45-7c0bce0e175c",
+        "f8f5cee8-2658-41ba-bf9b-f5b321d8a4be",
         "f83b1602-c898-43d4-b78c-ab5778ba630a",
         "778c643e-515f-42a5-9961-15f130703d22",
         "f03bd7f3-fe62-4283-a559-884490c25d1f",
         "b3736e10-3158-481f-b09d-5ea248d275af",
+        "5b4f7b64-f3ea-432e-b1a5-5a3b16349573",
+        "b365a091-a7ae-48e8-97f1-924a77433898",
+        "ba3dc298-0ebe-4666-8c8c-d6b34d8058c6",
+        "618dbb43-996b-45f5-afac-81edca56b3df",
+        "34cdade1-8299-47c4-ad66-eb6e889607fa",
         "8f943873-0090-485f-bc04-2816fc28e673"
       ],
       "settings": {
@@ -721,7 +721,7 @@
         "template--14475737169982__8d8d1913-8aec-4a66-bc6e-0d7c3e188253-16672916308e9b14c0-1": {
           "type": "custom_text",
           "settings": {
-            "text": "50% off lighting deals",
+            "text": "45% off lighting deals",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#f6ddb0",
@@ -827,7 +827,7 @@
         "template--14475737169982__6d866af2-78c3-4043-aa7a-736bcbb5f93c-1667292855516194e2-1": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen USB 3.0 4-Port Switch",
+            "text": "Ugreen HiTune T3 ANC Earbuds",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -848,7 +848,7 @@
         "33337fbc-22e0-4cf8-9982-f62912235d3b": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$36.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$18.50<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$39.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$21.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
@@ -856,7 +856,7 @@
           "type": "custom_button",
           "settings": {
             "button_text": "buy with 40% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-usb-3-0-4-port-switch",
+            "button_link": "https:\/\/www.ugreen.com\/products\/hitune-t3-anc-wireless-earbuds",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -994,7 +994,7 @@
         "6d7ae9ea-6d9e-44b2-8870-c5821853a41c": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/80664.webp",
+            "image_child": "shopify:\/\/shop_images\/90396.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1011,7 +1011,7 @@
         "98b3ce47-f06f-489d-a8a7-04c2a95a8394": {
           "type": "custom_text",
           "settings": {
-            "text": "UGREEN AirPlay 2 Receiver",
+            "text": "UGREEN Tablet Stand Holder",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -1032,7 +1032,7 @@
         "84bd3915-c484-48d3-9a57-339d9ca2812f": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$89.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$45.00<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$26.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$14.84<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
@@ -1040,7 +1040,7 @@
           "type": "custom_button",
           "settings": {
             "button_text": "buy with 40% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-airplay-2-receiver",
+            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-tablet-stand-holder",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -1222,17 +1222,17 @@
           "type": "custom_button",
           "settings": {
             "button_text": "More",
-            "button_link": "#",
+            "button_link": "shopify:\/\/collections\/50-off-lightning-deals",
             "target_link": "_self",
             "fontf": "inherit",
-            "button_icon_w": 14,
+            "button_icon_w": 18,
             "button_style": "default",
             "button_effect": "default",
             "pri_cl": "#000000",
             "second_cl": "#ffffff",
             "pri_cl_hover": "#000000",
             "second_cl_hover": "#f6ddb0",
-            "fsbutton": 14,
+            "fsbutton": 18,
             "fwbutton": 400,
             "button_ls": 0,
             "button_mh": 30,
@@ -1382,7 +1382,7 @@
         "deff8d7b-b29e-466b-b196-93d5a83a584d": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/90572-749048_a6fd3c25-cd45-40a0-b398-4b837ad4f233.webp",
+            "image_child": "shopify:\/\/shop_images\/80749-768221.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1399,7 +1399,7 @@
         "dc97b2bc-2d77-47f0-8b87-e2c659c59522": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen Nexode Mini 45W Dual USB C Charger",
+            "text": "Ugreen 10000mAh PD 20W USB-C Power Bank",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -1420,7 +1420,7 @@
         "24d5d4c3-72be-4424-b5fa-e5322f58b437": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$39.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$31.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$29.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$20.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
@@ -1428,7 +1428,7 @@
           "type": "custom_button",
           "settings": {
             "button_text": "buy with 40% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-nexode-45w-dual-c-port-wall-charger",
+            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-10000mah-pd-20w-usb-c-power-bank",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -1658,7 +1658,7 @@
         "c87586b1-5a8f-4649-a6fd-25e4d779eb9f": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/615SRlF7OhL._AC_SL1500.webp",
+            "image_child": "shopify:\/\/shop_images\/50394-186673.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1675,7 +1675,7 @@
         "6ee18f78-8809-41cf-984a-590315d69a8a": {
           "type": "custom_text",
           "settings": {
-            "text": "UGREEN USB C to USB 3.1 Adapter",
+            "text": "Ugreen Lazy Arm Tablet Holder",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -1696,7 +1696,7 @@
         "608d9cdb-7f6c-463a-af82-5298e57d4266": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$8.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$6.29<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$26.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$18.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
@@ -1704,7 +1704,7 @@
           "type": "custom_button",
           "settings": {
             "button_text": "buy with 40% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-usb-c-to-usb-3-1-adapter",
+            "button_link": "https:\/\/www.ugreen.com\/products\/lazy-arm-tablet-holder",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -1794,17 +1794,17 @@
           "type": "custom_button",
           "settings": {
             "button_text": "More",
-            "button_link": "#",
+            "button_link": "shopify:\/\/collections\/30-off-special-deals",
             "target_link": "_self",
             "fontf": "inherit",
-            "button_icon_w": 14,
+            "button_icon_w": 18,
             "button_style": "default",
             "button_effect": "default",
             "pri_cl": "#000000",
             "second_cl": "#ffffff",
             "pri_cl_hover": "#000000",
             "second_cl_hover": "#f6ddb0",
-            "fsbutton": 14,
+            "fsbutton": 18,
             "fwbutton": 400,
             "button_ls": 0,
             "button_mh": 30,
@@ -1968,7 +1968,7 @@
         "a55c3591-911d-4f31-9ced-0fca4addbcaa": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/50743.webp",
+            "image_child": "shopify:\/\/shop_images\/60980_89eaf640-a24b-4079-9ad7-9e05abe76e67-854003.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1985,7 +1985,7 @@
         "01c513c5-58e4-4896-9170-a8e5d6a2b5cd": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen USB C 2.5 Inches SATA III Hard Drive Enclosure",
+            "text": "Ugreen 42.5W Type C Car Charger",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -2006,7 +2006,7 @@
         "55d56443-89bd-409f-86a9-4a3c7e8b7644": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$17.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$13.49<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$16.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$12.74<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
@@ -2014,7 +2014,7 @@
           "type": "custom_button",
           "settings": {
             "button_text": "buy with 40% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/usb-c-2-5-sata-iii-hard-drive-enclosure",
+            "button_link": "https:\/\/www.ugreen.com\/products\/aluminum-36w-pd-qc-3-0-fast-car-charger",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -2152,7 +2152,7 @@
         "ed18c10d-fd60-402d-a3aa-ddf991762f14": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/50706_16a69fdb-4d19-4b1d-8ed3-db699ef25161.webp",
+            "image_child": "shopify:\/\/shop_images\/50747-563020.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -2169,7 +2169,7 @@
         "32b14ee7-7622-46bc-8752-3d7b90122f9d": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen 2-in-1 USB C OTG Card Reader",
+            "text": "Ugreen Portable Cell Phone Stand Holder",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -2190,7 +2190,7 @@
         "081e1cfa-1489-48c1-a12a-70156286b789": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$13.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$9.51<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$9.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$7.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
@@ -2198,7 +2198,7 @@
           "type": "custom_button",
           "settings": {
             "button_text": "buy with 40% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/2-in-1-usb-c-otg-card-reader",
+            "button_link": "https:\/\/www.ugreen.com\/products\/cell-phone-stand-holder",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
