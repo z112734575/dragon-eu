@@ -245,8 +245,8 @@
         "pd": "",
         "mg_mb": "",
         "pd_mb": "",
-        "use_cus_css": false,
-        "code_cus_css": ""
+        "use_cus_css": true,
+        "code_cus_css": "@media(max-width: 767px) {\n#shopify-section-template--14475737169982__51ff89be-52b3-4bda-8376-5d99897c4eec{height: 340px; overflow: hidden;}\n}"
       }
     },
     "166735473386a52bc2": {
