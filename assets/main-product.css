@@ -34,7 +34,7 @@
 } */
 /* End hover thumb 2 */
 .t4s-product__info-container>:not(:last-child) {
-  padding: 20px;
+  margin-bottom: 20px;
 }
 .t4s-product__title{
   margin-bottom: 10px!important;
