@@ -589,8 +589,8 @@
         "mg_tb": "",
         "pd_tb": "50px,0,0,0",
         "mg_mb": "",
-        "pd_mb": "50px,0,0,0",
-        "use_cus_css": false,
+        "pd_mb": "0,0,0,0",
+        "use_cus_css": true,
         "code_cus_css": ""
       }
     },
