@@ -251,6 +251,7 @@
     },
     "166735473386a52bc2": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "d95fb77a-a6d6-487b-8b98-88cca96090a3": {
           "type": "shopify:\/\/apps\/countdown-timer-bar-hextom\/blocks\/ctb-custom-placement\/f7b88b6e-2e87-46bc-87a9-3e3638a24fa9",
