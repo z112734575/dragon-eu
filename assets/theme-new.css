@@ -512,6 +512,7 @@
     -webkit-box-align: start;
         -ms-flex-align: start;
     margin:30px 0;
+    border-bottom: 1px solid #DEDEDE;
             align-items: flex-start; }
   .t4s-section-main-product .t4s-product__info-container .t4s-product__review {
     margin-bottom: 54px; }
