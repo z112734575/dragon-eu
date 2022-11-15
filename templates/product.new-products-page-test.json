@@ -83,6 +83,12 @@
             "readm_txt": "Read more"
           }
         },
+        "499dbc35-5fcc-4406-a16a-539fb4222185": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div style=\"padding: 25px;background: #FAFAFC;\">\n\t\t            \t{% if product.metafields.custom.discountbar %}\n\t\t              {{ 'ug-discount.css' | asset_url | stylesheet_tag }}\n\t\t              {% assign discountbar = product.metafields.custom.discountbar.value %}\n\t\t              {% assign discount_sum = discountbar[0] %}\n\t\t              {% assign discount_text = discountbar[1] %}\n\t\t              {% assign discount_code = discountbar[2] %}\n\t\t              <div class=\"ug-product-discount\">\n\t\t                <div class=\"ug-product-discount-box\">\n\t\t                  <div class=\"ug-product-discount-sum\">\n\t\t                    <span class=\"percent\">{{ discount_sum }}%<\/span>\n\t\t                    <span class=\"off\">OFF<\/span>\n\t\t                    <div class=\"desc\">{{ discount_text }}<\/div>\n\t\t                  <\/div>\n\t\t                  <div class=\"ug-product-discount-code\">\n\t\t                    <span>Code: {{ discount_code }}  <\/span>\n\t\t                    <button data-clipboard-text=\"{{ discount_code }}\" class=\"ug-product-discount-btn\">COPY<\/button>\n\t\t                    <button data-clipboard-text=\"{{ discount_code }}\" class=\"ug-product-discount-btned\">COPIED<\/button>\n\t\t                  <\/div>\n\t\t                <\/div>\n\t\t              <\/div>\n\t\t            {%endif%}\n{% if product.metafields.custom.discount_information %}\n\t\t              {% assign discount_information = product.metafields.custom.discount_information.value %}\n\t\t              {% assign discount_text_1 = discount_information[0] %}\n\t\t              {% assign discount_text_2 = discount_information[1] %}\n\t\t              {% assign discount_text_3 = discount_information[2] %}\n\t\t              <ul>\n\t\t              \t<li>{{discount_text_1}}<\/li>\n\t\t              \t<li>{{discount_text_2}}<\/li>\n\t\t              \t<li>{{discount_text_3}}<\/li>\n\t\t              <\/ul>\n\t\t            {%endif%}\n\t\t            <\/div>"
+          }
+        },
         "form": {
           "type": "form",
           "settings": {
@@ -127,12 +133,6 @@
             "page_dr": "delivery-return",
             "ask": true,
             "phone": true
-          }
-        },
-        "499dbc35-5fcc-4406-a16a-539fb4222185": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div style=\"padding: 25px;background: #FAFAFC;\">\n\t\t            \t{% if product.metafields.custom.discountbar %}\n\t\t              {{ 'ug-discount.css' | asset_url | stylesheet_tag }}\n\t\t              {% assign discountbar = product.metafields.custom.discountbar.value %}\n\t\t              {% assign discount_sum = discountbar[0] %}\n\t\t              {% assign discount_text = discountbar[1] %}\n\t\t              {% assign discount_code = discountbar[2] %}\n\t\t              <div class=\"ug-product-discount\">\n\t\t                <div class=\"ug-product-discount-box\">\n\t\t                  <div class=\"ug-product-discount-sum\">\n\t\t                    <span class=\"percent\">{{ discount_sum }}%<\/span>\n\t\t                    <span class=\"off\">OFF<\/span>\n\t\t                    <div class=\"desc\">{{ discount_text }}<\/div>\n\t\t                  <\/div>\n\t\t                  <div class=\"ug-product-discount-code\">\n\t\t                    <span>Code: {{ discount_code }}  <\/span>\n\t\t                    <button data-clipboard-text=\"{{ discount_code }}\" class=\"ug-product-discount-btn\">COPY<\/button>\n\t\t                    <button data-clipboard-text=\"{{ discount_code }}\" class=\"ug-product-discount-btned\">COPIED<\/button>\n\t\t                  <\/div>\n\t\t                <\/div>\n\t\t              <\/div>\n\t\t            {%endif%}\n{% if product.metafields.custom.discount_information %}\n\t\t              {% assign discount_information = product.metafields.custom.discount_information.value %}\n\t\t              {% assign discount_text_1 = discount_information[0] %}\n\t\t              {% assign discount_text_2 = discount_information[1] %}\n\t\t              {% assign discount_text_3 = discount_information[2] %}\n\t\t              <ul>\n\t\t              \t<li>{{discount_text_1}}<\/li>\n\t\t              \t<li>{{discount_text_2}}<\/li>\n\t\t              \t<li>{{discount_text_3}}<\/li>\n\t\t              <\/ul>\n\t\t            {%endif%}\n\t\t            <\/div>"
           }
         },
         "a74558c2-2c9e-4f22-a4eb-506aadd91c17": {
@@ -280,9 +280,9 @@
         "price_review",
         "short_description",
         "description",
+        "499dbc35-5fcc-4406-a16a-539fb4222185",
         "form",
         "size_delivery_ask",
-        "499dbc35-5fcc-4406-a16a-539fb4222185",
         "a74558c2-2c9e-4f22-a4eb-506aadd91c17",
         "23551ebc-3be1-40d6-81b2-30f03478cccb",
         "trust_delivery",
