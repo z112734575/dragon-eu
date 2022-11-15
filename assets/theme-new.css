@@ -511,6 +511,7 @@
     -webkit-box-direction: reverse;
     -webkit-box-align: start;
         -ms-flex-align: start;
+    margin:30px 0;
             align-items: flex-start; }
   .t4s-section-main-product .t4s-product__info-container .t4s-product__review {
     margin-bottom: 54px; }
@@ -520,7 +521,7 @@
     font-weight: 600;
     color: #131414;
     line-height: 35px;
-    margin-bottom: 48px; }
+}
   .t4s-section-main-product .t4s-product__info-container .loox-rating .loox-icon {
     font-size: 20px; }
   .t4s-section-main-product .t4s-product__info-container .t4s-swatch__title {
