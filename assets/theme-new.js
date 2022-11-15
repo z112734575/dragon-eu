@@ -26,8 +26,8 @@ $(function (){
         },3000)
         e.clearSelection();
     });
-    $('.discount_information').after($('.ug-product-discount').clone());
-    $('.t4s-pr__custom-liquid .ug-product-discount').remove();
+    $('.t4s-product__price-review').after($('.ug-product-discount').clone())
+    $('.t4s-pr__custom-liquid .ug-product-discount').remove()
 
     // school
     new ClipboardJS('.ug-school-discount-box button');
