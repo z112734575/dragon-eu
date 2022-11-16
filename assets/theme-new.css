@@ -514,7 +514,8 @@
     margin:0 0 30px 0;
     border-bottom: 1px solid #DEDEDE;
             align-items: flex-start; }
- 
+  .t4s-section-main-product .t4s-product__info-container .t4s-product__review {
+     order:0;margin-top:10px }
   .t4s-section-main-product .t4s-product__info-container .t4s-product-price {
     font-size: 32px;
     font-family: Poppins-SemiBold, Poppins;
@@ -522,6 +523,7 @@
     color: #131414;
     line-height: 35px;
     margin:30px 0;
+     order:1;
 }
   .t4s-section-main-product .t4s-product__info-container .loox-rating .loox-icon {
     font-size: 20px; }
