@@ -327,14 +327,14 @@
         "af50c3b7-099f-4287-b059-5bf59c02c3dc": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_box\">\n\t\t\t<!--原价-->\n\t\t\t<p class=\"balck_friday_product_pirce\">$39.99<\/p>\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p class=\"balck_friday_product_discount\"><\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_box\">\n\t\t\t<!--原价-->\n\t\t\t<p class=\"balck_friday_product_pirce\">$27.99<\/p>\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p class=\"balck_friday_product_discount\">$39.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "954464b3-efa3-4dcc-9342-2b876d8ed293": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"product-main\">\n<div class=\"copy-code\">\n<span class=\"code\">UGBF30<\/span><div data-ug-copy-data=\"UGBF30\" class=\"copy-btn\">copy<\/div>\n<\/div>\n\t\t<\/div>\n        <div class=\"hit-button\">Buy Now<\/div>",
+            "html_content": "<div class=\"product-main\">\n<div class=\"copy-code\">\n<span class=\"code\">UGBF30<\/span><div data-ug-copy-data=\"UGBF30\" class=\"copy-btn\">copy<\/div>\n<\/div>\n<div class=\"hit-button\"><a href=\"https:\/\/www.ugreen.com\/products\/ugreen-nexode-45w-dual-c-port-wall-charger\">Buy Now<\/a><\/div>\n<\/div>",
             "hidden_mobile": false
           }
         },
@@ -396,14 +396,14 @@
         "e2992e53-ed52-4ea9-b6b8-9baf2621dcd4": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_box\">\n\t\t\t<!--原价-->\n\t\t\t<p class=\"balck_friday_product_pirce\">$79.99<\/p>\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p class=\"balck_friday_product_discount\"><\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_box\">\n\t\t\t<!--原价-->\n\t\t\t<p class=\"balck_friday_product_pirce\">$59.99<\/p>\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p class=\"balck_friday_product_discount\">$79.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "9eddee60-ceca-4ce6-bd45-7c0bce0e175c": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"product-main\">\n    <div class=\"copy-code\">\n<span class=\"code\">UGBF30<\/span><div class=\"copy-btn\" data-ug-copy-data=\"UGBF30\">copy<\/div>\n<\/div>\n    <div class=\"hit-button\">Buy Now<\/div>\n<\/div>",
+            "html_content": "<div class=\"product-main\">\n    <div class=\"copy-code\">\n<span class=\"code\">UGBF30<\/span><div class=\"copy-btn\" data-ug-copy-data=\"UGBF30\">copy<\/div>\n<\/div>\n    <div class=\"hit-button\"><a href=\"www.ugreen.com\/products\/100w-3c1a-gan-fast-charger\">Buy Now<\/a><\/div>\n<\/div>",
             "hidden_mobile": false
           }
         },
@@ -465,14 +465,14 @@
         "f03bd7f3-fe62-4283-a559-884490c25d1f": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_box\">\n\t\t\t<!--原价-->\n\t\t\t<p class=\"balck_friday_product_pirce\">$119.99<\/p>\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p class=\"balck_friday_product_discount\"><\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_box\">\n\t\t\t<!--原价-->\n\t\t\t<p class=\"balck_friday_product_pirce\">$99.99<\/p>\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p class=\"balck_friday_product_discount\">$119.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "b3736e10-3158-481f-b09d-5ea248d275af": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"product-main\">\n    <div class=\"copy-code\">\n<span class=\"code\">UGBF30<\/span><div class=\"copy-btn\" data-ug-copy-data=\"UGBF30\">copy<\/div>\n<\/div>\n    <div class=\"hit-button\">Buy Now<\/div>\n<\/div>",
+            "html_content": "<div class=\"product-main\">\n    <div class=\"copy-code\">\n<span class=\"code\">UGBF30<\/span><div class=\"copy-btn\" data-ug-copy-data=\"UGBF30\">copy<\/div>\n<\/div>\n <div class=\"hit-button\"><a href=\"https:\/\/www.ugreen.com\/products\/ugreen-nexode-140w-usb-c-wall-charger\">Buy Now<\/a><\/div>\n<\/div>",
             "hidden_mobile": false
           }
         },
@@ -534,14 +534,14 @@
         "618dbb43-996b-45f5-afac-81edca56b3df": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_box\">\n\t\t\t<!--原价-->\n\t\t\t<p class=\"balck_friday_product_pirce\">$199.99<\/p>\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p class=\"balck_friday_product_discount\"><\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_box\">\n\t\t\t<!--原价-->\n\t\t\t<p class=\"balck_friday_product_pirce\">$139.99<\/p>\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p class=\"balck_friday_product_discount\">$199.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "34cdade1-8299-47c4-ad66-eb6e889607fa": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"product-main\">\n    <div class=\"copy-code\">\n<span class=\"code\">UGBF30<\/span><div class=\"copy-btn\" data-ug-copy-data=\"UGBF30\">copy<\/div>\n<\/div>\n    <div class=\"hit-button\">Buy Now<\/div>\n<\/div>",
+            "html_content": "<div class=\"product-main\">\n    <div class=\"copy-code\">\n<span class=\"code\">UGBF30<\/span><div class=\"copy-btn\" data-ug-copy-data=\"UGBF30\">copy<\/div>\n<\/div>\n <div class=\"hit-button\"><a href=\"https:\/\/www.ugreen.com\/products\/ugreen-nexode-200w-usb-c-desktop-charger\">Buy Now<\/a><\/div>\n<\/div>",
             "hidden_mobile": false
           }
         },
@@ -707,9 +707,9 @@
         "template--14475737169982__8d8d1913-8aec-4a66-bc6e-0d7c3e188253-16672916308e9b14c0-0": {
           "type": "bl_col",
           "settings": {
-            "col_dk": "5",
-            "col_tb": "8",
-            "col_mb": "6",
+            "col_dk": "12",
+            "col_tb": "12",
+            "col_mb": "12",
             "align_vertical": false,
             "content_align": "start",
             "content_align_tablet": "start",
@@ -723,7 +723,7 @@
         "template--14475737169982__8d8d1913-8aec-4a66-bc6e-0d7c3e188253-16672916308e9b14c0-1": {
           "type": "custom_text",
           "settings": {
-            "text": "45% off lighting deals",
+            "text": "45% off lightning deals",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#f6ddb0",
@@ -743,6 +743,7 @@
         },
         "b276bb8a-a1d9-4aeb-979a-6553ba4ee509": {
           "type": "bl_col",
+          "disabled": true,
           "settings": {
             "col_dk": "7",
             "col_tb": "4",
@@ -759,6 +760,7 @@
         },
         "6db896d1-d5fb-4304-87cc-79101a878287": {
           "type": "html",
+          "disabled": true,
           "settings": {
             "html_content": "<div class=\"ug-product-discount-code black-friday-50\">\n\t\t\t<span>UGINSITE<\/span>\n\t\t\t<button data-ug-copy-data=\"cope-tests\" class=\"ug-product-discount-btn\">copy code<\/button>\n\t\t\n\t\t<\/div>",
             "hidden_mobile": false
@@ -1279,9 +1281,9 @@
         "template--14475737169982__528ecd5a-e357-412c-81df-eb1247818c04-1667292855516194e2-0": {
           "type": "bl_col",
           "settings": {
-            "col_dk": "3",
-            "col_tb": "4",
-            "col_mb": "4",
+            "col_dk": "12",
+            "col_tb": "12",
+            "col_mb": "12",
             "align_vertical": false,
             "content_align": "start",
             "content_align_tablet": "start",
@@ -1315,6 +1317,7 @@
         },
         "73dc22da-3aa8-46b8-b442-a2acb416072e": {
           "type": "bl_col",
+          "disabled": true,
           "settings": {
             "col_dk": "9",
             "col_tb": "8",
@@ -1331,8 +1334,9 @@
         },
         "12cbdeee-679e-431a-b039-f190ee9db84f": {
           "type": "html",
+          "disabled": true,
           "settings": {
-            "html_content": "<div class=\"ug-product-discount-code black-friday-50\">\n\t\t\t<span>UGINSITE<\/span>\n\t\t\t<button data-ug-copy-data=\"cope-tests1\" class=\"ug-product-discount-btn\">copy code<\/button>\n\t\t\t\n\t\t<\/div>",
+            "html_content": "<div class=\"ug-product-discount-code black-friday-50\">\n<button data-ug-copy-data=\"cope-tests1\" class=\"ug-product-discount-btn\">copy code<\/button>\n\t\t\t\n\t\t<\/div>",
             "hidden_mobile": false
           }
         }
@@ -1783,7 +1787,7 @@
             "col_tb": "12",
             "col_mb": "12",
             "align_vertical": false,
-            "content_align": "end",
+            "content_align": "center",
             "content_align_tablet": "center",
             "content_align_mobile": "center",
             "padding_inner": "30px,,75px",
@@ -1821,11 +1825,19 @@
             "button_ls_mb": 0,
             "button_mgb_mb": 0
           }
+        },
+        "b3973e88-ba07-4e79-b049-fd4167b84f4a": {
+          "type": "html",
+          "settings": {
+            "html_content": "<div class=\"ug-product-discount-code black-friday-50\">\n<button class=\"ug-product-discount-btn\"><a href=\"https:\/\/www.ugreen.com\/products\/ugreen-nexode-45w-dual-c-port-wall-charger\" class=\"ug-product-discount-btn\">More<\/a><\/button>\n      \n    <\/div>",
+            "hidden_mobile": false
+          }
         }
       },
       "block_order": [
         "template--14475737169982__dc82a967-6f89-4b56-b8ff-0999f3951aa1-16684274055ac201b5-0",
-        "f02abe9d-ef9e-45e2-a7e4-3ff7d2f4e545"
+        "f02abe9d-ef9e-45e2-a7e4-3ff7d2f4e545",
+        "b3973e88-ba07-4e79-b049-fd4167b84f4a"
       ],
       "settings": {
         "space_h_item": "0",
@@ -1867,7 +1879,7 @@
         "template--14475737169982__10f040a5-a9ff-44b5-821d-7260b861b70a-1667292855516194e2-1": {
           "type": "custom_text",
           "settings": {
-            "text": "$5-20",
+            "text": "$5-$20",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#f6ddb0",
