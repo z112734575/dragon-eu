@@ -1,9 +1,9 @@
 @media (min-width: 768px) {
   .ug-product-discount-box {
     width: 100%;
-    height: 80px;
+    height: 56px;
     background-image: url("https://cdn.shopify.com/s/files/1/0257/5246/9566/files/Group_276.webp?v=1658835772");
-    background-size: cover;
+    background-size: 100% 100%;
     background-repeat: no-repeat;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -79,10 +79,10 @@
   .ug-product-discount-box {
     margin: 0 auto;
     width: 100%;
-    height: 24vw;
+    height: 68px;
     background-image: url("https://cdn.shopify.com/s/files/1/0257/5246/9566/files/Group_278_1.png?v=1658912577");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% 100%;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -134,7 +134,7 @@
       font-weight: 400;
       color: #E9631D;
       line-height: 14px;
-      margin-top: 14px; }
+      margin-top: 5px; }
   .ug-product-discount-btn {
     width: 102px;
     height: 32px;
