@@ -131,7 +131,7 @@
         "499dbc35-5fcc-4406-a16a-539fb4222185": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "{% if product.metafields.custom.discountbar %}\n\t\t              {{ 'ug-discount.css' | asset_url | stylesheet_tag }}\n\t\t              {% assign discountbar = product.metafields.custom.discountbar.value %}\n\t\t              {% assign discount_sum = discountbar[0] %}\n\t\t              {% assign discount_text = discountbar[1] %}\n\t\t              {% assign discount_code = discountbar[2] %}\n\t\t              <div class=\"ug-product-discount\">\n\t\t                <div class=\"ug-product-discount-box\">\n\t\t                  <div class=\"ug-product-discount-sum\">\n\t\t                    <span class=\"percent\">{{ discount_sum }}%<\/span>\n\t\t                    <span class=\"off\">OFF<\/span>\n\t\t                    <div class=\"desc\">{{ discount_text }}<\/div>\n\t\t                  <\/div>\n\t\t                  <div class=\"ug-product-discount-code\">\n\t\t                    <span>Code: {{ discount_code }}  <\/span>\n\t\t                    <button data-clipboard-text=\"{{ discount_code }}\" class=\"ug-product-discount-btn\">COPY<\/button>\n\t\t                    <button data-clipboard-text=\"{{ discount_code }}\" class=\"ug-product-discount-btned\">COPIED<\/button>\n\t\t                  <\/div>\n\t\t                <\/div>\n\t\t              <\/div>\n\t\t            {%endif%}"
+            "custom_liquid": "{% if product.metafields.custom.discountbar %}\n                  {{ 'ug-discount.css' | asset_url | stylesheet_tag }}\n                  {% assign discountbar = product.metafields.custom.discountbar.value %}\n                  {% assign discount_sum = discountbar[0] %}\n                  {% assign discount_code = discountbar[1] %}\n                  <div class=\"ug-product-discount\">\n                    <div class=\"ug-product-discount-box\">\n                      <div class=\"ug-product-discount-sum\">\n                        <span class=\"percent\">{{ discount_sum }}%<\/span>\n                        <span class=\"off\">OFF<\/span>\n                      <\/div>\n                      <div class=\"ug-product-discount-code\">\n                        <span>Code: {{ discount_code }}  <\/span>\n                        <button data-clipboard-text=\"{{ discount_code }}\" class=\"ug-product-discount-btn\">COPY<\/button>\n                        <button data-clipboard-text=\"{{ discount_code }}\" class=\"ug-product-discount-btned\">COPIED<\/button>\n                      <\/div>\n                    <\/div>\n                  <\/div>\n                {%endif%}"
           }
         },
         "a74558c2-2c9e-4f22-a4eb-506aadd91c17": {
@@ -537,6 +537,7 @@
           "settings": {
             "only_photos": false,
             "aggregated": false,
+            "limit": 20,
             "hide_thumbnails": false,
             "maxwidth": 1080
           }
