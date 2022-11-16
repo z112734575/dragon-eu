@@ -1225,7 +1225,7 @@
         "d6dc4089-20b8-43ad-8753-634ddf7eeb54": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: center;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"\/collections\/50-off-lightning-deals\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
+            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: flex-end;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"\/collections\/50-off-lightning-deals\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
             "hidden_mobile": false
           }
         }
@@ -1776,7 +1776,7 @@
         "b3973e88-ba07-4e79-b049-fd4167b84f4a": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: center;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"\/collections\/30-off-special-deals\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
+            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: flex-end;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"\/collections\/30-off-special-deals\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
             "hidden_mobile": false
           }
         }
@@ -2339,7 +2339,7 @@
         "d4a673eb-c8fc-4d5a-bb59-11406f34c3dc": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: center;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"\/collections\/5-20-special-offer\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
+            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: flex-end;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"\/collections\/5-20-special-offer\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
             "hidden_mobile": false
           }
         }
