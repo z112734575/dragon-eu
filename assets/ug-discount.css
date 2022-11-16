@@ -60,7 +60,7 @@
     line-height: 40px;
     padding: 0; }
   .ug-product-discount-btned {
-    background: #ffffff !important;
+    background: #ffffff;
     border-radius: 22px;
     font-size: 20px;
     font-weight: normal;
@@ -151,7 +151,7 @@
     width: 104px;
     height: 32px;
     line-height: 32px;
-    background: #FFFFFF !important;
+    background: #FFFFFF;
     border-radius: 22px 22px 22px 22px;
     opacity: 1;
     border: 1px solid #E9631D;
