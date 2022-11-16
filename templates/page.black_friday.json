@@ -334,7 +334,7 @@
         "954464b3-efa3-4dcc-9342-2b876d8ed293": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"product-main\">\n<div class=\"copy-code\">\n<span class=\"code\">UGBF30<\/span><div data-ug-copy-data=\"UGBF30\" class=\"copy-btn\">Copy<\/div>\n<\/div>\n<div class=\"hit-button\"><a href=\"https:\/\/www.ugreen.com\/products\/ugreen-nexode-45w-dual-c-port-wall-charger\">Buy Now<\/a><\/div>\n<\/div>",
+            "html_content": "<div class=\"product-main\">\n<div class=\"copy-code\">\n<span class=\"code\">UGBF45W<\/span><div data-ug-copy-data=\"UGBF45W\" class=\"copy-btn\">Copy<\/div>\n<\/div>\n<div class=\"hit-button\"><a href=\"https:\/\/www.ugreen.com\/products\/ugreen-nexode-45w-dual-c-port-wall-charger\">Buy Now<\/a><\/div>\n<\/div>",
             "hidden_mobile": false
           }
         },
@@ -403,7 +403,7 @@
         "9eddee60-ceca-4ce6-bd45-7c0bce0e175c": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"product-main\">\n    <div class=\"copy-code\">\n<span class=\"code\">UGBF30<\/span><div class=\"copy-btn\" data-ug-copy-data=\"UGBF30\">Copy<\/div>\n<\/div>\n    <div class=\"hit-button\"><a href=\"https:\/\/www.ugreen.com\/products\/100w-3c1a-gan-fast-charger\">Buy Now<\/a><\/div>\n<\/div>",
+            "html_content": "<div class=\"product-main\">\n    <div class=\"copy-code\">\n<span class=\"code\">UGBF100W<\/span><div class=\"copy-btn\" data-ug-copy-data=\"UGBF100W\">Copy<\/div>\n<\/div>\n    <div class=\"hit-button\"><a href=\"https:\/\/www.ugreen.com\/products\/100w-3c1a-gan-fast-charger\">Buy Now<\/a><\/div>\n<\/div>",
             "hidden_mobile": false
           }
         },
@@ -465,14 +465,14 @@
         "f03bd7f3-fe62-4283-a559-884490c25d1f": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_box\">\n\t\t\t<!--原价-->\n\t\t\t<p class=\"balck_friday_product_pirce\">$99.99<\/p>\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p class=\"balck_friday_product_discount\">$119.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_box\">\n\t\t\t<!--原价-->\n\t\t\t<p class=\"balck_friday_product_pirce\">$99.99<\/p>\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p class=\"balck_friday_product_discount\">$149.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "b3736e10-3158-481f-b09d-5ea248d275af": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"product-main\">\n    <div class=\"copy-code\">\n<span class=\"code\">UGBF30<\/span><div class=\"copy-btn\" data-ug-copy-data=\"UGBF30\">Copy<\/div>\n<\/div>\n <div class=\"hit-button\"><a href=\"https:\/\/www.ugreen.com\/products\/ugreen-nexode-140w-usb-c-wall-charger\">Buy Now<\/a><\/div>\n<\/div>",
+            "html_content": "<div class=\"product-main\">\n    <div class=\"copy-code\">\n<span class=\"code\">UGBF140W<\/span><div class=\"copy-btn\" data-ug-copy-data=\"UGBF140W\">Copy<\/div>\n<\/div>\n <div class=\"hit-button\"><a href=\"https:\/\/www.ugreen.com\/products\/ugreen-nexode-140w-usb-c-wall-charger\">Buy Now<\/a><\/div>\n<\/div>",
             "hidden_mobile": false
           }
         },
@@ -541,7 +541,7 @@
         "34cdade1-8299-47c4-ad66-eb6e889607fa": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"product-main\">\n    <div class=\"copy-code\">\n<span class=\"code\">UGBF30<\/span><div class=\"copy-btn\" data-ug-copy-data=\"UGBF30\">Copy<\/div>\n<\/div>\n <div class=\"hit-button\"><a href=\"https:\/\/www.ugreen.com\/products\/ugreen-nexode-200w-usb-c-desktop-charger\">Buy Now<\/a><\/div>\n<\/div>",
+            "html_content": "<div class=\"product-main\">\n    <div class=\"copy-code\">\n<span class=\"code\">UGBF200W<\/span><div class=\"copy-btn\" data-ug-copy-data=\"UGBF200W\">Copy<\/div>\n<\/div>\n <div class=\"hit-button\"><a href=\"https:\/\/www.ugreen.com\/products\/ugreen-nexode-200w-usb-c-desktop-charger\">Buy Now<\/a><\/div>\n<\/div>",
             "hidden_mobile": false
           }
         },
