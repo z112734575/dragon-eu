@@ -197,7 +197,10 @@
               flex-direction: column;
       margin-bottom: 30px; }
       .t4s-type-tabs .ug-overview-img-2 li img {
-        margin-bottom: 15px; } }
+        margin-bottom: 15px; } 
+  .t4s-section-main-product .t4s-product__info-container .t4s-product__review {
+     order:0;margin-top:10px;width:100%}
+}
 @media (min-width: 768px) {
   #t4s-backToTop {
     bottom: 100px !important; }
@@ -514,8 +517,7 @@
     margin:0 0 30px 0;
     border-bottom: 1px solid #DEDEDE;
             align-items: flex-start; }
-  .t4s-section-main-product .t4s-product__info-container .t4s-product__review {
-     order:0;margin-top:10px;width:100%}
+  
   .t4s-section-main-product .t4s-product__info-container .t4s-product-price {
     font-size: 32px;
     font-family: Poppins-SemiBold, Poppins;
