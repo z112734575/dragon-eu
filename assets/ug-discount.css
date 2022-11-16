@@ -49,7 +49,7 @@
             align-items: center;
     width: 237px; }
   .ug-product-discount-btn {
-    background: #E9631D !important;
+    background: #E9631D;
     border-radius: 22px;
     font-size: 20px;
     font-weight: normal;
@@ -138,7 +138,7 @@
   .ug-product-discount-btn {
     width: 102px;
     height: 32px;
-    background: #E9631D !important;
+    background: #E9631D;
     border-radius: 22px;
     font-size: 18px;
     font-weight: normal;
