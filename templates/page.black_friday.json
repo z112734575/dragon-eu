@@ -334,7 +334,7 @@
         "954464b3-efa3-4dcc-9342-2b876d8ed293": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"product-main\">\n<div class=\"copy-code\">\n<span class=\"code\">UGBF30<\/span><div data-clipboard-text=\"UGBF30\" class=\"copy-btn\">copy<\/div>\n<\/div>\n\t\t<\/div>\n        <div class=\"hit-button\">Buy Now<\/div>",
+            "html_content": "<div class=\"product-main\">\n<div class=\"copy-code\">\n<span class=\"code\">UGBF30<\/span><div data-ug-copy-data=\"UGBF30\" class=\"copy-btn\">copy<\/div>\n<\/div>\n\t\t<\/div>\n        <div class=\"hit-button\">Buy Now<\/div>",
             "hidden_mobile": false
           }
         },
