@@ -334,7 +334,7 @@
         "954464b3-efa3-4dcc-9342-2b876d8ed293": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"product-main\">\n<div class=\"copy-code\">\n<span class=\"code\">UGBF30<\/span><div data-ug-copy-data=\"UGBF30\" class=\"copy-btn\">copy<\/div>\n<\/div>\n<div class=\"hit-button\"><a href=\"https:\/\/www.ugreen.com\/products\/ugreen-nexode-45w-dual-c-port-wall-charger\">Buy Now<\/a><\/div>\n<\/div>",
+            "html_content": "<div class=\"product-main\">\n<div class=\"copy-code\">\n<span class=\"code\">UGBF30<\/span><div data-ug-copy-data=\"UGBF30\" class=\"copy-btn\">Copy<\/div>\n<\/div>\n<div class=\"hit-button\"><a href=\"https:\/\/www.ugreen.com\/products\/ugreen-nexode-45w-dual-c-port-wall-charger\">Buy Now<\/a><\/div>\n<\/div>",
             "hidden_mobile": false
           }
         },
@@ -403,7 +403,7 @@
         "9eddee60-ceca-4ce6-bd45-7c0bce0e175c": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"product-main\">\n    <div class=\"copy-code\">\n<span class=\"code\">UGBF30<\/span><div class=\"copy-btn\" data-ug-copy-data=\"UGBF30\">copy<\/div>\n<\/div>\n    <div class=\"hit-button\"><a href=\"www.ugreen.com\/products\/100w-3c1a-gan-fast-charger\">Buy Now<\/a><\/div>\n<\/div>",
+            "html_content": "<div class=\"product-main\">\n    <div class=\"copy-code\">\n<span class=\"code\">UGBF30<\/span><div class=\"copy-btn\" data-ug-copy-data=\"UGBF30\">Copy<\/div>\n<\/div>\n    <div class=\"hit-button\"><a href=\"www.ugreen.com\/products\/100w-3c1a-gan-fast-charger\">Buy Now<\/a><\/div>\n<\/div>",
             "hidden_mobile": false
           }
         },
@@ -472,7 +472,7 @@
         "b3736e10-3158-481f-b09d-5ea248d275af": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"product-main\">\n    <div class=\"copy-code\">\n<span class=\"code\">UGBF30<\/span><div class=\"copy-btn\" data-ug-copy-data=\"UGBF30\">copy<\/div>\n<\/div>\n <div class=\"hit-button\"><a href=\"https:\/\/www.ugreen.com\/products\/ugreen-nexode-140w-usb-c-wall-charger\">Buy Now<\/a><\/div>\n<\/div>",
+            "html_content": "<div class=\"product-main\">\n    <div class=\"copy-code\">\n<span class=\"code\">UGBF30<\/span><div class=\"copy-btn\" data-ug-copy-data=\"UGBF30\">Copy<\/div>\n<\/div>\n <div class=\"hit-button\"><a href=\"https:\/\/www.ugreen.com\/products\/ugreen-nexode-140w-usb-c-wall-charger\">Buy Now<\/a><\/div>\n<\/div>",
             "hidden_mobile": false
           }
         },
@@ -541,14 +541,14 @@
         "34cdade1-8299-47c4-ad66-eb6e889607fa": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"product-main\">\n    <div class=\"copy-code\">\n<span class=\"code\">UGBF30<\/span><div class=\"copy-btn\" data-ug-copy-data=\"UGBF30\">copy<\/div>\n<\/div>\n <div class=\"hit-button\"><a href=\"https:\/\/www.ugreen.com\/products\/ugreen-nexode-200w-usb-c-desktop-charger\">Buy Now<\/a><\/div>\n<\/div>",
+            "html_content": "<div class=\"product-main\">\n    <div class=\"copy-code\">\n<span class=\"code\">UGBF30<\/span><div class=\"copy-btn\" data-ug-copy-data=\"UGBF30\">Copy<\/div>\n<\/div>\n <div class=\"hit-button\"><a href=\"https:\/\/www.ugreen.com\/products\/ugreen-nexode-200w-usb-c-desktop-charger\">Buy Now<\/a><\/div>\n<\/div>",
             "hidden_mobile": false
           }
         },
         "8f943873-0090-485f-bc04-2816fc28e673": {
           "type": "html",
           "settings": {
-            "html_content": "<style type=\"text\/css\">\n .hit-button {\n        border-radius: 56px;\n        border: 1px solid #FFFFFF;\n        font-size: 14px;\n        font-weight: 500;\n        color: #FFFFFF;\n        line-height: 44px;\n        text-align: center;\n        cursor: pointer;\n        height: 44px;\n        width: 160px;\n        margin: 22px auto;\n    }\n    .hit-button:hover {\n        background: #F6DDB0;\n        border-color: #F6DDB0;\n        color: #000000;\n    }\n    .copy-code {\n        display: flex;\n        align-items: center;\n        justify-content: center;\n    }\n    .code {\n        color: #9f9e9a;\n        font-size: 12px;\n        margin-right: 4px;\n    }\n    .copy-btn {\n        color: #f6ddb0;\n        cursor: pointer;\n    }\n    @media (max-width: 768px) {\n        .copy-code {\n            justify-content: flex-start;\n        }\n        .hit-button {\n            margin-left: 0;\n        }\n    }\n<\/style>\n<script>\n    $(function() {\n        let timeId = null;\n        $('[data-ug-copy-data]').click(function () {\n            clearTimeout(timeId);\n            timeId = setTimeout(() => {\n                var copyText = $(this).attr('data-ug-copy-data');\n\n                var input = document.createElement('input');\n                input.setAttribute('value', copyText);\n                document.body.appendChild(input);\n                input.select();\n                if (document.execCommand('copy')) {\n                    document.execCommand('copy');\n                    $(this).text('Copied');\n                    setTimeout( () => {\n                        $(this).text('Copy');\n                    }, 2000)\n                }\n                document.body.removeChild(input);\n            }, 200);\n\n        });\n    })\n<\/script>",
+            "html_content": "<style type=\"text\/css\">\n .hit-button {\n\tborder-radius:56px;\n\tborder:1px solid #FFFFFF;\n\tfont-size:14px;\n\tfont-weight:500;\n\tcolor:#FFFFFF;\n\tline-height:44px;\n\ttext-align:center;\n\tcursor:pointer;\n\theight:44px;\n\twidth:160px;\n\tmargin:20px auto;\n}\n.hit-button a {\n\tfont-size:14px;\n\tfont-weight:500;\n\tcolor:#FFFFFF;\n\tline-height:16px;\n}\n.hit-button:hover {\n\tbackground:#F6DDB0;\n\tborder-color:#F6DDB0;\n}\n.hit-button:hover a {\n\tcolor:#000000;\n}\n.copy-code {\n\tdisplay:flex;\n\talign-items:center;\n\tjustify-content:center;\n\tmargin-top:5px;\n}\n.code {\n\tcolor:#9f9e9a;\n\tfont-size:12px;\n\tmargin-right:4px;\n}\n.copy-btn {\n\tcolor:#f6ddb0;\n\tcursor:pointer;\n}\n@media (max-width:768px) {\n\t.copy-code {\n\tjustify-content:flex-start;\n}\n.hit-button {\n\tmargin:10px 0;\n\theight:32px;\n\twidth:130px;\n\tline-height:32px;\n}\n}<\/style>\n<script>\n    $(function() {\n\tlet timeId = null;\n\t$('[data-ug-copy-data]').click(function () {\n\tclearTimeout(timeId);\n\ttimeId = setTimeout(() => {\n\tvar copyText = $(this).attr('data-ug-copy-data');\n\tvar input = document.createElement('input');\n\tinput.setAttribute('value',copyText);\n\tdocument.body.appendChild(input);\n\tinput.select();\n\tif (document.execCommand('copy')) {\n\tdocument.execCommand('copy');\n\t$(this).text('Copied');\n\tsetTimeout( () => {\n\t$(this).text('Copy');\n}\n,2000)}document.body.removeChild(input);},200);});})\n<\/script>",
             "hidden_mobile": false
           }
         }
