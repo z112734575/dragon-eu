@@ -2,7 +2,7 @@ function isMobile() {
     let flag = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
     return flag;
 }
-$(function (){
+setTimeout(function (){
     $('.t4s-tab__title').on('click',function (event){
         event.stopImmediatePropagation()
     })
