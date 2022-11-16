@@ -616,7 +616,7 @@
         "21b88dbc-2045-409b-ae91-f1fd02eb0bc2": {
           "type": "custom_text",
           "settings": {
-            "text": "11.25 officially launched",
+            "text": "11.15 has been officially launched",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#9f9e9a",
@@ -637,7 +637,7 @@
         "83aa9ee4-9a8b-4990-9a37-c20ad4975386": {
           "type": "custom_text",
           "settings": {
-            "text": "After the price reduction is successful, we will notify you by email",
+            "text": "Now we have already hitted the price",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#9f9e9a",
@@ -658,7 +658,7 @@
         "24796b06-78f9-47a3-adaa-450eff279d98": {
           "type": "custom_text",
           "settings": {
-            "text": "Commodities are sold in limited quantities, please purchase as soon as possible after successful participation",
+            "text": "Commodities are sold in limited quantities, please purchase as soon as possible",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#9f9e9a",
