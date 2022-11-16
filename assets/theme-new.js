@@ -2,7 +2,7 @@ function isMobile() {
     let flag = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
     return flag;
 }
-setTimeout(function (){
+$(function (){
     $('.t4s-tab__title').on('click',function (event){
         event.stopImmediatePropagation()
     })
@@ -26,8 +26,7 @@ setTimeout(function (){
         },3000)
         e.clearSelection();
     });
-    $('.discount_information').before($('.ug-product-discount').clone())
-  
+    $('.t4s-product-form__variants').before($('.ug-product-discount').clone())
     $('.t4s-pr__custom-liquid .ug-product-discount').remove()
 
     // school
@@ -51,4 +50,4 @@ setTimeout(function (){
     // GitHub异常
 
 
-},5000)
+})
