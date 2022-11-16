@@ -403,7 +403,7 @@
         "9eddee60-ceca-4ce6-bd45-7c0bce0e175c": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"product-main\">\n    <div class=\"copy-code\">\n<span class=\"code\">UGBF30<\/span><div class=\"copy-btn\" data-ug-copy-data=\"UGBF30\">Copy<\/div>\n<\/div>\n    <div class=\"hit-button\"><a href=\"www.ugreen.com\/products\/100w-3c1a-gan-fast-charger\">Buy Now<\/a><\/div>\n<\/div>",
+            "html_content": "<div class=\"product-main\">\n    <div class=\"copy-code\">\n<span class=\"code\">UGBF30<\/span><div class=\"copy-btn\" data-ug-copy-data=\"UGBF30\">Copy<\/div>\n<\/div>\n    <div class=\"hit-button\"><a href=\"https:\/\/www.ugreen.com\/products\/100w-3c1a-gan-fast-charger\">Buy Now<\/a><\/div>\n<\/div>",
             "hidden_mobile": false
           }
         },
