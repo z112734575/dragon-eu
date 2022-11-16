@@ -51,4 +51,4 @@ setTimeout(function (){
     // GitHub异常
 
 
-},2000)
+},5000)
