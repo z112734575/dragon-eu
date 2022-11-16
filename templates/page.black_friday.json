@@ -1798,6 +1798,7 @@
         },
         "f02abe9d-ef9e-45e2-a7e4-3ff7d2f4e545": {
           "type": "custom_button",
+          "disabled": true,
           "settings": {
             "button_text": "More",
             "button_link": "shopify:\/\/collections\/30-off-special-deals",
@@ -1829,7 +1830,7 @@
         "b3973e88-ba07-4e79-b049-fd4167b84f4a": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"ug-product-discount-code black-friday-50\">\n<button class=\"ug-product-discount-btn\"><a href=\"https:\/\/www.ugreen.com\/products\/ugreen-nexode-45w-dual-c-port-wall-charger\" class=\"ug-product-discount-btn\">More<\/a><\/button>\n      \n    <\/div>",
+            "html_content": "<div class=\"ug-product-discount-code black-friday-50\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"\/collections\/30-off-special-deals\" class=\"ug-product-discount-btn\">More<\/a><\/button><\/div>",
             "hidden_mobile": false
           }
         }
