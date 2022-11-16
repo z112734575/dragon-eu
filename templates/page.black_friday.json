@@ -1222,40 +1222,17 @@
             "bg_cl": "rgba(0,0,0,0)"
           }
         },
-        "f02abe9d-ef9e-45e2-a7e4-3ff7d2f4e545": {
-          "type": "custom_button",
+        "d6dc4089-20b8-43ad-8753-634ddf7eeb54": {
+          "type": "html",
           "settings": {
-            "button_text": "More",
-            "button_link": "shopify:\/\/collections\/50-off-lightning-deals",
-            "target_link": "_self",
-            "fontf": "inherit",
-            "button_icon_w": 18,
-            "button_style": "default",
-            "button_effect": "default",
-            "pri_cl": "#000000",
-            "second_cl": "#ffffff",
-            "pri_cl_hover": "#000000",
-            "second_cl_hover": "#f6ddb0",
-            "fsbutton": 18,
-            "fwbutton": 400,
-            "button_ls": 0,
-            "button_mh": 30,
-            "button_bdr": 0,
-            "button_pd_lr": 0,
-            "button_mgb": 0,
-            "hidden_mobile": false,
-            "button_icon_w_mb": 12,
-            "fsbutton_mb": 14,
-            "button_mh_mb": 10,
-            "button_pd_lr_mb": 0,
-            "button_ls_mb": 0,
-            "button_mgb_mb": 0
+            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: center;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"\/collections\/50-off-lightning-deals\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
+            "hidden_mobile": false
           }
         }
       },
       "block_order": [
         "template--14475737169982__dc82a967-6f89-4b56-b8ff-0999f3951aa3-16684274055ac201b5-0",
-        "f02abe9d-ef9e-45e2-a7e4-3ff7d2f4e545"
+        "d6dc4089-20b8-43ad-8753-634ddf7eeb54"
       ],
       "settings": {
         "space_h_item": "0",
@@ -1267,9 +1244,9 @@
         "cl_bg_gradient": "",
         "mg": "-150px,0,0,0",
         "pd": "",
-        "mg_tb": "-100px,0,0,0",
+        "mg_tb": "-110px,0,0,0",
         "pd_tb": "",
-        "mg_mb": "-100px,0,0,0",
+        "mg_mb": "-110px,0,0,0",
         "pd_mb": "",
         "use_cus_css": false,
         "code_cus_css": ""
@@ -1796,48 +1773,16 @@
             "bg_cl": "rgba(0,0,0,0)"
           }
         },
-        "f02abe9d-ef9e-45e2-a7e4-3ff7d2f4e545": {
-          "type": "custom_button",
-          "disabled": true,
-          "settings": {
-            "button_text": "More",
-            "button_link": "shopify:\/\/collections\/30-off-special-deals",
-            "target_link": "_self",
-            "fontf": "inherit",
-            "button_icon_w": 18,
-            "button_style": "default",
-            "button_effect": "default",
-            "pri_cl": "#000000",
-            "second_cl": "#ffffff",
-            "pri_cl_hover": "#000000",
-            "second_cl_hover": "#f6ddb0",
-            "fsbutton": 18,
-            "fwbutton": 400,
-            "button_ls": 0,
-            "button_mh": 30,
-            "button_bdr": 0,
-            "button_pd_lr": 0,
-            "button_mgb": 0,
-            "hidden_mobile": false,
-            "button_icon_w_mb": 12,
-            "fsbutton_mb": 14,
-            "button_mh_mb": 10,
-            "button_pd_lr_mb": 0,
-            "button_ls_mb": 0,
-            "button_mgb_mb": 0
-          }
-        },
         "b3973e88-ba07-4e79-b049-fd4167b84f4a": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"ug-product-discount-code black-friday-50\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"\/collections\/30-off-special-deals\" class=\"ug-product-discount-btn\">More<\/a><\/button><\/div>",
+            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: center;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"\/collections\/30-off-special-deals\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
             "hidden_mobile": false
           }
         }
       },
       "block_order": [
         "template--14475737169982__dc82a967-6f89-4b56-b8ff-0999f3951aa1-16684274055ac201b5-0",
-        "f02abe9d-ef9e-45e2-a7e4-3ff7d2f4e545",
         "b3973e88-ba07-4e79-b049-fd4167b84f4a"
       ],
       "settings": {
@@ -1850,9 +1795,9 @@
         "cl_bg_gradient": "",
         "mg": "-150px,0,0,0",
         "pd": "",
-        "mg_tb": "-100px,0,0,0",
+        "mg_tb": "-110px,0,0,0",
         "pd_tb": "",
-        "mg_mb": "-100px,0,0,0",
+        "mg_mb": "-110px,0,0,0",
         "pd_mb": "",
         "use_cus_css": false,
         "code_cus_css": ""
@@ -2391,40 +2336,17 @@
             "bg_cl": "rgba(0,0,0,0)"
           }
         },
-        "f02abe9d-ef9e-45e2-a7e4-3ff7d2f4e545": {
-          "type": "custom_button",
+        "d4a673eb-c8fc-4d5a-bb59-11406f34c3dc": {
+          "type": "html",
           "settings": {
-            "button_text": "More",
-            "button_link": "#",
-            "target_link": "_self",
-            "fontf": "inherit",
-            "button_icon_w": 18,
-            "button_style": "default",
-            "button_effect": "default",
-            "pri_cl": "#000000",
-            "second_cl": "#ffffff",
-            "pri_cl_hover": "#000000",
-            "second_cl_hover": "#f6ddb0",
-            "fsbutton": 18,
-            "fwbutton": 400,
-            "button_ls": 0,
-            "button_mh": 30,
-            "button_bdr": 0,
-            "button_pd_lr": 0,
-            "button_mgb": 0,
-            "hidden_mobile": false,
-            "button_icon_w_mb": 12,
-            "fsbutton_mb": 14,
-            "button_mh_mb": 10,
-            "button_pd_lr_mb": 0,
-            "button_ls_mb": 0,
-            "button_mgb_mb": 0
+            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: center;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"\/collections\/5-20-special-offer\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
+            "hidden_mobile": false
           }
         }
       },
       "block_order": [
         "template--14475737169982__dc82a967-6f89-4b56-b8ff-0999f3951aa2-16684274055ac201b5-0",
-        "f02abe9d-ef9e-45e2-a7e4-3ff7d2f4e545"
+        "d4a673eb-c8fc-4d5a-bb59-11406f34c3dc"
       ],
       "settings": {
         "space_h_item": "0",
@@ -2436,9 +2358,9 @@
         "cl_bg_gradient": "",
         "mg": "-150px,0,0,0",
         "pd": "",
-        "mg_tb": "-100px,0,0,0",
+        "mg_tb": "-110px,0,0,0",
         "pd_tb": "",
-        "mg_mb": "-100px,0,0,0",
+        "mg_mb": "-110px,0,0,0",
         "pd_mb": "",
         "use_cus_css": false,
         "code_cus_css": ""
