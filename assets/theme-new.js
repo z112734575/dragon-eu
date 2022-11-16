@@ -26,7 +26,7 @@ setTimeout(function (){
         },3000)
         e.clearSelection();
     });
-    $('.t4s-product-form__variants').before($('.ug-product-discount').clone())
+    $('.discount_information').before($('.ug-product-discount').clone())
   
     $('.t4s-pr__custom-liquid .ug-product-discount').remove()
 
