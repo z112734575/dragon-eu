@@ -200,6 +200,9 @@
         margin-bottom: 15px; } 
   .t4s-section-main-product .t4s-product__info-container .t4s-product__review {
      order:0;margin-top:10px;width:100%}
+  .t4s-section-main-product .t4s-product__info-container .t4s-product-price{
+    order:1;
+  }
 }
 @media (min-width: 768px) {
   #t4s-backToTop {
