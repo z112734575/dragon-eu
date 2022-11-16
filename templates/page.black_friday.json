@@ -1594,7 +1594,7 @@
         "d957525d-d8e1-465b-8270-5957fc65a5c2": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 31 off",
+            "button_text": "buy with 31% off",
             "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-100w-usb-c-diginest-pro-power-strip",
             "target_link": "_self",
             "fontf": "inherit",
