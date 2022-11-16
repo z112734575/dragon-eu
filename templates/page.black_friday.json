@@ -1332,7 +1332,7 @@
         "12cbdeee-679e-431a-b039-f190ee9db84f": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"ug-product-discount-code black-friday-50\">\n\t\t\t<span>UGINSITE<\/span>\n\t\t\t<button data-clipboard-text=\"cope-tests1\" class=\"ug-product-discount-btn\">copy code<\/button>\n\t\t\t<button data-clipboard-text=\"cope-tests1\" class=\"ug-product-discount-btned\" style=\"display: none;color: #fff;\">copied<\/button>\n\t\t<\/div>",
+            "html_content": "<div class=\"ug-product-discount-code black-friday-50\">\n\t\t\t<span>UGINSITE<\/span>\n\t\t\t<button data-ug-copy-data=\"cope-tests1\" class=\"ug-product-discount-btn\">copy code<\/button>\n\t\t\t\n\t\t<\/div>",
             "hidden_mobile": false
           }
         }
