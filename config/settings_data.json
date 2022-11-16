@@ -1679,6 +1679,18 @@
               "lb_cl": ""
             }
           },
+          "c29a9b68-4239-4e8c-bdcc-d598dd95b6f4": {
+            "type": "menu",
+            "settings": {
+              "title": "BLACK FRIDAY",
+              "url": "shopify:\/\/pages\/black-friday",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
           "cecb3bc8-d54f-4ec7-a819-424e63c5ae58": {
             "type": "menu",
             "settings": {
@@ -1833,6 +1845,7 @@
           "25fa7ecf-2db0-4747-b093-a1299099917e",
           "58800ed8-befe-449a-b8f8-ea86620bef6f",
           "mb_nav-3",
+          "c29a9b68-4239-4e8c-bdcc-d598dd95b6f4",
           "cecb3bc8-d54f-4ec7-a819-424e63c5ae58",
           "a6508826-0ecb-4412-a5d8-a7547aa8d015",
           "b03e5afc-f3b2-4cb5-90fa-7f964e20c6cd",
