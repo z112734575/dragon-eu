@@ -682,6 +682,23 @@
               "lb_cl": ""
             }
           },
+          "01924df3-a82c-4cbe-9111-6f2932b314af": {
+            "type": "drop",
+            "settings": {
+              "title": "BLACK FRIDAY",
+              "url": "shopify:\/\/pages\/black-friday",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "",
+              "lazy_mn": true,
+              "pos_sub": "bottom",
+              "pos": "left"
+            }
+          },
           "3944a4f5-3618-4f4b-9d13-238ddb1b72f2": {
             "type": "mega",
             "settings": {
@@ -745,6 +762,7 @@
           },
           "d516cbdb-698e-4b29-b113-ebdb7627acb7": {
             "type": "drop",
+            "disabled": true,
             "settings": {
               "title": "Autumn Deals",
               "url": "shopify:\/\/collections\/autumn-deals",
@@ -758,20 +776,6 @@
               "lazy_mn": true,
               "pos_sub": "bottom",
               "pos": "left"
-            }
-          },
-          "0ba2084a-39e0-4b8a-8fed-3447abf7523b": {
-            "type": "base",
-            "disabled": true,
-            "settings": {
-              "title": "NEXODE SERIES",
-              "url": "https:\/\/www.ugreen.com\/pages\/nexode-chargers",
-              "open_link": "_self",
-              "icon": "",
-              "cus_cl": false,
-              "cl": "#ec0101",
-              "lb": "",
-              "lb_cl": ""
             }
           },
           "16e2ef48-b04b-46f0-bf5f-d12823645624": {
@@ -847,12 +851,12 @@
           "556a85dc-041d-4d44-8c22-263ed70a8b48",
           "9a73cf8b-993e-4dbe-9f11-6e990bfb91c0",
           "7b6b268c-25a0-4c97-960d-7e81c56a2676",
+          "01924df3-a82c-4cbe-9111-6f2932b314af",
           "3944a4f5-3618-4f4b-9d13-238ddb1b72f2",
           "00add30b-e435-436e-be83-c631fd494b0e",
           "da9e8c0d-07c0-4f3e-a40e-2b68940ba167",
           "90140798-89e3-4cdf-98ac-6b1d30579962",
           "d516cbdb-698e-4b29-b113-ebdb7627acb7",
-          "0ba2084a-39e0-4b8a-8fed-3447abf7523b",
           "16e2ef48-b04b-46f0-bf5f-d12823645624",
           "6141bf58-9316-4ce8-bd6d-16b03ed3fc8c",
           "16e48cac-0fd2-4f57-b570-7d74c3092cdc",
