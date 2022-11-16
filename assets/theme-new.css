@@ -511,17 +511,17 @@
     -webkit-box-direction: reverse;
     -webkit-box-align: start;
         -ms-flex-align: start;
-    margin:30px 0;
+    margin:0 0 30px 0;
     border-bottom: 1px solid #DEDEDE;
             align-items: flex-start; }
-  .t4s-section-main-product .t4s-product__info-container .t4s-product__review {
-    margin-bottom: 54px; }
+ 
   .t4s-section-main-product .t4s-product__info-container .t4s-product-price {
     font-size: 32px;
     font-family: Poppins-SemiBold, Poppins;
     font-weight: 600;
     color: #131414;
     line-height: 35px;
+    margin:30px 0;
 }
   .t4s-section-main-product .t4s-product__info-container .loox-rating .loox-icon {
     font-size: 20px; }
