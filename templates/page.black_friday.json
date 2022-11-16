@@ -334,7 +334,7 @@
         "954464b3-efa3-4dcc-9342-2b876d8ed293": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"product-main\">\n        <div class=\"hit-button\">Buy Now<\/div>\n    <\/div>",
+            "html_content": "<div class=\"product-main\">\n<div class=\"copy-code\">\n<span class=\"code\">UGBF30<\/span><div data-clipboard-text=\"UGBF30\" class=\"copy-btn\">copy<\/div>\n<\/div>\n\t\t<\/div>\n        <div class=\"hit-button\">Buy Now<\/div>",
             "hidden_mobile": false
           }
         },
@@ -548,7 +548,7 @@
         "8f943873-0090-485f-bc04-2816fc28e673": {
           "type": "html",
           "settings": {
-            "html_content": "<style type=\"text\/css\">\n.hit-button {\n    border-radius: 56px;\n    border: 1px solid #FFFFFF;\n    font-size: 14px;\n    font-weight: 500;\n    color: #FFFFFF;\n    line-height: 44px;\n    text-align: center;\n    cursor: pointer;\n    height: 44px;\n    width: 160px;\n    margin: 22px auto;\n}\n.hit-button:hover {\n    background: #F6DDB0;\n    border-color: #F6DDB0;\n    color: #000000;\n}\n<\/style>",
+            "html_content": "<style type=\"text\/css\">\n .hit-button {\n        border-radius: 56px;\n        border: 1px solid #FFFFFF;\n        font-size: 14px;\n        font-weight: 500;\n        color: #FFFFFF;\n        line-height: 44px;\n        text-align: center;\n        cursor: pointer;\n        height: 44px;\n        width: 160px;\n        margin: 22px auto;\n    }\n    .hit-button:hover {\n        background: #F6DDB0;\n        border-color: #F6DDB0;\n        color: #000000;\n    }\n    .copy-code {\n        display: flex;\n        align-items: center;\n        justify-content: center;\n    }\n    .code {\n        color: #9f9e9a;\n        font-size: 12px;\n        margin-right: 4px;\n    }\n    .copy-btn {\n        color: #f6ddb0;\n        cursor: pointer;\n    }\n<\/style>",
             "hidden_mobile": false
           }
         }
