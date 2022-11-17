@@ -71,10 +71,7 @@
     text-align: center;
     line-height: 19px;
     display: none;
-    padding: 0; }
-  .ug-product-discount-btned:hover {
-    color: #E9631D;
-    border-color: #E9631D; } }
+    padding: 0; } }
 @media (max-width: 767px) {
   .ug-product-discount-box {
     margin: 0 auto;
