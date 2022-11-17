@@ -692,8 +692,8 @@
               "icon": "",
               "cus_cl": false,
               "cl": "#ec0101",
-              "lb": "",
-              "lb_cl": "",
+              "lb": "HOT",
+              "lb_cl": "#ff7e00",
               "lazy_mn": true,
               "pos_sub": "bottom",
               "pos": "left"
