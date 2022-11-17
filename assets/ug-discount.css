@@ -1,7 +1,7 @@
 @media (min-width: 768px) {
   .ug-product-discount-box {
     width: 100%;
-    height: 56px;
+    height: 66px;
     background-image: url("https://cdn.shopify.com/s/files/1/0257/5246/9566/files/Group_276.webp?v=1658835772");
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -14,20 +14,21 @@
     padding: 12px 20px; }
     .ug-product-discount-box span.percent {
       font-size: 32px;
-      font-weight: normal;
-      color: #E9631D;
-      line-height: 40px;
-      font-size: 32px; }
+      font-weight: 500;
+      color: #FFFFFF;
+      line-height: 40px; }
     .ug-product-discount-box span.off {
       font-size: 18px;
       font-weight: 400;
-      color: #E9631D;
+      color: #FFFFFF;
       line-height: 21px; }
     .ug-product-discount-box div.desc {
       font-size: 12px;
       font-weight: 400;
-      color: #E98A59;
-      line-height: 14px; }
+      color: #fff;
+      line-height: 14px;
+      padding:5px 0;
+    }
   .ug-product-discount-sum {
     width: 180px;
     padding-right: 12px;
@@ -36,7 +37,7 @@
   .ug-product-discount-code {
     font-size: 13px;
     font-weight: 400;
-    color: #E9631D;
+    color: #fff;
     line-height: 15px;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -48,29 +49,28 @@
         -ms-flex-align: center;
             align-items: center;
     width: 237px; }
-  .ug-product-discount-btn {
-    background: #E9631D;
+    .ug-product-discount-btn {
+    background:linear-gradient(344deg,#F6D898 2%,#F6DDB2 100%);
     border-radius: 22px;
-    font-size: 20px;
-    font-weight: normal;
-    color: #FFFFFF;
+    font-size:16px;
+    font-weight: 700;
+    color: #27231E;
     height: 40px;
     width: 120px;
     text-align: center;
-    line-height: 40px;
+    line-height: 19px;
     padding: 0; }
   .ug-product-discount-btned {
-    background: #ffffff;
+    background:linear-gradient(344deg,#F6D898 2%,#F6DDB2 100%);
     border-radius: 22px;
-    font-size: 20px;
-    font-weight: normal;
-    color: #E9631D;
+    font-size: 16px;
+    font-weight: 700;
+    color: #fff;
     height: 40px;
     width: 120px;
     text-align: center;
-    line-height: 40px;
+    line-height: 19px;
     display: none;
-    border: 1px solid #E9631D;
     padding: 0; }
   .ug-product-discount-btned:hover {
     color: #E9631D;
@@ -96,7 +96,7 @@
     padding-right: 18px; }
   .ug-product-discount-sum {
     float: left;
-    border-right: 1px dotted #E9631D;
+    border-right:1px dashed #fff;
     width: 140px; }
     .ug-product-discount-sum .percent {
       font-size: 30px;
@@ -112,8 +112,7 @@
       font-size: 12px;
       font-weight: 400;
       color: #E98A59;
-      line-height: 14px;
-      height: 30px; }
+      line-height: 14px; }
   .ug-product-discount-code {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -132,7 +131,7 @@
     .ug-product-discount-code span {
       font-size: 12px;
       font-weight: 400;
-      color: #E9631D;
+      color: #fff;
       line-height: 14px;
       margin-top: 5px; }
   .ug-product-discount-btn {
