@@ -1,8 +1,8 @@
 const  fs = require('fs');
 const path = require('path');
 const readDir = fs.readdirSync("./templates");
-const shouldDelete = readDir.filter((file) => file.match(/product\.pf\-[\w]*(.json)$/));
-const keys = shouldDelete.map((file) => file.replace(/product\.pf\-([\w]*)(.json)$/, '$1'));
+const shouldDelete = readDir.filter((file) => file.match(/product\.pf\-[\w]*(.liquid)$/));
+const keys = shouldDelete.map((file) => file.replace(/product\.pf\-([\w]*)(.liquid)$/, '$1'));
 // console.log(keys);
 
 const deleteFiles = function (dir) {
@@ -18,6 +18,7 @@ const deleteFiles = function (dir) {
                     // 这里可以使用正则，也可以使用其他方法，比如字符串处理等，/\.d\.ts$/
                     keys.forEach((key) => {
                         if(filename.includes(key)) {
+                            // console.log(filename, 'fff')
                             fs.unlink(src, err => {
                                 if (err) throw err
 
