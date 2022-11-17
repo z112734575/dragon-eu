@@ -552,6 +552,7 @@
     },
     "pf-ffb59885": {
       "type": "pf-ffb59885",
+      "disabled": true,
       "settings": {
       }
     }
