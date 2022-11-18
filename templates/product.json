@@ -111,7 +111,6 @@
             "show_dynamic_checkout": true,
             "btn_txt2": "2",
             "button_color_payment": "dark",
-            "product_list": "{{ product.metafields.theme.grouped.value }}",
             "show_product_current": true,
             "qty_val": "0",
             "advance_label": "Choose style",
@@ -532,21 +531,6 @@
     },
     "loox-product-reviews-app-section": {
       "type": "apps",
-      "blocks": {
-        "loox-product-reviews": {
-          "type": "shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "aggregated": false,
-            "limit": 20,
-            "hide_thumbnails": false,
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "loox-product-reviews"
-      ],
       "settings": {
       }
     }
