@@ -3,6 +3,28 @@ function isMobile() {
     return flag;
 }
 $(function (){
+  // discount information不存在处理
+	    if ($('.discount_information').children('ul').length > 0) {
+	        $(".ug-product-discount").addClass("discount_information_box");
+	    } else {
+	        $(".discount_information").hide();
+	    }
+	    // bundles不存在处理
+	    if ($('.ug-product-discount').length > 0) {
+	        $(".discount_information").addClass("discount_information_show");
+	    } else {
+	        $(".discount_information").removeClass("discount_information_show");
+	        $(".discount_information ul").addClass("discount_information_ul_show");
+	    }
+	    // bundles预设空值处理
+	    $(".discount_information li").each(function() {
+	        let discount_information_li = $(this).html();
+	        if (discount_information_li == null || discount_information_li.length == 0) {
+	        	$(this).hide();　　
+	        } else {
+	        	$(this).show();　　
+	        }　　
+	    });
     $('.t4s-tab__title').on('click',function (event){
         event.stopImmediatePropagation()
     })
