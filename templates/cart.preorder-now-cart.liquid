@@ -14,13 +14,14 @@ shop.enabled_currencies %} { "iso_code":"{{ currency.iso_code }}", "name":"{{
 }}, "product_id":{{ item.product_id }}, "key":"{{ item.key }}", "url":"{{
   item.url
 }}", "image":"{{ item | img_url: 'medium' }}", "quantity":{{ item.quantity }},
-<div class='hulkapps-reminder' data-key='{{item.key}}'></div><span data-hulkapps-line-properties>
-"price":<span data-hulkapps-ci-price data-key='{{item.key}}'>{{ item.price }}</span>, "properties":{ {% for property in item.properties %}
+<div  data-hulkapps-lineitem class='hulkapps-reminder' data-key='{{item.key}}'></div><span >
+"price":<span  data-hulkapps-line-properties  data-hulkapps-lineitem data-hulkapps-ci-price data-key='{{item.key}}'>{{ item.price }}</span>, "properties":{ {% for property in item.properties %}
 "{{ property[0] }}": "{{ property[1] }}"{% unless forloop.last %},{% endunless
-%} {% endfor %} }, "original_price":<span data-hulkapps-ci-price data-key='{{item.key}}'>{{ item.original_price }}</span>,
+%} {% endfor %} }, "original_price":<span  data-hulkapps-lineitem data-hulkapps-ci-price data-key='{{item.key}}'>{{ item.original_price }}</span>,
 </span>
 <button type='button' style='display: none;' class='edit_cart_option btn btn--primary button' data-product_id='{{item.product_id}}' data-key='{{item.key}}' data-variant_id='{{item.variant_id}}' data-quantity='{{item.quantity}}'>Edit Options</button>
-"original_line_price":<span data-hulkapps-line-price data-key='{{item.key}}'>{{ item.original_line_price }}</span>, "discounted_price":{{
+
+"original_line_price":<span  data-hulkapps-lineitem data-hulkapps-line-price data-key='{{item.key}}'>{{ item.original_line_price }}</span>, "discounted_price":{{
   item.discounted_price
 }}, "line_price":<span data-hulkapps-line-price data-key='{{item.key}}'>{{ item.line_price }}</span>, "gift_card":"{{ item.gift_card }}",
 "grams":{{ item.grams }}, "requires_shipping":"{{ item.requires_shipping }}",

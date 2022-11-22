@@ -27,7 +27,7 @@
                     {%- if item.selling_plan_allocation != blank %}<p class="t4s-cart_selling_plan">{{ item.selling_plan_allocation.selling_plan.name }}</p>{% endif -%}
                     {%- assign property_size = item.properties | size -%}
                     <div class='hulkapps-reminder' data-key='{{item.key}}'></div>                    {%- if property_size > 0 -%}
-                    <ul  data-hulkapps-line-properties class="t4s-cart_meta_propertyList">
+                    <ul   class="t4s-cart_meta_propertyList">
                       {%- for p in item.properties -%}
                         {%- if p.first contains '_bundle_' or p.first contains '_mczr_' -%}{%- continue -%}{%- endif -%}
                         {%- unless p.last == blank -%}
