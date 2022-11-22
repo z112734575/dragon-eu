@@ -548,7 +548,7 @@
           "top-bar-0"
         ],
         "settings": {
-          "show_topbar": true,
+          "show_topbar": false,
           "topbar_transparent": false,
           "height": 40,
           "fontsize": 12,
