@@ -4,7 +4,7 @@
   assign item_url = item.url
   assign image    = item.image -%}  
 
- <div  data-hulkapps-lineitem data-cart-item class="t4s-mini_cart__item cart_item_{{item_id}} t4s-d-flex t4s-align-items-center t4s-pr t4s-oh{% if gift_pr_id == item.product_id %} is--gift{% endif %}">
+ <div data-cart-item class="t4s-mini_cart__item cart_item_{{item_id}} t4s-d-flex t4s-align-items-center t4s-pr t4s-oh{% if gift_pr_id == item.product_id %} is--gift{% endif %}">
     <a href="{{item_url}}" class="t4s-mini_cart__img t4s-pr t4s-oh t4s_ratio t4s-bg-11" style="background: url({{ image | image_url: width: 1 }});--aspect-ratioapt:{{image.aspect_ratio |default: 1}}">
       {%- if image != blank -%}
         <img class="lazyloadt4s" width="120" height="{{ 120 | divided_by: image.aspect_ratio | ceil }}" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="{{ image | image_url: width: 1 }}" data-widths="[120, 240]" data-sizes="auto" alt="{{ image.alt | escape }}">
@@ -23,8 +23,8 @@
           {%- unless item.product.has_only_default_variant or item.variant.title contains 'mczr_price_' -%}{%- assign qv_key = item_id -%}<p class="t4s-cart_meta_variant">{{ item.variant.title }}</p>{%- endunless -%}
           {%- if item.selling_plan_allocation != blank %}<p class="t4s-cart_selling_plan">{{ item.selling_plan_allocation.selling_plan.name }}</p>{% endif -%}
           {%- assign property_size = item.properties | size -%}
-          <div class='hulkapps-reminder' data-key='{{item.key}}'></div>          {%- if property_size > 0 -%}
-          <ul  data-hulkapps-line-properties class="cart_meta_propertyList">
+          {%- if property_size > 0 -%}
+          <ul class="cart_meta_propertyList">
             {%- for p in item.properties -%}
               {%- if p.first contains '_bundle_' or p.first contains '_mczr_' -%}{%- continue -%}{%- endif -%}
               {%- unless p.last == blank -%}
@@ -60,7 +60,6 @@
               {%- endunless -%}
             {%- endfor -%}
           </ul>
-<button type='button' style='display: none;' class='edit_cart_option btn btn--primary button' data-product_id='{{item.product_id}}' data-key='{{item.key}}' data-variant_id='{{item.variant_id}}' data-quantity='{{item.quantity}}'>Edit Options</button>
           {%- endif -%}
           {%- if recurringchecked %}<span class="t4s-product-details__item-recurring t4s-ch">{{ 'cart.general.recurring_mess' | t:frequency:frequency,frequency_unit:frequency_unit }}</span>{% endif -%}
           <div class="t4s-cart_meta_price">
@@ -68,11 +67,11 @@
                 {%- assign item_compare_price = item.variant.compare_at_price | default:item.original_price |times:item.quantity -%}
                 {%- assign compare_tt_price = compare_tt_price | plus:item_compare_price -%}
                 {%- if item.original_price != item.final_price -%}
-                   <del><div  data-hulkapps-ci-price data-key='{{item.key}}' class="pn-price-item" data-id="{{ item.key }}">{{ item.original_price | money }}</div></del><ins>{{ item.final_price | money }}</ins>
+                   <del><div class="pn-price-item" data-id="{{ item.key }}">{{ item.original_price | money }}</div></del><ins>{{ item.final_price | money }}</ins>
                 {%- elsif item.variant.compare_at_price > item.original_price  -%}
-                   <del data-hulkapps-ci-price data-key='{{item.key}}' >{{ item.variant.compare_at_price | money }}</del><ins>{{ item.final_price | money }}</ins>
+                   <del>{{ item.variant.compare_at_price | money }}</del><ins>{{ item.final_price | money }}</ins>
                 {%- else -%}
-                   <div  data-hulkapps-ci-price data-key='{{item.key}}' class="pn-price-item" data-id="{{ item.key }}">{{ item.original_price | money }}</div>
+                   <div class="pn-price-item" data-id="{{ item.key }}">{{ item.original_price | money }}</div>
                 {%- endif -%}
               </div>
               {%- if item.unit_price_measurement -%}

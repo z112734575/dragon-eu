@@ -6,8 +6,8 @@ shop.enabled_currencies %} { "iso_code":"{{ currency.iso_code }}", "name":"{{
   currency.name
 }}", "symbol":"{{ currency.symbol }}" } {% if forloop.last != true %} , {% endif
 %} {% endfor %} ], "current_shop_currency": "{{ cart.currency.iso_code }}",
-"original_total_price": <span data-hulkapps-cart-total>{{ cart.original_total_price }}</span>, "total_discount":
-<span data-hulkapps-cart-total>{{ cart.total_discount }}, "total_price": {{ cart.total_price }}</span>,
+"original_total_price": {{ cart.original_total_price }}, "total_discount":
+{{ cart.total_discount }}, "total_price": {{ cart.total_price }},
 "total_weight": {{ cart.total_weight }}, "item_count": {{ cart.item_count }},
 "items":[ {% for item in cart.items %} { "id":{{ item.id }}, "variant_id":{{
   item.variant_id
