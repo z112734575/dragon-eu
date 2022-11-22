@@ -172,7 +172,8 @@
                            <div class="t4s-cart__discountPrice"> - {{ cart.total_discount | money }}</div>
                            {%- elsif compare_tt_price > total_price and false -%}
                            <div class="t4s-cart__originalPrice">{{ compare_tt_price | money }}</div>
-                           <div class="t4s-cart__discountPrice"> - {{ compare_tt_price | minus:total_price | money }}</div>
+                           {% comment %}<div class="t4s-cart__discountPrice"> - {{ compare_tt_price | minus:total_price | money }}</div>{% endcomment %}
+                               <div  data-hulkapps-cart-total class="t4s-cart__originalPrice">{{ cart.original_total_price | money }}</div>
                            {%- endif -%}
                            <div class="t4s-cart__totalPrice">{{ total_price | money }}</div>
                         </div>

@@ -84,7 +84,8 @@
                {%- if item.original_price != item.final_price -%}{%- assign final_price = item.final_price -%}
                   <del><div  data-hulkapps-ci-price data-key='{{item.key}}' class="pn-price-item" data-id="{{ item.key }}">{{ item.original_price | money }}</div></del><ins>{{ item.final_price | money }}</ins>
                {%- elsif item.variant.compare_at_price > item.original_price  -%}{%- assign final_price = item.final_price -%}
-                  <del data-hulkapps-ci-price data-key='{{item.key}}' >{{ item.variant.compare_at_price | money }}</del><ins>{{ item.final_price | money }}</ins>
+                  {% comment %}<del data-hulkapps-ci-price data-key='{{item.key}}' >{{ item.variant.compare_at_price | money }}</del><ins>{{ item.final_price | money }}</ins>{% endcomment %}
+                   <div data-hulkapps-ci-price data-key='{{item.key}}' >{{ item.variant.compare_at_price | money }}</div>
                {%- else -%}{%- assign final_price = item.original_price -%}
                   <div  data-hulkapps-ci-price data-key='{{item.key}}' class="pn-price-item" data-id="{{ item.key }}">{{ item.original_price | money }}</div>
                {%- endif -%}
