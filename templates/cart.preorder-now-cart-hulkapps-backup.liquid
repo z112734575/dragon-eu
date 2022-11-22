@@ -15,10 +15,11 @@ shop.enabled_currencies %} { "iso_code":"{{ currency.iso_code }}", "name":"{{
   item.url
 }}", "image":"{{ item | img_url: 'medium' }}", "quantity":{{ item.quantity }},
 <div  data-hulkapps-lineitem class='hulkapps-reminder' data-key='{{item.key}}'></div><span >
-"price":<span    data-hulkapps-lineitem data-hulkapps-ci-price data-key='{{item.key}}'>{{ item.price }}</span>, "properties":{ {% for property in item.properties %}
+"price":<span      data-hulkapps-lineitem data-hulkapps-ci-price data-key='{{item.key}}'>{{ item.price }}</span>, "properties":{ {% for property in item.properties %}
 "{{ property[0] }}": "{{ property[1] }}"{% unless forloop.last %},{% endunless
 %} {% endfor %} }, "original_price":<span  data-hulkapps-lineitem data-hulkapps-ci-price data-key='{{item.key}}'>{{ item.original_price }}</span>,
 </span>
+
 
 
 "original_line_price":<span  data-hulkapps-lineitem data-hulkapps-line-price data-key='{{item.key}}'>{{ item.original_line_price }}</span>, "discounted_price":{{
