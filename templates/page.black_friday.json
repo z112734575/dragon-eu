@@ -4504,6 +4504,21 @@
         "code_cus_css": ""
       }
     },
+    "e266fe03-e321-46a2-b3cd-f283c1700e1d": {
+      "type": "custom-html",
+      "settings": {
+        "code": "<div id=\"ug-section7\"><\/div>",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,,,",
+        "pd": "",
+        "mg_mb": ",,,,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
+    },
     "10f040a5-a9ff-44b5-821d-7260b861b70444": {
       "type": "custom-section",
       "blocks": {
@@ -5120,6 +5135,7 @@
     "6a026f6b-fcc5-4cc8-b046-7ef337b5e09222",
     "10f040a5-a9ff-44b5-821d-7260b861b70333",
     "6a026f6b-fcc5-4cc8-b046-7ef337b5e09333",
+    "e266fe03-e321-46a2-b3cd-f283c1700e1d",
     "10f040a5-a9ff-44b5-821d-7260b861b70444",
     "6a026f6b-fcc5-4cc8-b046-7ef337b5e09444"
   ]
