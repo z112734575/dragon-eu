@@ -1253,6 +1253,98 @@
             "button_ls_mb": 0,
             "button_mgb_mb": 0
           }
+        },
+        "7a4194e2-8cb8-4a59-bf14-2c558b8c3bb2": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "6",
+            "col_tb": "6",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "start",
+            "content_align_tablet": "start",
+            "content_align_mobile": "start",
+            "padding_inner": "35px,,35px,",
+            "padding_inner_tb": "20px,10px,20px,10px",
+            "padding_inner_mb": "20px,10px,20px,10px",
+            "bg_image": "shopify:\/\/shop_images\/Black_Friday_product_bgm1.jpg",
+            "bg_cl": "rgba(0,0,0,0)"
+          }
+        },
+        "68076407-776d-4578-897a-38e460120cc2": {
+          "type": "image",
+          "settings": {
+            "image_child": "shopify:\/\/shop_images\/80749-768221_b3832478-b4bd-46df-ad2c-94c0ec9f3e12.webp",
+            "img_link": "",
+            "open_link": "_self",
+            "img_width": 0,
+            "img_width_mb": 0,
+            "img_align": "center",
+            "img_align_tb": "center",
+            "img_align_mobile": "center",
+            "b_effect": "none",
+            "hidden_mobile": false,
+            "mgb": 0,
+            "mgb_mb": 0
+          }
+        },
+        "e1f81aae-d1bc-4df8-bae7-5d75bf8e4a42": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Ugreen 10000mAh PD 20W USB-C Power Bank",
+            "remove_br_tag": false,
+            "fontf": "inherit",
+            "text_cl": "#ffffff",
+            "text_fs": 20,
+            "text_lh": 25,
+            "text_fw": 600,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 15,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 22,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 20
+          }
+        },
+        "17c63381-dc41-45cd-b938-c55cea43a7a2": {
+          "type": "html",
+          "settings": {
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$29.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$20.00<\/p>\n\t\t<\/div>",
+            "hidden_mobile": false
+          }
+        },
+        "d90e44ec-cf21-4b21-95c2-34c8085beae2": {
+          "type": "custom_button",
+          "settings": {
+            "button_text": "buy with 50% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-10000mah-pd-20w-usb-c-power-bank?variant=39915662213182",
+            "target_link": "_self",
+            "fontf": "inherit",
+            "button_icon_w": 0,
+            "button_style": "default",
+            "button_effect": "default",
+            "pri_cl": "rgba(0,0,0,0)",
+            "second_cl": "#ffffff",
+            "pri_cl_hover": "rgba(0,0,0,0)",
+            "second_cl_hover": "#000000",
+            "fsbutton": 14,
+            "fwbutton": 500,
+            "button_ls": 0,
+            "button_mh": 44,
+            "button_bdr": 40,
+            "button_pd_lr": 30,
+            "button_mgb": 0,
+            "hidden_mobile": false,
+            "button_icon_w_mb": 0,
+            "fsbutton_mb": 12,
+            "button_mh_mb": 36,
+            "button_pd_lr_mb": 15,
+            "button_ls_mb": 0,
+            "button_mgb_mb": 0
+          }
         }
       },
       "block_order": [
@@ -1280,7 +1372,12 @@
         "68076407-776d-4578-897a-38e460120cce",
         "e1f81aae-d1bc-4df8-bae7-5d75bf8e4a45",
         "17c63381-dc41-45cd-b938-c55cea43a7af",
-        "d90e44ec-cf21-4b21-95c2-34c8085beae4"
+        "d90e44ec-cf21-4b21-95c2-34c8085beae4",
+        "7a4194e2-8cb8-4a59-bf14-2c558b8c3bb2",
+        "68076407-776d-4578-897a-38e460120cc2",
+        "e1f81aae-d1bc-4df8-bae7-5d75bf8e4a42",
+        "17c63381-dc41-45cd-b938-c55cea43a7a2",
+        "d90e44ec-cf21-4b21-95c2-34c8085beae2"
       ],
       "settings": {
         "space_h_item": "20",
