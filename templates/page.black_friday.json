@@ -2819,7 +2819,7 @@
         "template--14475737169982__10f040a5-a9ff-44b5-821d-7260b861b70a-1667292855516194e2-1": {
           "type": "custom_text",
           "settings": {
-            "text": "HUBS & ADAPTERS",
+            "text": "STANDS & PROTECTORS",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#f6ddb0",
@@ -2883,7 +2883,7 @@
         "a55c3591-911d-4f31-9ced-0fca4addbcaa": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/70410_e738c02b-c5a5-46c0-8afb-3c0aa807b1f7.webp",
+            "image_child": "shopify:\/\/shop_images\/90396_19b34918-f4b6-4d12-9170-a32f25e79b5b.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -2900,7 +2900,7 @@
         "01c513c5-58e4-4896-9170-a8e5d6a2b5cd": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen 6-in-1 USB C to USB Hubs",
+            "text": "UGREEN Tablet Stand Holder",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -2921,15 +2921,15 @@
         "55d56443-89bd-409f-86a9-4a3c7e8b7644": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$24.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$16.24<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$26.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$14.84<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "8b978cfa-36fe-4428-ab4b-df49f3120f18": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 35% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/6-in-1-usb-c-adapter-with-4k-hdmi",
+            "button_text": "buy with 45% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-tablet-stand-holder",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -2975,7 +2975,7 @@
         "aea2ae20-ee0c-4a79-aaba-bc2ee90d9b0f": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/60384-146107.webp",
+            "image_child": "shopify:\/\/shop_images\/50747-563020_5019d1d6-4f01-4d73-9e22-8a6e952907de.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -2992,7 +2992,7 @@
         "86857180-d0fe-4c30-b198-d854e2359870": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen 6 in 1 USB C Hub",
+            "text": "Ugreen Portable Cell Phone Stand Holder",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -3013,15 +3013,15 @@
         "3bf775ac-0ef1-4c95-9d91-c7717952b488": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$36.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$32.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$9.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$7.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "72af73c9-1fdf-499c-a2a9-d61badc0612f": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 11% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-6-in-1-usb-c-hub",
+            "button_text": "buy with 20% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/cell-phone-stand-holder",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -3067,7 +3067,7 @@
         "ed18c10d-fd60-402d-a3aa-ddf991762f14": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/90325-509908.webp",
+            "image_child": "shopify:\/\/shop_images\/80708-488308.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -3084,7 +3084,7 @@
         "32b14ee7-7622-46bc-8752-3d7b90122f9d": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen USB C Triple Display Docking Station (13-in-1)",
+            "text": "Ugreen Adjustable Aluminum Phone Holder",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -3105,15 +3105,15 @@
         "081e1cfa-1489-48c1-a12a-70156286b789": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$329<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$299<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$14.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$11.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "8d26892f-d6ad-44a0-8fd7-7ac823e5dd7b": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 9% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-usb-c-triple-display-docking-station",
+            "button_text": "buy with 20% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/adjustable-aluminum-phone-holder",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -3159,7 +3159,7 @@
         "31a31987-9a52-46d5-bdea-40d6cf22efdd": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/70336-664673.webp",
+            "image_child": "shopify:\/\/shop_images\/50394-186673_7439135e-6caa-4bea-a7d5-298fae5bd32f.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -3176,7 +3176,7 @@
         "bc9f2f27-350b-463f-9ba5-0a31d584fa36": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen 4 Ports USB C Hub",
+            "text": "Ugreen Lazy Arm Tablet Holder",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -3197,15 +3197,15 @@
         "d0ade983-2e50-45cd-8a7b-3d86d523d660": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$14.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$10.19<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$26.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$18.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "66c7b647-f37e-460c-a7a2-4ae5c6ead106": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 32% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/ultra-slim-4-ports-usb-c-hub",
+            "button_text": "buy with 30% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/lazy-arm-tablet-holder",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -3251,7 +3251,7 @@
         "31a31987-9a52-46d5-bdea-40d6cf22efd1": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/80133-843467_b5758b61-c559-447d-b327-bfc7a9a81619.webp",
+            "image_child": "shopify:\/\/shop_images\/50853-683888_b90db93f-c979-4bfc-8731-5d7538efd7cf.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -3268,7 +3268,7 @@
         "bc9f2f27-350b-463f-9ba5-0a31d584fa31": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen 10 in 1 USB C Hub",
+            "text": "Ugreen Gravity Drive Car Mount",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -3289,15 +3289,15 @@
         "d0ade983-2e50-45cd-8a7b-3d86d523d661": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$59.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$41.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$12.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$9.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "66c7b647-f37e-460c-a7a2-4ae5c6ead101": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 30 off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/10-in-1-usb-c-hub",
+            "button_text": "buy with 23% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/gravity-drive-car-mount",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -3343,7 +3343,7 @@
         "31a31987-9a52-46d5-bdea-40d6cf22efd2": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/60559-573350.webp",
+            "image_child": "shopify:\/\/shop_images\/60343.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -3360,7 +3360,7 @@
         "bc9f2f27-350b-463f-9ba5-0a31d584fa32": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen 5-in-2 USB C Hub for MacBook Pro\/Air",
+            "text": "Ugreen Adjustable Desktop Cell Phone Stand",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -3381,15 +3381,15 @@
         "d0ade983-2e50-45cd-8a7b-3d86d523d662": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$28.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$25.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$9.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$7.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "66c7b647-f37e-460c-a7a2-4ae5c6ead102": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 10% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/5-in-2-usb-c-hub-for-macbook-pro-air",
+            "button_text": "buy with 20% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/adjustable-desktop-cell-phone-stand",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -3488,7 +3488,7 @@
         "d4a673eb-c8fc-4d5a-bb59-11406f34c3dc": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: flex-end;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"https:\/\/www.ugreen.com\/collections\/hubs-and-adapters\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
+            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: flex-end;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"https:\/\/www.ugreen.com\/collections\/holder-protectors\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
             "hidden_mobile": false
           }
         }
@@ -3517,6 +3517,7 @@
     },
     "10f040a5-a9ff-44b5-821d-7260b861b70222": {
       "type": "custom-section",
+      "disabled": true,
       "blocks": {
         "template--14475737169982__10f040a5-a9ff-44b5-821d-7260b861b70a-1667292855516194e2-0": {
           "type": "bl_col",
@@ -3580,9 +3581,11 @@
     },
     "6a026f6b-fcc5-4cc8-b046-7ef337b5e09222": {
       "type": "custom-section",
+      "disabled": true,
       "blocks": {
         "template--14475737169982__6a026f6b-fcc5-4cc8-b046-7ef337b5e092-1667304263ecc11935-0": {
           "type": "bl_col",
+          "disabled": true,
           "settings": {
             "col_dk": "6",
             "col_tb": "6",
@@ -4186,6 +4189,7 @@
     },
     "10f040a5-a9ff-44b5-821d-7260b861b70333": {
       "type": "custom-section",
+      "disabled": true,
       "blocks": {
         "template--14475737169982__10f040a5-a9ff-44b5-821d-7260b861b70a-1667292855516194e2-0": {
           "type": "bl_col",
@@ -4249,6 +4253,7 @@
     },
     "6a026f6b-fcc5-4cc8-b046-7ef337b5e09333": {
       "type": "custom-section",
+      "disabled": true,
       "blocks": {
         "template--14475737169982__6a026f6b-fcc5-4cc8-b046-7ef337b5e092-1667304263ecc11935-0": {
           "type": "bl_col",
@@ -4855,6 +4860,7 @@
     },
     "10f040a5-a9ff-44b5-821d-7260b861b70444": {
       "type": "custom-section",
+      "disabled": true,
       "blocks": {
         "template--14475737169982__10f040a5-a9ff-44b5-821d-7260b861b70a-1667292855516194e2-0": {
           "type": "bl_col",
@@ -4918,6 +4924,7 @@
     },
     "6a026f6b-fcc5-4cc8-b046-7ef337b5e09444": {
       "type": "custom-section",
+      "disabled": true,
       "blocks": {
         "template--14475737169982__6a026f6b-fcc5-4cc8-b046-7ef337b5e092-1667304263ecc11935-0": {
           "type": "bl_col",
