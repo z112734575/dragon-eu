@@ -4067,6 +4067,7 @@
       "blocks": {
         "template--14475737169982__6a026f6b-fcc5-4cc8-b046-7ef337b5e092-1667304263ecc11935-0": {
           "type": "bl_col",
+          "disabled": true,
           "settings": {
             "col_dk": "6",
             "col_tb": "6",
@@ -4084,6 +4085,7 @@
         },
         "a55c3591-911d-4f31-9ced-0fca4addbcaa": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image_child": "shopify:\/\/shop_images\/517Gp14aWFL._AC_SY879.webp",
             "img_link": "",
@@ -4101,6 +4103,7 @@
         },
         "01c513c5-58e4-4896-9170-a8e5d6a2b5cd": {
           "type": "custom_text",
+          "disabled": true,
           "settings": {
             "text": "Ugreen USB 2.0 Switch, 2 In 4 Output USB KVM Switch",
             "remove_br_tag": false,
@@ -4122,6 +4125,7 @@
         },
         "55d56443-89bd-409f-86a9-4a3c7e8b7644": {
           "type": "html",
+          "disabled": true,
           "settings": {
             "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$18.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$15.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
@@ -4129,6 +4133,7 @@
         },
         "8b978cfa-36fe-4428-ab4b-df49f3120f18": {
           "type": "custom_button",
+          "disabled": true,
           "settings": {
             "button_text": "buy with 16% off",
             "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-usb-2-0-switch-2-in-4-output-usb-kvm-switch",
