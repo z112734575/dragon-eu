@@ -2513,7 +2513,7 @@
         "66c7b647-f37e-460c-a7a2-4ae5c6ead101": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 30 off",
+            "button_text": "buy with 30% off",
             "button_link": "https:\/\/www.ugreen.com\/products\/10-in-1-usb-c-hub",
             "target_link": "_self",
             "fontf": "inherit",
