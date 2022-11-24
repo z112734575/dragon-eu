@@ -1182,7 +1182,7 @@
         "68076407-776d-4578-897a-38e460120cce": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/61RAjzMGgJL.webp",
+            "image_child": "shopify:\/\/shop_images\/80749-768221_b3832478-b4bd-46df-ad2c-94c0ec9f3e12.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1199,7 +1199,7 @@
         "e1f81aae-d1bc-4df8-bae7-5d75bf8e4a45": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen Magnetic Wireless Charger",
+            "text": "Ugreen 10000mAh PD 20W USB-C Power Bank",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -1220,7 +1220,7 @@
         "17c63381-dc41-45cd-b938-c55cea43a7af": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$19.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$17.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$29.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$20.00<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
@@ -1228,7 +1228,7 @@
           "type": "custom_button",
           "settings": {
             "button_text": "buy with 50% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/right-angel-lightning-to-usb-a-cable",
+            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-10000mah-pd-20w-usb-c-power-bank?variant=39915662213182",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
