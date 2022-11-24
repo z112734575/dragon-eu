@@ -515,7 +515,7 @@
           "top-bar-1": {
             "type": "text",
             "settings": {
-              "text": "<p>Enjoy <strong>40%<\/strong> OFF +Additional Discounts When You Buy More<\/p>",
+              "text": "<p><a href=\"\/pages\/black-friday\" title=\"Black Friday\">Enjoy <strong>40%<\/strong> OFF +Additional Discounts When You Buy More<\/a><\/p>",
               "countdown": "2022\/04\/19",
               "txt_day": "days",
               "dayx": 0,
