@@ -5115,6 +5115,21 @@
         "use_cus_css": false,
         "code_cus_css": ""
       }
+    },
+    "c3b23619-9f15-4b0c-bcb0-09b06b8b219b": {
+      "type": "custom-html",
+      "settings": {
+        "code": "<style>\n    * {\n      margin: 0;\n      padding: 0;\n      box-sizing: border-box;\n    }\n    .section {\n      height: 800px;\n      width: 100%;\n      border: 1px solid red;\n      margin-top: 10px;\n    }\n\n    .nav-main {\n      position: fixed;\n      top: 0;\n      left: 0;\n      display: flex;\n      flex-direction: column;\n      width: 136px;\n    }\n    .fix-nav {\n      margin-top: 8px;\n      cursor: pointer;\n      height: 52px;\n      text-align: center;\n      line-height: 52px;\n      background: #252522;\n      color: rgba(255, 255, 255, 0.6);\n      border-radius: 4px;\n    }\n    .fix-nav.active {\n      color: black;\n      background: #f7dba5;\n    }\n    @media (max-width: 767px) {\n      .nav-main {\n        width: 100%;\n        flex-direction: row;\n        justify-content: space-around;\n        flex-wrap: wrap;\n      }\n      .fix-nav {\n        width: 31%;\n      }\n    }\n  <\/style>\n\n<nav class=\"nav-main\">\n      <!-- <div class=\"fix-nav\"><a href=\"#section5\">导航<\/a><\/div> -->\n      <div class=\"fix-nav active\">导航1<\/div>\n      <div class=\"fix-nav\">导航2<\/div>\n      <div class=\"fix-nav\">导航3<\/div>\n      <div class=\"fix-nav\">导航4<\/div>\n      <div class=\"fix-nav\">导航5<\/div>\n      <div class=\"fix-nav\">导航6<\/div>\n    <\/nav>\n  <script>\n    $(\".fix-nav\").each((index, item) => {\n      $(item).on(\"click\", function () {\n        $(this).addClass(\"active\").siblings().removeClass(\"active\");\n        const top = $(`#ug-section${index + 1}`).offset().top;\n        $(\"body,html\").animate(\n          {\n            scrollTop: top \/\/让body的scrollTop等于pos的top，就实现了滚动\n          },\n          200\n        );\n\n        console.log(top, index);\n      });\n    });\n  <\/script>",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
     }
   },
   "order": [
@@ -5137,6 +5152,7 @@
     "6a026f6b-fcc5-4cc8-b046-7ef337b5e09333",
     "e266fe03-e321-46a2-b3cd-f283c1700e1d",
     "10f040a5-a9ff-44b5-821d-7260b861b70444",
-    "6a026f6b-fcc5-4cc8-b046-7ef337b5e09444"
+    "6a026f6b-fcc5-4cc8-b046-7ef337b5e09444",
+    "c3b23619-9f15-4b0c-bcb0-09b06b8b219b"
   ]
 }
