@@ -1927,7 +1927,7 @@
         "c87586b1-5a8f-4649-a6fd-25e4d779eb91": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/40574-742229.webp",
+            "image_child": "shopify:\/\/shop_images\/10232.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1944,7 +1944,7 @@
         "6ee18f78-8809-41cf-984a-590315d69a81": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen USB C Extension Cable",
+            "text": "Ugreen USB C to USB C 100W Fast Cable 2 Pack (3FT\/6FT\/10FT)",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -1965,15 +1965,15 @@
         "608d9cdb-7f6c-463a-af82-5298e57d4261": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$16.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$14.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$16.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$15.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "b522eb7a-a6be-417e-8ce1-bb88b3264d11": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 12% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/usb-c-extension-cable",
+            "button_text": "buy with 6% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-usb-c-to-usb-c-cable-3ft-6ft-10ft?variant=39889864130622",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -2019,7 +2019,7 @@
         "c87586b1-5a8f-4649-a6fd-25e4d779eb92": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/40574-742229.webp",
+            "image_child": "shopify:\/\/shop_images\/70321-965819.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -2036,7 +2036,7 @@
         "6ee18f78-8809-41cf-984a-590315d69a82": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen USB C Extension Cable",
+            "text": "Ugreen 8K HDMI 2.1 Cable",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -2065,7 +2065,7 @@
           "type": "custom_button",
           "settings": {
             "button_text": "buy with 12% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/usb-c-extension-cable",
+            "button_link": "https:\/\/www.ugreen.com\/products\/8k-hdmi-2-1-cable",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
