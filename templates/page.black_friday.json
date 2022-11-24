@@ -1468,7 +1468,7 @@
         "template--14475737169982__528ecd5a-e357-412c-81df-eb1247818c04-1667292855516194e2-1": {
           "type": "custom_text",
           "settings": {
-            "text": "30% off",
+            "text": "CABLES",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#f6ddb0",
@@ -1559,7 +1559,7 @@
         "deff8d7b-b29e-466b-b196-93d5a83a584d": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/80749-768221.webp",
+            "image_child": "shopify:\/\/shop_images\/70643-400422_a388302f-4dd2-41d4-9185-581473018e6f.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1576,7 +1576,7 @@
         "dc97b2bc-2d77-47f0-8b87-e2c659c59522": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen 10000mAh PD 20W USB-C Power Bank",
+            "text": "Ugreen 100W USB C to USB C Cable",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -1597,15 +1597,15 @@
         "24d5d4c3-72be-4424-b5fa-e5322f58b437": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$29.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$20.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$13.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$6.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "4efd2c16-3585-4a29-95a0-1720a946dea8": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 30% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-10000mah-pd-20w-usb-c-power-bank",
+            "button_text": "buy with 50% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-100w-usb-c-to-usb-c-cable-6ft?variant=39948871008318",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -1651,7 +1651,7 @@
         "c202e15e-991f-4ac2-92a8-ce19f580be09": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/70410.webp",
+            "image_child": "shopify:\/\/shop_images\/60521-977028_76877082-3333-4314-ac63-feea1e2d2e73.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1668,7 +1668,7 @@
         "1662b12f-cdb4-4180-bee4-8fdc66c07653": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen 6-in-1 USB C to USB Hubs",
+            "text": "Ugreen MFi Certification Right Angel Lightning to USB A Cable",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -1689,15 +1689,15 @@
         "7c2ae97c-e453-46f4-94bf-ddef49514f98": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$24.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$16.24<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$14.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$7.5<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "3ee47f8e-6b5f-4bcc-9000-3119504d1707": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 35% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/6-in-1-usb-c-adapter-with-4k-hdmi",
+            "button_text": "buy with 50% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/right-angel-lightning-to-usb-a-cable?variant=39915661819966",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -1743,7 +1743,7 @@
         "eb2e9606-2587-4550-b75b-f316c188f13f": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/40896-847215.webp",
+            "image_child": "shopify:\/\/shop_images\/70953-238093.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1760,7 +1760,7 @@
         "27f38bf0-a326-4e80-8170-29c28943c47c": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen 100W USB C DigiNest Pro Charging Station",
+            "text": "Ugreen USB C to Lightning Audio Adapter",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -1781,15 +1781,15 @@
         "842be7f3-8559-4c16-b38c-83ba154ec794": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$129.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$89.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$24.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$20.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "d957525d-d8e1-465b-8270-5957fc65a5c2": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 31% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-100w-usb-c-diginest-pro-power-strip",
+            "button_text": "buy with 16% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-usb-c-to-lightning-audio-adapter",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -1835,7 +1835,7 @@
         "c87586b1-5a8f-4649-a6fd-25e4d779eb9f": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/50394-186673.webp",
+            "image_child": "shopify:\/\/shop_images\/40574-742229.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1852,7 +1852,7 @@
         "6ee18f78-8809-41cf-984a-590315d69a8a": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen Lazy Arm Tablet Holder",
+            "text": "Ugreen USB C Extension Cable",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -1873,15 +1873,15 @@
         "608d9cdb-7f6c-463a-af82-5298e57d4266": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$26.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$18.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$16.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$14.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "b522eb7a-a6be-417e-8ce1-bb88b3264d19": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 30% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/lazy-arm-tablet-holder",
+            "button_text": "buy with 12% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/usb-c-extension-cable",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
