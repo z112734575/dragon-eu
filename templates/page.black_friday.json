@@ -1736,14 +1736,14 @@
         "608d9cdb-7f6c-463a-af82-5298e57d4266": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$16.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$14.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$13.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$9.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "b522eb7a-a6be-417e-8ce1-bb88b3264d19": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 12% off",
+            "button_text": "buy with 30% off",
             "button_link": "https:\/\/www.ugreen.com\/products\/usb-c-extension-cable",
             "target_link": "_self",
             "fontf": "inherit",
