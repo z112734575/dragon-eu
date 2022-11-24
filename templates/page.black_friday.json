@@ -459,7 +459,7 @@
         "618dbb43-996b-45f5-afac-81edca56b3df": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_box\">\n\t\t\t<!--原价-->\n\t\t\t<p class=\"balck_friday_product_pirce\">$169.99<\/p>\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p class=\"balck_friday_product_discount\">$199.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_box\">\n\t\t\t<!--原价-->\n\t\t\t<p class=\"balck_friday_product_pirce\">$159.99<\/p>\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p class=\"balck_friday_product_discount\">$199.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
