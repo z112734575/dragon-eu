@@ -191,23 +191,6 @@
         "code_cus_css": "@media(max-width: 767px) {\n#shopify-section-template--14475737169982__51ff89be-52b3-4bda-8376-5d99897c4eec{height: 340px; overflow: hidden;}\n}"
       }
     },
-    "166735473386a52bc2": {
-      "type": "apps",
-      "disabled": true,
-      "blocks": {
-        "d95fb77a-a6d6-487b-8b98-88cca96090a3": {
-          "type": "shopify:\/\/apps\/countdown-timer-bar-hextom\/blocks\/ctb-custom-placement\/f7b88b6e-2e87-46bc-87a9-3e3638a24fa9",
-          "disabled": true,
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "d95fb77a-a6d6-487b-8b98-88cca96090a3"
-      ],
-      "settings": {
-      }
-    },
     "30c69fe5-628b-4c0a-af3b-63cb5c94cf4c": {
       "type": "custom-section",
       "blocks": {
@@ -1260,6 +1243,29 @@
             "button_ls_mb": 0,
             "button_mgb_mb": 0
           }
+        },
+        "e9691278-2608-4fed-836a-113581f4cefc": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "12",
+            "col_tb": "12",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "50px",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "rgba(0,0,0,0)"
+          }
+        },
+        "68212ea2-de1e-476e-b28a-83a5901342d2": {
+          "type": "html",
+          "settings": {
+            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: flex-end;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"https:\/\/www.ugreen.com\/collections\/charger\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
+            "hidden_mobile": false
+          }
         }
       },
       "block_order": [
@@ -1292,7 +1298,9 @@
         "68076407-776d-4578-897a-38e460120cc2",
         "e1f81aae-d1bc-4df8-bae7-5d75bf8e4a42",
         "17c63381-dc41-45cd-b938-c55cea43a7a2",
-        "d90e44ec-cf21-4b21-95c2-34c8085beae2"
+        "d90e44ec-cf21-4b21-95c2-34c8085beae2",
+        "e9691278-2608-4fed-836a-113581f4cefc",
+        "68212ea2-de1e-476e-b28a-83a5901342d2"
       ],
       "settings": {
         "space_h_item": "20",
@@ -1303,60 +1311,11 @@
         "cl_bg": "#000000",
         "cl_bg_gradient": "",
         "mg": "",
-        "pd": "100px,0,150px,0",
+        "pd": "100px,0,50px,0",
         "mg_tb": "",
-        "pd_tb": "30px,0,100px,0",
+        "pd_tb": "30px,0,50px,0",
         "mg_mb": "",
-        "pd_mb": "30px,0,100px,0",
-        "use_cus_css": false,
-        "code_cus_css": ""
-      }
-    },
-    "dc82a967-6f89-4b56-b8ff-0999f3951aa3": {
-      "type": "custom-section",
-      "blocks": {
-        "template--14475737169982__dc82a967-6f89-4b56-b8ff-0999f3951aa3-16684274055ac201b5-0": {
-          "type": "bl_col",
-          "settings": {
-            "col_dk": "12",
-            "col_tb": "12",
-            "col_mb": "12",
-            "align_vertical": false,
-            "content_align": "end",
-            "content_align_tablet": "center",
-            "content_align_mobile": "center",
-            "padding_inner": "30px,,75px",
-            "padding_inner_tb": "30px,,38px",
-            "padding_inner_mb": "30px,,38px",
-            "bg_cl": "rgba(0,0,0,0)"
-          }
-        },
-        "d6dc4089-20b8-43ad-8753-634ddf7eeb54": {
-          "type": "html",
-          "settings": {
-            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: flex-end;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"https:\/\/www.ugreen.com\/collections\/charger\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
-            "hidden_mobile": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14475737169982__dc82a967-6f89-4b56-b8ff-0999f3951aa3-16684274055ac201b5-0",
-        "d6dc4089-20b8-43ad-8753-634ddf7eeb54"
-      ],
-      "settings": {
-        "space_h_item": "0",
-        "space_v_item": "0",
-        "space_h_item_mb": "0",
-        "space_v_item_mb": "0",
-        "layout": "t4s-container-wrap",
-        "cl_bg": "",
-        "cl_bg_gradient": "",
-        "mg": "-150px,0,0,0",
-        "pd": "",
-        "mg_tb": "-110px,0,0,0",
-        "pd_tb": "",
-        "mg_mb": "-110px,0,0,0",
-        "pd_mb": "",
+        "pd_mb": "30px,0,50px,0",
         "use_cus_css": false,
         "code_cus_css": ""
       }
@@ -1978,6 +1937,29 @@
             "button_ls_mb": 0,
             "button_mgb_mb": 0
           }
+        },
+        "09d0cca9-e35e-4174-9968-baf55ee0b426": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "12",
+            "col_tb": "12",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "50px",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "rgba(0,0,0,0)"
+          }
+        },
+        "c867b35c-a8d7-4d46-bfb3-654c92615e6a": {
+          "type": "html",
+          "settings": {
+            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: flex-end;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"https:\/\/www.ugreen.com\/collections\/cable\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
+            "hidden_mobile": false
+          }
         }
       },
       "block_order": [
@@ -2010,7 +1992,9 @@
         "c87586b1-5a8f-4649-a6fd-25e4d779eb92",
         "6ee18f78-8809-41cf-984a-590315d69a82",
         "608d9cdb-7f6c-463a-af82-5298e57d4262",
-        "b522eb7a-a6be-417e-8ce1-bb88b3264d12"
+        "b522eb7a-a6be-417e-8ce1-bb88b3264d12",
+        "09d0cca9-e35e-4174-9968-baf55ee0b426",
+        "c867b35c-a8d7-4d46-bfb3-654c92615e6a"
       ],
       "settings": {
         "space_h_item": "20",
@@ -2021,60 +2005,11 @@
         "cl_bg": "#000000",
         "cl_bg_gradient": "",
         "mg": "",
-        "pd": "100px,0,150px,0",
+        "pd": "100px,0,100px,0",
         "mg_tb": "",
-        "pd_tb": "30px,0,100px,0",
+        "pd_tb": "30px,0,50px,0",
         "mg_mb": "",
-        "pd_mb": "30px,0,100px,0",
-        "use_cus_css": false,
-        "code_cus_css": ""
-      }
-    },
-    "dc82a967-6f89-4b56-b8ff-0999f3951aa1": {
-      "type": "custom-section",
-      "blocks": {
-        "template--14475737169982__dc82a967-6f89-4b56-b8ff-0999f3951aa1-16684274055ac201b5-0": {
-          "type": "bl_col",
-          "settings": {
-            "col_dk": "12",
-            "col_tb": "12",
-            "col_mb": "12",
-            "align_vertical": false,
-            "content_align": "center",
-            "content_align_tablet": "center",
-            "content_align_mobile": "center",
-            "padding_inner": "30px,,75px",
-            "padding_inner_tb": "30px,,38px",
-            "padding_inner_mb": "30px,,38px",
-            "bg_cl": "rgba(0,0,0,0)"
-          }
-        },
-        "b3973e88-ba07-4e79-b049-fd4167b84f4a": {
-          "type": "html",
-          "settings": {
-            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: flex-end;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"https:\/\/www.ugreen.com\/collections\/cable\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
-            "hidden_mobile": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14475737169982__dc82a967-6f89-4b56-b8ff-0999f3951aa1-16684274055ac201b5-0",
-        "b3973e88-ba07-4e79-b049-fd4167b84f4a"
-      ],
-      "settings": {
-        "space_h_item": "0",
-        "space_v_item": "0",
-        "space_h_item_mb": "0",
-        "space_v_item_mb": "0",
-        "layout": "t4s-container-wrap",
-        "cl_bg": "",
-        "cl_bg_gradient": "",
-        "mg": "-150px,0,0,0",
-        "pd": "",
-        "mg_tb": "-110px,0,0,0",
-        "pd_tb": "",
-        "mg_mb": "-110px,0,0,0",
-        "pd_mb": "",
+        "pd_mb": "30px,0,50px,0",
         "use_cus_css": false,
         "code_cus_css": ""
       }
@@ -2696,6 +2631,29 @@
             "button_ls_mb": 0,
             "button_mgb_mb": 0
           }
+        },
+        "ba3ab563-318c-4dce-83c0-5e52c839a7db": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "12",
+            "col_tb": "12",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "50px",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "rgba(0,0,0,0)"
+          }
+        },
+        "ce24b269-adc9-4bbb-ad20-435fcb950663": {
+          "type": "html",
+          "settings": {
+            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: flex-end;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"https:\/\/www.ugreen.com\/collections\/hubs-and-adapters\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
+            "hidden_mobile": false
+          }
         }
       },
       "block_order": [
@@ -2728,7 +2686,9 @@
         "31a31987-9a52-46d5-bdea-40d6cf22efd2",
         "bc9f2f27-350b-463f-9ba5-0a31d584fa32",
         "d0ade983-2e50-45cd-8a7b-3d86d523d662",
-        "66c7b647-f37e-460c-a7a2-4ae5c6ead102"
+        "66c7b647-f37e-460c-a7a2-4ae5c6ead102",
+        "ba3ab563-318c-4dce-83c0-5e52c839a7db",
+        "ce24b269-adc9-4bbb-ad20-435fcb950663"
       ],
       "settings": {
         "space_h_item": "20",
@@ -2739,60 +2699,11 @@
         "cl_bg": "#000000",
         "cl_bg_gradient": "",
         "mg": "",
-        "pd": "100px,0,150px,0",
+        "pd": "100px,0,100px,0",
         "mg_tb": "",
-        "pd_tb": "30px,0,100px,0",
+        "pd_tb": "30px,0,50px,0",
         "mg_mb": "",
-        "pd_mb": "30px,0,100px,0",
-        "use_cus_css": false,
-        "code_cus_css": ""
-      }
-    },
-    "dc82a967-6f89-4b56-b8ff-0999f3951aa2": {
-      "type": "custom-section",
-      "blocks": {
-        "template--14475737169982__dc82a967-6f89-4b56-b8ff-0999f3951aa2-16684274055ac201b5-0": {
-          "type": "bl_col",
-          "settings": {
-            "col_dk": "12",
-            "col_tb": "12",
-            "col_mb": "12",
-            "align_vertical": false,
-            "content_align": "end",
-            "content_align_tablet": "center",
-            "content_align_mobile": "center",
-            "padding_inner": "30px,,75px",
-            "padding_inner_tb": "30px,,38px",
-            "padding_inner_mb": "30px,,38px",
-            "bg_cl": "rgba(0,0,0,0)"
-          }
-        },
-        "d4a673eb-c8fc-4d5a-bb59-11406f34c3dc": {
-          "type": "html",
-          "settings": {
-            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: flex-end;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"https:\/\/www.ugreen.com\/collections\/hubs-and-adapters\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
-            "hidden_mobile": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14475737169982__dc82a967-6f89-4b56-b8ff-0999f3951aa2-16684274055ac201b5-0",
-        "d4a673eb-c8fc-4d5a-bb59-11406f34c3dc"
-      ],
-      "settings": {
-        "space_h_item": "0",
-        "space_v_item": "0",
-        "space_h_item_mb": "0",
-        "space_v_item_mb": "0",
-        "layout": "t4s-container-wrap",
-        "cl_bg": "",
-        "cl_bg_gradient": "",
-        "mg": "-150px,0,0,0",
-        "pd": "",
-        "mg_tb": "-110px,0,0,0",
-        "pd_tb": "",
-        "mg_mb": "-110px,0,0,0",
-        "pd_mb": "",
+        "pd_mb": "30px,0,50px,0",
         "use_cus_css": false,
         "code_cus_css": ""
       }
@@ -3414,6 +3325,29 @@
             "button_ls_mb": 0,
             "button_mgb_mb": 0
           }
+        },
+        "2be5a9dc-40e6-4f28-85df-ec8fa0fca13f": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "12",
+            "col_tb": "12",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "50px",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "rgba(0,0,0,0)"
+          }
+        },
+        "5112f4f4-c8c6-45e3-9f06-9b88d2b33b85": {
+          "type": "html",
+          "settings": {
+            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: flex-end;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"https:\/\/www.ugreen.com\/collections\/holder-protectors\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
+            "hidden_mobile": false
+          }
         }
       },
       "block_order": [
@@ -3446,7 +3380,9 @@
         "31a31987-9a52-46d5-bdea-40d6cf22efd2",
         "bc9f2f27-350b-463f-9ba5-0a31d584fa32",
         "d0ade983-2e50-45cd-8a7b-3d86d523d662",
-        "66c7b647-f37e-460c-a7a2-4ae5c6ead102"
+        "66c7b647-f37e-460c-a7a2-4ae5c6ead102",
+        "2be5a9dc-40e6-4f28-85df-ec8fa0fca13f",
+        "5112f4f4-c8c6-45e3-9f06-9b88d2b33b85"
       ],
       "settings": {
         "space_h_item": "20",
@@ -3457,67 +3393,17 @@
         "cl_bg": "#000000",
         "cl_bg_gradient": "",
         "mg": "",
-        "pd": "100px,0,150px,0",
+        "pd": "100px,0,100px,0",
         "mg_tb": "",
-        "pd_tb": "30px,0,100px,0",
+        "pd_tb": "30px,0,50px,0",
         "mg_mb": "",
-        "pd_mb": "30px,0,100px,0",
-        "use_cus_css": false,
-        "code_cus_css": ""
-      }
-    },
-    "dc82a967-6f89-4b56-b8ff-0999f3951aa111": {
-      "type": "custom-section",
-      "blocks": {
-        "template--14475737169982__dc82a967-6f89-4b56-b8ff-0999f3951aa2-16684274055ac201b5-0": {
-          "type": "bl_col",
-          "settings": {
-            "col_dk": "12",
-            "col_tb": "12",
-            "col_mb": "12",
-            "align_vertical": false,
-            "content_align": "end",
-            "content_align_tablet": "center",
-            "content_align_mobile": "center",
-            "padding_inner": "30px,,75px",
-            "padding_inner_tb": "30px,,38px",
-            "padding_inner_mb": "30px,,38px",
-            "bg_cl": "rgba(0,0,0,0)"
-          }
-        },
-        "d4a673eb-c8fc-4d5a-bb59-11406f34c3dc": {
-          "type": "html",
-          "settings": {
-            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: flex-end;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"https:\/\/www.ugreen.com\/collections\/holder-protectors\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
-            "hidden_mobile": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14475737169982__dc82a967-6f89-4b56-b8ff-0999f3951aa2-16684274055ac201b5-0",
-        "d4a673eb-c8fc-4d5a-bb59-11406f34c3dc"
-      ],
-      "settings": {
-        "space_h_item": "0",
-        "space_v_item": "0",
-        "space_h_item_mb": "0",
-        "space_v_item_mb": "0",
-        "layout": "t4s-container-wrap",
-        "cl_bg": "",
-        "cl_bg_gradient": "",
-        "mg": "-150px,0,0,0",
-        "pd": "",
-        "mg_tb": "-110px,0,0,0",
-        "pd_tb": "",
-        "mg_mb": "-110px,0,0,0",
-        "pd_mb": "",
+        "pd_mb": "30px,0,50px,0",
         "use_cus_css": false,
         "code_cus_css": ""
       }
     },
     "10f040a5-a9ff-44b5-821d-7260b861b70222": {
       "type": "custom-section",
-      "disabled": true,
       "blocks": {
         "template--14475737169982__10f040a5-a9ff-44b5-821d-7260b861b70a-1667292855516194e2-0": {
           "type": "bl_col",
@@ -3538,7 +3424,7 @@
         "template--14475737169982__10f040a5-a9ff-44b5-821d-7260b861b70a-1667292855516194e2-1": {
           "type": "custom_text",
           "settings": {
-            "text": "HUBS & ADAPTERS",
+            "text": "Hard Drive Enclosures",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#f6ddb0",
@@ -3581,11 +3467,9 @@
     },
     "6a026f6b-fcc5-4cc8-b046-7ef337b5e09222": {
       "type": "custom-section",
-      "disabled": true,
       "blocks": {
         "template--14475737169982__6a026f6b-fcc5-4cc8-b046-7ef337b5e092-1667304263ecc11935-0": {
           "type": "bl_col",
-          "disabled": true,
           "settings": {
             "col_dk": "6",
             "col_tb": "6",
@@ -3604,7 +3488,7 @@
         "a55c3591-911d-4f31-9ced-0fca4addbcaa": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/70410_e738c02b-c5a5-46c0-8afb-3c0aa807b1f7.webp",
+            "image_child": "shopify:\/\/shop_images\/60637.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -3621,7 +3505,7 @@
         "01c513c5-58e4-4896-9170-a8e5d6a2b5cd": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen 6-in-1 USB C to USB Hubs",
+            "text": "UGREEN 5 Bay USB-C to SATA HDD SSD RAID Enclosure",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -3642,15 +3526,15 @@
         "55d56443-89bd-409f-86a9-4a3c7e8b7644": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$24.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$16.24<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$299.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$249.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "8b978cfa-36fe-4428-ab4b-df49f3120f18": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 35% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/6-in-1-usb-c-adapter-with-4k-hdmi",
+            "button_text": "buy with 17% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-5-bay-usb-c-to-sata-hdd-ssd-raid-enclosure",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -3696,7 +3580,7 @@
         "aea2ae20-ee0c-4a79-aaba-bc2ee90d9b0f": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/60384-146107.webp",
+            "image_child": "shopify:\/\/shop_images\/60640.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -3713,7 +3597,7 @@
         "86857180-d0fe-4c30-b198-d854e2359870": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen 6 in 1 USB C Hub",
+            "text": "UGREEN 2 Bay RAID Enclosure",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -3734,15 +3618,15 @@
         "3bf775ac-0ef1-4c95-9d91-c7717952b488": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$36.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$32.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$139.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$109.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "72af73c9-1fdf-499c-a2a9-d61badc0612f": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 11% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-6-in-1-usb-c-hub",
+            "button_text": "buy with 21% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-2-bay-raid-enclosure",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -3788,7 +3672,7 @@
         "ed18c10d-fd60-402d-a3aa-ddf991762f14": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/90325-509908.webp",
+            "image_child": "shopify:\/\/shop_images\/60354-972656.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -3805,7 +3689,7 @@
         "32b14ee7-7622-46bc-8752-3d7b90122f9d": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen USB C Triple Display Docking Station (13-in-1)",
+            "text": "Ugreen Enclosure for M.2 PCI-E NVME SSD",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -3826,15 +3710,15 @@
         "081e1cfa-1489-48c1-a12a-70156286b789": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$329<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$299<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$38.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$30.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "8d26892f-d6ad-44a0-8fd7-7ac823e5dd7b": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 9% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-usb-c-triple-display-docking-station",
+            "button_text": "buy with 21% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/enclosure-for-m-2-pci-e-nvme-ssd",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -3880,7 +3764,7 @@
         "31a31987-9a52-46d5-bdea-40d6cf22efdd": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/70336-664673.webp",
+            "image_child": "shopify:\/\/shop_images\/90264-397423.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -3897,7 +3781,7 @@
         "bc9f2f27-350b-463f-9ba5-0a31d584fa36": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen 4 Ports USB C Hub",
+            "text": "Ugreen 10Gbps M.2 NVMe SATA Enclosure",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -3918,15 +3802,15 @@
         "d0ade983-2e50-45cd-8a7b-3d86d523d660": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$14.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$10.19<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$29.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$21.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "66c7b647-f37e-460c-a7a2-4ae5c6ead106": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 32% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/ultra-slim-4-ports-usb-c-hub",
+            "button_text": "buy with 27% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-m-2-nvme-sata-ssd-enclosure-reader",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -3972,7 +3856,7 @@
         "31a31987-9a52-46d5-bdea-40d6cf22efd1": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/80133-843467_b5758b61-c559-447d-b327-bfc7a9a81619.webp",
+            "image_child": "shopify:\/\/shop_images\/90408-784423.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -3989,7 +3873,7 @@
         "bc9f2f27-350b-463f-9ba5-0a31d584fa31": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen 10 in 1 USB C Hub",
+            "text": "Ugreen M.2 NVMe SATA SSD Enclosure Adapter",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -4010,15 +3894,15 @@
         "d0ade983-2e50-45cd-8a7b-3d86d523d661": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$59.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$41.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$29.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$27.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "66c7b647-f37e-460c-a7a2-4ae5c6ead101": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 30 off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/10-in-1-usb-c-hub",
+            "button_text": "buy with 7% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-m-2-nvme-sata-ssd-enclosure-adapter?variant=39915665063998",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -4044,96 +3928,27 @@
             "button_mgb_mb": 0
           }
         },
-        "e30b2ac8-69d1-48df-9f23-d0a13d957ff2": {
+        "814a776f-1474-47f4-84ae-3fb3d574fcaf": {
           "type": "bl_col",
           "settings": {
-            "col_dk": "6",
-            "col_tb": "6",
+            "col_dk": "12",
+            "col_tb": "12",
             "col_mb": "12",
             "align_vertical": false,
-            "content_align": "start",
-            "content_align_tablet": "start",
-            "content_align_mobile": "start",
-            "padding_inner": "35px,,35px,",
-            "padding_inner_tb": "20px,10px,20px,10px",
-            "padding_inner_mb": "20px,10px,20px,10px",
-            "bg_image": "shopify:\/\/shop_images\/Black_Friday_product_bgm1.jpg",
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "50px",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
             "bg_cl": "rgba(0,0,0,0)"
           }
         },
-        "31a31987-9a52-46d5-bdea-40d6cf22efd2": {
-          "type": "image",
-          "settings": {
-            "image_child": "shopify:\/\/shop_images\/60559-573350.webp",
-            "img_link": "",
-            "open_link": "_self",
-            "img_width": 0,
-            "img_width_mb": 0,
-            "img_align": "center",
-            "img_align_tb": "center",
-            "img_align_mobile": "center",
-            "b_effect": "none",
-            "hidden_mobile": false,
-            "mgb": 0,
-            "mgb_mb": 0
-          }
-        },
-        "bc9f2f27-350b-463f-9ba5-0a31d584fa32": {
-          "type": "custom_text",
-          "settings": {
-            "text": "Ugreen 5-in-2 USB C Hub for MacBook Pro\/Air",
-            "remove_br_tag": false,
-            "fontf": "inherit",
-            "text_cl": "#ffffff",
-            "text_fs": 20,
-            "text_lh": 25,
-            "text_fw": 600,
-            "text_ls": 0,
-            "font_italic": false,
-            "text_shadow": false,
-            "text_mgb": 15,
-            "hidden_mobile": false,
-            "text_fs_mb": 16,
-            "text_lh_mb": 22,
-            "text_ls_mb": 0,
-            "text_mgb_mobile": 20
-          }
-        },
-        "d0ade983-2e50-45cd-8a7b-3d86d523d662": {
+        "e02164e8-c7bf-417d-8d70-eebb8b5a6c85": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$28.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$25.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: flex-end;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"https:\/\/www.ugreen.com\/collections\/hard-drive-enclosure\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
             "hidden_mobile": false
-          }
-        },
-        "66c7b647-f37e-460c-a7a2-4ae5c6ead102": {
-          "type": "custom_button",
-          "settings": {
-            "button_text": "buy with 10% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/5-in-2-usb-c-hub-for-macbook-pro-air",
-            "target_link": "_self",
-            "fontf": "inherit",
-            "button_icon_w": 0,
-            "button_style": "default",
-            "button_effect": "default",
-            "pri_cl": "rgba(0,0,0,0)",
-            "second_cl": "#ffffff",
-            "pri_cl_hover": "rgba(0,0,0,0)",
-            "second_cl_hover": "#000000",
-            "fsbutton": 14,
-            "fwbutton": 500,
-            "button_ls": 0,
-            "button_mh": 44,
-            "button_bdr": 40,
-            "button_pd_lr": 30,
-            "button_mgb": 0,
-            "hidden_mobile": false,
-            "button_icon_w_mb": 0,
-            "fsbutton_mb": 12,
-            "button_mh_mb": 36,
-            "button_pd_lr_mb": 15,
-            "button_ls_mb": 0,
-            "button_mgb_mb": 0
           }
         }
       },
@@ -4163,11 +3978,8 @@
         "bc9f2f27-350b-463f-9ba5-0a31d584fa31",
         "d0ade983-2e50-45cd-8a7b-3d86d523d661",
         "66c7b647-f37e-460c-a7a2-4ae5c6ead101",
-        "e30b2ac8-69d1-48df-9f23-d0a13d957ff2",
-        "31a31987-9a52-46d5-bdea-40d6cf22efd2",
-        "bc9f2f27-350b-463f-9ba5-0a31d584fa32",
-        "d0ade983-2e50-45cd-8a7b-3d86d523d662",
-        "66c7b647-f37e-460c-a7a2-4ae5c6ead102"
+        "814a776f-1474-47f4-84ae-3fb3d574fcaf",
+        "e02164e8-c7bf-417d-8d70-eebb8b5a6c85"
       ],
       "settings": {
         "space_h_item": "20",
@@ -4178,18 +3990,17 @@
         "cl_bg": "#000000",
         "cl_bg_gradient": "",
         "mg": "",
-        "pd": "100px,0,150px,0",
+        "pd": "100px,0,100px,0",
         "mg_tb": "",
-        "pd_tb": "30px,0,100px,0",
+        "pd_tb": "30px,0,50px,0",
         "mg_mb": "",
-        "pd_mb": "30px,0,100px,0",
+        "pd_mb": "30px,0,50px,0",
         "use_cus_css": false,
         "code_cus_css": ""
       }
     },
     "10f040a5-a9ff-44b5-821d-7260b861b70333": {
       "type": "custom-section",
-      "disabled": true,
       "blocks": {
         "template--14475737169982__10f040a5-a9ff-44b5-821d-7260b861b70a-1667292855516194e2-0": {
           "type": "bl_col",
@@ -4210,7 +4021,7 @@
         "template--14475737169982__10f040a5-a9ff-44b5-821d-7260b861b70a-1667292855516194e2-1": {
           "type": "custom_text",
           "settings": {
-            "text": "HUBS & ADAPTERS",
+            "text": "USB & HDMI Switch",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#f6ddb0",
@@ -4253,7 +4064,6 @@
     },
     "6a026f6b-fcc5-4cc8-b046-7ef337b5e09333": {
       "type": "custom-section",
-      "disabled": true,
       "blocks": {
         "template--14475737169982__6a026f6b-fcc5-4cc8-b046-7ef337b5e092-1667304263ecc11935-0": {
           "type": "bl_col",
@@ -4275,7 +4085,7 @@
         "a55c3591-911d-4f31-9ced-0fca4addbcaa": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/70410_e738c02b-c5a5-46c0-8afb-3c0aa807b1f7.webp",
+            "image_child": "shopify:\/\/shop_images\/517Gp14aWFL._AC_SY879.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -4292,7 +4102,7 @@
         "01c513c5-58e4-4896-9170-a8e5d6a2b5cd": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen 6-in-1 USB C to USB Hubs",
+            "text": "Ugreen USB 2.0 Switch, 2 In 4 Output USB KVM Switch",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -4313,15 +4123,15 @@
         "55d56443-89bd-409f-86a9-4a3c7e8b7644": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$24.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$16.24<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$18.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$15.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "8b978cfa-36fe-4428-ab4b-df49f3120f18": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 35% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/6-in-1-usb-c-adapter-with-4k-hdmi",
+            "button_text": "buy with 16% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-usb-2-0-switch-2-in-4-output-usb-kvm-switch",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -4367,7 +4177,7 @@
         "aea2ae20-ee0c-4a79-aaba-bc2ee90d9b0f": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/60384-146107.webp",
+            "image_child": "shopify:\/\/shop_images\/30768_d40fb024-2902-46fa-be8d-17c37d6ed6fc.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -4384,7 +4194,7 @@
         "86857180-d0fe-4c30-b198-d854e2359870": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen 6 in 1 USB C Hub",
+            "text": "Ugreen USB 3.0 4-Port Switch",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -4405,15 +4215,15 @@
         "3bf775ac-0ef1-4c95-9d91-c7717952b488": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$36.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$32.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$36.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$18.5<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "72af73c9-1fdf-499c-a2a9-d61badc0612f": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 11% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-6-in-1-usb-c-hub",
+            "button_text": "buy with 50% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-usb-3-0-4-port-switch",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -4459,7 +4269,7 @@
         "ed18c10d-fd60-402d-a3aa-ddf991762f14": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/90325-509908.webp",
+            "image_child": "shopify:\/\/shop_images\/80664_5a734c8c-86eb-491f-80b8-ad12b679c121.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -4476,7 +4286,7 @@
         "32b14ee7-7622-46bc-8752-3d7b90122f9d": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen USB C Triple Display Docking Station (13-in-1)",
+            "text": "UGREEN AirPlay 2 Receiver",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -4497,15 +4307,15 @@
         "081e1cfa-1489-48c1-a12a-70156286b789": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$329<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$299<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$91.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$45.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "8d26892f-d6ad-44a0-8fd7-7ac823e5dd7b": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 9% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-usb-c-triple-display-docking-station",
+            "button_text": "buy with 50% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-airplay-2-receiver",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -4551,7 +4361,7 @@
         "31a31987-9a52-46d5-bdea-40d6cf22efdd": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/70336-664673.webp",
+            "image_child": "shopify:\/\/shop_images\/20137-675177.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -4568,7 +4378,7 @@
         "bc9f2f27-350b-463f-9ba5-0a31d584fa36": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen 4 Ports USB C Hub",
+            "text": "Ugreen 4K Mini HDMI to HDMI Adapter",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -4589,15 +4399,15 @@
         "d0ade983-2e50-45cd-8a7b-3d86d523d660": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$14.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$10.19<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$8.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$7.19<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "66c7b647-f37e-460c-a7a2-4ae5c6ead106": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 32% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/ultra-slim-4-ports-usb-c-hub",
+            "button_text": "buy with 20% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/4k-mini-hdmi-to-hdmi-cable",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -4623,188 +4433,27 @@
             "button_mgb_mb": 0
           }
         },
-        "e30b2ac8-69d1-48df-9f23-d0a13d957ff1": {
+        "eb5c805e-bca0-4857-b09a-9dba7ea7d31a": {
           "type": "bl_col",
           "settings": {
-            "col_dk": "6",
-            "col_tb": "6",
+            "col_dk": "12",
+            "col_tb": "12",
             "col_mb": "12",
             "align_vertical": false,
-            "content_align": "start",
-            "content_align_tablet": "start",
-            "content_align_mobile": "start",
-            "padding_inner": "35px,,35px,",
-            "padding_inner_tb": "20px,10px,20px,10px",
-            "padding_inner_mb": "20px,10px,20px,10px",
-            "bg_image": "shopify:\/\/shop_images\/Black_Friday_product_bgm1.jpg",
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "50px",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
             "bg_cl": "rgba(0,0,0,0)"
           }
         },
-        "31a31987-9a52-46d5-bdea-40d6cf22efd1": {
-          "type": "image",
-          "settings": {
-            "image_child": "shopify:\/\/shop_images\/80133-843467_b5758b61-c559-447d-b327-bfc7a9a81619.webp",
-            "img_link": "",
-            "open_link": "_self",
-            "img_width": 0,
-            "img_width_mb": 0,
-            "img_align": "center",
-            "img_align_tb": "center",
-            "img_align_mobile": "center",
-            "b_effect": "none",
-            "hidden_mobile": false,
-            "mgb": 0,
-            "mgb_mb": 0
-          }
-        },
-        "bc9f2f27-350b-463f-9ba5-0a31d584fa31": {
-          "type": "custom_text",
-          "settings": {
-            "text": "Ugreen 10 in 1 USB C Hub",
-            "remove_br_tag": false,
-            "fontf": "inherit",
-            "text_cl": "#ffffff",
-            "text_fs": 20,
-            "text_lh": 25,
-            "text_fw": 600,
-            "text_ls": 0,
-            "font_italic": false,
-            "text_shadow": false,
-            "text_mgb": 15,
-            "hidden_mobile": false,
-            "text_fs_mb": 16,
-            "text_lh_mb": 22,
-            "text_ls_mb": 0,
-            "text_mgb_mobile": 20
-          }
-        },
-        "d0ade983-2e50-45cd-8a7b-3d86d523d661": {
+        "2f78c2ff-18ca-49eb-b18e-e84f1182be5b": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$59.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$41.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: flex-end;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"https:\/\/www.ugreen.com\/collections\/hdmi-switch\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
             "hidden_mobile": false
-          }
-        },
-        "66c7b647-f37e-460c-a7a2-4ae5c6ead101": {
-          "type": "custom_button",
-          "settings": {
-            "button_text": "buy with 30 off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/10-in-1-usb-c-hub",
-            "target_link": "_self",
-            "fontf": "inherit",
-            "button_icon_w": 0,
-            "button_style": "default",
-            "button_effect": "default",
-            "pri_cl": "rgba(0,0,0,0)",
-            "second_cl": "#ffffff",
-            "pri_cl_hover": "rgba(0,0,0,0)",
-            "second_cl_hover": "#000000",
-            "fsbutton": 14,
-            "fwbutton": 500,
-            "button_ls": 0,
-            "button_mh": 44,
-            "button_bdr": 40,
-            "button_pd_lr": 30,
-            "button_mgb": 0,
-            "hidden_mobile": false,
-            "button_icon_w_mb": 0,
-            "fsbutton_mb": 12,
-            "button_mh_mb": 36,
-            "button_pd_lr_mb": 15,
-            "button_ls_mb": 0,
-            "button_mgb_mb": 0
-          }
-        },
-        "e30b2ac8-69d1-48df-9f23-d0a13d957ff2": {
-          "type": "bl_col",
-          "settings": {
-            "col_dk": "6",
-            "col_tb": "6",
-            "col_mb": "12",
-            "align_vertical": false,
-            "content_align": "start",
-            "content_align_tablet": "start",
-            "content_align_mobile": "start",
-            "padding_inner": "35px,,35px,",
-            "padding_inner_tb": "20px,10px,20px,10px",
-            "padding_inner_mb": "20px,10px,20px,10px",
-            "bg_image": "shopify:\/\/shop_images\/Black_Friday_product_bgm1.jpg",
-            "bg_cl": "rgba(0,0,0,0)"
-          }
-        },
-        "31a31987-9a52-46d5-bdea-40d6cf22efd2": {
-          "type": "image",
-          "settings": {
-            "image_child": "shopify:\/\/shop_images\/60559-573350.webp",
-            "img_link": "",
-            "open_link": "_self",
-            "img_width": 0,
-            "img_width_mb": 0,
-            "img_align": "center",
-            "img_align_tb": "center",
-            "img_align_mobile": "center",
-            "b_effect": "none",
-            "hidden_mobile": false,
-            "mgb": 0,
-            "mgb_mb": 0
-          }
-        },
-        "bc9f2f27-350b-463f-9ba5-0a31d584fa32": {
-          "type": "custom_text",
-          "settings": {
-            "text": "Ugreen 5-in-2 USB C Hub for MacBook Pro\/Air",
-            "remove_br_tag": false,
-            "fontf": "inherit",
-            "text_cl": "#ffffff",
-            "text_fs": 20,
-            "text_lh": 25,
-            "text_fw": 600,
-            "text_ls": 0,
-            "font_italic": false,
-            "text_shadow": false,
-            "text_mgb": 15,
-            "hidden_mobile": false,
-            "text_fs_mb": 16,
-            "text_lh_mb": 22,
-            "text_ls_mb": 0,
-            "text_mgb_mobile": 20
-          }
-        },
-        "d0ade983-2e50-45cd-8a7b-3d86d523d662": {
-          "type": "html",
-          "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$28.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$25.99<\/p>\n\t\t<\/div>",
-            "hidden_mobile": false
-          }
-        },
-        "66c7b647-f37e-460c-a7a2-4ae5c6ead102": {
-          "type": "custom_button",
-          "settings": {
-            "button_text": "buy with 10% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/5-in-2-usb-c-hub-for-macbook-pro-air",
-            "target_link": "_self",
-            "fontf": "inherit",
-            "button_icon_w": 0,
-            "button_style": "default",
-            "button_effect": "default",
-            "pri_cl": "rgba(0,0,0,0)",
-            "second_cl": "#ffffff",
-            "pri_cl_hover": "rgba(0,0,0,0)",
-            "second_cl_hover": "#000000",
-            "fsbutton": 14,
-            "fwbutton": 500,
-            "button_ls": 0,
-            "button_mh": 44,
-            "button_bdr": 40,
-            "button_pd_lr": 30,
-            "button_mgb": 0,
-            "hidden_mobile": false,
-            "button_icon_w_mb": 0,
-            "fsbutton_mb": 12,
-            "button_mh_mb": 36,
-            "button_pd_lr_mb": 15,
-            "button_ls_mb": 0,
-            "button_mgb_mb": 0
           }
         }
       },
@@ -4829,16 +4478,8 @@
         "bc9f2f27-350b-463f-9ba5-0a31d584fa36",
         "d0ade983-2e50-45cd-8a7b-3d86d523d660",
         "66c7b647-f37e-460c-a7a2-4ae5c6ead106",
-        "e30b2ac8-69d1-48df-9f23-d0a13d957ff1",
-        "31a31987-9a52-46d5-bdea-40d6cf22efd1",
-        "bc9f2f27-350b-463f-9ba5-0a31d584fa31",
-        "d0ade983-2e50-45cd-8a7b-3d86d523d661",
-        "66c7b647-f37e-460c-a7a2-4ae5c6ead101",
-        "e30b2ac8-69d1-48df-9f23-d0a13d957ff2",
-        "31a31987-9a52-46d5-bdea-40d6cf22efd2",
-        "bc9f2f27-350b-463f-9ba5-0a31d584fa32",
-        "d0ade983-2e50-45cd-8a7b-3d86d523d662",
-        "66c7b647-f37e-460c-a7a2-4ae5c6ead102"
+        "eb5c805e-bca0-4857-b09a-9dba7ea7d31a",
+        "2f78c2ff-18ca-49eb-b18e-e84f1182be5b"
       ],
       "settings": {
         "space_h_item": "20",
@@ -4849,18 +4490,17 @@
         "cl_bg": "#000000",
         "cl_bg_gradient": "",
         "mg": "",
-        "pd": "100px,0,150px,0",
+        "pd": "100px,0,100px,0",
         "mg_tb": "",
-        "pd_tb": "30px,0,100px,0",
+        "pd_tb": "30px,0,50px,0",
         "mg_mb": "",
-        "pd_mb": "30px,0,100px,0",
+        "pd_mb": "30px,0,50px,0",
         "use_cus_css": false,
         "code_cus_css": ""
       }
     },
     "10f040a5-a9ff-44b5-821d-7260b861b70444": {
       "type": "custom-section",
-      "disabled": true,
       "blocks": {
         "template--14475737169982__10f040a5-a9ff-44b5-821d-7260b861b70a-1667292855516194e2-0": {
           "type": "bl_col",
@@ -4881,7 +4521,7 @@
         "template--14475737169982__10f040a5-a9ff-44b5-821d-7260b861b70a-1667292855516194e2-1": {
           "type": "custom_text",
           "settings": {
-            "text": "HUBS & ADAPTERS",
+            "text": "Card Reader",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#f6ddb0",
@@ -4924,7 +4564,6 @@
     },
     "6a026f6b-fcc5-4cc8-b046-7ef337b5e09444": {
       "type": "custom-section",
-      "disabled": true,
       "blocks": {
         "template--14475737169982__6a026f6b-fcc5-4cc8-b046-7ef337b5e092-1667304263ecc11935-0": {
           "type": "bl_col",
@@ -4946,7 +4585,7 @@
         "a55c3591-911d-4f31-9ced-0fca4addbcaa": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/70410_e738c02b-c5a5-46c0-8afb-3c0aa807b1f7.webp",
+            "image_child": "shopify:\/\/shop_images\/30333-563900.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -4963,7 +4602,7 @@
         "01c513c5-58e4-4896-9170-a8e5d6a2b5cd": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen 6-in-1 USB C to USB Hubs",
+            "text": "Ugreen 4-in-1 USB 3.0 SD\/TF Card Reader",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -4984,15 +4623,15 @@
         "55d56443-89bd-409f-86a9-4a3c7e8b7644": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$24.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$16.24<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$16.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$11.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "8b978cfa-36fe-4428-ab4b-df49f3120f18": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 35% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/6-in-1-usb-c-adapter-with-4k-hdmi",
+            "button_text": "buy with 29% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/4-in-1-usb-3-0-sd-tf-card-reader",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -5038,7 +4677,7 @@
         "aea2ae20-ee0c-4a79-aaba-bc2ee90d9b0f": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/60384-146107.webp",
+            "image_child": "shopify:\/\/shop_images\/50706_6a58e78d-18c6-46b4-8401-eaca9e6111da.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -5055,7 +4694,7 @@
         "86857180-d0fe-4c30-b198-d854e2359870": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen 6 in 1 USB C Hub",
+            "text": "Ugreen 2-in-1 USB C OTG Card Reader",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -5076,15 +4715,15 @@
         "3bf775ac-0ef1-4c95-9d91-c7717952b488": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$36.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$32.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$13.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$9.79<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "72af73c9-1fdf-499c-a2a9-d61badc0612f": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 11% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-6-in-1-usb-c-hub",
+            "button_text": "buy with 30% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/2-in-1-usb-c-otg-card-reader",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -5130,7 +4769,7 @@
         "ed18c10d-fd60-402d-a3aa-ddf991762f14": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/90325-509908.webp",
+            "image_child": "shopify:\/\/shop_images\/20250-991296.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -5147,7 +4786,7 @@
         "32b14ee7-7622-46bc-8752-3d7b90122f9d": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen USB C Triple Display Docking Station (13-in-1)",
+            "text": "Ugreen 2-in-1 USB 3.0 SD\/TF Card Reader",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -5168,15 +4807,15 @@
         "081e1cfa-1489-48c1-a12a-70156286b789": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$329<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$299<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$12.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$10.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "8d26892f-d6ad-44a0-8fd7-7ac823e5dd7b": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 9% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-usb-c-triple-display-docking-station",
+            "button_text": "buy with 15% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/usb-3-0-card-reader-with-sd-tf",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -5222,7 +4861,7 @@
         "31a31987-9a52-46d5-bdea-40d6cf22efdd": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/70336-664673.webp",
+            "image_child": "shopify:\/\/shop_images\/80798-931034.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -5239,7 +4878,7 @@
         "bc9f2f27-350b-463f-9ba5-0a31d584fa36": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen 4 Ports USB C Hub",
+            "text": "Ugreen 3 in 1 USB C SD Card Reader",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -5260,15 +4899,15 @@
         "d0ade983-2e50-45cd-8a7b-3d86d523d660": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$14.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$10.19<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$14.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$12.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "66c7b647-f37e-460c-a7a2-4ae5c6ead106": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 32% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/ultra-slim-4-ports-usb-c-hub",
+            "button_text": "buy with 13% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-3-in-1-usb-c-sd-card-reader",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -5314,7 +4953,7 @@
         "31a31987-9a52-46d5-bdea-40d6cf22efd1": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/80133-843467_b5758b61-c559-447d-b327-bfc7a9a81619.webp",
+            "image_child": "shopify:\/\/shop_images\/80124-848088.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -5331,7 +4970,7 @@
         "bc9f2f27-350b-463f-9ba5-0a31d584fa31": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen 10 in 1 USB C Hub",
+            "text": "Ugreen USB C Micro SD Card Reader",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -5352,15 +4991,15 @@
         "d0ade983-2e50-45cd-8a7b-3d86d523d661": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$59.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$41.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$12.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$10.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "66c7b647-f37e-460c-a7a2-4ae5c6ead101": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 30 off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/10-in-1-usb-c-hub",
+            "button_text": "buy with 15% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-usb-c-micro-sd-card-reader",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -5386,96 +5025,27 @@
             "button_mgb_mb": 0
           }
         },
-        "e30b2ac8-69d1-48df-9f23-d0a13d957ff2": {
+        "99613b2f-37df-4d0c-904e-c65870445c2e": {
           "type": "bl_col",
           "settings": {
-            "col_dk": "6",
-            "col_tb": "6",
+            "col_dk": "12",
+            "col_tb": "12",
             "col_mb": "12",
             "align_vertical": false,
-            "content_align": "start",
-            "content_align_tablet": "start",
-            "content_align_mobile": "start",
-            "padding_inner": "35px,,35px,",
-            "padding_inner_tb": "20px,10px,20px,10px",
-            "padding_inner_mb": "20px,10px,20px,10px",
-            "bg_image": "shopify:\/\/shop_images\/Black_Friday_product_bgm1.jpg",
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "50px",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
             "bg_cl": "rgba(0,0,0,0)"
           }
         },
-        "31a31987-9a52-46d5-bdea-40d6cf22efd2": {
-          "type": "image",
-          "settings": {
-            "image_child": "shopify:\/\/shop_images\/60559-573350.webp",
-            "img_link": "",
-            "open_link": "_self",
-            "img_width": 0,
-            "img_width_mb": 0,
-            "img_align": "center",
-            "img_align_tb": "center",
-            "img_align_mobile": "center",
-            "b_effect": "none",
-            "hidden_mobile": false,
-            "mgb": 0,
-            "mgb_mb": 0
-          }
-        },
-        "bc9f2f27-350b-463f-9ba5-0a31d584fa32": {
-          "type": "custom_text",
-          "settings": {
-            "text": "Ugreen 5-in-2 USB C Hub for MacBook Pro\/Air",
-            "remove_br_tag": false,
-            "fontf": "inherit",
-            "text_cl": "#ffffff",
-            "text_fs": 20,
-            "text_lh": 25,
-            "text_fw": 600,
-            "text_ls": 0,
-            "font_italic": false,
-            "text_shadow": false,
-            "text_mgb": 15,
-            "hidden_mobile": false,
-            "text_fs_mb": 16,
-            "text_lh_mb": 22,
-            "text_ls_mb": 0,
-            "text_mgb_mobile": 20
-          }
-        },
-        "d0ade983-2e50-45cd-8a7b-3d86d523d662": {
+        "329df8e2-f45c-424c-b32b-5a3276e02f8a": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$28.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$25.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: flex-end;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"https:\/\/www.ugreen.com\/collections\/usb-card-reader\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
             "hidden_mobile": false
-          }
-        },
-        "66c7b647-f37e-460c-a7a2-4ae5c6ead102": {
-          "type": "custom_button",
-          "settings": {
-            "button_text": "buy with 10% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/5-in-2-usb-c-hub-for-macbook-pro-air",
-            "target_link": "_self",
-            "fontf": "inherit",
-            "button_icon_w": 0,
-            "button_style": "default",
-            "button_effect": "default",
-            "pri_cl": "rgba(0,0,0,0)",
-            "second_cl": "#ffffff",
-            "pri_cl_hover": "rgba(0,0,0,0)",
-            "second_cl_hover": "#000000",
-            "fsbutton": 14,
-            "fwbutton": 500,
-            "button_ls": 0,
-            "button_mh": 44,
-            "button_bdr": 40,
-            "button_pd_lr": 30,
-            "button_mgb": 0,
-            "hidden_mobile": false,
-            "button_icon_w_mb": 0,
-            "fsbutton_mb": 12,
-            "button_mh_mb": 36,
-            "button_pd_lr_mb": 15,
-            "button_ls_mb": 0,
-            "button_mgb_mb": 0
           }
         }
       },
@@ -5505,11 +5075,8 @@
         "bc9f2f27-350b-463f-9ba5-0a31d584fa31",
         "d0ade983-2e50-45cd-8a7b-3d86d523d661",
         "66c7b647-f37e-460c-a7a2-4ae5c6ead101",
-        "e30b2ac8-69d1-48df-9f23-d0a13d957ff2",
-        "31a31987-9a52-46d5-bdea-40d6cf22efd2",
-        "bc9f2f27-350b-463f-9ba5-0a31d584fa32",
-        "d0ade983-2e50-45cd-8a7b-3d86d523d662",
-        "66c7b647-f37e-460c-a7a2-4ae5c6ead102"
+        "99613b2f-37df-4d0c-904e-c65870445c2e",
+        "329df8e2-f45c-424c-b32b-5a3276e02f8a"
       ],
       "settings": {
         "space_h_item": "20",
@@ -5520,11 +5087,11 @@
         "cl_bg": "#000000",
         "cl_bg_gradient": "",
         "mg": "",
-        "pd": "100px,0,150px,0",
+        "pd": "100px,0,100px,0",
         "mg_tb": "",
-        "pd_tb": "30px,0,100px,0",
+        "pd_tb": "30px,0,50px,0",
         "mg_mb": "",
-        "pd_mb": "30px,0,100px,0",
+        "pd_mb": "30px,0,50px,0",
         "use_cus_css": false,
         "code_cus_css": ""
       }
@@ -5534,21 +5101,16 @@
     "5c11bb33-e90a-4725-8a83-eb8f9a5bc513",
     "d9173877-0d74-49ef-ae60-75c5eed6188e",
     "51ff89be-52b3-4bda-8376-5d99897c4eec",
-    "166735473386a52bc2",
     "30c69fe5-628b-4c0a-af3b-63cb5c94cf4c",
     "2f1936e1-d7a6-48e3-9c73-3587fced4908",
     "8d8d1913-8aec-4a66-bc6e-0d7c3e188253",
     "6d866af2-78c3-4043-aa7a-736bcbb5f93c",
-    "dc82a967-6f89-4b56-b8ff-0999f3951aa3",
     "528ecd5a-e357-412c-81df-eb1247818c04",
     "b0b70919-1ff1-4f25-a208-56cafd95f57a",
-    "dc82a967-6f89-4b56-b8ff-0999f3951aa1",
     "10f040a5-a9ff-44b5-821d-7260b861b70a",
     "6a026f6b-fcc5-4cc8-b046-7ef337b5e092",
-    "dc82a967-6f89-4b56-b8ff-0999f3951aa2",
     "10f040a5-a9ff-44b5-821d-7260b861b70111",
     "6a026f6b-fcc5-4cc8-b046-7ef337b5e09111",
-    "dc82a967-6f89-4b56-b8ff-0999f3951aa111",
     "10f040a5-a9ff-44b5-821d-7260b861b70222",
     "6a026f6b-fcc5-4cc8-b046-7ef337b5e09222",
     "10f040a5-a9ff-44b5-821d-7260b861b70333",
