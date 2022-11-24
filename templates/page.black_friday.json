@@ -740,38 +740,11 @@
             "text_ls_mb": 0,
             "text_mgb_mobile": 0
           }
-        },
-        "b276bb8a-a1d9-4aeb-979a-6553ba4ee509": {
-          "type": "bl_col",
-          "disabled": true,
-          "settings": {
-            "col_dk": "7",
-            "col_tb": "4",
-            "col_mb": "6",
-            "align_vertical": false,
-            "content_align": "start",
-            "content_align_tablet": "start",
-            "content_align_mobile": "start",
-            "padding_inner": "",
-            "padding_inner_tb": "",
-            "padding_inner_mb": "",
-            "bg_cl": "rgba(0,0,0,0)"
-          }
-        },
-        "6db896d1-d5fb-4304-87cc-79101a878287": {
-          "type": "html",
-          "disabled": true,
-          "settings": {
-            "html_content": "<div class=\"ug-product-discount-code black-friday-50\">\n\t\t\t<span>UGINSITE<\/span>\n\t\t\t<button data-ug-copy-data=\"cope-tests\" class=\"ug-product-discount-btn\">copy code<\/button>\n\t\t\n\t\t<\/div>",
-            "hidden_mobile": false
-          }
         }
       },
       "block_order": [
         "template--14475737169982__8d8d1913-8aec-4a66-bc6e-0d7c3e188253-16672916308e9b14c0-0",
-        "template--14475737169982__8d8d1913-8aec-4a66-bc6e-0d7c3e188253-16672916308e9b14c0-1",
-        "b276bb8a-a1d9-4aeb-979a-6553ba4ee509",
-        "6db896d1-d5fb-4304-87cc-79101a878287"
+        "template--14475737169982__8d8d1913-8aec-4a66-bc6e-0d7c3e188253-16672916308e9b14c0-1"
       ],
       "settings": {
         "space_h_item": "30",
@@ -1419,7 +1392,7 @@
         "d6dc4089-20b8-43ad-8753-634ddf7eeb54": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: flex-end;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"\/collections\/50-off-lightning-deals\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
+            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: flex-end;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"https:\/\/www.ugreen.com\/collections\/charger\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
             "hidden_mobile": false
           }
         }
@@ -1485,38 +1458,11 @@
             "text_ls_mb": 0,
             "text_mgb_mobile": 0
           }
-        },
-        "73dc22da-3aa8-46b8-b442-a2acb416072e": {
-          "type": "bl_col",
-          "disabled": true,
-          "settings": {
-            "col_dk": "9",
-            "col_tb": "8",
-            "col_mb": "8",
-            "align_vertical": false,
-            "content_align": "start",
-            "content_align_tablet": "start",
-            "content_align_mobile": "start",
-            "padding_inner": "",
-            "padding_inner_tb": "",
-            "padding_inner_mb": "",
-            "bg_cl": "rgba(0,0,0,0)"
-          }
-        },
-        "12cbdeee-679e-431a-b039-f190ee9db84f": {
-          "type": "html",
-          "disabled": true,
-          "settings": {
-            "html_content": "<div class=\"ug-product-discount-code black-friday-50\">\n<button data-ug-copy-data=\"cope-tests1\" class=\"ug-product-discount-btn\">copy code<\/button>\n\t\t\t\n\t\t<\/div>",
-            "hidden_mobile": false
-          }
         }
       },
       "block_order": [
         "template--14475737169982__528ecd5a-e357-412c-81df-eb1247818c04-1667292855516194e2-0",
-        "template--14475737169982__528ecd5a-e357-412c-81df-eb1247818c04-1667292855516194e2-1",
-        "73dc22da-3aa8-46b8-b442-a2acb416072e",
-        "12cbdeee-679e-431a-b039-f190ee9db84f"
+        "template--14475737169982__528ecd5a-e357-412c-81df-eb1247818c04-1667292855516194e2-1"
       ],
       "settings": {
         "space_h_item": "0",
@@ -2164,7 +2110,7 @@
         "b3973e88-ba07-4e79-b049-fd4167b84f4a": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: flex-end;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"\/collections\/30-off-special-deals\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
+            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: flex-end;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"https:\/\/www.ugreen.com\/collections\/cable\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
             "hidden_mobile": false
           }
         }
@@ -2197,9 +2143,9 @@
         "template--14475737169982__10f040a5-a9ff-44b5-821d-7260b861b70a-1667292855516194e2-0": {
           "type": "bl_col",
           "settings": {
-            "col_dk": "3",
-            "col_tb": "3",
-            "col_mb": "3",
+            "col_dk": "12",
+            "col_tb": "12",
+            "col_mb": "12",
             "align_vertical": false,
             "content_align": "start",
             "content_align_tablet": "start",
@@ -2213,7 +2159,7 @@
         "template--14475737169982__10f040a5-a9ff-44b5-821d-7260b861b70a-1667292855516194e2-1": {
           "type": "custom_text",
           "settings": {
-            "text": "$5-$20",
+            "text": "HUBS & ADAPTERS",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#f6ddb0",
@@ -2230,50 +2176,11 @@
             "text_ls_mb": 0,
             "text_mgb_mobile": 0
           }
-        },
-        "3dad3ea1-4a8b-4d08-a91e-b9500bfa6cae": {
-          "type": "bl_col",
-          "settings": {
-            "col_dk": "9",
-            "col_tb": "9",
-            "col_mb": "9",
-            "align_vertical": false,
-            "content_align": "start",
-            "content_align_tablet": "start",
-            "content_align_mobile": "start",
-            "padding_inner": "",
-            "padding_inner_tb": "",
-            "padding_inner_mb": "",
-            "bg_cl": "rgba(0,0,0,0)"
-          }
-        },
-        "c01491fd-3367-4530-b5d7-22d7c29cc288": {
-          "type": "custom_text",
-          "settings": {
-            "text": "shop one you fit",
-            "remove_br_tag": false,
-            "fontf": "inherit",
-            "text_cl": "#f6ddb0",
-            "text_fs": 32,
-            "text_lh": 38,
-            "text_fw": 400,
-            "text_ls": 0,
-            "font_italic": false,
-            "text_shadow": false,
-            "text_mgb": 0,
-            "hidden_mobile": false,
-            "text_fs_mb": 14,
-            "text_lh_mb": 16,
-            "text_ls_mb": 0,
-            "text_mgb_mobile": 0
-          }
         }
       },
       "block_order": [
         "template--14475737169982__10f040a5-a9ff-44b5-821d-7260b861b70a-1667292855516194e2-0",
-        "template--14475737169982__10f040a5-a9ff-44b5-821d-7260b861b70a-1667292855516194e2-1",
-        "3dad3ea1-4a8b-4d08-a91e-b9500bfa6cae",
-        "c01491fd-3367-4530-b5d7-22d7c29cc288"
+        "template--14475737169982__10f040a5-a9ff-44b5-821d-7260b861b70a-1667292855516194e2-1"
       ],
       "settings": {
         "space_h_item": "0",
@@ -2316,7 +2223,7 @@
         "a55c3591-911d-4f31-9ced-0fca4addbcaa": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/60980_89eaf640-a24b-4079-9ad7-9e05abe76e67-854003.webp",
+            "image_child": "shopify:\/\/shop_images\/70410_e738c02b-c5a5-46c0-8afb-3c0aa807b1f7.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -2333,7 +2240,7 @@
         "01c513c5-58e4-4896-9170-a8e5d6a2b5cd": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen 42.5W Type C Car Charger",
+            "text": "Ugreen 6-in-1 USB C to USB Hubs",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -2354,15 +2261,15 @@
         "55d56443-89bd-409f-86a9-4a3c7e8b7644": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$16.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$12.74<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$24.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$16.24<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "8b978cfa-36fe-4428-ab4b-df49f3120f18": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 25% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/aluminum-36w-pd-qc-3-0-fast-car-charger",
+            "button_text": "buy with 35% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/6-in-1-usb-c-adapter-with-4k-hdmi",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -2408,7 +2315,7 @@
         "aea2ae20-ee0c-4a79-aaba-bc2ee90d9b0f": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/50853-683888.webp",
+            "image_child": "shopify:\/\/shop_images\/60384-146107.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -2425,7 +2332,7 @@
         "86857180-d0fe-4c30-b198-d854e2359870": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen Gravity Drive Car Mount",
+            "text": "Ugreen 6 in 1 USB C Hub",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -2446,15 +2353,15 @@
         "3bf775ac-0ef1-4c95-9d91-c7717952b488": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$12.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$9.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$36.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$32.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "72af73c9-1fdf-499c-a2a9-d61badc0612f": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 25% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/gravity-drive-car-mount",
+            "button_text": "buy with 11% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-6-in-1-usb-c-hub",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -2500,7 +2407,7 @@
         "ed18c10d-fd60-402d-a3aa-ddf991762f14": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/50747-563020.webp",
+            "image_child": "shopify:\/\/shop_images\/90325-509908.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -2517,7 +2424,7 @@
         "32b14ee7-7622-46bc-8752-3d7b90122f9d": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen Portable Cell Phone Stand Holder",
+            "text": "Ugreen USB C Triple Display Docking Station (13-in-1)",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -2538,15 +2445,15 @@
         "081e1cfa-1489-48c1-a12a-70156286b789": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$9.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$7.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$329<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$299<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "8d26892f-d6ad-44a0-8fd7-7ac823e5dd7b": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 20% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/cell-phone-stand-holder",
+            "button_text": "buy with 9% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-usb-c-triple-display-docking-station",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -2684,7 +2591,7 @@
         "31a31987-9a52-46d5-bdea-40d6cf22efd1": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/70336-664673.webp",
+            "image_child": "shopify:\/\/shop_images\/80133-843467_b5758b61-c559-447d-b327-bfc7a9a81619.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -2701,7 +2608,7 @@
         "bc9f2f27-350b-463f-9ba5-0a31d584fa31": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen 4 Ports USB C Hub",
+            "text": "Ugreen 10 in 1 USB C Hub",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -2722,15 +2629,15 @@
         "d0ade983-2e50-45cd-8a7b-3d86d523d661": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$14.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$10.19<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$59.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$41.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "66c7b647-f37e-460c-a7a2-4ae5c6ead101": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 32% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/ultra-slim-4-ports-usb-c-hub",
+            "button_text": "buy with 30 off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/10-in-1-usb-c-hub",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -2776,7 +2683,7 @@
         "31a31987-9a52-46d5-bdea-40d6cf22efd2": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/70336-664673.webp",
+            "image_child": "shopify:\/\/shop_images\/60559-573350.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -2793,7 +2700,7 @@
         "bc9f2f27-350b-463f-9ba5-0a31d584fa32": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen 4 Ports USB C Hub",
+            "text": "Ugreen 5-in-2 USB C Hub for MacBook Pro\/Air",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -2814,15 +2721,15 @@
         "d0ade983-2e50-45cd-8a7b-3d86d523d662": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$14.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$10.19<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$28.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$25.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "66c7b647-f37e-460c-a7a2-4ae5c6ead102": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 32% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/ultra-slim-4-ports-usb-c-hub",
+            "button_text": "buy with 10% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/5-in-2-usb-c-hub-for-macbook-pro-air",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -2921,7 +2828,7 @@
         "d4a673eb-c8fc-4d5a-bb59-11406f34c3dc": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: flex-end;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"\/collections\/5-20-special-offer\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
+            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: flex-end;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"https:\/\/www.ugreen.com\/collections\/hubs-and-adapters\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
             "hidden_mobile": false
           }
         }
@@ -2947,139 +2854,6 @@
         "use_cus_css": false,
         "code_cus_css": ""
       }
-    },
-    "74a28ab7-73d4-4661-a531-a9a1fcf4dde0": {
-      "type": "hero_image",
-      "disabled": true,
-      "blocks": {
-        "template--14475737169982__74a28ab7-73d4-4661-a531-a9a1fcf4dde0-16672843157d164579-0": {
-          "type": "custom_text",
-          "settings": {
-            "text": "Theme Kalles",
-            "remove_br_tag": false,
-            "fontf": "inherit",
-            "text_cl": "#ffffff",
-            "text_fs": 16,
-            "text_lh": 0,
-            "text_fw": 400,
-            "text_ls": 1,
-            "text_mgb": 15,
-            "font_italic": false,
-            "text_shadow": false,
-            "hidden_mobile": false,
-            "text_fs_mb": 16,
-            "text_lh_mb": 0,
-            "text_ls_mb": 0,
-            "text_mgb_mobile": 10,
-            "animation": "none"
-          }
-        },
-        "template--14475737169982__74a28ab7-73d4-4661-a531-a9a1fcf4dde0-16672843157d164579-1": {
-          "type": "custom_text",
-          "settings": {
-            "text": "Best shopify theme 2022",
-            "remove_br_tag": false,
-            "fontf": "inherit",
-            "text_cl": "#ffffff",
-            "text_fs": 70,
-            "text_lh": 70,
-            "text_fw": 300,
-            "text_ls": 0,
-            "text_mgb": 25,
-            "font_italic": false,
-            "text_shadow": false,
-            "hidden_mobile": false,
-            "text_fs_mb": 16,
-            "text_lh_mb": 0,
-            "text_ls_mb": 0,
-            "text_mgb_mobile": 10,
-            "animation": "none"
-          }
-        },
-        "template--14475737169982__74a28ab7-73d4-4661-a531-a9a1fcf4dde0-16672843157d164579-2": {
-          "type": "custom_button",
-          "settings": {
-            "button_text": "Button label",
-            "button_link": "",
-            "target_link": "_self",
-            "fontf": "inherit",
-            "button_icon_w": 0,
-            "button_style": "default",
-            "button_effect": "default",
-            "pri_cl": "#222222",
-            "second_cl": "#ffffff",
-            "pri_cl_hover": "#56cfe1",
-            "second_cl_hover": "#ffffff",
-            "fsbutton": 14,
-            "fwbutton": 400,
-            "button_ls": 0,
-            "button_mh": 42,
-            "button_bdr": 0,
-            "button_pd_lr": 20,
-            "button_mgb": 0,
-            "hidden_mobile": false,
-            "button_icon_w_mb": 0,
-            "fsbutton_mb": 10,
-            "button_mh_mb": 36,
-            "button_pd_lr_mb": 15,
-            "button_ls_mb": 0,
-            "button_mgb_mb": 0,
-            "animation": "none"
-          }
-        }
-      },
-      "block_order": [
-        "template--14475737169982__74a28ab7-73d4-4661-a531-a9a1fcf4dde0-16672843157d164579-0",
-        "template--14475737169982__74a28ab7-73d4-4661-a531-a9a1fcf4dde0-16672843157d164579-1",
-        "template--14475737169982__74a28ab7-73d4-4661-a531-a9a1fcf4dde0-16672843157d164579-2"
-      ],
-      "settings": {
-        "se_height": "t4s_ratioadapt",
-        "custom_dk": true,
-        "height_dk": 600,
-        "custom_tb": true,
-        "height_tb": 400,
-        "custom_mb": true,
-        "height_mb": 250,
-        "image": "shopify:\/\/shop_images\/Black_Friday_bgm_hover_b280cfbb-d78f-4e81-a7da-72596e7af657.png",
-        "parallax": false,
-        "image_position": "0",
-        "link_img1": "",
-        "open_link": "_blank",
-        "text_align": "center",
-        "text_align_mb": "center",
-        "content_width": "auto",
-        "cv_pos": 50,
-        "ch_pos": 50,
-        "cv_pos_mb": 50,
-        "ch_pos_mb": 50,
-        "bg_overlay": "#000000",
-        "bg_opacity": 0,
-        "bg_content_cl": "#ffffff",
-        "bg_content_op": 0,
-        "content_pd_tb": 15,
-        "content_pd_lr": 15,
-        "content_pd_tb_mb": 10,
-        "content_pd_lr_mb": 10,
-        "border_bl": false,
-        "br_color": "#222222",
-        "br_bg": "#ffffff",
-        "br_opacity": 50,
-        "br_style": "solid",
-        "br_pd": 20,
-        "br_pd_mb": 10,
-        "time_animation": 1,
-        "animation_delay": 40,
-        "layout": "t4s-container-fluid",
-        "cl_bg": "",
-        "cl_bg_gradient": "",
-        "mg": ",,50px,",
-        "pd": "",
-        "mg_mb": ",,30px,",
-        "pd_mb": "",
-        "use_cus_css": false,
-        "code_cus_css": ""
-      }
     }
   },
   "order": [
@@ -3100,7 +2874,6 @@
     "dc82a967-6f89-4b56-b8ff-0999f3951aa1",
     "10f040a5-a9ff-44b5-821d-7260b861b70a",
     "6a026f6b-fcc5-4cc8-b046-7ef337b5e092",
-    "dc82a967-6f89-4b56-b8ff-0999f3951aa2",
-    "74a28ab7-73d4-4661-a531-a9a1fcf4dde0"
+    "dc82a967-6f89-4b56-b8ff-0999f3951aa2"
   ]
 }
