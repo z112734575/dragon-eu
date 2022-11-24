@@ -2854,6 +2854,55 @@
         "use_cus_css": false,
         "code_cus_css": ""
       }
+    },
+    "dc82a967-6f89-4b56-b8ff-0999f3951aa2222": {
+      "type": "custom-section",
+      "blocks": {
+        "template--14475737169982__dc82a967-6f89-4b56-b8ff-0999f3951aa2-16684274055ac201b5-0": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "12",
+            "col_tb": "12",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "end",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "30px,,75px",
+            "padding_inner_tb": "30px,,38px",
+            "padding_inner_mb": "30px,,38px",
+            "bg_cl": "rgba(0,0,0,0)"
+          }
+        },
+        "d4a673eb-c8fc-4d5a-bb59-11406f34c3dc": {
+          "type": "html",
+          "settings": {
+            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: flex-end;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"https:\/\/www.ugreen.com\/collections\/hubs-and-adapters\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
+            "hidden_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14475737169982__dc82a967-6f89-4b56-b8ff-0999f3951aa2-16684274055ac201b5-0",
+        "d4a673eb-c8fc-4d5a-bb59-11406f34c3dc"
+      ],
+      "settings": {
+        "space_h_item": "0",
+        "space_v_item": "0",
+        "space_h_item_mb": "0",
+        "space_v_item_mb": "0",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": "-150px,0,0,0",
+        "pd": "",
+        "mg_tb": "-110px,0,0,0",
+        "pd_tb": "",
+        "mg_mb": "-110px,0,0,0",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
     }
   },
   "order": [
@@ -2874,6 +2923,7 @@
     "dc82a967-6f89-4b56-b8ff-0999f3951aa1",
     "10f040a5-a9ff-44b5-821d-7260b861b70a",
     "6a026f6b-fcc5-4cc8-b046-7ef337b5e092",
-    "dc82a967-6f89-4b56-b8ff-0999f3951aa2"
+    "dc82a967-6f89-4b56-b8ff-0999f3951aa2",
+    "dc82a967-6f89-4b56-b8ff-0999f3951aa2222"
   ]
 }
