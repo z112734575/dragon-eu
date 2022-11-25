@@ -1286,7 +1286,7 @@
         "68212ea2-de1e-476e-b28a-83a5901342d2": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: flex-end;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"https:\/\/www.ugreen.com\/products\/ugreen-3-in-1-magsafe-wireless-charging-station\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
+            "html_content": "<div class=\"ug-product-discount-code black-friday-50\" style=\"justify-content: flex-end;\"><button class=\"ug-product-discount-btn\"><a target=\"view_window\" href=\"https:\/\/www.ugreen.com\/collections\/black-friday-chargers\" class=\"ug-product-discount-btn\" style=\"color:#000\">More<\/a><\/button><\/div>",
             "hidden_mobile": false
           }
         }
