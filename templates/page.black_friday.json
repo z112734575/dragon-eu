@@ -872,7 +872,7 @@
         "8852c116-bde4-438b-a2c1-cb009df60935": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 30 off",
+            "button_text": "buy with 30% off",
             "button_link": "https:\/\/www.ugreen.com\/products\/65w-3-ports-gan-fast-charger",
             "target_link": "_self",
             "fontf": "inherit",
@@ -2644,7 +2644,7 @@
         "66c7b647-f37e-460c-a7a2-4ae5c6ead102": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 29 off",
+            "button_text": "buy with 29% off",
             "button_link": "https:\/\/www.ugreen.com\/products\/adjustable-desktop-cell-phone-stand",
             "target_link": "_self",
             "fontf": "inherit",
@@ -2886,7 +2886,7 @@
         "4efd2c16-3585-4a29-95a0-1720a946dea8": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 14 off",
+            "button_text": "buy with 14% off",
             "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-100w-usb-c-to-usb-c-cable-6ft?variant=39948871008318",
             "target_link": "_self",
             "fontf": "inherit",
