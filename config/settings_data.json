@@ -685,7 +685,7 @@
           "01924df3-a82c-4cbe-9111-6f2932b314af": {
             "type": "drop",
             "settings": {
-              "title": "BLACK FRIDAY",
+              "title": "Cyber Monday",
               "url": "shopify:\/\/pages\/black-friday",
               "open_link": "_self",
               "menu": "",
@@ -1682,7 +1682,7 @@
           "c29a9b68-4239-4e8c-bdcc-d598dd95b6f4": {
             "type": "menu",
             "settings": {
-              "title": "BLACK FRIDAY",
+              "title": "Cyber Monday",
               "url": "shopify:\/\/pages\/black-friday",
               "open_link": "_self",
               "menu": "",
