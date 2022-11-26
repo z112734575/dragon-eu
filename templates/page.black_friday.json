@@ -773,14 +773,14 @@
         "33337fbc-22e0-4cf8-9982-f62912235d3b": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$29.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$14.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$29.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$23.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "dc5de825-c393-4a18-9aa1-891c22daef50": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 50% off",
+            "button_text": "buy with 20% off",
             "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-69w-usb-c-car-charger",
             "target_link": "_self",
             "fontf": "inherit",
@@ -865,14 +865,14 @@
         "e1d6eb89-fb6b-4dff-9e30-3f4bc4db052c": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$49.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$31.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$49.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$34.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "8852c116-bde4-438b-a2c1-cb009df60935": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 36% off",
+            "button_text": "buy with 30 off",
             "button_link": "https:\/\/www.ugreen.com\/products\/65w-3-ports-gan-fast-charger",
             "target_link": "_self",
             "fontf": "inherit",
@@ -957,14 +957,14 @@
         "84bd3915-c484-48d3-9a57-339d9ca2812f": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$129.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$89.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$129.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$90.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "3280ed18-060e-4a67-8911-25b67e11f243": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 31% off",
+            "button_text": "buy with 30% off",
             "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-100w-usb-c-diginest-pro-power-strip?variant=39915662278718",
             "target_link": "_self",
             "fontf": "inherit",
@@ -1049,14 +1049,14 @@
         "17c63381-dc41-45cd-b938-c55cea43a7ae": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$129.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$109.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$129.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$103.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "d90e44ec-cf21-4b21-95c2-34c8085beae3": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 15% off",
+            "button_text": "buy with 20% off",
             "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-3-in-1-magsafe-wireless-charging-station?variant=39915662999614",
             "target_link": "_self",
             "fontf": "inherit",
@@ -1141,14 +1141,14 @@
         "17c63381-dc41-45cd-b938-c55cea43a7af": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$29.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$20.00<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$29.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$23.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "d90e44ec-cf21-4b21-95c2-34c8085beae4": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 30% off",
+            "button_text": "buy with 20% off",
             "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-10000mah-pd-20w-usb-c-power-bank?variant=39915662213182",
             "target_link": "_self",
             "fontf": "inherit",
@@ -1195,7 +1195,7 @@
         "68076407-776d-4578-897a-38e460120cc2": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/40943-179161.webp",
+            "image_child": "shopify:\/\/shop_images\/40861_e70c2e5c-00b5-4a43-9112-e6dd5a40ae71.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1212,7 +1212,7 @@
         "e1f81aae-d1bc-4df8-bae7-5d75bf8e4a42": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen 20W USB C Fast Charger - 2 Pack",
+            "text": "UGREEN 65W USB C DigiNest Cube Charging Station",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -1233,15 +1233,15 @@
         "17c63381-dc41-45cd-b938-c55cea43a7a2": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$25.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$22.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$69.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$55.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "d90e44ec-cf21-4b21-95c2-34c8085beae2": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 12% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-20w-usb-c-fast-charger-2-pack?variant=39915662540862",
+            "button_text": "buy with 20% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-65w-usb-c-diginest-cube-charging-station",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -1659,14 +1659,14 @@
         "081e1cfa-1489-48c1-a12a-70156286b789": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$329<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$264<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$329<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$246.75<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "8d26892f-d6ad-44a0-8fd7-7ac823e5dd7b": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 20% off",
+            "button_text": "buy with 25% off",
             "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-usb-c-triple-display-docking-station",
             "target_link": "_self",
             "fontf": "inherit",
@@ -1935,14 +1935,14 @@
         "d0ade983-2e50-45cd-8a7b-3d86d523d662": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$28.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$25.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$28.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$18.84<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "66c7b647-f37e-460c-a7a2-4ae5c6ead102": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 10% off",
+            "button_text": "buy with 35% off",
             "button_link": "https:\/\/www.ugreen.com\/products\/5-in-2-usb-c-hub-for-macbook-pro-air",
             "target_link": "_self",
             "fontf": "inherit",
@@ -2177,14 +2177,14 @@
         "55d56443-89bd-409f-86a9-4a3c7e8b7644": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$26.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$14.84<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$26.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$22.49<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "8b978cfa-36fe-4428-ab4b-df49f3120f18": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 45% off",
+            "button_text": "buy with 17% off",
             "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-tablet-stand-holder",
             "target_link": "_self",
             "fontf": "inherit",
@@ -2453,14 +2453,14 @@
         "d0ade983-2e50-45cd-8a7b-3d86d523d660": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$26.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$18.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$26.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$21.59<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "66c7b647-f37e-460c-a7a2-4ae5c6ead106": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 30% off",
+            "button_text": "buy with 20% off",
             "button_link": "https:\/\/www.ugreen.com\/products\/lazy-arm-tablet-holder",
             "target_link": "_self",
             "fontf": "inherit",
@@ -2545,14 +2545,14 @@
         "d0ade983-2e50-45cd-8a7b-3d86d523d661": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$12.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$9.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$12.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$10.39<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "66c7b647-f37e-460c-a7a2-4ae5c6ead101": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 23% off",
+            "button_text": "buy with 20% off",
             "button_link": "https:\/\/www.ugreen.com\/products\/gravity-drive-car-mount",
             "target_link": "_self",
             "fontf": "inherit",
@@ -2637,14 +2637,14 @@
         "d0ade983-2e50-45cd-8a7b-3d86d523d662": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$9.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$7.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$13.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$9.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "66c7b647-f37e-460c-a7a2-4ae5c6ead102": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 20% off",
+            "button_text": "buy with 29 off",
             "button_link": "https:\/\/www.ugreen.com\/products\/adjustable-desktop-cell-phone-stand",
             "target_link": "_self",
             "fontf": "inherit",
@@ -2879,14 +2879,14 @@
         "24d5d4c3-72be-4424-b5fa-e5322f58b437": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$13.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$6.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$13.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$11.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "4efd2c16-3585-4a29-95a0-1720a946dea8": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 50% off",
+            "button_text": "buy with 14 off",
             "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-100w-usb-c-to-usb-c-cable-6ft?variant=39948871008318",
             "target_link": "_self",
             "fontf": "inherit",
@@ -2971,14 +2971,14 @@
         "7c2ae97c-e453-46f4-94bf-ddef49514f98": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$14.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$9.75<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$14.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$12.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "3ee47f8e-6b5f-4bcc-9000-3119504d1707": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 35% off",
+            "button_text": "buy with 13% off",
             "button_link": "https:\/\/www.ugreen.com\/products\/right-angel-lightning-to-usb-a-cable?variant=39915661819966",
             "target_link": "_self",
             "fontf": "inherit",
@@ -3063,14 +3063,14 @@
         "842be7f3-8559-4c16-b38c-83ba154ec794": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$24.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$20.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$24.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$19.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "d957525d-d8e1-465b-8270-5957fc65a5c2": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 16% off",
+            "button_text": "buy with 20% off",
             "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-usb-c-to-lightning-audio-adapter",
             "target_link": "_self",
             "fontf": "inherit",
@@ -3209,7 +3209,7 @@
         "c87586b1-5a8f-4649-a6fd-25e4d779eb91": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/10232.webp",
+            "image_child": "shopify:\/\/shop_images\/60759-631986_0d1ec44f-cc6c-43df-a6f0-fc12c2aa86dc.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -3226,7 +3226,7 @@
         "6ee18f78-8809-41cf-984a-590315d69a81": {
           "type": "custom_text",
           "settings": {
-            "text": "Ugreen USB C to USB C 100W Fast Cable 2 Pack (3FT\/6FT\/10FT)",
+            "text": "UGREEN USB C to Lightning Cable - MFi",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -3247,15 +3247,15 @@
         "608d9cdb-7f6c-463a-af82-5298e57d4261": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$16.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$15.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$13.59<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$11.19<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "b522eb7a-a6be-417e-8ce1-bb88b3264d11": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 6% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-usb-c-to-usb-c-cable-3ft-6ft-10ft",
+            "button_text": "buy with 18% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/usb-c-to-lightning-fast-charging-cable",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -3339,14 +3339,14 @@
         "608d9cdb-7f6c-463a-af82-5298e57d4262": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$16.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$14.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$16.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$13.59<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "b522eb7a-a6be-417e-8ce1-bb88b3264d12": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 12% off",
+            "button_text": "buy with 20% off",
             "button_link": "https:\/\/www.ugreen.com\/products\/8k-hdmi-2-1-cable?variant=39915659984958",
             "target_link": "_self",
             "fontf": "inherit",
@@ -3673,14 +3673,14 @@
         "3bf775ac-0ef1-4c95-9d91-c7717952b488": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$13.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$9.79<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$13.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$11.19<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "72af73c9-1fdf-499c-a2a9-d61badc0612f": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 30% off",
+            "button_text": "buy with 20% off",
             "button_link": "https:\/\/www.ugreen.com\/products\/2-in-1-usb-c-otg-card-reader",
             "target_link": "_self",
             "fontf": "inherit",
@@ -3857,14 +3857,14 @@
         "d0ade983-2e50-45cd-8a7b-3d86d523d660": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$14.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$12.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$14.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$10.49<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "66c7b647-f37e-460c-a7a2-4ae5c6ead106": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 13% off",
+            "button_text": "buy with 30% off",
             "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-3-in-1-usb-c-sd-card-reader",
             "target_link": "_self",
             "fontf": "inherit",
@@ -4186,14 +4186,14 @@
         "55d56443-89bd-409f-86a9-4a3c7e8b7644": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$299.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$249.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$299.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$209.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "8b978cfa-36fe-4428-ab4b-df49f3120f18": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 17% off",
+            "button_text": "buy with 30% off",
             "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-5-bay-usb-c-to-sata-hdd-ssd-raid-enclosure",
             "target_link": "_self",
             "fontf": "inherit",
@@ -4278,14 +4278,14 @@
         "3bf775ac-0ef1-4c95-9d91-c7717952b488": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$139.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$109.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$139.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$97.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "72af73c9-1fdf-499c-a2a9-d61badc0612f": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 21% off",
+            "button_text": "buy with 30% off",
             "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-2-bay-raid-enclosure",
             "target_link": "_self",
             "fontf": "inherit",
@@ -4554,14 +4554,14 @@
         "d0ade983-2e50-45cd-8a7b-3d86d523d661": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$29.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$27.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$29.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$21.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "66c7b647-f37e-460c-a7a2-4ae5c6ead101": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 7% off",
+            "button_text": "buy with 27% off",
             "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-m-2-nvme-sata-ssd-enclosure-adapter?variant=39915665063998",
             "target_link": "_self",
             "fontf": "inherit",
@@ -4888,14 +4888,14 @@
         "3bf775ac-0ef1-4c95-9d91-c7717952b488": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$36.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$18.5<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$36.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$25.89<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "72af73c9-1fdf-499c-a2a9-d61badc0612f": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 50% off",
+            "button_text": "buy with 30% off",
             "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-usb-3-0-4-port-switch",
             "target_link": "_self",
             "fontf": "inherit",
@@ -4942,7 +4942,7 @@
         "ed18c10d-fd60-402d-a3aa-ddf991762f14": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/80664_5a734c8c-86eb-491f-80b8-ad12b679c121.webp",
+            "image_child": "shopify:\/\/shop_images\/517Gp14aWFL._AC_SY879_f12bab03-5e6e-4740-bb44-3a62702cd992.webp",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -4959,7 +4959,7 @@
         "32b14ee7-7622-46bc-8752-3d7b90122f9d": {
           "type": "custom_text",
           "settings": {
-            "text": "UGREEN AirPlay 2 Receiver",
+            "text": "Ugreen USB 2.0 Switch, 2 In 4 Output USB KVM Switch",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -4980,15 +4980,15 @@
         "081e1cfa-1489-48c1-a12a-70156286b789": {
           "type": "html",
           "settings": {
-            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$91.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$45.99<\/p>\n\t\t<\/div>",
+            "html_content": "<div class=\"balck_friday_product_codebox\">\n\t\t\t<!--原价-->\n\t\t\t<p>$23.99<\/p>\n\t\t\t<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Black_Friday_Union.png\">\n\t\t\t<!--折扣价（没有折扣不填即可）-->\n\t\t\t<p>$16.99<\/p>\n\t\t<\/div>",
             "hidden_mobile": false
           }
         },
         "8d26892f-d6ad-44a0-8fd7-7ac823e5dd7b": {
           "type": "custom_button",
           "settings": {
-            "button_text": "buy with 50% off",
-            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-airplay-2-receiver",
+            "button_text": "buy with 29% off",
+            "button_link": "https:\/\/www.ugreen.com\/products\/ugreen-usb-2-0-switch-2-in-4-output-usb-kvm-switch",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
