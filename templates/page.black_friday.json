@@ -21,7 +21,7 @@
         "efc8dbf1-e866-4bd5-9b54-2465ba916d53": {
           "type": "custom_text",
           "settings": {
-            "text": "BLACK FRIDAY",
+            "text": "Cyber Monday",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#000000",
@@ -109,7 +109,7 @@
         "63af61ea-2b24-414a-ba41-c33c524e6040": {
           "type": "custom_text",
           "settings": {
-            "text": "BLACK FRIDAY",
+            "text": "Cyber Monday",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#000000",
