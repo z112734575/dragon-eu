@@ -349,7 +349,7 @@
     top: 2px;
     right: 18px;
 	}
-.christmas_products div:last-child{padding-bottom: 120px;}
+.christmas_products > div:last-child{padding-bottom: 120px;}
 @media (min-width:768px) {
 	.christmas_products div:nth-child(even) .for_home_products_box div:nth-child(1){
 		order: 1;
@@ -507,5 +507,5 @@
 	    right: 3px;
 	    line-height: 12px;
 	}
-  .christmas_products div:last-child{padding-bottom: 60px;}
+  .christmas_products > div:last-child{padding-bottom: 60px;}
 }
