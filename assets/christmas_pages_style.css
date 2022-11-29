@@ -5,7 +5,7 @@
 }
 
 .ug_christmas_banner img {
-	max-width: 100%;
+	width: 100%;
 }
 
 .ug_christmas_banner .ug_christmas_banner_mol {
@@ -133,7 +133,7 @@
 }
 
 .ug_christmas_offers .ug_christmas_offers_box .holiday_solution a img {
-	max-width: 100%;
+	width: 100%;
 	transition: all 0.5s;
 }
 
@@ -428,7 +428,6 @@
 	}
 	.discount_coupon .discount_coupon_text{
 		width: 100%;
-		max-width: 100%;
 	}
 	.discount_coupon .discount_coupon_code .discount_coupon_code_box{
 		padding: 5px;
@@ -465,7 +464,7 @@
 		padding: 0 5px;
 	}
 	.for_home_products .for_home_products_box .for_home_products_banner{
-		max-width: 100%;
+		width: 100%;
 		padding: 5px;
 	}
 	.for_home_products .for_home_products_box .for_home_products_banner img{
