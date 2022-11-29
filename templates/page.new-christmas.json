@@ -1,66 +1,45 @@
 {
   "sections": {
-    "heading": {
-      "type": "heading-template",
+    "319fa563-e958-41d7-a0b0-0a090f6339cb": {
+      "type": "christmas_banner",
       "settings": {
-        "use_specify_image": true,
-        "parallax": false,
-        "color": "#000000",
-        "overlay": 54,
-        "padding": 50,
-        "paddingmb": 50,
-        "mg_b": 50,
-        "mg_bmb": 50,
-        "content_align": "t4s-text-center",
-        "bg_pos": "center center",
-        "bg_repeat": "no-repeat",
-        "bg_size": "cover",
-        "use_cus_css": false,
-        "code_cus_css": ".SectionID {\nbackground-color:red\n}"
+        "mobile_image": "shopify:\/\/shop_images\/app.png",
+        "pc_image": "shopify:\/\/shop_images\/2_265b0d96-cfe8-4f85-a737-f625d63eb700.png",
+        "banner_title": "Merry X-Mas",
+        "banner_sub_title": "Christmas Present From Ugreen",
+        "button_link": "#",
+        "button_text": "Learn More >"
       }
     },
-    "main": {
-      "type": "main-page",
+    "0b0f2269-0924-4824-9a91-8ffcfc9fcd0a": {
+      "type": "christmas_products_list",
       "settings": {
-        "layout": "t4s-container-wrap",
-        "cl_bg": "",
-        "cl_bg_gradient": "",
-        "mg": "60px,,60px,",
-        "pd": "",
-        "mg_mb": ",,30px,",
-        "pd_mb": ""
-      }
-    },
-    "sidebar-page": {
-      "type": "sidebar-page",
-      "disabled": true,
-      "blocks": {
-        "f69681ed-b75e-42de-be58-fdf73b3b7e08": {
-          "type": "blog_cate",
-          "settings": {
-            "title": "Blog categories",
-            "cat_link_list": "",
-            "count": true
-          }
-        }
-      },
-      "block_order": [
-        "f69681ed-b75e-42de-be58-fdf73b3b7e08"
-      ],
-      "settings": {
-        "enable_drawer": false,
-        "space": 50,
-        "size": "medium",
-        "br_style": "none",
-        "brcolor": "#222222",
-        "sidebar_bdr": 5,
-        "sidebar_pd": 10
+        "products_title1": "For Home",
+        "products_title2": "For Work",
+        "products_title3": "For Travel",
+        "product_list1": [
+          "65w-4-port-3c1a-gan-pd-charger",
+          "ugreen-20w-charger-usb-c-to-lightning-cable"
+        ],
+        "product_list2": [
+          "7-in-1-multiport-adapter-with-4k-60hz",
+          "ugreen-36w-dual-charger-usb-c-3-0-fast-cable",
+          "ugreen-36w-dual-charger-usb-c-quick-cable",
+          "ugreen-usb-c-triple-display-docking-station"
+        ],
+        "product_list3": [
+          "ugreen-69w-usb-c-car-charger-usb-c-to-lightning-cable",
+          "usb-2-0-to-3-5mm-bluetooth-aux-adapter",
+          "hitune-t3-anc-wireless-earbuds"
+        ],
+        "products_list_img1": "shopify:\/\/shop_images\/8f1f6aa7a6cbb0cb8cbb89ad07e6b44a.png",
+        "products_list_img2": "shopify:\/\/shop_images\/2777f88db47ebcf37d4f723c56613a60.png",
+        "products_list_img3": "shopify:\/\/shop_images\/26a76a429c0f856c4c13abf5c55deb5d.png"
       }
     }
   },
   "order": [
-    "heading",
-    "main",
-    "sidebar-page"
+    "319fa563-e958-41d7-a0b0-0a090f6339cb",
+    "0b0f2269-0924-4824-9a91-8ffcfc9fcd0a"
   ]
 }
