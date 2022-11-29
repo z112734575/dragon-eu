@@ -548,7 +548,7 @@
           "top-bar-0"
         ],
         "settings": {
-          "show_topbar": true,
+          "show_topbar": false,
           "topbar_transparent": false,
           "height": 40,
           "fontsize": 12,
@@ -684,10 +684,9 @@
           },
           "01924df3-a82c-4cbe-9111-6f2932b314af": {
             "type": "drop",
-            "disabled": true,
             "settings": {
-              "title": "Cyber Monday",
-              "url": "shopify:\/\/pages\/black-friday",
+              "title": "X-Max",
+              "url": "shopify:\/\/pages\/new-christmas",
               "open_link": "_self",
               "menu": "",
               "icon": "",
