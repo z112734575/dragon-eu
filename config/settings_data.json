@@ -1682,6 +1682,7 @@
           },
           "c29a9b68-4239-4e8c-bdcc-d598dd95b6f4": {
             "type": "menu",
+            "disabled": true,
             "settings": {
               "title": "Cyber Monday",
               "url": "shopify:\/\/pages\/black-friday",
