@@ -3,12 +3,10 @@
     "319fa563-e958-41d7-a0b0-0a090f6339cb": {
       "type": "christmas_banner",
       "settings": {
-        "mobile_image": "shopify:\/\/shop_images\/app.png",
-        "pc_image": "shopify:\/\/shop_images\/2_265b0d96-cfe8-4f85-a737-f625d63eb700.png",
+        "mobile_image": "shopify:\/\/shop_images\/ae9f73bfab3f50429c6384850b57b666.png",
+        "pc_image": "shopify:\/\/shop_images\/pc_ebec5ea9-6e2d-4d47-abae-f41d74876555.png",
         "banner_title": "Merry X-Mas",
-        "banner_sub_title": "Christmas Present From Ugreen",
-        "button_link": "#",
-        "button_text": "Learn More >"
+        "banner_sub_title": "Christmas Present From Ugreen"
       }
     },
     "0b0f2269-0924-4824-9a91-8ffcfc9fcd0a": {
@@ -44,9 +42,9 @@
           "hitune-t3-anc-wireless-earbuds",
           "bluetooth-5-0-hitune-earbuds"
         ],
-        "products_list_img1": "shopify:\/\/shop_images\/8f1f6aa7a6cbb0cb8cbb89ad07e6b44a.png",
-        "products_list_img2": "shopify:\/\/shop_images\/2777f88db47ebcf37d4f723c56613a60.png",
-        "products_list_img3": "shopify:\/\/shop_images\/26a76a429c0f856c4c13abf5c55deb5d.png"
+        "products_list_img1": "shopify:\/\/shop_images\/8f1f6aa7a6cbb0cb8cbb89ad07e6b44a_7736eac2-4109-42d4-9900-86d8b6046371.png",
+        "products_list_img2": "shopify:\/\/shop_images\/2777f88db47ebcf37d4f723c56613a60_4a5d4292-95e7-456e-8786-731c63bac846.png",
+        "products_list_img3": "shopify:\/\/shop_images\/26a76a429c0f856c4c13abf5c55deb5d_54b5b2ad-5459-49cb-9b65-55674319c9bb.png"
       }
     }
   },
