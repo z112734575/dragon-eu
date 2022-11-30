@@ -427,8 +427,9 @@
 		width: 50%;
 	}
 	.discount_coupon .discount_coupon_text{
-		width: 100%;
-	}
+		max-width: 100%;
+      width:100%;
+    }
 	.discount_coupon .discount_coupon_code .discount_coupon_code_box{
 		padding: 5px;
 		border: none;
@@ -466,6 +467,7 @@
 	.for_home_products .for_home_products_box .for_home_products_banner{
 		width: 100%;
 		padding: 5px;
+      max-width:100%;
 	}
 	.for_home_products .for_home_products_box .for_home_products_banner img{
 		height: 200px;
