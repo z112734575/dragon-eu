@@ -1762,7 +1762,7 @@
           "type": "custom_button",
           "settings": {
             "button_text": "GET STARTED",
-            "button_link": "#",
+            "button_link": "https:\/\/www.shareasale.com\/shareasale.cfm?merchantID=88373",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
@@ -1825,7 +1825,7 @@
           "type": "custom_button",
           "settings": {
             "button_text": "GET STARTED",
-            "button_link": "#",
+            "button_link": "https:\/\/af.uppromote.com\/ugreenmall\/register",
             "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
