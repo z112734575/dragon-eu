@@ -2079,7 +2079,7 @@
         "89801ed8-f0f9-42cc-ab9d-697fe4158a32": {
           "type": "html",
           "settings": {
-            "html_content": "<a href=\"mailto:%20service@ugreen.com\" style=\"font-size: 16px;\nfont-weight: 600;\ncolor: #07C385;\nline-height: 19px;\">Email: support@ugreen.com.<\/a>",
+            "html_content": "<a href=\"mailto:service@ugreen.com\" style=\"font-size: 16px;\nfont-weight: 600;\ncolor: #07C385;\nline-height: 19px;\">Email: service@ugreen.com.<\/a>",
             "hidden_mobile": false
           }
         },
@@ -2144,7 +2144,7 @@
         "221778c8-5c1d-4609-8b7d-e75211d2a292": {
           "type": "html",
           "settings": {
-            "html_content": "<a href=\"mailto:%20service@ugreen.com\" style=\"font-size: 16px;\nfont-weight: 600;\ncolor: #07C385;\nline-height: 19px;\">support@ugreen.com.<\/a>",
+            "html_content": "<a href=\"mailto:service@ugreen.com\" style=\"font-size: 16px;\nfont-weight: 600;\ncolor: #07C385;\nline-height: 19px;\">service@ugreen.com.<\/a>",
             "hidden_mobile": false
           }
         }
