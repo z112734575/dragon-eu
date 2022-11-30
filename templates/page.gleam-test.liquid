@@ -1,17 +1,115 @@
-<script type="text/javascript" src="https://widget.gleamjs.io/e.js" async="true"></script>
-
 <style>
-  .full-main {
-    padding: 20px;
-    height: 100%;
-    width: 100%;
-/*     background: url(https://cdn.shopify.com/s/files/1/0573/0979/0291/files/banner-2.jpg?v=1665542693); */
-    background: linear-gradient(to right,#5f92e3, #d5ff79);
-  }
+    .gleam-main {
+        position: relative;
+        /*top: 0;*/
+        /*left: 0;*/
+        width: 100%;
+        min-height: 100vh;
+        background: #006354;
+        padding-top: 5.94vw;
+        padding-bottom: 5.94vw;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .gleam-bg {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+    }
+    .gleam-bg img {
+        width: 100%;
+        display: block;
+    }
+    .gleam-gift-pc {
+        position: absolute;
+        top: -1.35vw;
+        right: 0;
+        /*width: 26vw;*/
+        height: 100%;
+        transform: translateX(100%);
+    }
+    .gleam-gift-pc img {
+        max-height: 970px;
+        height: 100%;
+    }
+    .e-widget-wrapper {
+        width: 28.65vw;
+        max-width: inherit!important;
+        /*margin-left: 26vw !important;*/
+    }
+    iframe {
+        max-width: inherit !important;
+        background: rgba(255,255,255,.2) !important;
+    }
+    .e-widget-preloader {
+        box-shadow: none !important;
+        background: transparent !important;
+    }
+    .gleam-inner {
+        position: relative;
+    }
+    .pc_hide {
+        display: none;
+    }
+    .mobile_hide {
+        display: block;
+    }
+    /*平板尺寸*/
+    @media(min-width: 768px) and (max-width: 1023px) {
+        .mobile_hide {
+            display: none;
+        }
+        .pc_hide {
+            display: block;
+        }
+        .gleam-main {
+            padding: 60px 30px;
+            min-height: 100vh;
+        }
+        .e-widget-wrapper {
+            width: 100%;
+            margin: auto !important;
+        }
+    }
+    @media (max-width: 767px) {
+        .mobile_hide {
+            display: none;
+        }
+        .pc_hide {
+            display: block;
+        }
+        .gleam-main {
+            padding: 60px 30px;
+            min-height: 100vh;
+        }
+        .e-widget-wrapper {
+            width: 100%;
+            margin: auto !important;
+        }
+        .gleam-main {
+            flex-direction: column;
+        }
+    }
+
 </style>
 
-<div class="full-main">
-  <a class="e-widget no-button generic-loader" href="https://gleam.io/ZQ5lM/test-custom-code" rel="nofollow">Test Custom Code</a>
-<a class="e-widget no-button generic-loader" href="https://gleam.io/2ZzLM/instant-entry" rel="nofollow">Instant Entry</a>
-  {{ "now" | date: "%Y-%m-%d %H:%M:%S" }}
+<div class="gleam-main">
+    <div class="gleam-bg mobile_hide">
+        <img src="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/pc_bg.png?v=1669788924" alt="gleam-bg">
+    </div>
+    <div class="gleam-inner">
+        <a class="e-widget no-button generic-loader" href="https://gleam.io/07JZP/santa-ugreen-xmas-givaway-campaign"
+           rel="nofollow"></a>
+        <div class="gleam-gift-pc mobile_hide">
+            <img src="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/pc_gift.png?v=1669788924" alt="gift">
+        </div>
+    </div>
+    <div class="gleam-gift pc_hide">
+        <img src="https://cdn.shopifycdn.net/s/files/1/0257/5246/9566/files/bg_mb.png?v=1669747119" alt="">
+    </div>
 </div>
+<script type="text/javascript" src="https://widget.gleamjs.io/e.js" async="true"></script>
