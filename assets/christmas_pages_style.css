@@ -21,7 +21,6 @@
 .ug_christmas_banner .ug_christmas_banner_box h1 {
 	font-weight: 600;
 	font-size: 64px;
-	line-height: 60px;
 	color: #FFFFFF;
 }
 
@@ -358,6 +357,21 @@
 		order: 0;
 	}
 }
+@media (max-width:1024px) {
+  .ug_christmas_banner .ug_christmas_banner_box{
+    top: 20%;
+    left: 10%;
+  }
+  .ug_christmas_banner .ug_christmas_banner_box h1{
+        font-size: 48px;
+  }
+  .ug_christmas_banner .ug_christmas_banner_box p {
+    font-size: 16px;
+    margin:10px 0 30px 0
+  }
+}
+@media (max-width:768px) {}
+@media (max-width:768px) {}
 @media (max-width:768px) {
 	/*Christmas banner mol style*/
 	.ug_christmas_banner .ug_christmas_banner_pc {
