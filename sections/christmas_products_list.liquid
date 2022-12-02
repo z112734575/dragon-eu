@@ -85,7 +85,7 @@
                                   </p>
                               </div>
                           {% endif %}
-            {% assign discountbar = product.metafields.custom.discountbar.value %}
+                          {% assign discountbar = product.metafields.custom.discountbar.value %}
                           {% assign discount_sum = discountbar[0] %}
                           {% if discount_sum %}
                               <div class="product_sale">
@@ -123,6 +123,15 @@
                                   </p>
                               </div>
                           {% endif %}
+                           {% assign discountbar = product.metafields.custom.discountbar.value %}
+                          {% assign discount_sum = discountbar[0] %}
+                          {% if discount_sum %}
+                              <div class="product_sale">
+                                  <p>
+                                      {{ discount_sum }}%
+                                  </p>
+                              </div>
+                          {% endif %}
 					</a>
 				</div>
 			</div>
@@ -149,6 +158,15 @@
                               <div class="product_sale">
                                   <p>
                                       {{ compare_at_price | minus: price | times: 100 | divided_by: compare_at_price }}%
+                                  </p>
+                              </div>
+                          {% endif %}
+                          {% assign discountbar = product.metafields.custom.discountbar.value %}
+                          {% assign discount_sum = discountbar[0] %}
+                          {% if discount_sum %}
+                              <div class="product_sale">
+                                  <p>
+                                      {{ discount_sum }}%
                                   </p>
                               </div>
                           {% endif %}
