@@ -348,6 +348,21 @@
     top: 2px;
     right: 18px;
 	}
+.products_more{
+	width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;
+    text-align: right;
+    padding: 20px;
+}
+.products_more a{
+	color: #fff;
+	font-size: 18px;
+}
+.products_more a:hover{
+	color: #0c8;
+	font-weight: 600;
+}
 .christmas_products > div:last-child{padding-bottom: 120px;}
 @media (min-width:768px) {
 	.christmas_products div:nth-child(even) .for_home_products_box div:nth-child(1){
@@ -529,4 +544,5 @@
 	    line-height: 12px;
 	}
   .christmas_products > div:last-child{padding-bottom: 60px;}
+  .products_more{text-align: center;}
 }
