@@ -362,7 +362,6 @@
 }
 .products_more a:hover{
 	color: #0c8;
-	font-weight: 600;
 }
 .christmas_products > div:last-child{padding-bottom: 120px;}
 @media (min-width:768px) {
