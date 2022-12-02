@@ -85,6 +85,15 @@
                                   </p>
                               </div>
                           {% endif %}
+            {% assign discountbar = product.metafields.custom.discountbar.value %}
+                          {% assign discount_sum = discountbar[0] %}
+                          {% if discount_sum %}
+                              <div class="product_sale">
+                                  <p>
+                                      {{ discount_sum }}%
+                                  </p>
+                              </div>
+                          {% endif %}
 					</a>
 				</div>
 			</div>
