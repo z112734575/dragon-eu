@@ -358,6 +358,7 @@
 .products_more a{
 	color: #fff;
 	font-size: 18px;
+  transition: all 0.5s;
 }
 .products_more a:hover{
 	color: #0c8;
