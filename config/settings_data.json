@@ -370,7 +370,9 @@
           },
           "385c1474-1235-4a3d-b73c-9555b5f8dcfb": {
             "type": "image",
+            "disabled": true,
             "settings": {
+              "image_child": "shopify:\/\/shop_images\/1200px-Klarna_Payment_Badge.svg_21d7f3b0-c286-46a1-a537-b99a495b9d36.png",
               "link_img": "",
               "img_width": 0,
               "img_width_mb": 0,
@@ -380,9 +382,8 @@
           },
           "33eb929e-a001-4d96-82a0-5aab1aaabaea": {
             "type": "payments",
-            "disabled": true,
             "settings": {
-              "svg": "visa,paypal,maestro,american_express,discover",
+              "svg": "klarna",
               "height": 30,
               "hidden_mobile": false,
               "mgb": 20,
