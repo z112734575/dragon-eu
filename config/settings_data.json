@@ -383,8 +383,8 @@
           "33eb929e-a001-4d96-82a0-5aab1aaabaea": {
             "type": "payments",
             "settings": {
-              "svg": "klarna",
-              "height": 30,
+              "svg": "visa,paypal,maestro,american_express,discover,apple_pay,diners_club,jcb,shopify_pay,klarna",
+              "height": 24,
               "hidden_mobile": false,
               "mgb": 0,
               "mgb_mb": 0
