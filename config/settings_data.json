@@ -386,8 +386,8 @@
               "svg": "klarna",
               "height": 30,
               "hidden_mobile": false,
-              "mgb": 20,
-              "mgb_mb": 10
+              "mgb": 0,
+              "mgb_mb": 0
             }
           }
         },
