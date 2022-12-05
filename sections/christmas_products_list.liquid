@@ -74,25 +74,29 @@
 					<a href="{{ product.url }}">
 						<img src="{{ product.featured_media | img_url: "400x" }}">
 						<p class="product_title">{{ product.title  }}</p>
-						<p class="product_prie">{{ product.price | money }}{% if product.compare_at_price %}<span>{{ product.compare_at_price | money }}</span>{% endif %}</p>
+						
                           {% assign compare_at_price = product.compare_at_price %}
                           {% assign price = product.price %}
                           {% assign showDiscountBar = compare_at_price | minus: price %}
-                          {% if showDiscountBar > 0 %}
-                              <div class="product_sale">
-                                  <p>
-                                      {{ compare_at_price | minus: price | times: 100 | divided_by: compare_at_price }}%
-                                  </p>
-                              </div>
-                          {% endif %}
                           {% assign discountbar = product.metafields.custom.discountbar.value %}
                           {% assign discount_sum = discountbar[0] %}
+                          {% assign discount_sumM = 100 | minus: discount_sum %}
                           {% if discount_sum %}
                               <div class="product_sale">
                                   <p>
                                       {{ discount_sum }}%
                                   </p>
                               </div>
+                           <p class="product_prie">{{price|times: discount_sumM | divided_by:10000.0 | round: 2 }}<span>{{ product.price | money }}</span></p>
+                          {% elsif showDiscountBar > 1 %}
+                              <div class="product_sale">
+                                  <p>
+                                      {{ compare_at_price | minus: price | times: 100 | divided_by: compare_at_price }}%
+                                  </p>
+                              </div>
+                              <p class="product_prie">{{ product.compare_at_price | money }}<span>{{ product.price | money }}</span></p>
+                          {% else %}
+                            <p class="product_prie">{{ product.price | money }}</p>
                           {% endif %}
 					</a>
 				</div>
@@ -115,25 +119,29 @@
 					<a href="{{ product.url }}">
 						<img src="{{ product.featured_media | img_url: "400x" }}">
 						<p class="product_title">{{ product.title  }}</p>
-						<p class="product_prie">{{ product.price | money }}{% if product.compare_at_price %}<span>{{ product.compare_at_price | money }}</span>{% endif %}</p>
-						{% assign compare_at_price = product.compare_at_price %}
+						
+                          {% assign compare_at_price = product.compare_at_price %}
                           {% assign price = product.price %}
                           {% assign showDiscountBar = compare_at_price | minus: price %}
-                          {% if showDiscountBar > 0 %}
-                              <div class="product_sale">
-                                  <p>
-                                      {{ compare_at_price | minus: price | times: 100 | divided_by: compare_at_price }}%
-                                  </p>
-                              </div>
-                          {% endif %}
-                           {% assign discountbar = product.metafields.custom.discountbar.value %}
+                          {% assign discountbar = product.metafields.custom.discountbar.value %}
                           {% assign discount_sum = discountbar[0] %}
+                          {% assign discount_sumM = 100 | minus: discount_sum %}
                           {% if discount_sum %}
                               <div class="product_sale">
                                   <p>
                                       {{ discount_sum }}%
                                   </p>
                               </div>
+                           <p class="product_prie">{{price|times: discount_sumM | divided_by:10000.0 | round: 2 }}<span>{{ product.price | money }}</span></p>
+                          {% elsif showDiscountBar > 1 %}
+                              <div class="product_sale">
+                                  <p>
+                                      {{ compare_at_price | minus: price | times: 100 | divided_by: compare_at_price }}%
+                                  </p>
+                              </div>
+                              <p class="product_prie">{{ product.compare_at_price | money }}<span>{{ product.price | money }}</span></p>
+                          {% else %}
+                            <p class="product_prie">{{ product.price | money }}</p>
                           {% endif %}
 					</a>
 				</div>
@@ -156,25 +164,29 @@
 					<a href="{{ product.url }}">
 						<img src="{{ product.featured_media | img_url: "400x" }}">
 						<p class="product_title">{{ product.title  }}</p>
-						<p class="product_prie">{{ product.price | money }}{% if product.compare_at_price %}<span>{{ product.compare_at_price | money }}</span>{% endif %}</p>
-						{% assign compare_at_price = product.compare_at_price %}
+						
+                          {% assign compare_at_price = product.compare_at_price %}
                           {% assign price = product.price %}
                           {% assign showDiscountBar = compare_at_price | minus: price %}
-                          {% if showDiscountBar > 0 %}
-                              <div class="product_sale">
-                                  <p>
-                                      {{ compare_at_price | minus: price | times: 100 | divided_by: compare_at_price }}%
-                                  </p>
-                              </div>
-                          {% endif %}
                           {% assign discountbar = product.metafields.custom.discountbar.value %}
                           {% assign discount_sum = discountbar[0] %}
+                          {% assign discount_sumM = 100 | minus: discount_sum %}
                           {% if discount_sum %}
                               <div class="product_sale">
                                   <p>
                                       {{ discount_sum }}%
                                   </p>
                               </div>
+                           <p class="product_prie">{{price|times: discount_sumM | divided_by:10000.0 | round: 2 }}<span>{{ product.price | money }}</span></p>
+                          {% elsif showDiscountBar > 1 %}
+                              <div class="product_sale">
+                                  <p>
+                                      {{ compare_at_price | minus: price | times: 100 | divided_by: compare_at_price }}%
+                                  </p>
+                              </div>
+                              <p class="product_prie">{{ product.compare_at_price | money }}<span>{{ product.price | money }}</span></p>
+                          {% else %}
+                            <p class="product_prie">{{ product.price | money }}</p>
                           {% endif %}
 					</a>
 				</div>
