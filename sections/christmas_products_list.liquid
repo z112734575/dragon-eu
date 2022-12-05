@@ -139,7 +139,7 @@
                                       {{ compare_at_price | minus: price | times: 100 | divided_by: compare_at_price }}%
                                   </p>
                               </div>
-                              <p class="product_prie">{{ product.compare_at_price | money }}<span>{{ product.price | money }}</span></p>
+                              <p class="product_prie">{{ product.price | money }}<span>{{ product.compare_at_price | money }}</span></p>
                           {% else %}
                             <p class="product_prie">{{ product.price | money }}</p>
                           {% endif %}
