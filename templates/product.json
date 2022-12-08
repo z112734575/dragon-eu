@@ -162,10 +162,10 @@
             "al": "start",
             "mess": "Pay with Ease",
             "size": 14,
-            "source": "1",
-            "wimg": 70,
-            "svg": "visa,amazon_payments,american_express,apple_pay,diners_club,discover,jcb,master,shopify_pay,paypal",
-            "height": 44
+            "source": "2",
+            "wimg": 65,
+            "svg": "visa,paypal,maestro,american_express,discover,apple_pay,diners_club,jcb,shopify_pay,klarna",
+            "height": 50
           }
         },
         "trust_delivery": {
