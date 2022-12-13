@@ -113,7 +113,7 @@
           "b3c6ceca-2d54-4a14-b482-bb86cbf25f08": {
             "type": "copyR",
             "settings": {
-              "text": "Copyright © 2022 HONG KONG UGREEN LIMITED",
+              "text": "Copyright © 2023 HONG KONG UGREEN LIMITED",
               "mgb": 0,
               "mgb_mb": 0
             }
@@ -140,9 +140,9 @@
           "47f5eb4c-1063-495d-bfc4-a54c62d219aa"
         ],
         "settings": {
-          "border_top": false,
+          "border_top": true,
           "border_pos": "in",
-          "space_h_item": "30",
+          "space_h_item": "0",
           "space_v_item": "0",
           "space_h_item_mb": "0",
           "space_v_item_mb": "0",
@@ -159,12 +159,12 @@
           "text_cl": "#878787",
           "link_cl": "#878787",
           "link_hover_cl": "#56cfe1",
-          "border_cl": "#e6e6e6",
+          "border_cl": "#727273",
           "layout": "t4s-container-wrap",
-          "cl_bg": "",
+          "cl_bg": "#000000",
           "cl_bg_gradient": "",
           "mg": "",
-          "pd": "20px,,5px,",
+          "pd": "20px,,72px,",
           "mg_tb": "",
           "pd_tb": "",
           "mg_mb": "",
@@ -210,6 +210,39 @@
               "hidden_mobile": false
             }
           },
+          "footer-4": {
+            "type": "bl_col",
+            "disabled": true,
+            "settings": {
+              "col_heading": "Categories",
+              "menu": "footer",
+              "menu_style": "1",
+              "col_dk": "3",
+              "col_tb": "6",
+              "col_mb": "12",
+              "content_align": "t4s-text-md-start",
+              "padding_inner": "5px,0,0,0",
+              "col_heading_mobile": "",
+              "content_align_mb": "t4s-text-start",
+              "padding_inner_mb": ""
+            }
+          },
+          "8898f2a5-cefa-4323-b799-3606db2f2b69": {
+            "type": "bl_col",
+            "settings": {
+              "col_heading": "Products",
+              "menu": "footer-products",
+              "menu_style": "1",
+              "col_dk": "auto",
+              "col_tb": "6",
+              "col_mb": "12",
+              "content_align": "t4s-text-md-start",
+              "padding_inner": "",
+              "col_heading_mobile": "",
+              "content_align_mb": "t4s-text-start",
+              "padding_inner_mb": ""
+            }
+          },
           "footer-3": {
             "type": "cus_socials",
             "disabled": true,
@@ -229,30 +262,13 @@
               "mgb": 0
             }
           },
-          "footer-4": {
-            "type": "bl_col",
-            "disabled": true,
-            "settings": {
-              "col_heading": "Categories",
-              "menu": "footer",
-              "menu_style": "1",
-              "col_dk": "3",
-              "col_tb": "6",
-              "col_mb": "12",
-              "content_align": "t4s-text-md-start",
-              "padding_inner": "5px,0,0,0",
-              "col_heading_mobile": "",
-              "content_align_mb": "t4s-text-start",
-              "padding_inner_mb": ""
-            }
-          },
           "16cc28da-fdbf-4890-88c0-e9da1c801c51": {
             "type": "bl_col",
             "settings": {
-              "col_heading": "ABOUT",
+              "col_heading": "About",
               "menu": "about",
               "menu_style": "1",
-              "col_dk": "15",
+              "col_dk": "auto",
               "col_tb": "6",
               "col_mb": "12",
               "content_align": "t4s-text-md-start",
@@ -265,10 +281,10 @@
           "footer-8": {
             "type": "bl_col",
             "settings": {
-              "col_heading": "TO OUR CLIENTS",
+              "col_heading": "To Our Clients",
               "menu": "clients",
               "menu_style": "1",
-              "col_dk": "15",
+              "col_dk": "auto",
               "col_tb": "6",
               "col_mb": "12",
               "content_align": "t4s-text-md-start",
@@ -281,10 +297,10 @@
           "footer-6": {
             "type": "bl_col",
             "settings": {
-              "col_heading": "SERVICE",
+              "col_heading": "Service",
               "menu": "service",
               "menu_style": "1",
-              "col_dk": "15",
+              "col_dk": "auto",
               "col_tb": "6",
               "col_mb": "12",
               "content_align": "t4s-text-md-start",
@@ -313,6 +329,7 @@
           },
           "footer-10": {
             "type": "bl_col",
+            "disabled": true,
             "settings": {
               "col_heading": "BE THE FIRST TO KNOW",
               "menu": "",
@@ -329,6 +346,7 @@
           },
           "footer-11": {
             "type": "custom_text",
+            "disabled": true,
             "settings": {
               "text": "Subscribe to our newsletter and get 10% off your first purchase",
               "remove_br_tag": false,
@@ -350,6 +368,7 @@
           },
           "footer-12": {
             "type": "newsletter",
+            "disabled": true,
             "settings": {
               "form_width": 0,
               "form_width_mb": 0,
@@ -382,6 +401,7 @@
           },
           "33eb929e-a001-4d96-82a0-5aab1aaabaea": {
             "type": "payments",
+            "disabled": true,
             "settings": {
               "svg": "visa,paypal,maestro,american_express,discover,apple_pay,diners_club,jcb,shopify_pay,klarna",
               "height": 24,
@@ -389,14 +409,38 @@
               "mgb": 0,
               "mgb_mb": 0
             }
+          },
+          "f2f882a2-6364-4a10-a61b-6f380ad4b3ba": {
+            "type": "bl_col",
+            "settings": {
+              "col_heading": "Select Your Region",
+              "menu": "",
+              "menu_style": "1",
+              "col_dk": "auto",
+              "col_tb": "6",
+              "col_mb": "12",
+              "content_align": "t4s-text-md-start",
+              "padding_inner": "",
+              "col_heading_mobile": "",
+              "content_align_mb": "t4s-text-start",
+              "padding_inner_mb": ""
+            }
+          },
+          "93ba4c5d-9171-4932-855c-b29598b3692d": {
+            "type": "html",
+            "settings": {
+              "html_content": "<style>\n    .earth-icon {\n        width: 1.5em;\n        height: 1.5em;\n        vertical-align: -0.15em;\n        fill: currentColor;\n        overflow: hidden;\n    }\n    .ug-current-country {\n        cursor: pointer;\n        color: inherit;\n        font-size: inherit;\n        display: flex;\n        align-items: center;\n    }\n    .ug-current-country:hover {\n        color: white;\n    }\n    .ug-current-country-text {\n        margin-left: 8px;\n    }\n    .ug-select-country-dialog {\n        display: none;\n        position: fixed;\n        top: 0;\n        left: 0;\n        width: 100%;\n        height: 100%;\n        background-color: rgba(0, 0, 0, 0.3);\n        z-index: 1000;\n    }\n    .ug-select-country-dialog__main {\n        background: white;\n        border-radius: 8px;\n        max-width: 840px;\n        margin: 5% auto 0;\n    }\n    .ug-select-country-dialog__header {\n        padding: 20px;\n        display: flex;\n        justify-content: space-between;\n        border-bottom: 1px solid #e6e6e6;\n        font-size: 20px;\n        color: #333333;\n    }\n    .ug-select-country-dialog__body {\n        padding: 20px;\n        min-height: 150px;\n    }\n    .ug-select-country-dialog__body__list {\n        display: flex;\n        justify-content: space-between;\n        flex-wrap: wrap;\n    }\n    .ug-select-country-dialog__body__list__item {\n        width: 32.5%;\n        cursor: pointer;\n    }\n    .ug-select-country-dialog__main .ug-select-country-dialog__body .ug-select-country-dialog__body__list__item a {\n        width: 100%;\n        height: 48px;\n        margin-bottom: 8px;\n        color: #333333;\n        border: none;\n        padding: 0 20px;\n        font-weight: 500;\n        font-size: 16px;\n        border-radius: 5px;\n        text-align: center;\n        background: #f4f4f4;\n        display: flex;\n        align-items: center;\n        text-decoration: none;\n    }\n    .ug-select-country-dialog__body .ug-select-country-dialog__body__list .ug-select-country-dialog__body__list__item a:hover {\n        color: black;\n    }\n    .ug-select-country-dialog__body__list__item__link__name {\n        width: 100%;\n        display: flex;\n        align-items: center;\n        justify-content: space-between;\n        font-size: 16px;\n    }\n    .ug-select-country-dialog__body__list__item__link__name .language {\n        color: #cccccc;\n    }\n    @media screen and (max-width: 768px) {\n        .ug-select-country-dialog__body__list__item {\n            width: 100%;\n        }\n    }\n<\/style>\n<div id=\"ug-current-country\" class=\"ug-current-country\">\n    <svg class=\"earth-icon\" aria-hidden=\"true\">\n        <use xlink:href=\"#icon-Earth\"><\/use>\n    <\/svg>\n    <div class=\"ug-current-country-text\">United States \/ English<\/div>\n<\/div>\n<div class=\"ug-select-country-dialog\">\n    <div class=\"ug-select-country-dialog__main\">\n        <div class=\"ug-select-country-dialog__header\">\n            <div class=\"ug-select-country-dialog__header__title\">Select Your Country\/Region<\/div>\n            <div class=\"ug-select-country-dialog__header__close\">\n                <a href=\"javascript:void(0)\" class=\"ug-select-country-dialog__header__close__link\">\n                    <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"24\" height=\"24\" viewbox=\"0 0 24 24\">\n                        <path d=\"M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z\"><\/path>\n                        <path d=\"M0 0h24v24H0z\" fill=\"none\"><\/path>\n                    <\/svg>\n                <\/a>\n            <\/div>\n        <\/div>\n        <div class=\"ug-select-country-dialog__body\">\n            <ul class=\"ug-select-country-dialog__body__list\">\n                <li class=\"ug-select-country-dialog__body__list__item\">\n                    <a href=\"https:\/\/www.ugreen.com?SkipCozyRedirect=yes\" class=\"ug-select-country-dialog__body__list__item__link\">\n                        <div class=\"ug-select-country-dialog__body__list__item__link__name\">\n                            <span>United States<\/span>\n                            <span class=\"language\">English<\/span>\n                        <\/div>\n\n                    <\/a>\n                <\/li>\n                <li class=\"ug-select-country-dialog__body__list__item\">\n                    <a href=\"https:\/\/eu.ugreen.com?SkipCozyRedirect=yes\" class=\"ug-select-country-dialog__body__list__item__link\">\n                        <div class=\"ug-select-country-dialog__body__list__item__link__name\">\n                            <span>Europe<\/span>\n                            <span class=\"language\">English<\/span>\n                        <\/div>\n                    <\/a>\n                <\/li>\n            <\/ul>\n        <\/div>\n    <\/div>\n<\/div>\n<script src=\"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.11.1\/jquery.min.js\"><\/script>\n<script>\n    $(function () {\n        const COUNTRY = {\n            eu: 'Europe \/ English',\n            www: 'United States \/ English'\n        }\n        const initCountry = () => {\n            const hostname = window.location.hostname\n            const country = hostname.split('.')[0]\n            const currentCountry = COUNTRY[country] || 'United States \/ English'\n            $('.ug-current-country-text').text(currentCountry)\n        }\n        const listen = () => {\n            $('#ug-current-country').on('click', function () {\n                $('.ug-select-country-dialog').show()\n            })\n            $('.ug-select-country-dialog__header__close__link').on('click', function () {\n                $('.ug-select-country-dialog').hide()\n            })\n        }\n        initCountry()\n        listen()\n    })\n<\/script>",
+              "hidden_mobile": false
+            }
           }
         },
         "block_order": [
           "footer-0",
           "de84a111-3ed0-40a2-b86a-1e81488e9bff",
           "footer-2",
-          "footer-3",
           "footer-4",
+          "8898f2a5-cefa-4323-b799-3606db2f2b69",
+          "footer-3",
           "16cc28da-fdbf-4890-88c0-e9da1c801c51",
           "footer-8",
           "footer-6",
@@ -405,7 +449,9 @@
           "footer-11",
           "footer-12",
           "385c1474-1235-4a3d-b73c-9555b5f8dcfb",
-          "33eb929e-a001-4d96-82a0-5aab1aaabaea"
+          "33eb929e-a001-4d96-82a0-5aab1aaabaea",
+          "f2f882a2-6364-4a10-a61b-6f380ad4b3ba",
+          "93ba4c5d-9171-4932-855c-b29598b3692d"
         ],
         "settings": {
           "sticky": false,
@@ -421,24 +467,24 @@
           "heading_lh": 22,
           "heading_fw": 500,
           "heading_ls": 0,
-          "mgb": 30,
+          "mgb": 12,
           "mgb_mb": 20,
           "text_fs": 14,
           "text_fw": 400,
-          "heading_cl": "#222222",
+          "heading_cl": "#ffffff",
           "text_cl": "#878787",
-          "link_cl": "#878787",
-          "link_hover_cl": "#56cfe1",
-          "border_cl": "#e6e6e6",
+          "link_cl": "#a4a4a6",
+          "link_hover_cl": "#ffffff",
+          "border_cl": "#000000",
           "layout": "t4s-container-wrap",
-          "cl_bg": "#f6f6f8",
+          "cl_bg": "#000000",
           "cl_bg_gradient": "",
           "mg": "",
-          "pd": "75px,,75px,",
+          "pd": "75px,,95px,",
           "mg_tb": "",
           "pd_tb": "",
           "mg_mb": "",
-          "pd_mb": "45px,,45px,"
+          "pd_mb": "45px,,92px,"
         }
       },
       "announcement-bar": {
@@ -704,7 +750,7 @@
           "3944a4f5-3618-4f4b-9d13-238ddb1b72f2": {
             "type": "mega",
             "settings": {
-              "title": "PRODUCTS",
+              "title": "Products",
               "url": "#",
               "open_link": "_self",
               "icon": "",
@@ -783,7 +829,7 @@
           "16e2ef48-b04b-46f0-bf5f-d12823645624": {
             "type": "drop",
             "settings": {
-              "title": "CHARGERS",
+              "title": "Chargers",
               "url": "#",
               "open_link": "_self",
               "menu": "chargers",
@@ -800,7 +846,7 @@
           "6141bf58-9316-4ce8-bd6d-16b03ed3fc8c": {
             "type": "drop",
             "settings": {
-              "title": "HUB & ADAPTER",
+              "title": "Hub & Adapter",
               "url": "#",
               "open_link": "_self",
               "menu": "hub-adapter",
@@ -817,7 +863,7 @@
           "16e48cac-0fd2-4f57-b570-7d74c3092cdc": {
             "type": "drop",
             "settings": {
-              "title": "SUPPORTS",
+              "title": "Supports",
               "url": "#",
               "open_link": "_self",
               "menu": "to-our-clients",
@@ -886,16 +932,16 @@
           "cl_hc": "#ffffff",
           "sticky_header": false,
           "scroll_header": false,
-          "bgnavst": "#131414",
+          "bgnavst": "#ffffff",
           "opnavst": 100,
-          "clnavst": "#ffffff",
-          "clnavst_hover": "#8e8e8e",
-          "transparent_header": false,
-          "space_transparent_header": false,
+          "clnavst": "#000000",
+          "clnavst_hover": "#000000",
+          "transparent_header": true,
+          "space_transparent_header": true,
           "bgnavtr": "#000000",
-          "opnavtr": 40,
+          "opnavtr": 0,
           "clnavtr": "#ffffff",
-          "clnavtr_hover": "#56cfe1",
+          "clnavtr_hover": "#ffffff",
           "fm_nav": "1",
           "fs_nav": 14,
           "fw_nav": 400,
@@ -1559,7 +1605,7 @@
           "224acbf9-e273-470e-aeb8-ce1cab7498c4": {
             "type": "html",
             "settings": {
-              "html": "<div class=\"ug-mega\">\n    <div class=\"ug-mega-item\">\n        <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/40737_16348ac7-42b4-4471-9e0b-7996fe48b370.png?v=1658728430\">\n        <div class=\"ug-mega-menu\">\n            <a href=\"https:\/\/www.ugreen.com\/collections\/charger\" class=\"ug-mega-main\">CHARGERS<\/a>\n            <a href=\"https:\/\/www.ugreen.com\/collections\/gan-charger\" class=\"ug-mega-sub\">GaN Chargers<\/a>\n            <a href=\"https:\/\/www.ugreen.com\/collections\/power-strip\" class=\"ug-mega-sub\">Power Strips<\/a>\n            <a href=\"https:\/\/www.ugreen.com\/collections\/fast-chargers\" class=\"ug-mega-sub\">PD Fast Charger<\/a>\n            <a href=\"https:\/\/www.ugreen.com\/collections\/car-charger\" class=\"ug-mega-sub\">Car Chargers<\/a>\n            <a href=\"https:\/\/www.ugreen.com\/collections\/wireless-charger\" class=\"ug-mega-sub\">Wireless Chargers<\/a>\n        <\/div>\n    <\/div>\n    <div class=\"ug-mega-item\">\n        <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/60761_913b1274-b20b-49a7-a54d-19e7c3031329.png?v=1658728431\">\n        <div class=\"ug-mega-menu\">\n            <a href=\"https:\/\/www.ugreen.com\/collections\/cable\" class=\"ug-mega-main\">CABLES<\/a>\n            <a href=\"https:\/\/www.ugreen.com\/collections\/usb-c-cable\" class=\"ug-mega-sub\">USB C to USB C Cables<\/a>\n            <a href=\"https:\/\/www.ugreen.com\/collections\/usb-a-to-usb-c-cables\" class=\"ug-mega-sub\">USB A to USB C Cables<\/a>\n            <a href=\"https:\/\/www.ugreen.com\/collections\/lightning-cables\" class=\"ug-mega-sub\">Lightning Cables(For IPHONE)<\/a>\n            <a href=\"https:\/\/www.ugreen.com\/collections\/pc-data-cables\" class=\"ug-mega-sub\">PC Data Cables<\/a>\n            <a href=\"https:\/\/www.ugreen.com\/collections\/thunderbolt-cables\" class=\"ug-mega-sub\">Thunderbolt Cables<\/a>\n            <a href=\"https:\/\/www.ugreen.com\/collections\/audio-cables\" class=\"ug-mega-sub\">Audio Cables<\/a>\n            <a href=\"https:\/\/www.ugreen.com\/collections\/audio-video-converter\" class=\"ug-mega-sub\">Video Cables<\/a>\n        <\/div>\n    <\/div>\n    <div class=\"ug-mega-item\">\n        <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/60600_ac1fc0d2-8707-4ec6-bb81-dae8ce9f468e.png?v=1658728430\">\n        <div class=\"ug-mega-menu\">\n            <a href=\"https:\/\/www.ugreen.com\/collections\/hubs-and-adapters\" class=\"ug-mega-main\">Hubs &amp; Adapters<\/a>\n            <a href=\"https:\/\/www.ugreen.com\/collections\/usb-hub\" class=\"ug-mega-sub\">Hubs<\/a>\n            <a href=\"https:\/\/www.ugreen.com\/collections\/docking-station\" class=\"ug-mega-sub\">Docking Station<\/a>\n            <a href=\"https:\/\/www.ugreen.com\/collections\/hard-drive-enclosure\" class=\"ug-mega-sub\">Hard Drive Enclosures<\/a>\n            <a href=\"https:\/\/www.ugreen.com\/collections\/adapter\" class=\"ug-mega-sub\">Ethernet Adapters<\/a>\n            <a href=\"https:\/\/www.ugreen.com\/collections\/usb-wifi-adapter\" class=\"ug-mega-sub\">USB Wifi Adapter<\/a>\n            <a href=\"https:\/\/www.ugreen.com\/collections\/ethernet-cables\" class=\"ug-mega-sub\">Ethernet Cables<\/a>\n            <a href=\"https:\/\/www.ugreen.com\/collections\/usb-card-reader\" class=\"ug-mega-sub\">Card Readers<\/a>\n            <a href=\"https:\/\/www.ugreen.com\/collections\/hdmi-switch\" class=\"ug-mega-sub\">USB &amp; HDMI Switch<\/a>\n        <\/div>\n    <\/div>\n    <div class=\"ug-mega-item ug-mega-item-with-img\">\n        <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/40393_8fd026c1-bcbb-487c-b86c-e06ba61cbf88.png?v=1658728431\">\n        <div class=\"ug-mega-menu\">\n            <a href=\"https:\/\/www.ugreen.com\/collections\/holder-protectors\" class=\"ug-mega-main\">STANDS &amp;\n                PROTECTORS\n            <\/a>\n            <a href=\"https:\/\/www.ugreen.com\/collections\/phone-stand\" class=\"ug-mega-sub\">Phone Stands<\/a>\n            <a href=\"https:\/\/www.ugreen.com\/collections\/tablet-stands\" class=\"ug-mega-sub\">Tablet Stands<\/a>\n            <a href=\"https:\/\/www.ugreen.com\/collections\/car-phone-stand\" class=\"ug-mega-sub\">Car Phone Holders\n            <\/a>\n        <\/div>\n    <\/div>\n    <div class=\"ug-mega-item\">\n        <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/71ndGpBIrjL._AC_SY679_256x256.jpg\">\n        <div class=\"ug-mega-menu\">\n            <a href=\"https:\/\/www.ugreen.com\/collections\/power-bank\" class=\"ug-mega-main\">Power Banks\n            <\/a>\n        <\/div>\n    <\/div>\n    <div class=\"ug-mega-item\">\n        <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/90242_26750508-bb5b-4663-a00f-cbbf38625c8d.png?v=1658728430\">\n        <div class=\"ug-mega-menu\">\n            <a href=\"https:\/\/www.ugreen.com\/collections\/earphones\" class=\"ug-mega-main\">EARBUDS\n            <\/a>\n        <\/div>\n    <\/div>\n    <div class=\"ug-mega-item\">\n        <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/929BECCF-6405-4439-B1E2-9F03326BDC7C.png?v=1672108934\">\n        <div class=\"ug-mega-menu\">\n            <a href=\"https:\/\/www.ugreen.com\/collections\/bluetooth-adapter\" class=\"ug-mega-main\">Bluetooth Adapters\n            <\/a>\n        <\/div>\n    <\/div>\n    <!--<div class=\"ug-mega-item\">\n      <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/90505.png?v=1658728430\">\n      <div class=\"ug-mega-menu\">\n        <a href=\"https:\/\/www.ugreen.com\/collections\/mouse-keyboard\" class=\"ug-mega-main\">MOUSE &amp;<br>\n          KEYBOARD<\/a>\n      <\/div>\n    <\/div>-->\n    <!--<div class=\"ug-mega-item ug-mega-item-ads\" style=\"width: 100%;max-width: 620px;\">\n      <a href=\"https:\/\/www.ugreen.com\/pages\/nexode-series\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/1026_620_132.jpg?v=1666859400\" style=\"width: 100%;height: auto;\"><\/a>\n    <\/div>-->\n<\/div>",
+              "html": "<script type=\"module\" crossorigin=\"\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/index-9d5d80af.js?v=1673691668\"><\/script>\n    <link rel=\"stylesheet\" href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/index-f4a45fa6.css?v=1673691668\">\n<div id=\"ug-mega-menu-app\"><\/div>",
               "page": "",
               "col": "12"
             }
@@ -1697,7 +1743,7 @@
           "cecb3bc8-d54f-4ec7-a819-424e63c5ae58": {
             "type": "menu",
             "settings": {
-              "title": "PRODUCTS",
+              "title": "Products",
               "url": "",
               "open_link": "_self",
               "menu": "m-product",
@@ -1747,7 +1793,7 @@
           "d94a87ae-5e56-4f05-8ad5-a8f8718ef8bf": {
             "type": "menu",
             "settings": {
-              "title": "CHARGERS",
+              "title": "Chargers",
               "url": "shopify:\/\/collections\/charger",
               "open_link": "_self",
               "menu": "chargers",
@@ -1759,7 +1805,7 @@
           "a0d1607c-521f-49bd-8ed4-1c384cca180e": {
             "type": "menu",
             "settings": {
-              "title": "HUB & ADAPTER",
+              "title": "Hub & Adapters",
               "url": "shopify:\/\/collections\/hubs-and-adapters",
               "open_link": "_self",
               "menu": "hub-adapter",
@@ -1771,7 +1817,7 @@
           "8d7adc9a-6e6f-4c96-849e-005240cb0084": {
             "type": "menu",
             "settings": {
-              "title": "STANDS & PROTECTORS",
+              "title": "Stands & Protectors",
               "url": "shopify:\/\/collections\/holder-protectors",
               "open_link": "_self",
               "menu": "stands-protectors",

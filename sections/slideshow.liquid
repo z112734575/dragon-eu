@@ -13,9 +13,9 @@
     assign use_custom_h = se_stts.use_custom_h
 
     assign index = 1
-    assign arr_blocks_img = se_blocks | where: "type", 'image_parent' 
+    assign arr_blocks_img = se_blocks | where: "type", 'image_parent'
     assign slide_eff = se_stts.eff
-    if stt_layout == 't4s-container-wrap' 
+    if stt_layout == 't4s-container-wrap'
         assign html_layout = '<div class="t4s-container">__</div>' | split:'__'
     else
         assign html_layout = '__' | split:'__'
@@ -27,9 +27,9 @@
     elsif se_height == 't4s_ratioadapt_f'
         assign attr_img = ''
         assign SetBL = false
-    else 
+    else
         assign attr_img = 'data-'
-    endif 
+    endif
     if se_stts.btn_owl == "outline"
         assign arrow_icon = 1
     else
@@ -43,7 +43,7 @@
     assign t4s_se_class = 't4s_nt_se_' |append:sid
     if se_stts.use_cus_css and se_stts.code_cus_css != blank
         render 'se_cus_css',code_cus_css:se_stts.code_cus_css,t4s_se_class:t4s_se_class
-    endif 
+    endif
 -%}
 {%- capture data_flickityt4s -%}
 {
@@ -56,36 +56,36 @@
 {%- if se_height != "t4s_ratio_fh" -%}
     {%- capture append_style -%}--aspect-ratio-cusdt : {{se_stts.height_dk}}px;--aspect-ratio-custb : {{se_stts.height_tb}}px;--aspect-ratio-cusmb :{{se_stts.height_mb}}px;{%- endcapture -%}
 {%- endif %}
-<div class="t4s-section-inner {{t4s_se_class}} t4s_nt_se_{{sid}}" {% render 'section_style',se_stts:se_stts,append_style:append_style -%}>       
-    {{-html_layout[0]-}}    
+<div class="t4s-section-inner {{t4s_se_class}} t4s_nt_se_{{sid}}" {% render 'section_style',se_stts:se_stts,append_style:append_style -%}>
+    {{-html_layout[0]-}}
     <div class="t4s-slideshow t4s-row t4s-row-cols-1 t4s-gx-0 t4s-flicky-slider t4s_position_8 t4s_cover {{se_height}} t4s-slide-eff-{{slide_eff}} t4scuspx1_{{se_stts.custom_mb}} t4scuspx2_{{se_stts.custom_tb}} t4scuspx3_{{se_stts.custom_dk}}{% if se_stts.nav_btn == true %}  t4s-slider-btn-style-{{se_stts.btn_owl}} t4s-slider-btn-{{se_stts.btn_shape}} t4s-slider-btn-{{se_stts.btn_size}} t4s-slider-btn-cl-{{se_stts.btn_cl}} t4s-slider-btn-vi-{{se_stts.btn_vi}} t4s-slider-btn-hidden-mobile-{{se_stts.btn_hidden_mobile}} {% endif %}{% if se_stts.nav_dot %} t4s-dots-style-{{se_stts.dot_owl}} t4s-dots-cl-{{se_stts.dots_cl}} t4s-dots-round-{{se_stts.dots_round}} t4s-dots-hidden-mobile-{{se_stts.dots_hidden_mobile}} {% endif %} flickityt4s" data-flickityt4s-js='{{data_flickityt4s}}'  style="--space-dots: {{se_stts.dots_space}}px;--flickity-btn-pos: 30px;--flickity-btn-pos-mb: 30px;" >
-        {%- for block in arr_blocks_img -%}            
-            {%- liquid  
+        {%- for block in arr_blocks_img -%}
+            {%- liquid
             	assign bk_stts = block.settings
                 assign image_mb = bk_stts.image_mb
                 assign image = bk_stts.image | default:image_mb
-                assign mb_image = image_mb | default: image 
+                assign mb_image = image_mb | default: image
                 if isRunLoop
-                    assign ratio = image.aspect_ratio 
-                    assign ratiomb = mb_image.aspect_ratio 
+                    assign ratio = image.aspect_ratio
+                    assign ratiomb = mb_image.aspect_ratio
                     assign isRunLoop = SetBL
-                endif 
-                assign url = bk_stts.link_img1 
+                endif
+                assign url = bk_stts.link_img1
                 assign open_link = bk_stts.open_link
-                assign bg_content_op = bk_stts.bg_content_op | divided_by: 100.0 
-                assign bg_content = bk_stts.bg_content_cl | color_modify: 'alpha', bg_content_op 
+                assign bg_content_op = bk_stts.bg_content_op | divided_by: 100.0
+                assign bg_content = bk_stts.bg_content_cl | color_modify: 'alpha', bg_content_op
                 assign bg_opacity = bk_stts.bg_opacity | divided_by: 100.0
                 assign bg_overlay = bk_stts.bg_overlay | color_modify: 'alpha', bg_opacity
                 assign br_opacity = bk_stts.br_opacity | divided_by: 100.0
-                assign br_bg = bk_stts.br_bg | color_modify: 'alpha', br_opacity  
-                assign ani_delay = 0   
+                assign br_bg = bk_stts.br_bg | color_modify: 'alpha', br_opacity
+                assign ani_delay = 0
                 assign percent_delay = bk_stts.animation_delay | divided_by: 100.0
-                assign time_ani_delay = bk_stts.time_animation | times: percent_delay           
+                assign time_ani_delay = bk_stts.time_animation | times: percent_delay
             -%}
             <div class="t4s-slideshow-item t4s-col-item t4s-slide t4s_position_{{bk_stts.image_position}}" id="b_{{block.id}}" data-select-flickity {{ block.shopify_attributes }} style="--slide-bg-color:{{bk_stts.cl_img}};">
                 <div class="t4s-slideshow-inner t4s-pr t4s-oh t4s_ratio t4s_ratio_hasmb" {{attr_img}}style="--aspect-ratioapt:{{ratio | default:1.7777 }};--aspect-ratioaptmb:{{ratiomb  | default:1.7777 }};">
                     {% capture class_img %} t4s-slide-{{bk_stts.animate_slide}}{% endcapture %}
-                        {%- if image -%}   
+                        {%- if image -%}
                             {%- if forloop.first -%}
                                 {%- assign class_img_first = 'lazyloadt4s t4s-lz--fadeIn t4s-img-as-bg t4s-d-md-none' | append: class_img -%}
                                 {{ mb_image | image_url: width: 800 | image_tag: class: class_img_first, loading: lazy, widths: '375, 575, 750' }}
@@ -97,9 +97,9 @@
                                 <img class="lazyloadt4s t4s-lz--fadeIn t4s-img-as-bg t4s-d-none t4s-d-md-block t4s-slide-{{bk_stts.animate_slide}}" data-src="{{ image | image_url: width: 1 }}" data-widths="[800, 1000, 1200, 1400, 1600, 1800, 2000, 2200, 2500, 3000, 3400, 3800, 4100]" data-optimumx="1.5" data-sizes="auto" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="{{ image.width }}" height="{{ image.height }}" alt="{{ image.alt | escape }}">
                                 <span class="lazyloadt4s-loader is-bg-img t4s-d-none t4s-d-md-block" style="background: url({{ image | image_url: width: 1 }})"></span>
                             {%- endif -%}
-                        {%- else -%} 
+                        {%- else -%}
                         {%- capture current -%}{% cycle 1, 2 %}{%- endcapture -%}
-                            {{ 'lifestyle-' | append: current | placeholder_svg_tag: 't4s-placeholder-svg t4s-svg-bg1' }}  
+                            {{ 'lifestyle-' | append: current | placeholder_svg_tag: 't4s-placeholder-svg t4s-svg-bg1' }}
                         {%- endif -%}
 
                         {%- capture append_bg_content_style -%}--bg-content:{{bg_content}};--content-pd:{{bk_stts.content_pd_tb}}px {{bk_stts.content_pd_lr}}px;--content-pd-mb:{{bk_stts.content_pd_tb_mb}}px {{bk_stts.content_pd_lr_mb}}px;{%- endcapture -%}
@@ -107,8 +107,8 @@
                             {%- capture append_bg_border_style -%}--br-color:{{bk_stts.br_color}};--br-style:{{bk_stts.br_style}};--br-pd:{{bk_stts.br_pd}}px;--br-pd-mb:{{bk_stts.br_pd_mb}}px;--border-bg:{{br_bg}};{%- endcapture -%}
                         {%- endif -%}
                         <div class="t4s-content-wrap t4s-pe-none t4s-full-width-link t4s-z-100">
-                            <div class="t4s-content-position t4s-{{bk_stts.content_width}} t4s-pa t4s-text-md-{{bk_stts.text_align}} t4s-text-{{bk_stts.text_align_mb}} t4s-bg-content-true t4s-br-content-{{bk_stts.border_bl}} t4s-br-style-{{bk_stts.br_style}}" style="--time-animation:{{bk_stts.time_animation}}s;{%- render 'position_content',ch_pos:bk_stts.ch_pos,cv_pos:bk_stts.cv_pos,ch_pos_mb:bk_stts.ch_pos_mb,cv_pos_mb:bk_stts.cv_pos_mb,append_bg_content_style:append_bg_content_style,append_bg_border_style:append_bg_border_style -%};">  
-                                {%- for block in se_blocks offset:index -%} 
+                            <div class="t4s-content-position t4s-{{bk_stts.content_width}} t4s-pa t4s-text-md-{{bk_stts.text_align}} t4s-text-{{bk_stts.text_align_mb}} t4s-bg-content-true t4s-br-content-{{bk_stts.border_bl}} t4s-br-style-{{bk_stts.br_style}}" style="--time-animation:{{bk_stts.time_animation}}s;{%- render 'position_content',ch_pos:bk_stts.ch_pos,cv_pos:bk_stts.cv_pos,ch_pos_mb:bk_stts.ch_pos_mb,cv_pos_mb:bk_stts.cv_pos_mb,append_bg_content_style:append_bg_content_style,append_bg_border_style:append_bg_border_style -%};">
+                                {%- for block in se_blocks offset:index -%}
                                     {%- assign index = index|plus:1 -%}
                                     {%- assign bk_stts = block.settings -%}
                                     {%- if block.type == 'image_parent' -%}{% break %}{%-endif-%}
@@ -159,8 +159,8 @@
                 </div>
             </div>
         {%- endfor -%}
-    </div>  
-    {{-html_layout[1]-}} 
+    </div>
+    {{-html_layout[1]-}}
 </div>
 {%- if general_block -%}
     {{ 'general-block.css' | asset_url | stylesheet_tag }}
@@ -172,7 +172,7 @@
 {%- if use_animation -%}
     <link href="{{ 't4s-animation.css' | asset_url }}" rel="stylesheet" media="print" onload="this.media='all'">
 {%- endif -%}
-{%- if countdown -%} 
+{%- if countdown -%}
     {{ 'countdown.css' | asset_url | stylesheet_tag }}
     <template id="countdown-{{sid}}">
         <span class="countdown-days">
@@ -180,15 +180,15 @@
             <span class="cd_txtt4 cd-text">%!D:{{"sections.countdown_text.day" | t}},{{"sections.countdown_text.day_plural" | t}};</span>
         </span>
         <span class="countdown-hours">
-            <span class="cd_timet4 cd-number">%H</span> 
+            <span class="cd_timet4 cd-number">%H</span>
             <span class="cd_txtt4 cd-text">%!H:{{"sections.countdown_text.hr" | t}},{{"sections.countdown_text.hr_plural" | t}};</span>
         </span>
         <span class="countdown-min">
-            <span class="cd_timet4 cd-number">%M</span> 
+            <span class="cd_timet4 cd-number">%M</span>
             <span class="cd_txtt4 cd-text">%!M:{{"sections.countdown_text.min" | t}},{{"sections.countdown_text.min_plural" | t}};</span>
         </span>
         <span class="countdown-sec">
-            <span class="cd_timet4 cd-number">%S</span> 
+            <span class="cd_timet4 cd-number">%S</span>
             <span class="cd_txtt4 cd-text">%!S:{{"sections.countdown_text.sec" | t}},{{"sections.countdown_text.sec_plural" | t}};</span>
         </span>
     </template>
@@ -250,7 +250,7 @@
             "id": "height_mb",
             "label": "Section height (Mobile)",
             "default": 250
-        }, 
+        },
         {
             "type":"header",
             "content":"+ Options for carousel layout"
@@ -582,12 +582,12 @@
             "default":false,
             "info": "If you want custom style for this section."
         },
-        { 
+        {
             "id": "code_cus_css",
             "type": "textarea",
             "label": "Code custom css",
             "info": "Use selector .SectionID to style css"
-            
+
           }
     ],
     "blocks":[
@@ -652,7 +652,7 @@
                     ],
                     "label": "Image position",
                     "default": "8"
-                },    
+                },
                 {
                     "type": "color",
                     "id": "cl_img",
@@ -716,7 +716,7 @@
                             "value":"translate-to-bottom"
                         }
                     ]
-                }, 
+                },
                 {"type": "paragraph","content": "————————————————"},
                 {
                     "type":"select",
@@ -868,21 +868,21 @@
                     "id": "content_pd_tb",
                     "label": "Content padding top/bottom (px)",
                     "default":15,
-                    "info":"Working on the Desktop"   
+                    "info":"Working on the Desktop"
                 },
                 {
                     "type": "number",
                     "id": "content_pd_lr",
                     "label": "Content padding left/right (px)",
                     "default":15,
-                    "info":"Working on the Desktop"   
+                    "info":"Working on the Desktop"
                 },
                 {
                     "type": "number",
                     "id": "content_pd_tb_mb",
                     "label": "Content padding top/bottom (px)",
                     "default":10,
-                    "info":"Working on the Mobile"    
+                    "info":"Working on the Mobile"
                 },
                 {
                     "type": "number",
@@ -989,7 +989,7 @@
                     "unit":"%",
                     "default":40,
                     "info":"Defines the number of time to wait when the animation previous end, before the animation next will start."
-                }  
+                }
             ]
         },
         {
@@ -1058,7 +1058,7 @@
                     "step":1,
                     "default":0,
                     "unit":"px",
-                    "info":"Set is '0' use to default"            
+                    "info":"Set is '0' use to default"
                 },
                 {
                     "type":"range",
@@ -1126,7 +1126,7 @@
                     "step":1,
                     "default":0,
                     "unit":"px",
-                    "info":"Set is '0' use to default"            
+                    "info":"Set is '0' use to default"
                 },
                 {
                     "type":"range",
@@ -2391,7 +2391,7 @@
                     ]
                 }
             ]
-        },  
+        },
         {
             "type": "space_html",
             "name": "Space HTML",
@@ -2628,7 +2628,7 @@
                     "settings":{
                         "text_align":"start"
                     }
-                    
+
                 },
                 {
                     "type":"custom_text",
@@ -2662,7 +2662,7 @@
                     "settings":{
                         "text_align":"start"
                     }
-                    
+
                 },
                 {
                     "type":"custom_text",

@@ -39,7 +39,6 @@ endif -%}
   endif  -%}<script>                                                                                                       
 window.onload = function() {
     var searchCanvas = document.querySelector('header');
-  console.log(searchCanvas)
     if (searchCanvas && !window._usfInstantSearchInited) {
         searchCanvas.addEventListener("mouseenter", function() {
             if (window._usfInstantSearchInited)
@@ -56,6 +55,7 @@ window.onload = function() {
         })
     }
 };
+
 </script>
 <!-- zbanx header config start -->
 <script type="text/javascript">

@@ -227,7 +227,12 @@
           {%- for link in llists -%}<a href="{{ link.url }}">{%- render 'title_menu2',title:link.title -%}</a>{%- endfor -%}
          </div>
       {%- when 'html' -%}
-        <div id="bk_{{block.id}}" class="type_mn_html t4s-menu-item t4s-sub-column-item t4s-col-{{bk_stts.col}} t4s-col-item" {{ block.shopify_attributes }}>{{- bk_stts.html -}}{% if bk_stts.page != blank %}{{pages[bk_stts.page].content}}{% endif -%}
+        <div id="bk_{{block.id}}" class="type_mn_html t4s-menu-item t4s-sub-column-item t4s-col-{{bk_stts.col}} ug-mega-menu-wrap" {{ block.shopify_attributes }}>{{- bk_stts.html -}}{% if bk_stts.page != blank %}{{pages[bk_stts.page].content}}{% endif -%}
+        <style>
+          .ug-mega-menu-wrap {
+            position: initial !important;
+          }
+        </style>   {% comment %}{% render 'ug-mega-menu' %}{% endcomment %}
         </div>
       {%- when 'blogs' -%}
         {{ 'blog.css' | asset_url | stylesheet_tag }}
@@ -235,6 +240,7 @@
         {%-liquid
           assign layout_des = bk_stts.layout_des
           if bk_stts.btn_owl == "outline"
+            assign arrow_icon = 1
             assign arrow_icon = 1
           else
             assign arrow_icon = 2
