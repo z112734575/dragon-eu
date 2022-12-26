@@ -685,6 +685,7 @@
           },
           "01924df3-a82c-4cbe-9111-6f2932b314af": {
             "type": "drop",
+            "disabled": true,
             "settings": {
               "title": "X-Mas",
               "url": "shopify:\/\/pages\/new-christmas",
@@ -1682,6 +1683,7 @@
           },
           "c29a9b68-4239-4e8c-bdcc-d598dd95b6f4": {
             "type": "menu",
+            "disabled": true,
             "settings": {
               "title": "X-Mas",
               "url": "shopify:\/\/pages\/new-christmas",
