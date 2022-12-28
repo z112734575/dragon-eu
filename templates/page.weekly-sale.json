@@ -1,66 +1,136 @@
 {
   "sections": {
-    "heading": {
-      "type": "heading-template",
+    "87a50766-3bfb-422d-bf0d-5c050a08a430": {
+      "type": "ug_WeeklySale_banner",
       "settings": {
-        "use_specify_image": true,
-        "parallax": false,
-        "color": "#000000",
-        "overlay": 54,
-        "padding": 50,
-        "paddingmb": 50,
-        "mg_b": 50,
-        "mg_bmb": 50,
+        "mobile_image": "shopify:\/\/shop_images\/banner__2x_de3ccc60-f1a8-4b57-b6af-abe0f2d5ed2f.png",
+        "pc_image": "shopify:\/\/shop_images\/banner_PC_1x_f44bfd56-59a4-43ec-8eed-967aaec0f859.png"
+      }
+    },
+    "57eeaa86-f63e-43f4-8ffb-5e4aa361f6c0": {
+      "type": "countdown",
+      "settings": {
+        "design_heading": "1",
+        "heading_align": "t4s-text-center",
+        "top_heading": "Limited-Time Offers",
+        "icon_heading": "las la-gem",
+        "top_subheading": "",
+        "tophead_mb": 0,
+        "date": "2022\/12\/29",
+        "cdt_des": "1",
+        "cdt_size": "small",
+        "box_bdr": 0,
+        "bd_width": 0,
+        "space_item": 28,
+        "number_cl": "#ffffff",
+        "text_cl": "#000000",
+        "border_cl": "#000000",
+        "bg_cl": "#000000",
         "content_align": "t4s-text-center",
-        "bg_pos": "center center",
-        "bg_repeat": "no-repeat",
-        "bg_size": "cover",
-        "use_cus_css": false,
-        "code_cus_css": ".SectionID {\nbackground-color:red\n}"
-      }
-    },
-    "main": {
-      "type": "main-page",
-      "settings": {
         "layout": "t4s-container-wrap",
-        "cl_bg": "",
+        "cl_bg": "#f5f5f7",
         "cl_bg_gradient": "",
-        "mg": "60px,,60px,",
+        "mg": "",
         "pd": "",
-        "mg_mb": ",,30px,",
-        "pd_mb": ""
+        "mg_mb": "",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
       }
     },
-    "sidebar-page": {
-      "type": "sidebar-page",
-      "disabled": true,
-      "blocks": {
-        "f69681ed-b75e-42de-be58-fdf73b3b7e08": {
-          "type": "blog_cate",
-          "settings": {
-            "title": "Blog categories",
-            "cat_link_list": "",
-            "count": true
-          }
-        }
-      },
-      "block_order": [
-        "f69681ed-b75e-42de-be58-fdf73b3b7e08"
-      ],
+    "3f6a7717-f3c7-4aa0-a5fb-39d653cacfd7": {
+      "type": "ug_WeeklySlae_products",
       "settings": {
-        "enable_drawer": false,
-        "space": 50,
-        "size": "medium",
-        "br_style": "none",
-        "brcolor": "#222222",
-        "sidebar_bdr": 5,
-        "sidebar_pd": 10
+        "product_list": [
+          "black-friday-product-hard-driver-enclosure-2",
+          "black-friday-product-hard-drive-enclosures",
+          "black-friday-product-enclosure",
+          "black-friday-product-docking-station",
+          "black-friday-product-charging-station-2",
+          "black-friday-product-charging-station",
+          "black-friday-product-charger-1",
+          "black-friday-product-charger-5",
+          "black-friday-product-charger-4"
+        ],
+        "box_title": "UP To 30% Off",
+        "product_list1": [
+          "ugreen-69w-usb-c-car-charger-usb-c-to-lightning-cable",
+          "black-friday-product-car-charger",
+          "black-friday-product-car-charger-2",
+          "black-friday-product-car-charger-3",
+          "copy-of-ugreen-usb-c-pd-20w-qc-18w-fast-car-charger-adapter",
+          "black-friday-product-charger-9",
+          "black-friday-product-wireless-charger",
+          "black-friday-product-wireless-charging-station",
+          "christmas-discount-wireless-charging-station",
+          "christmas-special-offer-car-charger",
+          "ugreen-130w-usb-c-car-charger",
+          "ugreen-15w-fast-wireless-charger"
+        ],
+        "product_list2": [
+          "ugreen-69w-usb-c-car-charger-usb-c-to-lightning-cable",
+          "ugreen-20w-charger-usb-c-to-lightning-charging-cable",
+          "ugreen-30w-usb-c-charger-usb-c-to-micro-usb-cable",
+          "30w-usb-c-charger-mfi-usb-c-to-lightning-cable",
+          "30w-usb-c-charger-usb-c-to-lightning-cable",
+          "ugreen-30w-usb-c-gan-charger-usb-c-to-lightning-cable",
+          "black-friday-product-cable",
+          "black-friday-product-charger-1",
+          "black-friday-product-switch",
+          "black-friday-product-charger-7",
+          "black-friday-product-wireless-charging-station",
+          "christmas-discount-wireless-charging-station"
+        ],
+        "product_list3": [
+          "black-friday-product-hub",
+          "black-friday-product-hub-2",
+          "black-friday-product-hub-4",
+          "black-friday-product-hub-5",
+          "black-friday-product-hub-6",
+          "deal-ugreen-10-in-1-usb-c-hub-with-4k-hdmi-vga-1gbps-ethernet-100w-pd-3-usb-3-0-port-sd-tf-card-slot-and-3-5mm-audio",
+          "ugreen-4-in-1-usb-3-0-hub",
+          "ugreen-4-in-1-usb-3-0-hub-4k-hdmi-cable",
+          "ugreen-4-in-1-usb-3-0-hub-4k-hdmi-2-0-cable",
+          "ugreen-4-in-1-usb-c-hub",
+          "4-ports-powered-usb-3-0-hub",
+          "4-ports-usb-3-0-hub"
+        ],
+        "product_list4": [
+          "black-friday-product-phone-stand",
+          "black-friday-product-tablet-stand",
+          "black-friday-product-tablet-stand-2",
+          "christmas-special-offer-stand",
+          "adjustable-aluminum-phone-holder",
+          "adjustable-desktop-cell-phone-stand",
+          "ugreen-cell-phone-stand-for-desk",
+          "ugreen-foldable-cell-phone-stand",
+          "ugreen-height-adjustable-phone-stand",
+          "lazy-arm-tablet-holder",
+          "multi-angle-desk-tablet-stand",
+          "cell-phone-stand-holder"
+        ],
+        "product_list5": [
+          "black-friday-product-docking-station",
+          "christmas-special-discount-docking-station-13-in-1",
+          "ugreen-2-bay-raid-enclosure",
+          "ugreen-usb-c-laptop-docking-station",
+          "7-in-1-multiport-adapter-with-4k-60hz",
+          "ugreen-usb-c-triple-display-docking-station"
+        ],
+        "product_list6": [
+          "ugreen-headphone-extension-cable",
+          "ugreen-headphone-splitter-1",
+          "hitune-t3-anc-wireless-earbuds",
+          "bluetooth-5-0-hitune-earbuds",
+          "hitune-x6-anc-wireless-earbuds",
+          "ugreen-usb-c-to-3-5mm-audio-headphone-jack-adapter"
+        ]
       }
     }
   },
   "order": [
-    "heading",
-    "main",
-    "sidebar-page"
+    "87a50766-3bfb-422d-bf0d-5c050a08a430",
+    "57eeaa86-f63e-43f4-8ffb-5e4aa361f6c0",
+    "3f6a7717-f3c7-4aa0-a5fb-39d653cacfd7"
   ]
 }
