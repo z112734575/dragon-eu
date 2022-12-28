@@ -26,25 +26,30 @@
 							{% else %}
 							<p class="product_prie">{{ product.price | money }}</p>
 							{% endif %}
-							<div class="product_review">
-                              {%- case app_review -%}            
+							
+                            <div class="t4s-product__price-review" style="--price-size:{{bk_stts.size_price_pr}}px;--price-weight:{{bk_stts.fw_price_pr}};--price-color:{{bk_stts.price_color}};--price-sale-color:{{bk_stts.price_sale_color}};">
+                              {%- render 'product-price-single', variant: current_variant, product:product, PR_no_pick:PR_no_pick, type_sale:bk_stts.type_sale, price_varies_style:bk_stts.price -%}
+                              {%- if bk_stts.rating -%}
+                              {%- assign pid = product.id -%}
+                              <a href="#{{idTabReview}}" data-go-id="#{{idTabReview}}" class="t4s-product__review t4s-d-inline-block">
+                                {%- case settings.app_review -%}
                                 {%- when '1' -%}
-                                   <div class="shopify-product-reviews-badge t4s-grid-rating" data-id="{{ product.id }}"></div>
+                                <span class="shopify-product-reviews-badge" data-id="{{ pid }}"></span>
                                 {%- when '2' -%}
-                                   <div class="ryviu-collection t4s-grid-rating"><ryviu-widget-total collection=1 reviews_data="{{product.metafields.ryviu.product_reviews_info  | escape  }}" product_id="{{product.id}}" handle="{{product.handle}}"></ryviu-widget-total></div>  
+                                <div class="review-widget"><ryviu-widget-total reviews_data="{{pr_metafields.ryviu.product_reviews_info  | escape  }}" product_id="{{pid}}" handle="{{product.handle}}"></ryviu-widget-total></div>
                                 {%- when '3' -%}
-                                   <div product-id="{{ product.id }}" class="arv-collection arv-collection--{{ product.id }} t4s-grid-rating"></div>
+                                <div product-id="{{ pid }}" class="alr-display-review-badge"></div>
                                 {%- when '4' -%}
-                                   <div class="loox-rating t4s-grid-rating" data-id="{{ product.id }}" data-rating="{{ product.metafields.loox.avg_rating }}" data-raters="{{ product.metafields.loox.num_reviews }}"></div>
+                                <div class="loox-rating" data-id="{{ pid }}" data-rating="{{ pr_metafields.loox.avg_rating }}" data-raters="{{ pr_metafields.loox.num_reviews }}"></div>
                                 {%- when '5' -%}
-                                    {%- capture the_snippet_review_avg %}{% render 'ssw-widget-avg-rate-listing', product:product %}{% endcapture -%}
-                                    {%- unless the_snippet_review_avg contains 'Liquid error' -%}{{ the_snippet_review_avg }}{%- endunless -%}
+                                {%- capture the_snippet_review_avg %}{% render 'ssw-widget-avg-rate-profile' %}{% endcapture -%}
+                                {%- unless the_snippet_review_avg contains 'Liquid error' %}{{ the_snippet_review_avg }}{% endunless -%}
                                 {%- when '7' -%}{{ product.metafields.judgeme.badge }}
-                                {%- when '8' -%}
-                                  <div class="scm-reviews-rate t4s-grid-rating" data-rate-version2={{ product.metafields.scm_review_importer.reviewsData.reviewCountInfo | json }} data-product-id= {{ product.id }}></div>
                                 {%- else -%}
-                                  <div class="t4s-grid-rating t4s-review__grid-other">{%- render 'review_grid_other',product:product -%}</div>
-                            {%- endcase -%}
+                                <div class="t4s-pr_rating t4s-review_pr_other">{{bk_stts.review_liquid}}</div>
+                                {%- endcase -%}
+                              </a>
+                              {%- endif -%}
                             </div>
 						</div>
 					</div>
