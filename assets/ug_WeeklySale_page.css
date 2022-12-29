@@ -586,6 +586,7 @@
 		font-size: 4.8vw;
 		order: 2;
 		margin-top: 2.133vw;
+		line-height: 4.8vw;
 	}
 	.limited_off .off_list_box .product_prie span{
 		font-size: 3.2vw;
@@ -615,14 +616,14 @@
 	}
 	.limited_off .off_list_box .product_sale p{
 		font-weight: 500;
-    	font-size: 4.267vw;
-    	line-height: 11vw;
+	  font-size: 4.267vw;
+	  line-height: 11vw;
 	}
 	.limited_off_rights{
 		display: flex;
-        flex-wrap: wrap;
-        justify-content: space-evenly;
-        padding: 0 2.133vw 4.133vw 2.133vw;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 0 2.133vw 4.133vw 2.133vw;
 	}
 	.limited_off_rights li{
 		width: calc(33.33% - 2.133vw);
@@ -630,6 +631,6 @@
 		margin: 1.067vw;
 		font-size: 3.2vw;
 		border-radius: 1.6vw;
-		line-height: 3.2vw;
+		line-height: 3.5vw;
 	}
 }
