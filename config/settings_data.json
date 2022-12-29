@@ -688,7 +688,7 @@
             "disabled": true,
             "settings": {
               "title": "X-Mas",
-              "url": "shopify:\/\/pages\/new-christmas",
+              "url": "shopify:\/\/pages\/new-year",
               "open_link": "_self",
               "menu": "",
               "icon": "",
@@ -1686,7 +1686,7 @@
             "disabled": true,
             "settings": {
               "title": "X-Mas",
-              "url": "shopify:\/\/pages\/new-christmas",
+              "url": "shopify:\/\/pages\/new-year",
               "open_link": "_self",
               "menu": "",
               "icon": "",
