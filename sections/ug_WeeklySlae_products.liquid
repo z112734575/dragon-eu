@@ -27,7 +27,9 @@
 							<p class="product_prie">{{ product.price | money }}</p>
 							{% endif %}
 							<div class="product_review">
-                              <div class="loox-rating" data-id="{{ product.id }}" data-rating="{{ product.metafields.loox.avg_rating }}" data-raters="{{ product.metafields.loox.num_reviews }}"></div>
+                              <a href="#looxReviews">
+                                <div class="loox-rating" data-id="{{ product.id }}" data-rating="{{ product.metafields.loox.avg_rating }}" data-raters="{{ product.metafields.loox.num_reviews }}" style="margin-top:15px"></div>
+                              </a>
                             </div>
 						</div>
 					</div>
