@@ -3,8 +3,8 @@
     "319fa563-e958-41d7-a0b0-0a090f6339cb": {
       "type": "christmas_banner",
       "settings": {
-        "mobile_image": "shopify:\/\/shop_images\/750x1160_1.png",
-        "pc_image": "shopify:\/\/shop_images\/1920x700_US_1.png",
+        "mobile_image": "shopify:\/\/shop_images\/en_2.png",
+        "pc_image": "shopify:\/\/shop_images\/en.png",
         "banner_title": "",
         "banner_sub_title": ""
       }
