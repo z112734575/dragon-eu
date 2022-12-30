@@ -31,7 +31,7 @@
     "badge_shape": "2",
     "label_sale_style": "2",
     "use_new_badge": false,
-    "within_cat": false,
+    "within_cat": true,
     "enable_quickview": false,
     "enable_quickshop": true,
     "enable_rating": true,
