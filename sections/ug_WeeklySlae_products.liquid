@@ -73,7 +73,7 @@
 	              {% assign showDiscountBar = compare_at_price | minus: price %}
 	              {% assign discountbar = product.metafields.custom.discountbar.value %}
 	              {% assign discount_sum = discountbar[0] %}
-	              {% assign discount_code = discountbar[2] %}
+	              {% assign discount_code = discountbar[1] %}
 	              {% assign discount_sumM = 100 | minus: discount_sum %}
 	              {% if discount_sum %}
 				<p class="product_prie">{{price|times: discount_sumM | divided_by:10000.0 | round: 2 }}<span>{{ product.price | money }}</span></p>
@@ -114,7 +114,7 @@
 	              {% assign showDiscountBar = compare_at_price | minus: price %}
 	              {% assign discountbar = product.metafields.custom.discountbar.value %}
 	              {% assign discount_sum = discountbar[0] %}
-	              {% assign discount_code = discountbar[2] %}
+	              {% assign discount_code = discountbar[1] %}
 	              {% assign discount_sumM = 100 | minus: discount_sum %}
 	              {% if discount_sum %}
 				<p class="product_prie">{{price|times: discount_sumM | divided_by:10000.0 | round: 2 }}<span>{{ product.price | money }}</span></p>
@@ -155,7 +155,7 @@
 	              {% assign showDiscountBar = compare_at_price | minus: price %}
 	              {% assign discountbar = product.metafields.custom.discountbar.value %}
 	              {% assign discount_sum = discountbar[0] %}
-	              {% assign discount_code = discountbar[2] %}
+	              {% assign discount_code = discountbar[1] %}
 	              {% assign discount_sumM = 100 | minus: discount_sum %}
 	              {% if discount_sum %}
 				<p class="product_prie">{{price|times: discount_sumM | divided_by:10000.0 | round: 2 }}<span>{{ product.price | money }}</span></p>
@@ -196,7 +196,7 @@
 	              {% assign showDiscountBar = compare_at_price | minus: price %}
 	              {% assign discountbar = product.metafields.custom.discountbar.value %}
 	              {% assign discount_sum = discountbar[0] %}
-	              {% assign discount_code = discountbar[2] %}
+	              {% assign discount_code = discountbar[1] %}
 	              {% assign discount_sumM = 100 | minus: discount_sum %}
 	              {% if discount_sum %}
 				<p class="product_prie">{{price|times: discount_sumM | divided_by:10000.0 | round: 2 }}<span>{{ product.price | money }}</span></p>
@@ -237,7 +237,7 @@
 	              {% assign showDiscountBar = compare_at_price | minus: price %}
 	              {% assign discountbar = product.metafields.custom.discountbar.value %}
 	              {% assign discount_sum = discountbar[0] %}
-	              {% assign discount_code = discountbar[2] %}
+	              {% assign discount_code = discountbar[1] %}
 	              {% assign discount_sumM = 100 | minus: discount_sum %}
 	              {% if discount_sum %}
 				<p class="product_prie">{{price|times: discount_sumM | divided_by:10000.0 | round: 2 }}<span>{{ product.price | money }}</span></p>
@@ -278,7 +278,7 @@
 	              {% assign showDiscountBar = compare_at_price | minus: price %}
 	              {% assign discountbar = product.metafields.custom.discountbar.value %}
 	              {% assign discount_sum = discountbar[0] %}
-	              {% assign discount_code = discountbar[2] %}
+	              {% assign discount_code = discountbar[1] %}
 	              {% assign discount_sumM = 100 | minus: discount_sum %}
 	              {% if discount_sum %}
 				<p class="product_prie">{{price|times: discount_sumM | divided_by:10000.0 | round: 2 }}<span>{{ product.price | money }}</span></p>
