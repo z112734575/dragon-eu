@@ -27,7 +27,7 @@
 							<p class="product_prie">{{ product.price | money }}</p>
 							{% endif %}
 							<div class="product_review">
-                              {%- if enable_rating %}{%- render 'product-rating',product:product,app_review:app_review -%}{% endif -%}
+                              {%- render 'product-rating',product:product,app_review:app_review -%}
                             </div>
 						</div>
 					</div>
