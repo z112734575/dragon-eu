@@ -42,7 +42,6 @@
       "type": "ug_WeeklySlae_products",
       "settings": {
         "product_list": [
-          "black-friday-product-hard-driver-enclosure-2",
           "black-friday-product-hard-drive-enclosures",
           "black-friday-product-enclosure",
           "black-friday-product-docking-station",
@@ -50,7 +49,8 @@
           "black-friday-product-charging-station",
           "black-friday-product-charger-1",
           "black-friday-product-charger-5",
-          "black-friday-product-charger-4"
+          "black-friday-product-charger-4",
+          "2-in-1-usb-c-to-3-5mm-adapter"
         ],
         "box_title": "UP To 30% Off",
         "product_list1": [
