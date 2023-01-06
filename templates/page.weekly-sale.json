@@ -9,6 +9,7 @@
     },
     "57eeaa86-f63e-43f4-8ffb-5e4aa361f6c0": {
       "type": "countdown",
+      "disabled": true,
       "settings": {
         "design_heading": "1",
         "heading_align": "t4s-text-center",
@@ -41,6 +42,7 @@
     "3f6a7717-f3c7-4aa0-a5fb-39d653cacfd7": {
       "type": "ug_WeeklySlae_products",
       "settings": {
+        "limited_products_title": "New Releases",
         "product_list": [
           "new-year-bluetooth-5-0-transmitter",
           "ugreen-selfie-stick-tripod-的副本",
