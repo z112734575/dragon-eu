@@ -1,5 +1,6 @@
 <!-- Limited-Time Offers -->
 <div class="limited_products">
+  <h2>{{ section.settings.limited_products_title }}</h2>
 		<div class="limited_products_box">
 			{% for product in section.settings.product_list %}
 			<div class="limited_products_list">
@@ -378,6 +379,11 @@
   {
     "name": "WeeklySale product list",
     "settings": [
+      {
+      "type": "text",
+      "id": "limited_products_title",
+      "label": "Title"
+    },
       {
       "type": "product_list",
       "id": "product_list",

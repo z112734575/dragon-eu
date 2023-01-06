@@ -46,6 +46,13 @@
 	background: #F5F5F7;
 	padding:0 0 6.25vw 0;
 }
+.limited_products h2{
+	font-weight: bold;
+	font-size: 1.875vw;
+	color: #000000;
+	margin-bottom: 1.042vw;
+	text-align: center;
+}
 .t4s-se-countdown{
 	padding: 6.25vw 0 3vw 0;
 }
@@ -443,6 +450,10 @@
 		font-size: 13.333vw;
 	}
 	/*products style*/
+  .limited_products h2{
+		font-size: 6.4vw;
+		margin-bottom: 5.333vw;
+	}
 	.t4s-se-countdown h3{
 		font-size: 6.4vw;
 		padding-bottom: 5.333vw;
