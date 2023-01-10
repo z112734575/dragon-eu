@@ -390,6 +390,7 @@
 	right: 8.229vw;
 	padding: 0;
 	margin: 0;
+	z-index: 10;
 }
 .limited_off_rights li{
 	text-align: center;

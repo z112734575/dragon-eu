@@ -55,10 +55,10 @@
 	<h2>{{ section.settings.box_title }}</h2>
 	<ul class="limited_off_rights">
 		<li class="rights_nav active">Chargers</li>
-		<li class="rights_nav">Cables</li>
 		<li class="rights_nav">Hubs & Adapters</li>
 		<li class="rights_nav">Stands & Protectors</li>
 		<li class="rights_nav">Docking Station</li>
+		<li class="rights_nav">Cables</li>
 		<li class="rights_nav">Earbuds</li>
 	</ul>
 	<div class="off_products_box" id="ug-section1">
@@ -376,21 +376,21 @@
 </script>
 
 {% schema %}
-  {
-    "name": "WeeklySale product list",
-    "settings": [
-      {
+{
+  "name": "WeeklySale product list",
+  "settings": [
+    {
       "type": "text",
       "id": "limited_products_title",
       "label": "Title"
     },
-      {
+    {
       "type": "product_list",
       "id": "product_list",
       "label": "Limited-Time Offers",
       "limit": 9
     },
-      {
+    {
       "type": "text",
       "id": "box_title",
       "label": "Title"
@@ -401,45 +401,46 @@
       "label": "Chargers Products",
       "limit": 12
     },
-      {
+    {
       "type": "product_list",
       "id": "product_list2",
-      "label": "Cables Products",
-      "limit": 12
-    },
-      {
-      "type": "product_list",
-      "id": "product_list3",
       "label": "Hubs & Adapters Products",
       "limit": 12
     },
-      {
+    {
       "type": "product_list",
-      "id": "product_list4",
+      "id": "product_list3",
       "label": "Stands & Protectors Products",
       "limit": 12
     },
-      {
+    {
       "type": "product_list",
-      "id": "product_list5",
+      "id": "product_list4",
       "label": "Docking Station Products",
       "limit": 12
     },
-      {
+    {
+      "type": "product_list",
+      "id": "product_list5",
+      "label": "Cables Products",
+      "limit": 12
+    },
+    {
       "type": "product_list",
       "id": "product_list6",
       "label": "Earbuds Products",
       "limit": 12
     }
-    ],
-     "presets": [
+  ],
+  "presets": [
     {
       "name": "WeeklySale product list"
     }
   ],
-  "templates": ["page"]
-  
-  }
+  "templates": [
+    "page"
+  ]
+}
 {% endschema %}
 
 {% stylesheet %}
