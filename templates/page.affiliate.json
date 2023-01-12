@@ -583,7 +583,7 @@
             "cv_pos": 50,
             "ch_pos": 50,
             "cv_pos_mb": 40,
-            "ch_pos_mb": 0,
+            "ch_pos_mb": 50,
             "bg_overlay": "#000000",
             "bg_opacity": 0,
             "bg_content_cl": "#ffffff",
