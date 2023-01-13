@@ -230,7 +230,7 @@
 	}
 .limited_products .limited_products_list_box .product_sale p span{
 	font-weight: 500;
-	font-size: 0.729vw;
+	font-size: 0.7em;
 	padding-left: 0.104vw;
 }
 /*UP To 30% Off Style*/
@@ -646,5 +646,8 @@
 		font-size: 3.2vw;
 		border-radius: 1.6vw;
 		line-height: 3.5vw;
+	}
+	.ug_WeeklySale_banner .ug_WeeklySale_banner_box .banner_off {
+		margin-top: 52px;
 	}
 }
