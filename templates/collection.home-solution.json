@@ -73,7 +73,7 @@
       ],
       "settings": {
         "title_array": "test1,test2,test3",
-        "product_type_array": "Chargers,Cables，Stands",
+        "product_type_array": "Chargers,Cables,Stands",
         "show_desc": false,
         "position_desc": "2",
         "product_des": "4",
