@@ -562,7 +562,7 @@
           "top-bar-1": {
             "type": "text",
             "settings": {
-              "text": "<p>ANY 2 ITEMS 10% OFF<\/p>",
+              "text": "<p>ANY 2 ITEMS 5% OFF<\/p>",
               "countdown": "2022\/04\/19",
               "txt_day": "days",
               "dayx": 0,
